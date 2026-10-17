@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-10-17T13:15:26Z",
+ "updated_at": "2026-10-17T13:37:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -15,13 +15,13 @@
   "other"
  ],
  "counts": {
-  "flood": 120,
-  "flash_flood": 19,
+  "flood": 121,
+  "flash_flood": 20,
   "storm": 20,
-  "landslide": 8,
+  "landslide": 7,
   "earthquake": 18,
   "wildfire": 2,
-  "drought": 5,
+  "drought": 4,
   "pm25": 3,
   "heat": 2,
   "tsunami": 2,
@@ -55,6 +55,20 @@
    "time": "2026-10-17T12:51:06Z",
    "location": null,
    "id": "d529a3a09e55ec53"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQ2pNaGxDci0zc3lMUG1hMk9WdnBfVFM1SDhvRWJQM3NmOVY1UmdZZnVNZnlHRURCR2dDdFo1X2M3YVZWRlJkN3RRVWtfQXl1bllsX1NVM19TcDVZM0RtVHpyMXF6UlkwNjRCTzNCSVFZNUk?oc=5",
+   "time": "2026-10-17T11:50:57Z",
+   "location": null,
+   "id": "762ee3f8269a071d"
   },
   {
    "title": "กรมอุตุนิยมวิทยา ประกาศฉบับที่ 2 เตือนฝนตกหนักถึงหนักมาก เริ่มพรุ่งนี้ 18-25 ต.ค.69",
@@ -97,20 +111,6 @@
    "time": "2026-10-17T07:30:59Z",
    "location": null,
    "id": "d88fd16bd83dc53a"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbzBXTkRZLTNOUFA3YVBUQmFYcXh4Ung1dl96V0E0SGpkaE5CaHZKRnJaV1pvV0dFN0R5NEU5N0dFZnM1Y0JBWEdZLVNRYXJhX05kVzhfbFAyWWl3MFdtb05MR3lwS3gzYTRuR25wejc4UkMxcHd4bVRHSQ?oc=5",
-   "time": "2026-10-17T06:53:28Z",
-   "location": null,
-   "id": "7331279949d62075"
   },
   {
    "title": "อุตุฯ เตือนฉบับที่ 1 ฝนตกหนักช่วง 18-25 ต.ค. เฝ้าระวังระวังน้ำท่วม น้ำป่า ดินโคลนถล่ม",
@@ -351,6 +351,20 @@
    "id": "c8c021ffa08883bf"
   },
   {
+   "title": "ไทย รับคืนทุ่นสึนามิ จากเมียนมา พร้อมนำเข้าเช็กระยะ ไม่กระทบระบบเตือนภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สว พ. FM 91",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WekRvbjcySjNUZFVjQ2RBeUxLSFZoRFVWM3AyaG1weEtYRkQ3SXdBVExXcFhrMUlYd2dub0JDWEpOY0EwMTBTbDNKMElGQQ?oc=5",
+   "time": "2026-10-16T09:10:47Z",
+   "location": null,
+   "id": "4f866e073763f724"
+  },
+  {
    "title": "หนาวมาช้า 1 สัปดาห์ “กรมอุตุฯ”คาดการณ์ “กรุงเทพฯ” เย็นสุด 19-21°C เตือน “ภาคใต้” รับมือฝนชุก-พายุจ่อถล่ม",
    "summary": "",
    "category": "news",
@@ -377,6 +391,20 @@
    "time": "2026-10-15T17:04:17Z",
    "location": null,
    "id": "d741f16f5e0f9159"
+  },
+  {
+   "title": "น้ำป่าซัดถนนขาด! ชาวบ้านตะเพินคี่กว่า 300 ชีวิตติดบนดอย ขาดแคลนอาหาร-น้ำดื่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVWtZbWZuc0prb1dJM0sxVEx1Z0NXLU9xemlNcDRrdE1yREdhcTM1R3pUd2tDR2VFUmdnMUJQdkQzWTVtcVlJV2ZoU0FEVnM?oc=5",
+   "time": "2026-10-17T13:09:00Z",
+   "location": null,
+   "id": "a6112fc613c48701"
   },
   {
    "title": "ฝนถล่มกรุงเทพ-ปริมณฑลไม่ทันตั้งตัว อ่วมทั่วไทย",
@@ -920,20 +948,6 @@
    "id": "7676772e81860a6e"
   },
   {
-   "title": "รองประธานคณะกรรมการประชาชนประจำจังหวัด เฉา วัน เกือง ตรวจเยี่ยมโครงการแก้ไขปัญหาดินถล่มในตำบลคิมตันและตำบลใกล้เคียง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDczOGFZYXcxbzBFNjZCY3RaT2llcmx1dk14Y1Y2WWtscVV5Nl8zN1RfbWxwcnN0WmxnWVUtWDQzZXJVc0xEYU0xTUhSdnNaTEFCYkpSbmwtY2JBVkw0Xy1mUzF4dmhvcUFHTG5Ndjc0ekRKeDQ3ZnRodEpycXMxdHVFWUtfejJmVkdiSFZnQzJSbWdrMzY0VkVKRTN0TGNCQl9PV2sybFUyOU1za1JFSzE3a1I0Nnp4WWtuZ3BvY2k?oc=5",
-   "time": "2026-10-17T06:16:16Z",
-   "location": null,
-   "id": "ba3673e4cdbeb498"
-  },
-  {
    "title": "ปภ. รายงานน้ำท่วมใน 20 จังหวัด และ กทม. ระดมทรัพยากรลงพื้นที่ให้การช่วยเหลือประชาชน และฟื้นฟูพื้นที่ให้กลับสู่ภาวะปกติโดยเร็ว",
    "summary": "",
    "category": "flooding",
@@ -1359,6 +1373,20 @@
    "id": "395d0078dca9fec5"
   },
   {
+   "title": "“นราเดช” นำทีมเทศบาลเขารูปช้างเปิดศูนย์รับมือภัยพิบัติ เดินหน้าเชิงรุกเร่งระบายน้ำ เตรียมพร้อมช่วยประชาชน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM0dtazlsU2pMbXRIWEE5RkxGZ25aZXJPVWJrYVFvNE1DVnJYN0ItXzRqRFZyTFRYNjg4aHE5cFFJNk4xYjZhaGoyY0FFUDg?oc=5",
+   "time": "2026-10-16T16:16:54Z",
+   "location": null,
+   "id": "166ee1273a72d6a5"
+  },
+  {
    "title": "รองผู้ว่าฯ ปราจีนบุรี สรุปอุทกภัยใหญ่ เสียหาย7อำเภอ 6 แสนครัวเรือน เดือดร้อนหนัก สังเวยชีวิตพุ่ง 26 ศพ",
    "summary": "ปราจีนบุรี รองผู้ว่าฯ ชนาธิป สรุปสถานการณ์อุทกภัยใหญ่ สร้างความเสียหายครอบคลุม 7 อำเภอ เกือบ 6 แสนครัวเรือน เดือดร้อนหนัก สังเวยชีวิตพุ่ง 26 ศพ จมน้ำ-ไฟฟ้าชอร์ต พื้นที่เกษตร จมบาดาล 1 แสนไร่ “ท็อปกัน” บุกตรวจโรงงาน สั่งเชือด 3 แห่ง ข้อหาฝ่าฝืนกฎหมายช่วงวิกฤต 16 ต.ค. 69 – นายชนาธิป โคกมณี รองผู้ว่าราชการจังหวัดปราจีนบุรี รักษาราชการแทน ผู้ว่าราชการจังหวัดปราจีนบุรี ได้เปิดเผยสรุปสถานการณ์อุทกภัยและ",
    "category": "flooding",
@@ -1387,6 +1415,20 @@
    "time": "2026-10-16T16:07:57Z",
    "location": null,
    "id": "0099a1d7a7673900"
+  },
+  {
+   "title": "ทัพเรือภาคที่ 2 ผนึกภาครัฐ-เอกชน 7 หน่วยงาน ระดมอากาศ-บก-ทะเล เตรียมพร้อมรับมือภัยพิบัติภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obDVVYmg5U3dab01Qc0s2ZWV1SDk4cFdZNUNwcWVxb3BfZjJmcl9jdWZpN2t5SHA0aVVTZEppUGU3dXZaV3QzU3llcU1sRE0?oc=5",
+   "time": "2026-10-16T15:50:33Z",
+   "location": null,
+   "id": "4c128b50310c49be"
   },
   {
    "title": "ชลบุรีน้ำท่วมขังซ้ำซาก ฝนหยุดยังรอระบายหลายจุด",
@@ -1449,20 +1491,6 @@
    "area": "จ.พระนครศรีอยุธยา",
    "incident_id": "fr_news_fe17b0ff5173bf876c55",
    "id": "fe17b0ff5173bf87"
-  },
-  {
-   "title": "ไทยรับคืนทุ่นตรวจวัดคลื่นสึนามิ หลังหลุดออกเข้าสู่น่านน้ำเมียนมา ตั้งแต่ต้นเดือน ส.ค.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XQ3luSEJhOEt0M3AwNmVya0NPamlEWEVkbE0zNWxtaVJBa0F0YjRRUFg3cHZZNEt1bGs5NXdndmlIeHh2TUYyYkE4S2xUc29BODBTQ1dQMXRvQQ?oc=5",
-   "time": "2026-10-16T14:49:49Z",
-   "location": null,
-   "id": "bb57381a3f901053"
   },
   {
    "title": "นายกฯ สั่งพักประชุม บกปภ.ช. เปลี่ยนเป็นสแตนด์บายรับสถานการณ์น้ำ ชี้ภาพรวมควบคุมได้ จ่ายเงินเยียวยาน้ำท่วมแล้ว 135,782 ครัวเรือน วงเงิน 1,069 ล้านบาท",
@@ -1548,20 +1576,6 @@
     "precision": "epicentre"
    },
    "id": "fe6e39c386e4d9b0"
-  },
-  {
-   "title": "ภัยพิบัติ...ไม่ใช่เรื่องไกลตัว ซื้อบ้านต้องประเมินความเสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0Y1RlZVFncGxvQ0JzekNuYU5ITlFjdV9uX2IycVlFTlJBSXFhdDFBZnpiQXhYZkZNUTg1UTlJa2dqUkhWT0l2eDloZXdTdzVGQzNwanN1WnBpQ0pKWlNvenVWOGRabldMZ3c?oc=5",
-   "time": "2026-10-16T12:00:00Z",
-   "location": null,
-   "id": "25c5a5832e6076e5"
   },
   {
    "title": "PARLIAMENT: ‘เท้ง’ ลุยขอนแก่น แนะรัฐบาลรื้อระบบบริหารจัดการลุ่มน้ำชี-พอง รับมือน้ำท่วมน้ำแล้งซ้ำซาก พร้อมเร่งรัดโครงการระบายน้ำที่ล่าช้า วันนี้ (16 ต.ค.69) นายณัฐพงษ์ เรืองปัญญาวุฒิ สส.บัญชีรานชื่อ หั",
@@ -1681,20 +1695,6 @@
    "id": "137a00a49ef9ef64"
   },
   {
-   "title": "ชาวบ้านบนเกาะคอนโฮกังวลเกี่ยวกับภัยดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Rd2FmQTRXYXJUMlRYMVlmbGVHRFhueXBNdGl6YTBEZGFIOVpPWTVZZnQ0NmU1MkhzTlhPdEFiVjZqdlpsNHlwTno1VzhuLUZVZ0p4RkhSUHAyalNzaWVaejZDb0ZkVHNxeDdKSDZLcw?oc=5",
-   "time": "2026-10-16T10:49:47Z",
-   "location": null,
-   "id": "f89d8227f5d3325f"
-  },
-  {
    "title": "กทม.ดูแลคน-สัตว์ ฟื้นฟูสุขภาพหลังน้ำท่วม ส่งหน่วยแพทย์ 10 จุด สัตว์อีก 5 เขต",
    "summary": "เมื่อวันที่ 16 ตุลาคม นางสาวทวิดา กมลเวชช รองผู้ว่าราชก […]",
    "category": "flooding",
@@ -1741,20 +1741,6 @@
    "area": "จ.นครสวรรค์",
    "incident_id": "fr_news_c94e99f65b4b304ceb97",
    "id": "c94e99f65b4b304c"
-  },
-  {
-   "title": "กองพลที่ 330 ให้ความช่วยเหลือในการแก้ไขปัญหาดินถล่มที่โรงเรียนอนุบาลอันคู",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFFCazM1OFlveFNHTVdLUTFfbTJoQmd2bFlsMlFqTUNFTEJrRHFUNXFqRjlFT0RkckhadnpyUU0xZjRHYjdKdzdEakN5akZVUGVFMlJYalRDVVpuQ0RFaW5YR2hldnc2Sm93U3hMaG5obXRfbjNNNkRBblJCMUg1MldtQnhpcHdZZzFVcmVwRHU?oc=5",
-   "time": "2026-10-16T10:18:19Z",
-   "location": null,
-   "id": "5a7f78d7852cf296"
   },
   {
    "title": "น้ำป่าไหลหลากท่วม อ.สวนผึ้ง จ.ราชบุรี",
@@ -2107,10 +2093,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UaGlwemx5dDVrckdoYy1tMGZkcWxVbnRVaGttR0ZiN3ZUczJZZ3Q3aTJRNXVJX0szb0VpOXFOTENtWnZySmJaUW1qYXlBSXpnTktSNU5BbGJwNDJpNWFB?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FeGdBVlB5WXFCOXRfN1BWRmtnTlJpY3UxcVQzS3VyZVVGQlJZZDQwQ2RFRTA5V0t2cC1KQk9wQWtiMm9Gd3kwVHZVZExKLU1Xc0VvVWlaR3IyNVdwVVE?oc=5",
    "time": "2026-10-16T07:35:07Z",
    "location": null,
-   "id": "ca3cb649d0bdf4b6"
+   "id": "688db8eefc26b0a1"
   },
   {
    "title": "ตอกเสาเข็มแล้ว! กทม.ตามคืบหน้าก่อสร้าง ‘เขื่อนกันน้ำท่วม’ พระราม 3 ป้องกันน้ำเหนือ-หนุน",
@@ -2497,6 +2483,20 @@
    "area": "กรุงเทพมหานคร",
    "incident_id": "fr_news_de871ce4dcd9d222e516",
    "id": "de871ce4dcd9d222"
+  },
+  {
+   "title": "ปภ. เผยอุทกภัยยังท่วม 20 จังหวัด เร่งช่วยเหลือและฟื้นฟูพื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yUXBlMzJLcmxwZE82eEl2cFk4OHkxMktTQ3kxc1l2VWhlWWZfM0habkVQSWNJcW00ZmdqS29HOC1Db1NfVDFoNk1EMXpBbDhWSlNBc1p2Z2x3cm5mMnhhdnRFVUJURzA0cm9BXw?oc=5",
+   "time": "2026-10-16T05:32:00Z",
+   "location": null,
+   "id": "b45f4a2c7874a6ac"
   },
   {
    "title": "ราชบุรีฝนถล่มแช่! ทะลักท่วมสวนผึ้งกลางดึก แต่วันนี้น้ำลดแล้ว",
