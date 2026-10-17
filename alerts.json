@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-10-17T13:37:47Z",
+ "updated_at": "2026-10-17T13:47:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -15,19 +15,33 @@
   "other"
  ],
  "counts": {
-  "flood": 121,
-  "flash_flood": 20,
-  "storm": 20,
+  "flood": 120,
+  "flash_flood": 19,
+  "storm": 21,
   "landslide": 7,
   "earthquake": 18,
   "wildfire": 2,
-  "drought": 4,
+  "drought": 5,
   "pm25": 3,
   "heat": 2,
   "tsunami": 2,
   "other": 1
  },
  "items": [
+  {
+   "title": "ประกาศกรมอุตุนิยมวิทยา เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย (มีผลกระทบจนถึงวันที่ 18-25 ตุลาคม 2569) ฉบับที่ 2",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Hb1hab3pyWXI1RV9kN3l4Z0NFYWxuNFRjWFR1T0FHNW9USnBCaThaSmx6MHdudC1Wc2YwWTZUV0xlaERPOTl1cGdwZEVmeG13SXlYX2FfekpEQmQtRkcxYXF6R2lJci1Vbi1rR0tYSjdnR0drTVZEVnc0cw?oc=5",
+   "time": "2026-10-17T13:37:41Z",
+   "location": null,
+   "id": "04cf87b5d1dea104"
+  },
   {
    "title": "18–20 ต.ค. ฝนเน้นภาคใต้และภาคตะวันออก ก่อนเพิ่มขึ้นหลายพื้นที่ช่วง 21–25 ต.ค. 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.2 | 17 ต.ค. 2569 เวลา 17.00 น. ช่วงวันที่ 18–25 ต.ค. 2569 ประเทศไทยยังมีฝนตกหนักถึงหนักมากบางพื้นที่ โดยสถานการณ์แบ่งเป็น 2 ช่วงสำคัญ 📅 18–20 ต.ค. | ฝนเน้นภาคใ",
    "summary": "",
@@ -41,34 +55,6 @@
    "time": "2026-10-17T12:52:42Z",
    "location": null,
    "id": "011fecf77cf3e740"
-  },
-  {
-   "title": "ประกาศกรมอุตุนิยมวิทยา เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย (มีผลกระทบจนถึงวันที่ 18-25 ตุลาคม 2569) ฉบับที่ 2",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyNFRMZEdLTnZHQThZS2tKWmw1M0pnelM3UDdlTlprb1JCYlltRlQ0QUxEbjJwZUlGMzQ1MXlCXzdDRUE5enkxa2p1a1U3cFNjVE9ZNktR?oc=5",
-   "time": "2026-10-17T12:51:06Z",
-   "location": null,
-   "id": "d529a3a09e55ec53"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQ2pNaGxDci0zc3lMUG1hMk9WdnBfVFM1SDhvRWJQM3NmOVY1UmdZZnVNZnlHRURCR2dDdFo1X2M3YVZWRlJkN3RRVWtfQXl1bllsX1NVM19TcDVZM0RtVHpyMXF6UlkwNjRCTzNCSVFZNUk?oc=5",
-   "time": "2026-10-17T11:50:57Z",
-   "location": null,
-   "id": "762ee3f8269a071d"
   },
   {
    "title": "กรมอุตุนิยมวิทยา ประกาศฉบับที่ 2 เตือนฝนตกหนักถึงหนักมาก เริ่มพรุ่งนี้ 18-25 ต.ค.69",
@@ -111,6 +97,20 @@
    "time": "2026-10-17T07:30:59Z",
    "location": null,
    "id": "d88fd16bd83dc53a"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbzBXTkRZLTNOUFA3YVBUQmFYcXh4Ung1dl96V0E0SGpkaE5CaHZKRnJaV1pvV0dFN0R5NEU5N0dFZnM1Y0JBWEdZLVNRYXJhX05kVzhfbFAyWWl3MFdtb05MR3lwS3gzYTRuR25wejc4UkMxcHd4bVRHSQ?oc=5",
+   "time": "2026-10-17T06:53:28Z",
+   "location": null,
+   "id": "7331279949d62075"
   },
   {
    "title": "อุตุฯ เตือนฉบับที่ 1 ฝนตกหนักช่วง 18-25 ต.ค. เฝ้าระวังระวังน้ำท่วม น้ำป่า ดินโคลนถล่ม",
@@ -391,6 +391,20 @@
    "time": "2026-10-15T17:04:17Z",
    "location": null,
    "id": "d741f16f5e0f9159"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 18 ต.ค. เตือนภาคใต้ฝนตกหนัก 18-20 ต.ค. ก่อนหลายพื้นที่ฝนเพิ่ม 21-25 ต.ค.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HeEt1dy1GaW8wQ29JczNxc3VhSU9oLUYzM3R5SmRBSlBNNXdVakoyZTBpeUN5SVk4cXNWZU1sajlScG44aUFWOVpza0JMSGhHaGxtVTd2UXR1LWRrVDB5WnBBQV9qa1lnVXdWVHdMVlVyZUFDeVFVRVpoMkc?oc=5",
+   "time": "2026-10-17T13:42:52Z",
+   "location": null,
+   "id": "ddbeb52e5a6e53e3"
   },
   {
    "title": "น้ำป่าซัดถนนขาด! ชาวบ้านตะเพินคี่กว่า 300 ชีวิตติดบนดอย ขาดแคลนอาหาร-น้ำดื่ม",
@@ -826,20 +840,6 @@
    "area": "จ.ราชบุรี",
    "incident_id": "fr_news_c693ec02dce624e93e10",
    "id": "c693ec02dce624e9"
-  },
-  {
-   "title": "สะบ้าย้อย | สิ้นสุดภารกิจค้นหา พบชายวัย 65 ปี หลังน้ำป่าสะบ้าย้อยพัดนาน 4 วัน ร่างติดกิ่งไม้ริมคลอง ห่างจุดเกิดเหตุ 60 กม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "HATYAI FOCUS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiaVNNSmxCSzJBOVBtTUdMOXpneE9TQTlKbjNXWE4yZWRiZXk1X1diRXRNMnFJQkJaTWVfeXRHdTdGOW4tbW5xWUZZY1k3em9sMldkS1FOX0diZw?oc=5",
-   "time": "2026-10-17T07:48:25Z",
-   "location": null,
-   "id": "700ccd6809c38e17"
   },
   {
    "title": "POLITICS: ‘เอกภพ’ สวน ‘ศุภณัฐ’ ให้ข้อมูลงบเยียวยาน้ำท่วมผิด ยัน งบยังมีอีก ขออนุมัติเพิ่มได้ ชี้ เข้าใจอยากได้ซีนได้แสง แต่เช็คข้อมูลบ้าง นพ.เอกภพ เพียรพิเศษ โฆษกประจำสำนักนายกรัฐมนตรี โพสต์ข้อความตอบ",
@@ -1331,6 +1331,20 @@
    "time": "2026-10-17T01:12:00Z",
    "location": null,
    "id": "a2d2cdb0d4214fa1"
+  },
+  {
+   "title": "พื้นที่เพาะปลูกกว่า 500,000 เฮกตาร์มีความเสี่ยงที่จะได้รับผลกระทบจากภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHBoVENIbjlneDZOZVlDMmpqTU1UQUo0RklsSTU0TFNtdThyeXpXUk5xaUNDSkkweERNWTR6Y3NGZXk3M3V5a2ZwdFVMRGMyemFCYWY2dXcyMUJMbFdpal9adUZhUVNzcjVwbGV3b0tQN0sxa29lTGg1d0RTM3RwQmdoVEluczRqWThPMkl2MzlsMWVxNnBkV19GN2RzcW1UNDZV?oc=5",
+   "time": "2026-10-16T23:05:25Z",
+   "location": null,
+   "id": "06bcaf9f5bcddaf9"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.คลองยาง อ.สวรรคโลก จ.สุโขทัย (Tambon Khlong Yang, Amphoe Sawankhalok, Sukhothai)",
@@ -3213,22 +3227,6 @@
    "area": null,
    "incident_id": "fr_news_48d87982b0e79dda0182",
    "id": "48d87982b0e79dda"
-  },
-  {
-   "title": "ปราจีนบุรีผวาจระเข้ไซส์ยักษ์ หลุดโผล่ช่วงน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUHVwWjF4NGxid0txLWRLbS0weHBkX1VUbVEzVUJQVXlVZ3JidnpjZGs1alN0U2E3MWQ1NlcwZFBDdnhxV2hFYkJlcHhCZnVOVmswbXdDY1A3d3JkUHY1RGVLMWxYWWM2dWZYLUhuTkNNOFZ2VHZoVzVEcklEMkl0Y0hTWnNBaWNmRVZsem8xZkZCWmI4VTVoYUx0OGRneUR3VHlEaG9iLUZkQ3lHN1ctMHVNS3pqREdzSjZWNmNxUmVxNkE4RGJfMU8yZ0ctTzM2cS1ERmNiZm5jVXpDaFNqSjgyMTNlbVhfUUR2XzBkMU1DUXQtaUY3LWRPejV0bmVFeVViV2FqUFpQbHVUV2ZtWXFuWW0xZw?oc=5",
-   "time": "2026-10-16T01:32:00Z",
-   "location": null,
-   "area": "จ.ปราจีนบุรี",
-   "incident_id": "fr_news_5a4af9c2994ea51a7522",
-   "id": "5a4af9c2994ea51a"
   }
  ]
 }
