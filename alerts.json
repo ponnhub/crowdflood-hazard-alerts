@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_at": "2026-10-17T13:47:11Z",
+ "updated_at": "2026-10-17T14:08:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -15,13 +15,13 @@
   "other"
  ],
  "counts": {
-  "flood": 120,
-  "flash_flood": 19,
+  "flood": 121,
+  "flash_flood": 20,
   "storm": 21,
-  "landslide": 7,
+  "landslide": 6,
   "earthquake": 18,
   "wildfire": 2,
-  "drought": 5,
+  "drought": 4,
   "pm25": 3,
   "heat": 2,
   "tsunami": 2,
@@ -55,6 +55,20 @@
    "time": "2026-10-17T12:52:42Z",
    "location": null,
    "id": "011fecf77cf3e740"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iQ2pNaGxDci0zc3lMUG1hMk9WdnBfVFM1SDhvRWJQM3NmOVY1UmdZZnVNZnlHRURCR2dDdFo1X2M3YVZWRlJkN3RRVWtfQXl1bllsX1NVM19TcDVZM0RtVHpyMXF6UlkwNjRCTzNCSVFZNUk?oc=5",
+   "time": "2026-10-17T11:50:57Z",
+   "location": null,
+   "id": "762ee3f8269a071d"
   },
   {
    "title": "กรมอุตุนิยมวิทยา ประกาศฉบับที่ 2 เตือนฝนตกหนักถึงหนักมาก เริ่มพรุ่งนี้ 18-25 ต.ค.69",
@@ -97,20 +111,6 @@
    "time": "2026-10-17T07:30:59Z",
    "location": null,
    "id": "d88fd16bd83dc53a"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา ประกาศ เรื่อง ฝนตกหนักถึงหนักมากบริเวณประเทศไทย มีผลกระทบจนถึงวันที่18-25 ตุลาคม 2569 ฉบับที่ 1",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbzBXTkRZLTNOUFA3YVBUQmFYcXh4Ung1dl96V0E0SGpkaE5CaHZKRnJaV1pvV0dFN0R5NEU5N0dFZnM1Y0JBWEdZLVNRYXJhX05kVzhfbFAyWWl3MFdtb05MR3lwS3gzYTRuR25wejc4UkMxcHd4bVRHSQ?oc=5",
-   "time": "2026-10-17T06:53:28Z",
-   "location": null,
-   "id": "7331279949d62075"
   },
   {
    "title": "อุตุฯ เตือนฉบับที่ 1 ฝนตกหนักช่วง 18-25 ต.ค. เฝ้าระวังระวังน้ำท่วม น้ำป่า ดินโคลนถล่ม",
@@ -1333,20 +1333,6 @@
    "id": "a2d2cdb0d4214fa1"
   },
   {
-   "title": "พื้นที่เพาะปลูกกว่า 500,000 เฮกตาร์มีความเสี่ยงที่จะได้รับผลกระทบจากภัยแล้งและการรุกของน้ำเค็ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHBoVENIbjlneDZOZVlDMmpqTU1UQUo0RklsSTU0TFNtdThyeXpXUk5xaUNDSkkweERNWTR6Y3NGZXk3M3V5a2ZwdFVMRGMyemFCYWY2dXcyMUJMbFdpal9adUZhUVNzcjVwbGV3b0tQN0sxa29lTGg1d0RTM3RwQmdoVEluczRqWThPMkl2MzlsMWVxNnBkV19GN2RzcW1UNDZV?oc=5",
-   "time": "2026-10-16T23:05:25Z",
-   "location": null,
-   "id": "06bcaf9f5bcddaf9"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.คลองยาง อ.สวรรคโลก จ.สุโขทัย (Tambon Khlong Yang, Amphoe Sawankhalok, Sukhothai)",
    "summary": "",
    "category": "official",
@@ -1387,20 +1373,6 @@
    "id": "395d0078dca9fec5"
   },
   {
-   "title": "“นราเดช” นำทีมเทศบาลเขารูปช้างเปิดศูนย์รับมือภัยพิบัติ เดินหน้าเชิงรุกเร่งระบายน้ำ เตรียมพร้อมช่วยประชาชน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wM0dtazlsU2pMbXRIWEE5RkxGZ25aZXJPVWJrYVFvNE1DVnJYN0ItXzRqRFZyTFRYNjg4aHE5cFFJNk4xYjZhaGoyY0FFUDg?oc=5",
-   "time": "2026-10-16T16:16:54Z",
-   "location": null,
-   "id": "166ee1273a72d6a5"
-  },
-  {
    "title": "รองผู้ว่าฯ ปราจีนบุรี สรุปอุทกภัยใหญ่ เสียหาย7อำเภอ 6 แสนครัวเรือน เดือดร้อนหนัก สังเวยชีวิตพุ่ง 26 ศพ",
    "summary": "ปราจีนบุรี รองผู้ว่าฯ ชนาธิป สรุปสถานการณ์อุทกภัยใหญ่ สร้างความเสียหายครอบคลุม 7 อำเภอ เกือบ 6 แสนครัวเรือน เดือดร้อนหนัก สังเวยชีวิตพุ่ง 26 ศพ จมน้ำ-ไฟฟ้าชอร์ต พื้นที่เกษตร จมบาดาล 1 แสนไร่ “ท็อปกัน” บุกตรวจโรงงาน สั่งเชือด 3 แห่ง ข้อหาฝ่าฝืนกฎหมายช่วงวิกฤต 16 ต.ค. 69 – นายชนาธิป โคกมณี รองผู้ว่าราชการจังหวัดปราจีนบุรี รักษาราชการแทน ผู้ว่าราชการจังหวัดปราจีนบุรี ได้เปิดเผยสรุปสถานการณ์อุทกภัยและ",
    "category": "flooding",
@@ -1429,20 +1401,6 @@
    "time": "2026-10-16T16:07:57Z",
    "location": null,
    "id": "0099a1d7a7673900"
-  },
-  {
-   "title": "ทัพเรือภาคที่ 2 ผนึกภาครัฐ-เอกชน 7 หน่วยงาน ระดมอากาศ-บก-ทะเล เตรียมพร้อมรับมือภัยพิบัติภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obDVVYmg5U3dab01Qc0s2ZWV1SDk4cFdZNUNwcWVxb3BfZjJmcl9jdWZpN2t5SHA0aVVTZEppUGU3dXZaV3QzU3llcU1sRE0?oc=5",
-   "time": "2026-10-16T15:50:33Z",
-   "location": null,
-   "id": "4c128b50310c49be"
   },
   {
    "title": "ชลบุรีน้ำท่วมขังซ้ำซาก ฝนหยุดยังรอระบายหลายจุด",
@@ -1998,6 +1956,20 @@
    "area": "กรุงเทพมหานคร",
    "incident_id": "fr_rss_4c63582a41b362499e8a",
    "id": "4c63582a41b36249"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | น่าห่วง! กรมธรณี เปิดรายชื่อ 6 จังหวัดเสี่ยงดินถล่ม หลังฝนหนักต่อเนื่อง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42Tm9aSHVKYmdhMDdRRlZlZ0thOGFmNWtlTlB2NFF0dzZfc1IzVjhJbEo3VG9Hc1NkdE5ZZzJ5ZGtVNU44NWFGLTl2VmgtX3F3RVc5QU9wellkN1BZT21SVXlScmc?oc=5",
+   "time": "2026-10-16T08:16:29Z",
+   "location": null,
+   "id": "87b1a0ce5c888cf7"
   },
   {
    "title": "POLITICS: นายกฯ หารือประธาน ADB เห็นพ้องขยายความร่วมมือด้านการรับมือภัยพิบัติ และป้องกันน้ำท่วมอย่างมีประสิทธิภาพ พร้อมหารือแนวทางสนับสนุนโครงการบริหารจัดการน้ำชัยนาท - ป่าสัก - อ่าวไทย เพื่อแก้ไขปัญห",
@@ -3227,6 +3199,38 @@
    "area": null,
    "incident_id": "fr_news_48d87982b0e79dda0182",
    "id": "48d87982b0e79dda"
+  },
+  {
+   "title": "ปราจีนบุรีผวาจระเข้ไซส์ยักษ์ หลุดโผล่ช่วงน้ำท่วม",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUHVwWjF4NGxid0txLWRLbS0weHBkX1VUbVEzVUJQVXlVZ3JidnpjZGs1alN0U2E3MWQ1NlcwZFBDdnhxV2hFYkJlcHhCZnVOVmswbXdDY1A3d3JkUHY1RGVLMWxYWWM2dWZYLUhuTkNNOFZ2VHZoVzVEcklEMkl0Y0hTWnNBaWNmRVZsem8xZkZCWmI4VTVoYUx0OGRneUR3VHlEaG9iLUZkQ3lHN1ctMHVNS3pqREdzSjZWNmNxUmVxNkE4RGJfMU8yZ0ctTzM2cS1ERmNiZm5jVXpDaFNqSjgyMTNlbVhfUUR2XzBkMU1DUXQtaUY3LWRPejV0bmVFeVViV2FqUFpQbHVUV2ZtWXFuWW0xZw?oc=5",
+   "time": "2026-10-16T01:32:00Z",
+   "location": null,
+   "area": "จ.ปราจีนบุรี",
+   "incident_id": "fr_news_5a4af9c2994ea51a7522",
+   "id": "5a4af9c2994ea51a"
+  },
+  {
+   "title": "น้ำป่าซัดถนนเข้า-ออกหมู่บ้านขาด จ.สุพรรณบุรี",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkVk5uV2htakhnN1UxUDZZT0EtazBMVEg1ZjFfR3dSZkVQTVQyWVlEbjFZMXQya2ZBNDgwd2w3dWxqR19XN2xnUVlnZw?oc=5",
+   "time": "2026-10-16T01:22:32Z",
+   "location": null,
+   "area": "จ.สุพรรณบุรี",
+   "incident_id": "fr_news_df3dbbb5225eb8051adb",
+   "id": "df3dbbb5225eb805"
   }
  ]
 }
