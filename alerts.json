@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T23:29:22Z",
+ "updated_at": "2026-11-10T23:46:10Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,10 +17,10 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 12,
+  "flash_flood": 11,
   "storm": 21,
   "landslide": 10,
-  "earthquake": 16,
+  "earthquake": 17,
   "wildfire": 1,
   "drought": 8,
   "pm25": 4,
@@ -413,6 +413,26 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
+   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.สตูล ประมาณ 391 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17417",
+   "time": "2026-11-10T23:05:21Z",
+   "magnitude": 4.5,
+   "location": {
+    "name": "ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
+    "lat": 4.157,
+    "lng": 97.593,
+    "precision": "epicentre"
+   },
+   "id": "16462f87809e8545"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 4.8 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.สตูล ประมาณ 387 กม.",
    "category": "official",
@@ -618,6 +638,20 @@
    "time": "2026-11-10T13:48:34Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
+  },
+  {
+   "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRNTmc2OFNsSzh2TjVFdzVNREFQbVRCZ1dGM25FX3RVelhXenJOd25GZ1lBWGJoU1Rwd1lnODl1V3BnYVd4TmFDUl82bHRkclc0TVhxaGlRbE9sN3NvTEp0QzNmVktpMlBrU2JkdVZrWkdQUW9NX2dWczVocURwdlRZQzIwdU81b0tpUHFKMlJfNkpEOHFKbktacWhNSjhidmRUVXN0VDdDcTltdHZBc0c1TGtldThCMjY1VTJBcU4?oc=5",
+   "time": "2026-11-10T13:14:09Z",
+   "location": null,
+   "id": "92cdce87ec6ed0d2"
   },
   {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
@@ -964,20 +998,6 @@
    "time": "2026-11-10T06:30:00Z",
    "location": null,
    "id": "29cc8bb543968a8e"
-  },
-  {
-   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
-   "time": "2026-11-10T06:28:35Z",
-   "location": null,
-   "id": "570d7d2fe4578700"
   },
   {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
@@ -1663,20 +1683,6 @@
    "time": "2026-11-08T23:46:26Z",
    "location": null,
    "id": "c050d477ccd00bcd"
-  },
-  {
-   "title": "อุตุฯ ประกาศฉบับ 2 ภาคใต้ฝนหนักต่อเนื่อง 9-13 พ.ย. รับมือน้ำท่วม-น้ำป่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waXZRcVlYc0RnRGI5MmpUYllLakFzZE04amxUdE8zMW5aQTJYMmVMbGpsbzRFLUtETzltUjZWTTNGNEpoV1BnUnBsSVJ2R2l6ZGo2M3Z1SWU?oc=5",
-   "time": "2026-11-08T23:32:25Z",
-   "location": null,
-   "id": "e1b22c51e2149cd2"
   }
  ]
 }
