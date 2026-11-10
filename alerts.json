@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T19:43:44Z",
+ "updated_at": "2026-11-10T20:05:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,12 +23,26 @@
   "earthquake": 17,
   "wildfire": 1,
   "drought": 9,
-  "pm25": 2,
+  "pm25": 3,
   "heat": 1,
   "tsunami": 3,
   "other": 1
  },
  "items": [
+  {
+   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
+   "time": "2026-11-10T15:28:38Z",
+   "location": null,
+   "id": "dfae17ed42d7881b"
+  },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
@@ -842,6 +856,31 @@
    "id": "37ad8776040d98cb"
   },
   {
+   "title": "กรุงเทพมหานคร. . 🌫️ สู้ฝุ่น PM2.5 ต้องทำต่อเนื่อง เพราะปัญหานี้ไม่จบในวันเดียว! ฝุ่น PM2.5 เป็นปัญหาที่ต้องอาศัยความร่วมมือจากทุกภาคส่วน กรุงเทพมหานครจึงเดินหน้ามาตรการเชิงรุก เพื่อลดฝุ่นจากแหล่งกำเนิดอย่างเป็นระบบ ทั้ง 4 ด้าน ได้แก่ 🚛 คุมเข้มรถบรรทุกในเขตมลพิษต่ำ (Low E",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxOVUhmaWxKV3lYQVFwVGNoU3daaENLNWRTelk0TmxlMVY3bElRZzlTQVNaS21oeHJ3MnVmR1M0RmEyNjJZWDROQUlTY3ZWR3ZOUkVUako1X0E0YTN5S28xOG1sejZmR1N1NFBRY0Rob2hSbjJVeFBBTnROU1VJUUI5bVZQTE5OdVhQX25IWDI1aXBnbWNtcmFnZm0xQWEyRVBpSEVIYjhPVkdiSC1WaXVPYVVSTFh5RWpOY1BqNVZLaV9Sa1RJcXpBWTVCZ19QN3JCOWMtYlB0bkJRRGFEZzhEaE5sTTkxa25IUDAyV1o5eUx6UDN6eHVXbC1md3RFQ01tal9peEJ4WVF4WnpOZWVSMVlfblY4S3dNTHJXMmt4U1pSU1ZiTlVwOEIxRFh6WXZsaC1lOXFzV1otQmdUdENRUzkxSFp1a0t5ZnpmOUlOMzhJdFE2bWVrOG5lZEM3cnJCU0FFOVliREwzSGtwaUdJdHVtTC1laTBLVzBHTG9IVDRKQ25DRFVTOEVkaVJ4ZkpUb2dmTW5zVFBjRml2OS0tZG5FclJUNFFxY2I5VWpWWW9GTnB1bWdyWlV6bDZOWkRieFJQQ2JYTG0wRmVYbXdaREtNem8yMWR0b3VRQnRwaVFTeGxjbVhvQk1uQnVXZ1MyWGpoSnZjRjh4WWw3RjRYMWF4MTFWU3lHM0c5ak5YRWFCRV9fekN1R0Rvd2ZLSjdVTzhqSGF0UVZxTDkzMHlvS0NINDJuQ0VNM0tmSHBhMnpjWmxLNXJ5LUdDQ2dHTGhWZU1IWDB0b1ZKeEdKTUdjc1dOQkxnbEZrc1Q5a3J5UHc0a0xrejdEdmhxRGhIQ01oM3VuN3c4d01hT1RGdkZlQlBpSE5Eb2Jta29qaC1zOF9MV2pGR2xUb3A4OWk4a2ViN3h1b1lUVG5RVWtKRlREVDVrQXR5cXJjUHFWNDBwVE9BS0k2dlJzZXdqNzU3UDdlSjJFODdRT2Iyall2dWZaUE1EMy1rNklWRFY3dkRlVFo4TkhuaDR6WU9iaG1EMkhzSG95NTF0cEdXOU9abzNHRFY5Y1NUM042Q0xsZjFvWnBqaUVkUU9kNkV1eWtNMU9DZEdzVVIxaTZyOFV2RllFZW5YWTVBcnJwVDlHZ2hWa1k1eUJ4djUwTXJlbnpjNldYdktrdWRHRFdfYkN2OTFFMEZMWk4wbzBqd0pNX0NjUlRKeldoYkNVNg?oc=5",
+   "time": "2026-11-10T08:28:13Z",
+   "location": null,
+   "id": "83569fe47e4e9cc9",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 354 กม.",
    "category": "official",
@@ -959,20 +998,6 @@
    "time": "2026-11-10T06:30:00Z",
    "location": null,
    "id": "29cc8bb543968a8e"
-  },
-  {
-   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
-   "time": "2026-11-10T06:28:35Z",
-   "location": null,
-   "id": "570d7d2fe4578700"
   },
   {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
