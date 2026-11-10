@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T11:46:13Z",
+ "updated_at": "2026-11-10T12:00:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,9 +17,9 @@
  ],
  "counts": {
   "flood": 23,
-  "flash_flood": 11,
-  "storm": 24,
-  "landslide": 11,
+  "flash_flood": 12,
+  "storm": 25,
+  "landslide": 10,
   "earthquake": 20,
   "wildfire": 1,
   "drought": 7,
@@ -438,6 +438,26 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
+   "summary": "ครอบครัว 3 ขวบร้องไห้ระงม ป่วยญาติเรียกเจ้าหน้าที่กู้ชีพรับพาส่งโรงพยาบาลท่ามกลางฝนตกหนัก ไม่ทันถึงรพ.ท่าศาลา รถตู้กู้ชีพเสียหลักลื่นหมุนฟาดต้นไม้ยับ เสียชีวิตพร้อมญาติ เจ้าหน้าที่กู้ชีพด้วยรวม 4 ราย คนขับอาการสาหัส เมื่อเวลา 14.53 น. วันที่ 10 พ.ย.2569 พ.ต.ท.สมชาย มวยดี รอง ผกก.(สอบสวน) สภ.ท่าศาลา จ.นครศรีธรรมราช รับแจ้งอุบัติเหตุรถตู้กู้ชีพเสียหลักชนต้นไม้ริมถนน ขณะนำผู้ป่วยส่ง รพ.ท่าศาลา มีผู้เ",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/around-thailand/news_10467546",
+   "time": "2026-11-10T11:42:17Z",
+   "location": {
+    "name": "อ.ท่าศาลา",
+    "lat": 8.7060315,
+    "lng": 99.8956014,
+    "precision": "district"
+   },
+   "incident_id": "fr_rss_14757629bcdb835289dc",
+   "id": "14757629bcdb8352"
+  },
+  {
    "title": "เตือนฉบับ 5 ฝนตกหนักถึงหนักมากภาคใต้ อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -791,34 +811,6 @@
    "time": "2026-11-10T05:15:49Z",
    "location": null,
    "id": "47d89453b6f136bb"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ทางหลวงหมายเลข 9C ถูกปิดกั้นเนื่องจากดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelJ0bGVMT3hTeW1DcEdRa093ek83Uk4zMW5INjdTWlcwTndvcXlKZmJNQ05UQ2VfbGM1dFFYTXhseGlDMEl0QWhQaWRHU3lQRVFDUmItQ3VQd3NyeHYxVWFTSHR3ZnJBNi14MHNtR2ZyVmh4WTl3N2gwcVF6Rm0ybUxrVQ?oc=5",
-   "time": "2026-11-10T05:09:21Z",
-   "location": null,
-   "id": "3425235d26d25930"
-  },
-  {
-   "title": "น้ำท่วมหนักและดินถล่มทำให้จังหวัดเกียลายต้องปิดโครงการก่อสร้างถนนมูลค่า 156 พันล้านดองเป็นการชั่วคราว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmR5SUJFMVZ3Y0xmOVpNQVBWZ1phd0sxRG51emJHM05WT0JkOFlRbWNjdko4UGZJQndtR2J3ZTUydU9qU184WkF0SHRialZ4YWlwc1ZYYnN5RTNCU2VGYU4zcnJBUTZpY2NzLWtHa1RhX25GX3E1Uy10WVFrN3h2UkxVQTVsS19uOUUwLWxsZ2V2QzFxRGVod21DWWtiVjdaYVE?oc=5",
-   "time": "2026-11-10T04:12:27Z",
-   "location": null,
-   "id": "caa86ab319a0be9d"
   },
   {
    "title": "เช็กสภาพอากาศ! ไทยตอนบนลมแรง กทม.จ่อเย็นลง 1-2 องศา ใต้ฝนตกหนัก",
@@ -1546,6 +1538,20 @@
    "id": "c050d477ccd00bcd"
   },
   {
+   "title": "ใต้ฝนตกหนัก ระวังถึง13พ.ย. ทะลักฉับพลัน ดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZ2UyWnB2NWNMSF9VV1BZOGdHODltSDZsR0haaEVEUjdUZGg0dXBxQlMzTXZTWmt5TzNVUUlkaWtzMHdINzBSQS1Zc0xFRkFROHJtOHBMTkFEanFQZ082OThERnh3bm5TWVd4R3luemI?oc=5",
+   "time": "2026-11-08T23:11:00Z",
+   "location": null,
+   "id": "2fc9a8b13f04b741"
+  },
+  {
    "title": "ภัยพิบัติเขย่าสมดุลธรรมชาติเปิดทางโรคอุบัติใหม่ วิกฤติสุขภาพที่โลกต้องตั้งรับ",
    "summary": "",
    "category": "news",
@@ -1598,6 +1604,20 @@
     "precision": "epicentre"
    },
    "id": "8f5166b815047562"
+  },
+  {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
