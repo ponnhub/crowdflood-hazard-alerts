@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T16:03:00Z",
+ "updated_at": "2026-11-10T16:14:43Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 17,
+  "flood": 16,
   "flash_flood": 12,
-  "storm": 23,
+  "storm": 24,
   "landslide": 9,
   "earthquake": 20,
   "wildfire": 1,
@@ -399,6 +399,20 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "พวกเขาข้ามลำธารที่อันตรายและพาผู้คนไปยังที่ปลอดภัยก่อนที่จะเกิดดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHJTTzNTcDRDZ0xKWFdlaDVsbW5iQkd1WkI0TDR2ejlzRC15WW13WmExcnJXNU1NQ2l1cWJPZFRZTmpCNVdobWtHX0FfTERlY2xSLXU3MDJIUVVrX0lyNTl6UWk2YVZmMzNuMEgxNU0xMk0wOHRYc2FrY3JhaXU3b1oxT0lXbThqQjNRMTJmeThEYkk?oc=5",
+   "time": "2026-11-10T16:07:20Z",
+   "location": null,
+   "id": "e5041924bb63384c"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.4 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -564,6 +578,20 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
+  },
+  {
+   "title": "ปรากฏการณ์เอลนีโญรุนแรง กรุงดงทับเตรียมแผนรับมือภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Q4cmpfSDhXdV9tZGNTQ3NkRHJ2ay1QdC1lNXN2eW1MMjY2WElJa2VoV01mT3l4X0VaOGlTeGY5ZWd5RDdKSmJwWFVuVDlEd3FGUkZrMGNPTGYxbU55Q1gyektOR1RnbllWZ3VvSFpUYmZkUnlXYWN1dVNIb25Mc0tZM2M?oc=5",
+   "time": "2026-11-10T11:23:14Z",
+   "location": null,
+   "id": "d626a5ff2cc9ce4e"
   },
   {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
@@ -760,20 +788,6 @@
    "id": "37ad8776040d98cb"
   },
   {
-   "title": "ฝนตกหนักในจังหวัดกวางตรีส่งผลให้เกิดดินถล่มและน้ำท่วมสะพานหลายแห่ง ทำให้การสัญจรถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN285OVhEZlpucWJfbWJkMExMLTdWMWJhZUhHVHFtLTRPa0hxanF4SlJSM1kxb2Y2TGZDbFF3UWlYdlNrMVdQdjlURVNtWklCNjNsV0l0VHVnVlM0d0RsamxFUkxjUXlmSkdkN0I5czRpbjRxQUpObTNtMWp1QjR5dXNnU2hBbUJKOHA2Y2JyNVprZDJqdHpjazZ3?oc=5",
-   "time": "2026-11-10T08:36:22Z",
-   "location": null,
-   "id": "72dc24266261474f"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 354 กม.",
    "category": "official",
@@ -863,20 +877,6 @@
    },
    "incident_id": "fr_news_7c0bfd250bc892e65eab",
    "id": "7c0bfd250bc892e6"
-  },
-  {
-   "title": "จังหวัดด่งทับพัฒนาแผนรับมือภัยแล้งและดินเค็มระดับสูงสุด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHN3OHh4SVVJSzh2VExwTFVjbmQ3d2x4X2dkRUI4S2NrdU5HNTdKM19DVllSZHJRd0pGUngzYVR5UDBQTmNjZ3pzZjd0V1JWUlFCRG1nampyZkxJT0x0Nzh0YUV4aWhsam1nZXdMWG50Q1NwOHc0bFBqbzExQzhqaUkwbDY?oc=5",
-   "time": "2026-11-10T06:57:14Z",
-   "location": null,
-   "id": "822d84d51eed150f"
   },
   {
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
@@ -1103,18 +1103,18 @@
    "id": "905d512341783b90"
   },
   {
-   "title": "สทนช. เตือน 14 จังหวัดใต้ฝนถล่มระวังน้ำท่วม จับตาแม่น้ำสายหลัก-อ่างเก็บน้ำ",
+   "title": "สภาพอากาศวันนี้ ไทยตอนบนเย็นลง 1-2 องศาเซลเซียส ใต้ฝนตกหนักระวังน้ำท่วม",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
+   "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQ1c2ekFCZ1lkcVU5WkJCX1VXWjJCSk84bklFSEl3NTJmTGdYTzM3Rk9PRVozMzFLNXdaYXd0STcyUTVrSEp3bzUwZ0djX2VFV2pyNw?oc=5",
-   "time": "2026-11-10T00:17:56Z",
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNYmpWd2gzdTRpSGhENVNTMXhDUmRJY3pOb2lwNGV3SUJ3R0d6MkxlT3RJQ3BvdWl0dEtHQk83NVZvWkpneXlhSHBjXzlyczBhcEJSU3V5Y3g?oc=5",
+   "time": "2026-11-09T23:01:49Z",
    "location": null,
-   "id": "fa2eb9a4c231a5a4"
+   "id": "fc5c636497fc0b69"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
