@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T11:16:43Z",
+ "updated_at": "2026-11-10T11:34:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,16 +16,16 @@
   "other"
  ],
  "counts": {
-  "flood": 26,
-  "flash_flood": 13,
-  "storm": 23,
-  "landslide": 9,
-  "earthquake": 21,
+  "flood": 25,
+  "flash_flood": 12,
+  "storm": 24,
+  "landslide": 10,
+  "earthquake": 20,
   "wildfire": 1,
   "drought": 8,
   "pm25": 4,
   "heat": 2,
-  "tsunami": 2,
+  "tsunami": 3,
   "other": 1
  },
  "items": [
@@ -109,7 +109,7 @@
    "official": true,
    "source": "ข่าวภูเก็ต",
    "source_url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxPN1NsQ0ZaWkUzZmJUQ253Z2k0d2cwbVdHRlZYOTRURV9KZlZYM09HdFEyLWxDY2Z4TjBtaEZZN3dhTG9IM2Q0UFduZFJhVWNHeEZHUnJMNlkxYjBOb3VIWExzc1hXeGFja0w0Rk5jdkV2MFFUc1VTbjB6TUV4TjhnQlc5UlhXQVVVZ3RFcEwwbXBFcWZReVNZNTU2NDh3UFg5SUs5eHFKZURVd1liZVVpNXpYQzl1NGpMMEdkSUgtbU9FX2twcWlOemg5bGpfai13Tll4Sk5lVWVXZGlwcXVQWnR2RzJWbUstaGkzWFA2OXc1LU5jYVJ2SUZNbUt1c0haUUhoSXlnd3ljX2NVRDlVX2QyQTVLSlpYMnZKVC0xaTRMOThURmJ2aGhyY3hIN1lqWDRDSHY0SjRweVBuZmhreDQ3THlNQlNmMkloQXl2b0xJOGdCeGt2SFF4SXRuQ2w2OVllajZ5U0xFV013NXJibnpKdGpWYUwzdTl2QTd3Y3VacWFDN1FvSllvS0swZ0REV0N0ODdyODZYdkV1a2w0alhBMzBsQk1BNlQyeTMxcWVhSC1vTWVtMkhaaEx2OGR5Z19zS2g1aDVybjBBNWl2dEV1eWFEYXpVQklNUU1Db3dONmJrLWhUbDFDWnZTYVFJeW1WT1hQMVZiNm45ZEFrc1N4UVVSemxXai13Z2dMRzV1WXpCZ3A0MnNtT2pnVW9DOFZYYmJHQ1dBdjY0RzFyX1NPN192U3FhVk9aY0E5ZlZZUXVuNFJreXdQellVOFNqZGNDTmRRYlVGdmRmaUstNXdLSUdPbDJOR0l0RmhteDFoanc0Zm5FaHpyV3M4NkttTXdmVUJTYnZ5Vzh6SVkxOU83VWlUZW9qcDdzRURnb2lBVm9TNFNHQVBoN0lCTFFCYzMxT3Vwb3hOSGdGa2lJZk1aNWRIMWRoRXJRVVhoN0JaWVppcnBFVy1hSnJLZHZDOGZDN1VFcmVaZXk3?oc=5",
-   "time": "2026-11-10T04:59:18Z",
+   "time": "2026-11-10T05:15:42Z",
    "location": null,
    "id": "877a9392205a5e70"
   },
@@ -126,6 +126,31 @@
    "time": "2026-11-10T03:38:00Z",
    "location": null,
    "id": "a48da4f92f01ca28",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
+  },
+  {
+   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSDEwR29Gblh2VE91MUYtcWVCSGpEcWE2WEtJQnNldEJ6bE9YNU50aF9rTlJISHJrcGZwVjNUV0JkYkNCbUphUHV1ejZGZ21nRENsT1JtdkdMTFN5?oc=5",
+   "time": "2026-11-10T03:20:00Z",
+   "location": null,
+   "id": "32dfc0eb9712a500",
    "area": {
     "code": "TH93",
     "level": "province",
@@ -301,6 +326,20 @@
    "id": "62ce0a2b04cef38b"
   },
   {
+   "title": "ปภ. แจ้งเตือนด่วน! 16 จังหวัด ฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วม 9 - 13 พ.ย. นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สยามนิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45UzZUbThqT1RteXFVZXBGbVhfRUZ4bTdFZEE4TlJ6V1hJdlVVSEdOcU5oNFBJOUVnS3dwRVB5a1V4TTFGSmpqMF9ybTVxaTJRQjZUSERGMA?oc=5",
+   "time": "2026-11-09T04:47:20Z",
+   "location": null,
+   "id": "eeab8ffc51b0941f"
+  },
+  {
    "title": "ปภ. แจ้งเตือน 16 จังหวัด 'ฝนตกหนัก-หนักมาก' เสี่ยงน้ำท่วมฉับพลัน 9 - ปภ. | ฐานเศรษฐกิจ ข่าว",
    "summary": "",
    "category": "news",
@@ -327,20 +366,6 @@
    "time": "2026-11-09T04:19:00Z",
    "location": null,
    "id": "ae4cbc4385818553"
-  },
-  {
-   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69 | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qN0J6bVFkRkMwWl85QVFCbFQ4VU5mTzFMazR0RTlKS0FGWUk4MVBBYkx1cV9RM09wcHgwbURZMjhNck1IcWpEM01veGo4TWUxQjlUeUt3?oc=5",
-   "time": "2026-11-09T03:58:16Z",
-   "location": null,
-   "id": "a6030bcd91cd952d"
   },
   {
    "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
@@ -822,20 +847,6 @@
    "id": "e10d3939538aba89"
   },
   {
-   "title": "Gia Lai เตรียมพร้อมรับมือกับความเสี่ยงจากภัยแล้งและการขาดแคลนน้ำอันเนื่องมาจากปรากฏการณ์เอลนีโญในปี 2026-2027 อย่างเป็นเชิงรุก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzIxb055MGhLQ0EtWUVTTDRBR3ZKaHZQUHZON01pWnpBLURIUHVwcTlsblc1TEJ5em5QdmFpV0VyVFAtcjV3NzJqUTd5TE11dkNSdTRSMWJwZU9ESExTTkRZejJBV055Vkw4dVBLeE5PYW9kaHBOc3Z3M01uRVpOWFVVOFk5Wk5GOEh0b0hORjVVanFTTVY5OEUzM2djdDhnYkE1ZQ?oc=5",
-   "time": "2026-11-10T02:17:34Z",
-   "location": null,
-   "id": "9efb77d2387c65bf"
-  },
-  {
    "title": "คพ. ลงพื้นที่ตรวจสอบแม่น้ำปราจีนบุรีเน่าเสีย-ปลาลอยคอ คาดสาเหตุน้ำหลากพัดซากพืชเน่าสะสม เผยค่าออกซิเจนจุดรับน้ำต่ำวิกฤต",
    "summary": "",
    "category": "flooding",
@@ -1048,6 +1059,20 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
@@ -1437,6 +1462,20 @@
    },
    "incident_id": "fr_news_aa787350249d014c74d4",
    "id": "aa787350249d014c"
+  },
+  {
+   "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcUJ6Rm5lQTVFTzNyOTA3Q3pMM1ZvMEVGMV9PcnBvS1FUNVBkTWxLS1NRbzRVV19McEhWZkN4N2hJc296Z1FHeUc3Ty1CeDc0Mzg4?oc=5",
+   "time": "2026-11-09T00:42:04Z",
+   "location": null,
+   "id": "66f32ee0921376a0"
   },
   {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
@@ -1994,46 +2033,6 @@
    "time": "2026-11-08T11:38:27Z",
    "location": null,
    "id": "05ffd4a0e0cb420a"
-  },
-  {
-   "title": "เหตุแผ่นดินไหว 5.7 ที่ญี่ปุ่น บาดเจ็บกว่า 20 คน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KbFRKQXMtZVNHQUtGbGdrZi1MeXlVVS1WUlBnUnBENXpVRDdVMzBaVlF4ZERzWFNzd3F1eXR6anJEV2Vra2ZN?oc=5",
-   "time": "2026-11-08T11:33:07Z",
-   "location": null,
-   "id": "9194491a602d37dd"
-  },
-  {
-   "title": "กทม.เร่งแก้น้ำท่วมลาดกระบัง 3 ระยะ ตั้งเป้าลดเสียหาย 80% - กรุงเทพมหานคร | กทม. ข่าว",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SZW1vcmxyWllwRlVpX0t6SkM4cFlJVjJrbjJkN3hHVjhqSTlRdDJqZFFNOWNjOW5fXzhtUlQ2ajk4TEoxRHJQcGlLdE13UWo0Vmg3aFI1a3JGTG9KYzZWa1AtNjA3WGtPZWpPSHVn?oc=5",
-   "time": "2026-11-08T11:22:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_c854cbc730e3fd82dcc5",
-   "id": "c854cbc730e3fd82"
   }
  ]
 }
