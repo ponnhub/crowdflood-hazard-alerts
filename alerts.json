@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T12:16:20Z",
+ "updated_at": "2026-11-10T12:28:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,10 +17,10 @@
  ],
  "counts": {
   "flood": 23,
-  "flash_flood": 11,
+  "flash_flood": 12,
   "storm": 26,
-  "landslide": 11,
-  "earthquake": 21,
+  "landslide": 9,
+  "earthquake": 20,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
@@ -109,7 +109,7 @@
    "official": true,
    "source": "ข่าวภูเก็ต",
    "source_url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxPN1NsQ0ZaWkUzZmJUQ253Z2k0d2cwbVdHRlZYOTRURV9KZlZYM09HdFEyLWxDY2Z4TjBtaEZZN3dhTG9IM2Q0UFduZFJhVWNHeEZHUnJMNlkxYjBOb3VIWExzc1hXeGFja0w0Rk5jdkV2MFFUc1VTbjB6TUV4TjhnQlc5UlhXQVVVZ3RFcEwwbXBFcWZReVNZNTU2NDh3UFg5SUs5eHFKZURVd1liZVVpNXpYQzl1NGpMMEdkSUgtbU9FX2twcWlOemg5bGpfai13Tll4Sk5lVWVXZGlwcXVQWnR2RzJWbUstaGkzWFA2OXc1LU5jYVJ2SUZNbUt1c0haUUhoSXlnd3ljX2NVRDlVX2QyQTVLSlpYMnZKVC0xaTRMOThURmJ2aGhyY3hIN1lqWDRDSHY0SjRweVBuZmhreDQ3THlNQlNmMkloQXl2b0xJOGdCeGt2SFF4SXRuQ2w2OVllajZ5U0xFV013NXJibnpKdGpWYUwzdTl2QTd3Y3VacWFDN1FvSllvS0swZ0REV0N0ODdyODZYdkV1a2w0alhBMzBsQk1BNlQyeTMxcWVhSC1vTWVtMkhaaEx2OGR5Z19zS2g1aDVybjBBNWl2dEV1eWFEYXpVQklNUU1Db3dONmJrLWhUbDFDWnZTYVFJeW1WT1hQMVZiNm45ZEFrc1N4UVVSemxXai13Z2dMRzV1WXpCZ3A0MnNtT2pnVW9DOFZYYmJHQ1dBdjY0RzFyX1NPN192U3FhVk9aY0E5ZlZZUXVuNFJreXdQellVOFNqZGNDTmRRYlVGdmRmaUstNXdLSUdPbDJOR0l0RmhteDFoanc0Zm5FaHpyV3M4NkttTXdmVUJTYnZ5Vzh6SVkxOU83VWlUZW9qcDdzRURnb2lBVm9TNFNHQVBoN0lCTFFCYzMxT3Vwb3hOSGdGa2lJZk1aNWRIMWRoRXJRVVhoN0JaWVppcnBFVy1hSnJLZHZDOGZDN1VFcmVaZXk3?oc=5",
-   "time": "2026-11-10T05:15:42Z",
+   "time": "2026-11-10T04:59:18Z",
    "location": null,
    "id": "877a9392205a5e70"
   },
@@ -126,31 +126,6 @@
    "time": "2026-11-10T03:38:00Z",
    "location": null,
    "id": "a48da4f92f01ca28",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
-  },
-  {
-   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSDEwR29Gblh2VE91MUYtcWVCSGpEcWE2WEtJQnNldEJ6bE9YNU50aF9rTlJISHJrcGZwVjNUV0JkYkNCbUphUHV1ejZGZ21nRENsT1JtdkdMTFN5?oc=5",
-   "time": "2026-11-10T03:20:00Z",
-   "location": null,
-   "id": "32dfc0eb9712a500",
    "area": {
     "code": "TH93",
     "level": "province",
@@ -212,20 +187,6 @@
      7.902
     ]
    }
-  },
-  {
-   "title": "\"กรมอุตุฯ\" ออกประกาศฉบับ 4 เตือนฝนหนักถึงหนักมากทั่วภาคใต้ 10–13 พ.ย. เช็กพื้นที่เสี่ยงรายวัน ระวังคลื่นสูงเกิน 2 เมตร ส่วนไทยตอนบนอากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMzF6TjZyRWlzSEVvbDI0TmtieW1SeU9PbHM0QjVTU3VycUhoWFRzMVlONTA3SEZ0M0thcTEyTFpmUkpDVjlaRUd2ZnpET2M?oc=5",
-   "time": "2026-11-10T02:44:04Z",
-   "location": null,
-   "id": "3855163e7c93c904"
   },
   {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
@@ -872,20 +833,6 @@
    "id": "47d89453b6f136bb"
   },
   {
-   "title": "น้ำท่วมหนักและดินถล่มทำให้จังหวัดเกียลายต้องปิดโครงการก่อสร้างถนนมูลค่า 156 พันล้านดองเป็นการชั่วคราว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmR5SUJFMVZ3Y0xmOVpNQVBWZ1phd0sxRG51emJHM05WT0JkOFlRbWNjdko4UGZJQndtR2J3ZTUydU9qU184WkF0SHRialZ4YWlwc1ZYYnN5RTNCU2VGYU4zcnJBUTZpY2NzLWtHa1RhX25GX3E1Uy10WVFrN3h2UkxVQTVsS19uOUUwLWxsZ2V2QzFxRGVod21DWWtiVjdaYVE?oc=5",
-   "time": "2026-11-10T04:12:27Z",
-   "location": null,
-   "id": "caa86ab319a0be9d"
-  },
-  {
    "title": "เช็กสภาพอากาศ! ไทยตอนบนลมแรง กทม.จ่อเย็นลง 1-2 องศา ใต้ฝนตกหนัก",
    "summary": "",
    "category": "flooding",
@@ -1080,6 +1027,20 @@
    "time": "2026-11-10T00:17:56Z",
    "location": null,
    "id": "fa2eb9a4c231a5a4"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 10 พ.ย.2569 ใต้ฝนตกหนัก ไทยตอนบนอากาศเย็นลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOWVyLVJTN0g3Qm5haGx4Q2NZa1pKeVFjOFpidVhLWm9vZTlXSlRFSEY4TEd1bGxYdFdHMGp4aTJQVUFIaW5kbC0xTEZuWGQ3R2pv?oc=5",
+   "time": "2026-11-09T23:46:45Z",
+   "location": null,
+   "id": "25d1891173063ec8"
   },
   {
    "title": "เหตุดินถล่มในชุมชนเกาะตันลอง: ครัวเรือนหลายร้อยหลังยังคงอยู่ในเขตอันตราย",
@@ -1679,6 +1640,20 @@
    "id": "8f5166b815047562"
   },
   {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
+  },
+  {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
    "summary": "",
    "category": "news",
@@ -2012,26 +1987,6 @@
    },
    "incident_id": "fr_news_cc9d0e418bee88a703ee",
    "id": "cc9d0e418bee88a7"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 3.2 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 344 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17395",
-   "time": "2026-11-08T12:17:51Z",
-   "magnitude": 3.2,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 22.063,
-    "lng": 96.354,
-    "precision": "epicentre"
-   },
-   "id": "404b017f2a185bbb"
   }
  ]
 }
