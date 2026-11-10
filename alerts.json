@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T12:28:31Z",
+ "updated_at": "2026-11-10T12:41:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,9 +17,9 @@
  ],
  "counts": {
   "flood": 23,
-  "flash_flood": 12,
+  "flash_flood": 10,
   "storm": 26,
-  "landslide": 9,
+  "landslide": 11,
   "earthquake": 20,
   "wildfire": 1,
   "drought": 9,
@@ -139,6 +139,31 @@
    }
   },
   {
+   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSDEwR29Gblh2VE91MUYtcWVCSGpEcWE2WEtJQnNldEJ6bE9YNU50aF9rTlJISHJrcGZwVjNUV0JkYkNCbUphUHV1ejZGZ21nRENsT1JtdkdMTFN5?oc=5",
+   "time": "2026-11-10T03:20:00Z",
+   "location": null,
+   "id": "32dfc0eb9712a500",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
+  },
+  {
    "title": "ปภ. แจ้งเตือนพื้นที่จ.พัทลุง ฝนตกสะสม ระวังน้ำท่วมฉับพลัน-ดินโคลนถล่ม",
    "summary": "",
    "category": "news",
@@ -187,6 +212,20 @@
      7.902
     ]
    }
+  },
+  {
+   "title": "\"กรมอุตุฯ\" ออกประกาศฉบับ 4 เตือนฝนหนักถึงหนักมากทั่วภาคใต้ 10–13 พ.ย. เช็กพื้นที่เสี่ยงรายวัน ระวังคลื่นสูงเกิน 2 เมตร ส่วนไทยตอนบนอากาศเย็นลง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMzF6TjZyRWlzSEVvbDI0TmtieW1SeU9PbHM0QjVTU3VycUhoWFRzMVlONTA3SEZ0M0thcTEyTFpmUkpDVjlaRUd2ZnpET2M?oc=5",
+   "time": "2026-11-10T02:44:04Z",
+   "location": null,
+   "id": "3855163e7c93c904"
   },
   {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
@@ -397,6 +436,26 @@
    "time": "2026-11-09T00:25:02Z",
    "location": null,
    "id": "a4b6ff48e5bc60e4"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 56 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17405",
+   "time": "2026-11-10T12:31:44Z",
+   "magnitude": 1.8,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.981,
+    "lng": 98.023,
+    "precision": "epicentre"
+   },
+   "id": "4091a821dcdeaf6f"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
@@ -833,6 +892,20 @@
    "id": "47d89453b6f136bb"
   },
   {
+   "title": "จังหวัดกวางตรี: ทางหลวงหมายเลข 9C ถูกปิดกั้นเนื่องจากดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelJ0bGVMT3hTeW1DcEdRa093ek83Uk4zMW5INjdTWlcwTndvcXlKZmJNQ05UQ2VfbGM1dFFYTXhseGlDMEl0QWhQaWRHU3lQRVFDUmItQ3VQd3NyeHYxVWFTSHR3ZnJBNi14MHNtR2ZyVmh4WTl3N2gwcVF6Rm0ybUxrVQ?oc=5",
+   "time": "2026-11-10T05:09:21Z",
+   "location": null,
+   "id": "3425235d26d25930"
+  },
+  {
    "title": "เช็กสภาพอากาศ! ไทยตอนบนลมแรง กทม.จ่อเย็นลง 1-2 องศา ใต้ฝนตกหนัก",
    "summary": "",
    "category": "flooding",
@@ -1029,20 +1102,6 @@
    "id": "fa2eb9a4c231a5a4"
   },
   {
-   "title": "พยากรณ์อากาศวันนี้ 10 พ.ย.2569 ใต้ฝนตกหนัก ไทยตอนบนอากาศเย็นลมแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOWVyLVJTN0g3Qm5haGx4Q2NZa1pKeVFjOFpidVhLWm9vZTlXSlRFSEY4TEd1bGxYdFdHMGp4aTJQVUFIaW5kbC0xTEZuWGQ3R2pv?oc=5",
-   "time": "2026-11-09T23:46:45Z",
-   "location": null,
-   "id": "25d1891173063ec8"
-  },
-  {
    "title": "เหตุดินถล่มในชุมชนเกาะตันลอง: ครัวเรือนหลายร้อยหลังยังคงอยู่ในเขตอันตราย",
    "summary": "",
    "category": "news",
@@ -1109,26 +1168,6 @@
    },
    "incident_id": "fr_news_58d11696aeae452306d9",
    "id": "58d11696aeae4523"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17400",
-   "time": "2026-11-09T19:09:22Z",
-   "magnitude": 1.8,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.018,
-    "lng": 97.861,
-    "precision": "epicentre"
-   },
-   "id": "866b0e3a1600690a"
   },
   {
    "title": "กทม. สรุปยอดเยียวยาน้ำท่วม 9 พ.ย. \"ทะลุ 4.68 พันล้าน\" โอนสำเร็จแล้วกว่า 6.7 แสนครัวเรือน",
@@ -1640,20 +1679,6 @@
    "id": "8f5166b815047562"
   },
   {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
-   "time": "2026-11-08T20:25:04Z",
-   "location": null,
-   "id": "318f0e44a3ee940f"
-  },
-  {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
    "summary": "",
    "category": "news",
@@ -1961,32 +1986,6 @@
    },
    "incident_id": "fr_news_b129efdbe1a56549e998",
    "id": "b129efdbe1a56549"
-  },
-  {
-   "title": "ระทึก! น้ำป่าทะลักท่วมอุทัยธานี ขยะอุดประตูน้ำทั้ง 3 ประตู",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbEVxcEQxQkpBajdWeG1uX1NBTmV5OWFvdXdxZWRHS2xMOVRRZnVKb2xab2pzRFpNMXByQnhyMmhVVG1xLUs4NkxZQXp3ZUlNMkdNaHJNUmUtRllnZ1VfMkI4b0k4ZGlIbFNmNS1hNHdFamI4OTY4SW9UeEozZUhTSkVsUmFzSEtTM3gyT1ZEVnh2SmlWZGxsUko0QXU0b3NKQjBLejJCM1Fjb3VKVjJBRzRfMFVwMFktX0M5MHpraE9TZ3gwV3U1VWJ4OEZhdGdrWm1Lcllfbm96dw?oc=5",
-   "time": "2026-11-08T12:35:00Z",
-   "location": null,
-   "area": {
-    "code": "TH61",
-    "level": "province",
-    "name": "จ.อุทัยธานี",
-    "bbox": [
-     98.984,
-     14.943,
-     100.102,
-     15.798
-    ]
-   },
-   "incident_id": "fr_news_cc9d0e418bee88a703ee",
-   "id": "cc9d0e418bee88a7"
   }
  ]
 }
