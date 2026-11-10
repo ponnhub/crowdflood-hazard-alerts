@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T13:59:36Z",
+ "updated_at": "2026-11-10T14:11:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -24,7 +24,7 @@
   "wildfire": 1,
   "drought": 8,
   "pm25": 4,
-  "heat": 2,
+  "heat": 1,
   "tsunami": 2,
   "other": 1
  },
@@ -938,20 +938,6 @@
    "id": "acfb1353b9fda242"
   },
   {
-   "title": "WMO เตือนวิกฤตหนัก มหาสมุทรเดือด คลื่นความร้อนทะเลพุ่ง 3 เท่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWF82bWNMTW5hTmVUX2JtQVlVclExc3JvYl9iRGd0ajFpZTlVNjhLTW05VmNsYndxM1FNa3JsU3ktWk5rWmFnOEE4TWNSQUlVVVFteFl3?oc=5",
-   "time": "2026-11-10T03:00:00Z",
-   "location": null,
-   "id": "0852ea7b1d81cacb"
-  },
-  {
    "title": "ปภ. อัปเดตประกันภัยพิบัติ อนุมัติจ่ายแล้ว 5,635 ราย รวมกว่า 65 ล้าน | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1563,6 +1549,20 @@
    "id": "aa787350249d014c"
   },
   {
+   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
+   "time": "2026-11-09T01:16:23Z",
+   "location": null,
+   "id": "a9f0519346e941ce"
+  },
+  {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
    "summary": "",
    "category": "flooding",
@@ -1828,20 +1828,6 @@
    },
    "incident_id": "fr_news_796c9663895b65d0a6a5",
    "id": "796c9663895b65d0"
-  },
-  {
-   "title": "แผ่นดินไหวในญี่ปุ่นทำให้มีผู้บาดเจ็บอย่างน้อย 22 ราย: สถานการณ์ของชาวเวียดนามเป็นอย่างไรบ้าง?",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlRGS2pFQlM3bmc4TDFnVG1UbEl1WkFFM0JFaFphZDBPUkUwR0pDVHU5VkNqWXhqU2gxcGRaSXg4LWloVXlkMG9sNmN5SWJOZXNFWG1ON3lJcTlsTmE1TW9GX3B2MGIybndsRUNfVXJDR3ZuZld5Z1A0dVJqSUkzdnlQVmdSZ2JSZXJ6WkFlNjVKUGhEbnh2SG56NXVUQjd3WlE?oc=5",
-   "time": "2026-11-08T14:34:02Z",
-   "location": null,
-   "id": "dd52891119e461db"
   }
  ]
 }
