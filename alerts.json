@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T19:29:15Z",
+ "updated_at": "2026-11-10T19:43:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 13,
   "storm": 23,
   "landslide": 9,
-  "earthquake": 18,
+  "earthquake": 17,
   "wildfire": 1,
   "drought": 9,
   "pm25": 2,
@@ -29,20 +29,6 @@
   "other": 1
  },
  "items": [
-  {
-   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
-   "time": "2026-11-10T15:28:38Z",
-   "location": null,
-   "id": "dfae17ed42d7881b"
-  },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
@@ -427,6 +413,26 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 63 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17411",
+   "time": "2026-11-10T19:28:22Z",
+   "magnitude": 1.6,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.031,
+    "lng": 97.98,
+    "precision": "epicentre"
+   },
+   "id": "9bb4fa1c00e1a81e"
+  },
+  {
    "title": "เนื่องจากทราบว่าอ่างเก็บน้ำหลายแห่งจะปล่อยน้ำในวันพรุ่งนี้ ชาวเมืองญาตรังจึงนำรถยนต์ของตนขึ้นไปบนสะพานในคืนนี้เพื่อหลีกเลี่ยงน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -507,6 +513,31 @@
    "id": "ea4fcf323e0b7b57"
   },
   {
+   "title": "ชาวนาชัยภูมิจมทุกข์ เจอภัยแล้ง น้ำมัน-ปุ๋ยแพง ผลผลิตได้ไม่คุ้มทุน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YLXNWMmxIZFVDUmpiWUtuNEtTbkt1NENGRWVXZ1R3cmRHRGRIU1FXd1hCbllSQnBqWEJOWFBlY2RCUUkxTktpZzlFbw?oc=5",
+   "time": "2026-11-10T14:35:39Z",
+   "location": null,
+   "id": "2fd81e7b5a2256b9",
+   "area": {
+    "code": "TH36",
+    "level": "province",
+    "name": "จ.ชัยภูมิ",
+    "bbox": [
+     101.323,
+     15.331,
+     102.448,
+     16.723
+    ]
+   }
+  },
+  {
    "title": "นายก อบต.หงษ์เจริญ ผนึกกำลังท้องถิ่น ดันฝายทับอินทนิล–ประตูคลองอธรรม เสนอประปาภูเขาแก้ภัยแล้ง 3 ตำบล",
    "summary": "",
    "category": "news",
@@ -533,26 +564,6 @@
    "time": "2026-11-10T13:48:34Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 57 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17406",
-   "time": "2026-11-10T13:35:23Z",
-   "magnitude": 1.6,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.989,
-    "lng": 98.013,
-    "precision": "epicentre"
-   },
-   "id": "2928a487eb78e31b"
   },
   {
    "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
@@ -587,31 +598,6 @@
     "precision": "epicentre"
    },
    "id": "9f4938437314988b"
-  },
-  {
-   "title": "ชาวนาชัยภูมิจมทุกข์ เจอภัยแล้ง น้ำมัน-ปุ๋ยแพง ผลผลิตได้ไม่คุ้มทุน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVTJZNkxndGhVanlXdWJvNzJIV0xCamhCZ1BhM2dSQUdPbTZ3eEthQk50OTJVYlVCVVgzZ19nbzNwTmdjZVhzUm4wNA?oc=5",
-   "time": "2026-11-10T11:51:57Z",
-   "location": null,
-   "id": "968367a987cc54ad",
-   "area": {
-    "code": "TH36",
-    "level": "province",
-    "name": "จ.ชัยภูมิ",
-    "bbox": [
-     101.323,
-     15.331,
-     102.448,
-     16.723
-    ]
-   }
   },
   {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
@@ -975,6 +961,20 @@
    "id": "29cc8bb543968a8e"
   },
   {
+   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
+   "time": "2026-11-10T06:28:35Z",
+   "location": null,
+   "id": "570d7d2fe4578700"
+  },
+  {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
    "summary": "",
    "category": "news",
@@ -1135,26 +1135,6 @@
    "time": "2026-11-10T01:00:00Z",
    "location": null,
    "id": "0570a12b2cde0727"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.6 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 167 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17401",
-   "time": "2026-11-10T00:30:29Z",
-   "magnitude": 2.6,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.931,
-    "lng": 97.688,
-    "precision": "epicentre"
-   },
-   "id": "905d512341783b90"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
