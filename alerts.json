@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T15:01:34Z",
+ "updated_at": "2026-11-10T15:17:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 11,
-  "storm": 26,
-  "landslide": 10,
-  "earthquake": 20,
+  "flash_flood": 12,
+  "storm": 24,
+  "landslide": 11,
+  "earthquake": 19,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
   "heat": 1,
-  "tsunami": 2,
+  "tsunami": 3,
   "other": 1
  },
  "items": [
@@ -228,20 +228,6 @@
    }
   },
   {
-   "title": "\"กรมอุตุฯ\" ออกประกาศฉบับ 4 เตือนฝนหนักถึงหนักมากทั่วภาคใต้ 10–13 พ.ย. เช็กพื้นที่เสี่ยงรายวัน ระวังคลื่นสูงเกิน 2 เมตร ส่วนไทยตอนบนอากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMzF6TjZyRWlzSEVvbDI0TmtieW1SeU9PbHM0QjVTU3VycUhoWFRzMVlONTA3SEZ0M0thcTEyTFpmUkpDVjlaRUd2ZnpET2M?oc=5",
-   "time": "2026-11-10T02:44:04Z",
-   "location": null,
-   "id": "3855163e7c93c904"
-  },
-  {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
@@ -254,20 +240,6 @@
    "time": "2026-11-10T02:33:00Z",
    "location": null,
    "id": "c66b8d445bce8cc7"
-  },
-  {
-   "title": "อุตุฯ ประกาศเตือนภาคใต้ฝนตกหนัก ฉบับที่ 4 ขณะที่ \"อีสาน-กทม\" อุณหภูมิลดอีก 2 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEYWxSN2hLSjFWMzRsQ0dDU3FuLTRZZ3czRkpOZDVXeUlJSkZQdjJrbXpxUFlLVU9QS3cwaVNsdS1oTFpfUGJvdWdFWXg4Sm9SalQtdC1fbm0?oc=5",
-   "time": "2026-11-10T02:01:00Z",
-   "location": null,
-   "id": "b15bb5fb7b15686a"
   },
   {
    "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
@@ -466,6 +438,20 @@
    "id": "672a87e7bb54999c"
   },
   {
+   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
+   "time": "2026-11-10T13:48:34Z",
+   "location": null,
+   "id": "99bddd5dd9dd2b90"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 57 กม.",
    "category": "official",
@@ -599,6 +585,20 @@
    "id": "d626a5ff2cc9ce4e"
   },
   {
+   "title": "เกิดดินถล่มบนทางหลวงหมายเลข 9C ส่งผลให้เกิดน้ำท่วมรุนแรงบริเวณท่อระบายน้ำหลายแห่ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFVVTY0cXpEaGtrclNIQVVBTzhvNzkxdXppQjNNMWZzV1lCNVNuc2ZMUE5rRUFLaWJvVkJObWgyTlNfZUpYTnVaYWo1QmhrbFVVbk9qX3AxYUtUMGlhX2kwUXBzOFZkMEVqY0o2QmJ0QU5TajBmbTVKN3AxVXN5MmJlczZjR3Zx?oc=5",
+   "time": "2026-11-10T10:52:56Z",
+   "location": null,
+   "id": "a9084d31708db0cd"
+  },
+  {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
    "summary": "",
    "category": "news",
@@ -611,6 +611,20 @@
    "time": "2026-11-10T10:38:00Z",
    "location": null,
    "id": "0cf9c4844c46bf30"
+  },
+  {
+   "title": "เตือนฉบับ 5 ฝนตกหนักถึงหนักมากภาคใต้ อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NeTd6aEQ3Uk5IN005UjJHQzJEOGFhUUpmRjM1RzlRZTdxS1ZER3dtaGp4RjZpSkFLc25ycXN4dU96OUJraThVVHU4Wl9zajdScl8tU1ltZ1o?oc=5",
+   "time": "2026-11-10T10:35:59Z",
+   "location": null,
+   "id": "d1f317140600442b"
   },
   {
    "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’",
@@ -1577,18 +1591,18 @@
    "id": "aa787350249d014c"
   },
   {
-   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
+   "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
    "summary": "",
    "category": "news",
-   "hazard_type": "earthquake",
+   "hazard_type": "tsunami",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
-   "time": "2026-11-09T01:16:23Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcUJ6Rm5lQTVFTzNyOTA3Q3pMM1ZvMEVGMV9PcnBvS1FUNVBkTWxLS1NRbzRVV19McEhWZkN4N2hJc296Z1FHeUc3Ty1CeDc0Mzg4?oc=5",
+   "time": "2026-11-09T00:42:04Z",
    "location": null,
-   "id": "a9f0519346e941ce"
+   "id": "66f32ee0921376a0"
   },
   {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
@@ -1711,20 +1725,6 @@
    "time": "2026-11-08T19:59:12Z",
    "location": null,
    "id": "868bd7c9b634591f"
-  },
-  {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-08T19:29:46Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
   },
   {
    "title": "ศูนย์ข้อมูลฯ อัปเดตฝุ่น PM2.5 กทม. เช้านี้ภาพรวมอยู่ในเกณฑ์ ‘ดี’ แนวโน้มลดลงต่อเนื่อง เขตปทุมวันสูงสุดแต่ยังรั้งใต้มาตรฐาน",
