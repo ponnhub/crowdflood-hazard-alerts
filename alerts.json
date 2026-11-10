@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T07:30:34Z",
+ "updated_at": "2026-11-10T07:48:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,13 +17,13 @@
  ],
  "counts": {
   "flood": 28,
-  "flash_flood": 12,
-  "storm": 25,
+  "flash_flood": 13,
+  "storm": 23,
   "landslide": 10,
-  "earthquake": 18,
+  "earthquake": 19,
   "wildfire": 1,
   "drought": 7,
-  "pm25": 4,
+  "pm25": 3,
   "heat": 1,
   "tsunami": 3,
   "other": 1
@@ -270,20 +270,6 @@
    "id": "26d9bdd36a65ac1d"
   },
   {
-   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
-   "time": "2026-11-09T23:31:17Z",
-   "location": null,
-   "id": "39e8dc1c5d93fc31"
-  },
-  {
    "title": "ปภ. เตือน 16 จังหวัด ภาคกลาง–ใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -324,20 +310,6 @@
    "time": "2026-11-09T04:58:53Z",
    "location": null,
    "id": "62ce0a2b04cef38b"
-  },
-  {
-   "title": "ปภ. แจ้งเตือนด่วน! 16 จังหวัด ฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วม 9 - 13 พ.ย. นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "สยามนิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45UzZUbThqT1RteXFVZXBGbVhfRUZ4bTdFZEE4TlJ6V1hJdlVVSEdOcU5oNFBJOUVnS3dwRVB5a1V4TTFGSmpqMF9ybTVxaTJRQjZUSERGMA?oc=5",
-   "time": "2026-11-09T04:47:20Z",
-   "location": null,
-   "id": "eeab8ffc51b0941f"
   },
   {
    "title": "ปภ. แจ้งเตือน 16 จังหวัด 'ฝนตกหนัก-หนักมาก' เสี่ยงน้ำท่วมฉับพลัน 9 - ปภ. | ฐานเศรษฐกิจ ข่าว",
@@ -424,20 +396,6 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
-   "title": "การแจ้งเตือนคุณภาพอากาศของเซอร์เบีย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "IQAir",
-   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQWRIQ1dWVzN6UjFNOHpmRGhZZWpYWnFlZWk3aFdYamp4YlN6YlN3cFliUWJQTzF6SEdKUlV1WTlST0p3Rm00c3lGbHFUOWxsVTBtQ3hqNGpqWFdEMWFJQTJSOGZfdDVhQXc?oc=5",
-   "time": "2026-11-08T17:31:21Z",
-   "location": null,
-   "id": "f7d12f309d1151cb"
-  },
-  {
    "title": "ตอนกลางญี่ปุ่น เกิดแผ่นดินไหว 5.7 แมกนิจูด ไม่มีเตือนสึนามิ | กรุงเทพธุรกิจ_InFocus . เกิดเหตุแผ่นดินไหวขนาด 5.7 แมกนิจูด ทางตอนกลางของประเทศญี่ปุ่น ในช่วงเช้ามืดวันอาทิตย์ ส่งผลให้มีผู้ได้รับบาดเจ็บอย่างน้อย 22 ราย เบื้องต้นยังไม่มีการเตือนภัยคลื่นสึนามิ . #แผ่นดินไหวญี่ปุ่น #ญี่ปุ่น",
    "summary": "",
    "category": "news",
@@ -463,6 +421,32 @@
    }
   },
   {
+   "title": "🚨 แจ้งเตือนเฝ้าระวังฝนตกหนัก จังหวัดภูเก็ต ระหว่างวันที่ 9–13 พฤศจิกายน 2569 เฝ้าระวังสถานการณ์ฝนตกหนักถึงหนักมาก ระวัง 5 ภัยเสี่ยง 🌧️ ฝนตกหนักถึงหนักมาก 🌊 น้ำท่วมฉับพลัน ⛰️ น้ำป่าไหลหลากและดินโคลนถล่",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMirwdBVV95cUxQN3I3ZzlkcTNjRzVpdEFaUTItM0pzZ2RrMHdHRVJwaE5XdzhBb0pOaEhBUzYySnB0TDVjb2o4TkFYS0x1YUlSLWVJTVBhYUt5SXktNVFka2R3d0lCLV92UDFmemM4SHlUdVlkYm5MZ2ZyR3BwUWdmaW9RZjN3TmtuSTJuUW1jU21SWFhSbFg4Q3BpeHRiZGd4TXVFOHZoaEpOSm1HX1gzUERuTHZjaEc2aWdNdVNKNnQteUJTZ3l3RDlMU0d1akZocURULURKeUZGeTZrSUQ5S2pMUDFYQ0FTQUdhZ1EzNXJzT1VSeF9vVjdoQTljSkpOSkI5RzI4TDhTV0FyYlQxc1ZwUzd0c19URU9oZWpESl9pM3pXTmM3MW5HLVpucVR6TUVwZUdOaFNneUJoZWVrNnVIb3FsUkZaeDJ5SUZzamQxWXA4YV9rQmhjS3FHNXgyZDl2cnR2OTdueWI3NFR3M3lJTUxIbmQyaDN2eVZqRkhWdjUydE0xczQ5eHdVcWduSjFLM0Z6eTROX0ZGS2Q4QkgyR3dxRWZUdEhjcU9uY21XMTh0WXRWemhEY01QMmJjR0EwV0hjaHdaM1plNlM0V3ZmcThPZjZoZWV5d3JiMHJaNkpaS0xfQzBKdTZORnJsSnlQalQ4YUFwWjRlYkVGN3dzcmN1SnIwV3JsX2FGQ1VST1N6Rm9DLS1QekE5YmhUMDlCZ3hVanZ3Q1hkVElrVFNfdjltaEZ5WjhIcmJxSk9zX1lvbUw5c00zQ0x3M0RFcWhpVkVZTm1ma2NfRW4zcllFS1o1Mk82NDdpZUtoSFNlbzBUcDlBZkNRNEVLQkd5OGhNb0tUTFYxckN0YU5Bd3dQdnlBME1lemJUZjRnTUd5QjI2cjd1akRpeHplNG9ITEJjamd6WGEyR2dPUGtNU0NLN1h4LVVNM1VwZ2pFNmI1X3JjcDNJQTdpNE5YYWNFMVBKdDJyUi1UNjhVRU5Tc3hvMVpoUnh5SEpZeTZhbzlaU2JMZWc4TE42WG5NdGx1SXAwa0k5TjhBeTBPb2hkTjFhQ01iZDR1X1drS3lxRUxwaFI0VWFGT2VYRllEZDZBQUJDRUJWQWxGTUl0NVVYUlhYakxwcVlnc3RxNWxkZ3VZb21NMDVQWUxRTnMtZE01cXZjVFlpamZ5UWJaRzJOT3pVdzZvMVJyMVJkamYwby1Xb1hEZDBVblFaV00wbW16dVhXb21IbFltX3A4RXZwMGZ0aUt0eHM0?oc=5",
+   "time": "2026-11-10T07:35:17Z",
+   "location": null,
+   "area": {
+    "code": "TH83",
+    "level": "province",
+    "name": "จ.ภูเก็ต",
+    "bbox": [
+     98.262,
+     7.767,
+     98.441,
+     8.199
+    ]
+   },
+   "incident_id": "fr_news_7c0bfd250bc892e65eab",
+   "id": "7c0bfd250bc892e6"
+  },
+  {
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
    "summary": "",
    "category": "news",
@@ -471,10 +455,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMEQ5aE5rUDNudndEWTZna3VsQ05yVGozLTlDSEd0a2Zvc1NaQkR3YU4xX0R1WGFscUxjYjB5d184WjJjVmJWU2tGSmJSZm9taWc?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zOTIxYjYtU0VKdmE1VzJwSzlIVlU4WDdSZms3WkJLcGx2TE45eEdrdUs2NjV6OXZvbE1yaUpGTFlJSHJuLVZpS1Qwa0dOMnllc25B?oc=5",
    "time": "2026-11-10T06:30:00Z",
    "location": null,
-   "id": "29cc8bb543968a8e"
+   "id": "e7eab69ee5e59698"
   },
   {
    "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
@@ -1047,6 +1031,20 @@
    "id": "593f7493960a8e6d"
   },
   {
+   "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xS3BrSm5yajZoTzFIaU8zcGt5NVk2a2dtN0tOUDlQVkRhZkJMRzNDaVpOUUtaTHhkbThzeW5qVnFUUXpFR1FHMkFDOVB5VmRWNEpLbVpn?oc=5",
+   "time": "2026-11-09T05:56:24Z",
+   "location": null,
+   "id": "b92663c83a88b890"
+  },
+  {
    "title": "เกิดแผ่นดินไหว 5.9 นอกชายฝั่งญี่ปุ่น รับรู้แรงสั่นสะเทือนถึงโตเกียว : อินโฟเควสท์",
    "summary": "",
    "category": "news",
@@ -1354,6 +1352,20 @@
     "precision": "epicentre"
    },
    "id": "8f5166b815047562"
+  },
+  {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
@@ -1697,20 +1709,6 @@
    "id": "404b017f2a185bbb"
   },
   {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 กำชับเจ้าหน้าที่รัฐเฝ้าระวังและช่วยเหลือประชาชนอย่างใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ททบ. 5",
-   "source_url": "https://news.google.com/rss/articles/CBMiohFBVV95cUxOdHNkN3dOejB1LUNRbU9DcVk0RzktQVZIRTROc0c2S1NTdE1FWjNwdXR0ZjVwVUp5N2lvNWVZUUFUSm5lNnF5c211UzV6empHbFZnSkxRUWxyNHhsdHBtaEVEZU1IZFFLTk9IRkpZTUNxbnh4QzlPa0ZLOVFHcS15MmVXcndDRjF5V1BWRzBvTXlHTWJUa2pVdXdOakNpVVUzQUR0QjZocEVHWWpzYklnYTJJVEMyNE92d3o1TlpGem9vUTBEWXBETWVXVzk5Zl9OczVhQUtEcmlhQ1hBUHNHaldyejRsYm50d0JsUkZTLWtpTVlpbHljZXlHbjhyWnVSZUhqb0hqeUFtVXhUYXRuQ28yWUdXeWltUFFHNHFPNEFFSVU0N1Q5aDRTblJOYldfTjBxTjJPWXpGUnF5YjdkQllTOU5WYjZvWTk1TlRfenYyUXA4M1JuTF9sWGdVcWY3elVhZXZHSGZNV2p4azUwam1DT2NIbHBYa0N3Wk8xSUtYY0lLM193cTBjUnJ4dGdXMHBYRzF2VTREWFhlYjU5aThVXy1pMWxyVHRUbC1pY2lMcGQtamp3Y3BGYkVkdFhHdkFDVDlybmVHRUVuRGJCU2J3UDc3VTEwVXJfcWJPdktFbHNaTFNxSGRCMjlIMHpET1BvbDI5Vnk1a05xRDFoM2IwUm9DbkRwTlRBU2t3djlZZ0tqOFhLaUhOU1RjYzZwdjgyX09Xb1JxRmx0eVVFNF9qd3QtVlVIVXJPLTU5UEpLTmljR0x2OVUwTnBrS0NoOVhOMTdxc0pQblZPbHpDRDBZVVdaNlJnbVlXOC1FdWVGSEs2TWJQM0VKd0d1Z2d1S1lxTDdheXFrMVRVUkxzUW9hZWVZOHBjb3BrUFRlZ0RQQlBqTEZESlVJU3BRc2gtMWV3X3RKSi1kNzJqZHpZNlFQTF9yVE9jc0hvVEZOZEVqanl6V3Q5a0pMRzFmeFQ1Tm4zczl3dHZtQ3lES2NRMUZhRnNrM1pFMTg2Ykd0dkZXUzE3d3NLQkw2dEo0VjE3dWlVS2J0aS1OeDA3djVBd3p3WVZHS1lBdjdJQThISmRJazJkdno5SS1OTW9OSENxT1lkSFlIZzVHTk55bUhzdE16SVhxRi1XM0JXcllYc2ZLaUJxT3NnWlh1NnNwUS1JMFZiMGZ4NWZyeTdsU3F4Xy1vQzNXMUpibXdIcF9ZMDZydGVDVHFCVnd1QU4xOGxGMTVXejFqTHNiVkdTdHd3NWxXZE9oazQwNTRPbFBTU3hOY0haSkZiN1czVmludjVhVlVxUHhJeDNHNkhSYXZ5NUxtOWZNZkZ0ZnNwUTFuS01lU3VrT3JFN2JrNkxWcW9TUGwydU1VVEtmMmx2WWtfR2hGbTdPTlZaX1gzS2R0LUxKb2pMcG13d1E5cTNiRXc4ZnFnV1JXMlhxSC1vX1VlRm5lczRMSmFmVXB0eVVUdE1RazRZcEw5NlFQaGpuUVhCU0h0ZWtXV2d4d25yNlZkam43a2lSRHNzenNKSFR3NGlrcEJqT2ZtaVVna1FyNnREdVl0RW4yYTEtaDhzWkloSkpaTUg4TG1UT0VLdXhTN2xYck95cFdLUEJvcFN3OXlXRTNXbVVYNXd4RTZZcXNFbGFzY3FBQ0VFbHZRVk1RN3RUR242WGdBRnlmOWMxUFZPdEd1UkRiWHpTZXRJZFMxQ2RLYmIwaEt2ZXJ5dVd6WGpDSklGSDdaVXFmbVcwUmJ1RHV4QWtsdmxOZjZieFh4R3N2UmtxV09aTU43ckFNYlFyVjU5TENTdkN4Tjd4MG5RNDFzLWZZRDBqNzU0RU9lU2diQnlwM004Qlg2OU81ckZEbkJpc1RJbE82a0RYVWVZNE9uemJzbG9VWkxlc0JvYjhWNTViY2Y4SUppb1JzSTN1dG9CR0VraURubXVESWphcU1weFl1aDE0WER3SFAzdmlwYU16VmF0bDVfR3JCU1VRdHpBR2hxU3VjcDBDdzJxUV9VNk1CVUFhbEZxSlN4S2NodVdwLTNPbXVTUHlFZUt0OUpmb081RGM5czFhZkZ3aXRyWTE5ZExZUVhfTGlOSTFVbDh3a3VQVVc0ZTAtT3FIeDhFaFg1bGg4LWpZX2VEZjFISmVlN2hHaHUyb21BMzN3bkJLakFfeXpBWGhFSmFjaDBOSUpiY0ZzcU1IaDNmUFRpQmo3Q1FCWUdMbXVsVTBzRUV1aDQ0MmRfcElabUN3ZHNkSl8yQ0hjUkdtTmJobFVDTVJZbW1QaGQxdFFwOVdqd2lxUWlGUmtxME9PMmJYcjhUelNiLVpoWEM0NDZHcjBMX0gyR0toZ0tsbFJ0Y1p2ejRRTklLVENQUHhhNUE4TlliT001eTVVYl9SUlJCN0VwSmtrLTF0dEVHMUJaR2otYjhzYzRWOXlDSGtHSWZfSEREclNEbkNBSGp5al9mSW9qc3hURmRTQ0JBZ3hWcjZuSEFwb1U3ek5PeUl1WFJkR3NvdHprRWZEbWdLeE1rMklqZUtkTUpsYS1PSzk1dUNXbnpZcDJNUUlaby1KVS1kcXE2VjNjZDBHQmxkaU1mQU5LZjV2OFgwcmhXODNCbWdHTjdjcXNMb2dSWnRvSnBaNm0yWW82ckEzekwxRnJ6bHE3N0xEdWlrZFRFZUtXZTVXZGdKeXhtcm1VR05lLVFiSzFDV2VLSmItbEo2bUJkeWxXOEotdWZYSDVpZDNiUE05eGhCUDVlRWpLNjI5ZVhTRk83MDNDU0Ftdy1Qb0VBb3BMMUt6VEh4dEpPalRaSXZPYlVNR05kVklrblJzNGlySEJOenc1N1JqTnM4QjBpNVAwbV9EWm9Cb1Q2U3VLRWhMNExvZmJ1dW1FUXg5VTc0QkhWdWtiQWFjR29DRjVtNjhNWlQ4bk1jdHdkYVRmZFZtTFcwNUU5OUEzUElyY0JIQQ?oc=5",
-   "time": "2026-11-08T11:52:00Z",
-   "location": null,
-   "id": "b6ce138a4b67d85a"
-  },
-  {
    "title": "ปชป. จับมือ แฟลตคลองจั่น จ่อยื่นศาลปกครอง ฟ้อง ‘กทม.-ชัชชาติ’ เร่งชดใช้เยียวยาน้ำท่วม",
    "summary": "ประชาธิปัตย์ จับมือ ชุมชนแฟลตคลองจั่น เตรียมยื่นศาลปกครอง ฟ้อง “กทม.-ชัชชาติ” เร่งชดใช้เยียวยาน้ำท่วม ครอบคลุม-เป็นธรรม ชี้บกพร่อง4จุดใหญ่ เรียกร้องรัฐ อุ้มกลุ่มรถผ่อนกุญแจเปล่า 8 พ.ย. 69 – นายสกลธี ภัททิยกุล สส.บัญชีราบชื่อ รองหัวหน้าพรรคประชาธิปัตย์ ดูแลพื้นที่กรุงเทพฯ พร้อมด้วย นายราเมศ รัตนะเชวง รองเลขาธิการพรรคและประธานฝ่ายกฎหมาย พรรคประชาธิปัตย์ ลงพื้นที่ชุมชนแฟลตคลองจั่น เขตบางกะปิ เพื่อติด",
    "category": "flooding",
@@ -1883,6 +1881,20 @@
    "id": "d17541b985727a14"
   },
   {
+   "title": "เกิดแผ่นดินไหวขนาด 5.7 ริกเตอร์ในภาคกลางของญี่ปุ่น ส่งผลให้มีผู้บาดเจ็บมากกว่า 20 คน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzZmNHZMVld5SmpxeDdXYVNZeE5yMndDUWhZdl9oNUhEMFZLVU1BZjVJcnlmS3NKenowRnFxeG9VaXZwMFhOLUdQSU9KdThvUHJPTm03cHNoUXBEM3p3S2pxWHdYTEN0U2Y4RTFpNFhDSWJPeUJQclpFeEZOR0twdmxpVDlZQU50MzVzUVBHM1ZNazBKckRtcnU5Z2VSVmk2RUxR?oc=5",
+   "time": "2026-11-08T10:49:09Z",
+   "location": null,
+   "id": "0e93e48a662765ae"
+  },
+  {
    "title": "กทม.เร่งแก้น้ำท่วมลาดกระบัง 3 ระยะ ตั้งเป้าลดเสียหาย 80%",
    "summary": "",
    "category": "flooding",
@@ -2013,20 +2025,6 @@
    },
    "incident_id": "fr_news_e2edf4084aa2fe8e3e0b",
    "id": "e2edf4084aa2fe8e"
-  },
-  {
-   "title": "แผ่นดินไหว 5.7 เขย่าญี่ปุ่นตอนกลาง บาดเจ็บอย่างน้อย 24 คน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtVkk0dTh0bEFVd3Fhc3oyT1otbWVFRVZldGhjcEJWcG9JZ2hzVlBPTEF3cC1nWlI5NTdscXNpaXNmR0ppcDBVWVo4S0xqTXNuck5kUDZUMDU?oc=5",
-   "time": "2026-11-08T07:33:02Z",
-   "location": null,
-   "id": "d95a90b00ee4bf97"
   }
  ]
 }
