@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T18:59:00Z",
+ "updated_at": "2026-11-10T19:18:16Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 16,
+  "flood": 17,
   "flash_flood": 13,
   "storm": 23,
   "landslide": 9,
   "earthquake": 18,
   "wildfire": 1,
   "drought": 9,
-  "pm25": 2,
+  "pm25": 3,
   "heat": 1,
   "tsunami": 3,
   "other": 1
@@ -86,20 +86,6 @@
    "id": "4bc3163103266287"
   },
   {
-   "title": "สถานีอุตุนิยมวิทยานราธิวาส แจ้งประกาศเตือนภาคใต้ฝั่งตะวันออก ฝนตกหนักวันที่ 10-13 พฤศจิกายนนี้ เฝ้าระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "NBT CONNEXT",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZVkyZEM4VGpMc0NKTm1RUklGSWMwUksxaUcwcUVGazU4X1hNM0g2Z1dYLVZyX3h3ekpDcXRPeEFmOHA5eDRuOFY5TUlGSGhUN1dUelNFbGs3ejZ2cmlWODdJeTZUUGo3NzJRdzdnWQ?oc=5",
-   "time": "2026-11-10T08:38:03Z",
-   "location": null,
-   "id": "53fcad27fa151da4"
-  },
-  {
    "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
    "summary": "",
    "category": "news",
@@ -112,6 +98,20 @@
    "time": "2026-11-10T08:38:03Z",
    "location": null,
    "id": "d8368079e0e659d7"
+  },
+  {
+   "title": "สถานีอุตุนิยมวิทยานราธิวาส แจ้งประกาศเตือนภาคใต้ฝั่งตะวันออก ฝนตกหนักวันที่ 10-13 พฤศจิกายนนี้ เฝ้าระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "NBT CONNEXT",
+   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZVkyZEM4VGpMc0NKTm1RUklGSWMwUksxaUcwcUVGazU4X1hNM0g2Z1dYLVZyX3h3ekpDcXRPeEFmOHA5eDRuOFY5TUlGSGhUN1dUelNFbGs3ejZ2cmlWODdJeTZUUGo3NzJRdzdnWQ?oc=5",
+   "time": "2026-11-10T08:38:02Z",
+   "location": null,
+   "id": "53fcad27fa151da4"
   },
   {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
@@ -413,6 +413,32 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "เนื่องจากทราบว่าอ่างเก็บน้ำหลายแห่งจะปล่อยน้ำในวันพรุ่งนี้ ชาวเมืองญาตรังจึงนำรถยนต์ของตนขึ้นไปบนสะพานในคืนนี้เพื่อหลีกเลี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTBHVlBYdGJReWxYM3ljOTlqMTJ6eGUtWHN6QlUzdFRKOEdOSThjYWVwUU5SWVlVUkMwNFc1aE83NTR0Q08ycWdSbTdBay1Nd0N0NUp1cTdQZFVzSVdwMzFUY192cEYzendzeE9CU2RsajZNMjhzVTYwWGgwVUxyb1E3Z1QxWTJsNkFhMkVRWURaSlBheG1PbVZsamRrUFRXTHo2ZEpMRWJjR3lrbGF6Zw?oc=5",
+   "time": "2026-11-10T18:55:30Z",
+   "location": null,
+   "area": {
+    "code": "TH92",
+    "level": "province",
+    "name": "จ.ตรัง",
+    "bbox": [
+     99.246,
+     7.082,
+     99.949,
+     8.009
+    ]
+   },
+   "incident_id": "fr_news_cf413ac814ee5f6fcdfc",
+   "id": "cf413ac814ee5f6f"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 56 กม.",
    "category": "official",
@@ -467,6 +493,31 @@
    "id": "ea4fcf323e0b7b57"
   },
   {
+   "title": "ชาวนาชัยภูมิจมทุกข์ เจอภัยแล้ง น้ำมัน-ปุ๋ยแพง ผลผลิตได้ไม่คุ้มทุน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YLXNWMmxIZFVDUmpiWUtuNEtTbkt1NENGRWVXZ1R3cmRHRGRIU1FXd1hCbllSQnBqWEJOWFBlY2RCUUkxTktpZzlFbw?oc=5",
+   "time": "2026-11-10T14:35:39Z",
+   "location": null,
+   "id": "2fd81e7b5a2256b9",
+   "area": {
+    "code": "TH36",
+    "level": "province",
+    "name": "จ.ชัยภูมิ",
+    "bbox": [
+     101.323,
+     15.331,
+     102.448,
+     16.723
+    ]
+   }
+  },
+  {
    "title": "นายก อบต.หงษ์เจริญ ผนึกกำลังท้องถิ่น ดันฝายทับอินทนิล–ประตูคลองอธรรม เสนอประปาภูเขาแก้ภัยแล้ง 3 ตำบล",
    "summary": "",
    "category": "news",
@@ -479,6 +530,20 @@
    "time": "2026-11-10T14:28:16Z",
    "location": null,
    "id": "672a87e7bb54999c"
+  },
+  {
+   "title": "โปรดระมัดระวังดินถล่มและคอยอำนวยความสะดวกด้านการจราจร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WGRUbC1mV0d2MUFwdEdJWU5BNzBBUEhrNFlMaFNfekxDbTh3MUtMT25yR3NMM0FJeWtWYmI1UUNod1JpdG4zbVN0dkdWU3BGVm9QQWpFNzV3NEt0NGFONm1kOEE0ZHJDREcyaEFram5jemNSdjg4?oc=5",
+   "time": "2026-11-10T14:28:06Z",
+   "location": null,
+   "id": "318e6469c37f467d"
   },
   {
    "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
@@ -547,31 +612,6 @@
     "precision": "epicentre"
    },
    "id": "9f4938437314988b"
-  },
-  {
-   "title": "ชาวนาชัยภูมิจมทุกข์ เจอภัยแล้ง น้ำมัน-ปุ๋ยแพง ผลผลิตได้ไม่คุ้มทุน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVTJZNkxndGhVanlXdWJvNzJIV0xCamhCZ1BhM2dSQUdPbTZ3eEthQk50OTJVYlVCVVgzZ19nbzNwTmdjZVhzUm4wNA?oc=5",
-   "time": "2026-11-10T11:51:57Z",
-   "location": null,
-   "id": "968367a987cc54ad",
-   "area": {
-    "code": "TH36",
-    "level": "province",
-    "name": "จ.ชัยภูมิ",
-    "bbox": [
-     101.323,
-     15.331,
-     102.448,
-     16.723
-    ]
-   }
   },
   {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
@@ -800,6 +840,31 @@
    },
    "incident_id": "fr_rss_37ad8776040d98cb809d",
    "id": "37ad8776040d98cb"
+  },
+  {
+   "title": "กรุงเทพมหานคร. . 🌫️ สู้ฝุ่น PM2.5 ต้องทำต่อเนื่อง เพราะปัญหานี้ไม่จบในวันเดียว! ฝุ่น PM2.5 เป็นปัญหาที่ต้องอาศัยความร่วมมือจากทุกภาคส่วน กรุงเทพมหานครจึงเดินหน้ามาตรการเชิงรุก เพื่อลดฝุ่นจากแหล่งกำเนิดอย่างเป็นระบบ ทั้ง 4 ด้าน ได้แก่ 🚛 คุมเข้มรถบรรทุกในเขตมลพิษต่ำ (Low E",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxOVUhmaWxKV3lYQVFwVGNoU3daaENLNWRTelk0TmxlMVY3bElRZzlTQVNaS21oeHJ3MnVmR1M0RmEyNjJZWDROQUlTY3ZWR3ZOUkVUako1X0E0YTN5S28xOG1sejZmR1N1NFBRY0Rob2hSbjJVeFBBTnROU1VJUUI5bVZQTE5OdVhQX25IWDI1aXBnbWNtcmFnZm0xQWEyRVBpSEVIYjhPVkdiSC1WaXVPYVVSTFh5RWpOY1BqNVZLaV9Sa1RJcXpBWTVCZ19QN3JCOWMtYlB0bkJRRGFEZzhEaE5sTTkxa25IUDAyV1o5eUx6UDN6eHVXbC1md3RFQ01tal9peEJ4WVF4WnpOZWVSMVlfblY4S3dNTHJXMmt4U1pSU1ZiTlVwOEIxRFh6WXZsaC1lOXFzV1otQmdUdENRUzkxSFp1a0t5ZnpmOUlOMzhJdFE2bWVrOG5lZEM3cnJCU0FFOVliREwzSGtwaUdJdHVtTC1laTBLVzBHTG9IVDRKQ25DRFVTOEVkaVJ4ZkpUb2dmTW5zVFBjRml2OS0tZG5FclJUNFFxY2I5VWpWWW9GTnB1bWdyWlV6bDZOWkRieFJQQ2JYTG0wRmVYbXdaREtNem8yMWR0b3VRQnRwaVFTeGxjbVhvQk1uQnVXZ1MyWGpoSnZjRjh4WWw3RjRYMWF4MTFWU3lHM0c5ak5YRWFCRV9fekN1R0Rvd2ZLSjdVTzhqSGF0UVZxTDkzMHlvS0NINDJuQ0VNM0tmSHBhMnpjWmxLNXJ5LUdDQ2dHTGhWZU1IWDB0b1ZKeEdKTUdjc1dOQkxnbEZrc1Q5a3J5UHc0a0xrejdEdmhxRGhIQ01oM3VuN3c4d01hT1RGdkZlQlBpSE5Eb2Jta29qaC1zOF9MV2pGR2xUb3A4OWk4a2ViN3h1b1lUVG5RVWtKRlREVDVrQXR5cXJjUHFWNDBwVE9BS0k2dlJzZXdqNzU3UDdlSjJFODdRT2Iyall2dWZaUE1EMy1rNklWRFY3dkRlVFo4TkhuaDR6WU9iaG1EMkhzSG95NTF0cEdXOU9abzNHRFY5Y1NUM042Q0xsZjFvWnBqaUVkUU9kNkV1eWtNMU9DZEdzVVIxaTZyOFV2RllFZW5YWTVBcnJwVDlHZ2hWa1k1eUJ4djUwTXJlbnpjNldYdktrdWRHRFdfYkN2OTFFMEZMWk4wbzBqd0pNX0NjUlRKeldoYkNVNg?oc=5",
+   "time": "2026-11-10T08:28:13Z",
+   "location": null,
+   "id": "83569fe47e4e9cc9",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
@@ -1081,20 +1146,6 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
-  },
-  {
-   "title": "ดินถล่มในค่ายผู้ลี้ภัยกาซาหลังฝนตกหนัก คร่าชีวิตผู้คน 4 ราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbTFyT2tsRVd3dlBFMFZlSEtUbHBfT2h3WHRIYVdBWUxWTWlBeWtEbmpDTGdza1BYamtsalRrS25xSExYemwxN3JxZmNCUXI5VEg4b0Q1YTR4WEc2eDV6dzlmVnBFX3V1RFc3T2xiejg4WHNablIyb3NEQktoZzdyRzFDOFBlcmJWSl9v?oc=5",
-   "time": "2026-11-10T01:21:12Z",
-   "location": null,
-   "id": "49a3d0db4409b5ac"
   },
   {
    "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
