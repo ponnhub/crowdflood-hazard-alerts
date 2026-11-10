@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T09:19:27Z",
+ "updated_at": "2026-11-10T09:34:00Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 28,
+  "flood": 27,
   "flash_flood": 11,
-  "storm": 23,
+  "storm": 21,
   "landslide": 10,
   "earthquake": 21,
   "wildfire": 1,
   "drought": 8,
-  "pm25": 2,
+  "pm25": 3,
   "heat": 3,
   "tsunami": 3,
   "other": 1
@@ -270,20 +270,6 @@
    "id": "26d9bdd36a65ac1d"
   },
   {
-   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
-   "time": "2026-11-09T23:31:17Z",
-   "location": null,
-   "id": "39e8dc1c5d93fc31"
-  },
-  {
    "title": "ปภ. เตือน 16 จังหวัด ภาคกลาง–ใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -453,31 +439,6 @@
     "precision": "epicentre"
    },
    "id": "f4502dddad6c1b8c"
-  },
-  {
-   "title": "'สงขลา' ปักธงแดงแนวชายหาด เตือนห้ามลงเล่นน้ำทะเล รับมือฝนตกหนัก 10–13 พ.ย. นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHWUVWNkROQWZ4cWdrdEhCQWNsNXFjdnpBazQ5cnJPazNPSk5fVXo4TGQ5UTYxczl3NjlaUnJ1RWN3TVhoclFCWjN1aw?oc=5",
-   "time": "2026-11-10T07:37:45Z",
-   "location": null,
-   "id": "58f613c076b90267",
-   "area": {
-    "code": "TH90",
-    "level": "province",
-    "name": "จ.สงขลา",
-    "bbox": [
-     100.057,
-     6.296,
-     101.104,
-     7.936
-    ]
-   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.4 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -948,20 +909,6 @@
    "id": "08b700e647c312b6"
   },
   {
-   "title": "อุตุฯ ฉบับ 3 เตือนภาคใต้ฝนตกหนัก เช็กพื้นที่เสี่ยงน้ำท่วมฉับพลัน 9-13 พ.ย.69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41SUlRbGs3TUFsU2dUZGF2eEE2Z1hpSUVWOHZ4SjVjMTgwTV9kSDYzTmFJSGoycHVnRXpWZldxS1hWWHlPcWZVWVhFb3BfcXUwYkw3S1RxWF9EOG8?oc=5",
-   "time": "2026-11-09T12:33:12Z",
-   "location": null,
-   "id": "7046af51aa41f557"
-  },
-  {
    "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
    "summary": "",
    "category": "news",
@@ -974,6 +921,20 @@
    "time": "2026-11-09T12:32:37Z",
    "location": null,
    "id": "eebdbba32d5a3b00"
+  },
+  {
+   "title": "อุตุฯ ประกาศ ฉ.3 \"เหนือ-อีสาน\" อุณหภูมิลดลง 3-5 องศาฯ - ใต้ฝนตกหนักถึง 13 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vX3ZTZHB1Ukd2dkdTazRRT0V3TnlSNUdraVZDR1FpMVB6ejRJTnN1aHFrTnJoRmprcWJzMm5BbWg0b0NFc1NPRFR4MmotWVRQSEVvX3ZGeGQ?oc=5",
+   "time": "2026-11-09T10:42:17Z",
+   "location": null,
+   "id": "49d08d54b1754ce5"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
@@ -1134,6 +1095,20 @@
    "time": "2026-11-09T06:18:30Z",
    "location": null,
    "id": "0aff815a399aad1a"
+  },
+  {
+   "title": "\"วันพระบิดาแห่งฝนหลวง 2569\" เตรียมจัดใหญ่กลางสวนรถไฟ เปิดโลกนวัตกรรมสู้ภัยแล้ง-ฝุ่น PM2.5",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NFlqYWRiZnFqem83a2R0QnN6eDlLUzBHRDNGTGs0VEhMTmJPVmRqeVlBdGlsVVIxcGdicElTVmJlNjVWbGFTeGxRS21UNTVKbHhv?oc=5",
+   "time": "2026-11-09T06:18:00Z",
+   "location": null,
+   "id": "593f7493960a8e6d"
   },
   {
    "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
@@ -2050,32 +2025,6 @@
    },
    "incident_id": "fr_news_ae6625685cca44f7ae84",
    "id": "ae6625685cca44f7"
-  },
-  {
-   "title": "BANGKOK: กทม. เร่งเดินหน้าแผนป้องกันน้ำท่วมลาดกระบัง 3 ระยะ ยกระดับระบบระบายน้ำ ปิดจุดอ่อนน้ำท่วมรับมือฤดูฝนปีหน้า วันนี้ (8 พ.ย. 69) นายชัชชาติ สิทธิพันธุ์ ผู้ว่าราชการกรุงเทพมหานคร พร้อมด้วย นายวิศณ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMinAdBVV95cUxQUkhGS09QeG93TmpFSWxIRE9xWWdiYll0VmlycVh5NWNaX2duMDV5ZnE0ODZycnFZc2JCRl9qcFBtRXk3V19FRTh1c1I2M0NqVEJWbkxPNG5HbHZXTDh0UW12cTlVM1hpTzFaa0VEYm1VUmZ6enJ3SVFzeGZoRm1zSVJjV3NUcGU4T0dwMXZDRWxsM1ltWHJwRl9RUVpuNmlVVVhyWS1kbjByaEdCNFlheV83LXFhdUU5UGRRWENSRy1mbXNYM2ppTnJySEFNTVQ3eTBsNk5mdzhTZXNrWGZabkdqVTZfOEgtSm82NVFFWmR5a0xzUlJOVk5RYkFSbXVTMDd0b1Ztay1YNkxtNUoxblJsTVVqdXRjMThqR1MtemRrZ0VRVDkxNnU5Qm9iN056TmhYQXZqTF9fa1ZUb2dQYnpIcXVDME9nSlVuQVRwZHJobE1aU0hTTFVGUGQ0dmczalZpeUpsWS1WNGI0emRQOEdFdENsbFVWd3BWWUtEZVgxaXEyTVZxUkgxUHNQb2tITy1SeWgtRGdjV2JsaGRRalFxd2hJMTVMdUJNX3VFNU0wWHl6dEdDM1lFUlRyUTJTU2VDdkFublpidGFTNC1ZdmlqeEhjeU5jazlqTWVWdW9MR0J2dzVlUWJtM01EUEJsaDdVMm9qNWJGSmlLQi1heHY3Ym55VDRSYklCalFEYzFKczNNSU5oU1Z0NVZ3Zk9ndjRhUkFYM3VDdnhIMUJSX29ZUFhmQUR0d1QtXzd1ZWx1SG1fN1NTaHhLNURzQ2piZ1ZhWWh6S0ZwdkR2bENmUkJkWlNCdkhLd1lNUEF5Nm5UYjliYnJYd21ZZTN6QlpXXy1PUE0tSU03ekxjY0dxbEozSkZnUS00TURBMDA1QThHYmp3dUQ0X2tPVjEtY3pVUWNCZWt5dG9sZG9nSmFUeDAxNlVTWmJZb0pLU2JyT1V2ZHcyNkZMTFlweUM1QXBlWVRhVzNvMjV6emwzLWJMVExfT0RFUXBScU4xMDNTTWU0clJMZHNZcGhkNlEyU2JwS1AteFJDb0hLb2s5NXcyZDQ1RF8tYXZXbzc3LXJHeGVXalRJNXBiQWV6RE5sbTR6WXJUNEtBRFVIM19xVDNjSDRxYms0TTFUcG13OUJiMnA5enhlY1Z6MkVmU1NpUXYzYWZxbVY5M0tBMF9jYTFMOUgyQzdhNUhlV2lwVXJ0WFFVY1JEbGlPMDFlQ0w?oc=5",
-   "time": "2026-11-08T09:24:33Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_fbb0c9cc1c3fff20c9ff",
-   "id": "fbb0c9cc1c3fff20"
   }
  ]
 }
