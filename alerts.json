@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T14:33:58Z",
+ "updated_at": "2026-11-10T14:49:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 11,
+  "flash_flood": 10,
   "storm": 26,
   "landslide": 11,
-  "earthquake": 19,
+  "earthquake": 20,
   "wildfire": 1,
-  "drought": 8,
-  "pm25": 4,
+  "drought": 9,
+  "pm25": 3,
   "heat": 1,
-  "tsunami": 3,
+  "tsunami": 2,
   "other": 1
  },
  "items": [
@@ -450,6 +450,20 @@
    "time": "2026-11-09T00:25:02Z",
    "location": null,
    "id": "a4b6ff48e5bc60e4"
+  },
+  {
+   "title": "นายก อบต.หงษ์เจริญ ผนึกกำลังท้องถิ่น ดันฝายทับอินทนิล–ประตูคลองอธรรม เสนอประปาภูเขาแก้ภัยแล้ง 3 ตำบล",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Z2tmWVl5Szh6YkFGSjhmTWtVYlg3QUpFRHRTd2xjTWVQYVEyWFF5eE5IeHBmTDc1aVRjTm84TmRMNVVmUnhLVjN4Um5mcXM?oc=5",
+   "time": "2026-11-10T14:28:16Z",
+   "location": null,
+   "id": "672a87e7bb54999c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
@@ -1348,20 +1362,6 @@
    "id": "0aff815a399aad1a"
   },
   {
-   "title": "\"วันพระบิดาแห่งฝนหลวง 2569\" เตรียมจัดใหญ่กลางสวนรถไฟ เปิดโลกนวัตกรรมสู้ภัยแล้ง-ฝุ่น PM2.5",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NFlqYWRiZnFqem83a2R0QnN6eDlLUzBHRDNGTGs0VEhMTmJPVmRqeVlBdGlsVVIxcGdicElTVmJlNjVWbGFTeGxRS21UNTVKbHhv?oc=5",
-   "time": "2026-11-09T06:18:00Z",
-   "location": null,
-   "id": "593f7493960a8e6d"
-  },
-  {
    "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
    "summary": "",
    "category": "news",
@@ -1577,18 +1577,18 @@
    "id": "aa787350249d014c"
   },
   {
-   "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
+   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
    "summary": "",
    "category": "news",
-   "hazard_type": "tsunami",
+   "hazard_type": "earthquake",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcUJ6Rm5lQTVFTzNyOTA3Q3pMM1ZvMEVGMV9PcnBvS1FUNVBkTWxLS1NRbzRVV19McEhWZkN4N2hJc296Z1FHeUc3Ty1CeDc0Mzg4?oc=5",
-   "time": "2026-11-09T00:42:04Z",
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
+   "time": "2026-11-09T01:16:23Z",
    "location": null,
-   "id": "66f32ee0921376a0"
+   "id": "a9f0519346e941ce"
   },
   {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
@@ -1816,32 +1816,6 @@
    },
    "incident_id": "fr_news_bf08a2420f16769f1e24",
    "id": "bf08a2420f16769f"
-  },
-  {
-   "title": "น้ำป่าห้วยขาแข้งทะลักท่วมอุทัยธานี เตือนใต้ฝนหนัก 8-9 พ.ย.",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ba2JvTXg4Nm9nWjhVbXNUV3E4ZkphT0dCTi1EY1F6Y21JWDh1OGJuTGd1REl1d3BMVHZtM1VfTk9BM1NGczR6UGQ0NnpzXzlCMXdyXw?oc=5",
-   "time": "2026-11-08T14:34:41Z",
-   "location": null,
-   "area": {
-    "code": "TH61",
-    "level": "province",
-    "name": "จ.อุทัยธานี",
-    "bbox": [
-     98.984,
-     14.943,
-     100.102,
-     15.798
-    ]
-   },
-   "incident_id": "fr_news_796c9663895b65d0a6a5",
-   "id": "796c9663895b65d0"
   }
  ]
 }
