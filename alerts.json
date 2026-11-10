@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T16:58:54Z",
+ "updated_at": "2026-11-10T17:10:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -580,6 +580,20 @@
    "id": "14757629bcdb8352"
   },
   {
+   "title": "ปรากฏการณ์เอลนีโญรุนแรง กรุงดงทับเตรียมแผนรับมือภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Q4cmpfSDhXdV9tZGNTQ3NkRHJ2ay1QdC1lNXN2eW1MMjY2WElJa2VoV01mT3l4X0VaOGlTeGY5ZWd5RDdKSmJwWFVuVDlEd3FGUkZrMGNPTGYxbU55Q1gyektOR1RnbllWZ3VvSFpUYmZkUnlXYWN1dVNIb25Mc0tZM2M?oc=5",
+   "time": "2026-11-10T11:23:14Z",
+   "location": null,
+   "id": "d626a5ff2cc9ce4e"
+  },
+  {
    "title": "เกิดดินถล่มบนทางหลวงหมายเลข 9C ส่งผลให้เกิดน้ำท่วมรุนแรงบริเวณท่อระบายน้ำหลายแห่ง",
    "summary": "",
    "category": "news",
@@ -877,20 +891,6 @@
    },
    "incident_id": "fr_news_7c0bfd250bc892e65eab",
    "id": "7c0bfd250bc892e6"
-  },
-  {
-   "title": "จังหวัดด่งทับพัฒนาแผนรับมือภัยแล้งและดินเค็มระดับสูงสุด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHN3OHh4SVVJSzh2VExwTFVjbmQ3d2x4X2dkRUI4S2NrdU5HNTdKM19DVllSZHJRd0pGUngzYVR5UDBQTmNjZ3pzZjd0V1JWUlFCRG1nampyZkxJT0x0Nzh0YUV4aWhsam1nZXdMWG50Q1NwOHc0bFBqbzExQzhqaUkwbDY?oc=5",
-   "time": "2026-11-10T06:57:14Z",
-   "location": null,
-   "id": "822d84d51eed150f"
   },
   {
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
