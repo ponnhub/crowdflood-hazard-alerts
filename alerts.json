@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T13:17:39Z",
+ "updated_at": "2026-11-10T13:25:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 21,
+  "flood": 19,
   "flash_flood": 11,
   "storm": 25,
   "landslide": 11,
@@ -1557,20 +1557,6 @@
    "id": "aa787350249d014c"
   },
   {
-   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
-   "time": "2026-11-09T01:16:23Z",
-   "location": null,
-   "id": "a9f0519346e941ce"
-  },
-  {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
    "summary": "",
    "category": "flooding",
@@ -1844,6 +1830,20 @@
    "id": "796c9663895b65d0"
   },
   {
+   "title": "แผ่นดินไหวในญี่ปุ่นทำให้มีผู้บาดเจ็บอย่างน้อย 22 ราย: สถานการณ์ของชาวเวียดนามเป็นอย่างไรบ้าง?",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlRGS2pFQlM3bmc4TDFnVG1UbEl1WkFFM0JFaFphZDBPUkUwR0pDVHU5VkNqWXhqU2gxcGRaSXg4LWloVXlkMG9sNmN5SWJOZXNFWG1ON3lJcTlsTmE1TW9GX3B2MGIybndsRUNfVXJDR3ZuZld5Z1A0dVJqSUkzdnlQVmdSZ2JSZXJ6WkFlNjVKUGhEbnh2SG56NXVUQjd3WlE?oc=5",
+   "time": "2026-11-08T14:34:02Z",
+   "location": null,
+   "id": "dd52891119e461db"
+  },
+  {
    "title": "“พิพัฒน์” เปิดทางลอดบางกล่ำ เดินหน้าวงแหวนหาดใหญ่ 61 กม. ย้ำพัฒนาถนนต้องไม่ซ้ำเติมปัญหาน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -1894,58 +1894,6 @@
    },
    "incident_id": "fr_news_94b36c20556ca2cdd64e",
    "id": "94b36c20556ca2cd"
-  },
-  {
-   "title": "ปิดจุดอ่อน! 'ผู้ว่าฯกทม.' เคาะแผน 3 ระยะ ป้องกันน้ำท่วมลาดกระบัง รับมือฤดูฝนปีหน้า",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QUlFGcmdKVW5neEMxdzdzR2pQU0ljSkxjT2ltb1U4WC1vZmdUcXZQYXFud0hQTDRLM3VJekJ1QmZybXVsMVhmUGlYTTBCNXJpdURkMi1VblVuQQ?oc=5",
-   "time": "2026-11-08T13:23:36Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_60e9a7ec1968b9b6f861",
-   "id": "60e9a7ec1968b9b6"
-  },
-  {
-   "title": "กทม. อัปเดตสถิติเยียวยาน้ำท่วม อนุมัติเงินผ่าน \"ทางรัฐ\" ทะลุ 4.6 พันล้าน-ยื่นออนไลน์ทะลุ 1.5 แสนคำร้อง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ประชาชาติธุรกิจ",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85WGpTZDZpWUp5WG1iOVZsZU9iUnB0b01KXzU0dVE4YkZqdExRVHJ3eC1UNDVaTW4wSV9VOVd0OVplc0taRk1KWWpJazFfLUhEUTlUOUp6QQ?oc=5",
-   "time": "2026-11-08T13:18:35Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_69bd0f1e42df0d529ba6",
-   "id": "69bd0f1e42df0d52"
   }
  ]
 }
