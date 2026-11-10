@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T15:44:41Z",
+ "updated_at": "2026-11-10T16:03:00Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 16,
+  "flood": 17,
   "flash_flood": 12,
-  "storm": 24,
+  "storm": 23,
   "landslide": 9,
   "earthquake": 20,
   "wildfire": 1,
@@ -1103,18 +1103,18 @@
    "id": "905d512341783b90"
   },
   {
-   "title": "สภาพอากาศวันนี้ ไทยตอนบนเย็นลง 1-2 องศาเซลเซียส ใต้ฝนตกหนักระวังน้ำท่วม",
+   "title": "สทนช. เตือน 14 จังหวัดใต้ฝนถล่มระวังน้ำท่วม จับตาแม่น้ำสายหลัก-อ่างเก็บน้ำ",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "flood",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNYmpWd2gzdTRpSGhENVNTMXhDUmRJY3pOb2lwNGV3SUJ3R0d6MkxlT3RJQ3BvdWl0dEtHQk83NVZvWkpneXlhSHBjXzlyczBhcEJSU3V5Y3g?oc=5",
-   "time": "2026-11-09T23:01:49Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQ1c2ekFCZ1lkcVU5WkJCX1VXWjJCSk84bklFSEl3NTJmTGdYTzM3Rk9PRVozMzFLNXdaYXd0STcyUTVrSEp3bzUwZ0djX2VFV2pyNw?oc=5",
+   "time": "2026-11-10T00:17:56Z",
    "location": null,
-   "id": "fc5c636497fc0b69"
+   "id": "fa2eb9a4c231a5a4"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
