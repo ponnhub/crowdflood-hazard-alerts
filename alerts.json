@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T23:15:22Z",
+ "updated_at": "2026-11-10T23:29:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 17,
   "flash_flood": 12,
-  "storm": 22,
+  "storm": 21,
   "landslide": 10,
   "earthquake": 16,
   "wildfire": 1,
@@ -29,6 +29,48 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.6 | 11 พฤศจิกายน 2569 เวลา 05.00 น. ภาคใต้ยังคงมีฝนตกหนักถึงหนักมากบางแห่งในช่วงวันที่ 11–13 พฤศจิกายน 2569 ขอให้ระวังฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเล: อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร บริเ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi4AZBVV95cUxNQ09QajJNTU05MGVNOUNyVW5wRVpzc2N2THprU1FXR08tRU1LeVFVWmZsUndTTUVYaE56ckJSWWhkVldlaGVlZXlYX0I3MlZCbDJ1QXk4bDFFcDBYbVFwMDFYQUhMalVfYk9EV1hiRjRBNmZRVG80OHE2SHZ3RVU1dEk5QkhvcTg4anFGWGlGVWFIa0VlNFFTQVBFTFo1YWlqZDIycm5uUWp0N3N3SWYtRllXOW9sampKLXN4VXV5N2RETlBDdVpDNUs2Y21DY3NXQzMxNFliZXpoRWw1ckRRSGVicTNRelZDczRJRmRackxrODZRcHBpZXpVSlR5aWZVVVZpWEthUlR5NkFjeWJ1UFpaN1V1Q09peFhVbWh1YXlBNkFKTVZySTE4eW5IOWo2NFZjWVBHNVZkYjFPVU9MNi1FZ1RCVlcxOVBjdnlYVnNPMkJEaS13THlpVWZuNTJDYnNUT055MDQyLWlCRGdDQUdmRkFrMnduNzRUZV9URE91VkN4QmZZcDlCYVkxX2ZUNGFjVWswRFFlNmpBazZKRUpZN1B3bXZzcGg1VGk4R1RIR2lmM0RVeDNmY25LTTZrT0wtODQza05yZWdHbFloMHdJVy03NTNVZTJlckFyYUlEc0g3dlV6R0wwdmxMeE5xcmFiYUt2LVQtdnB3Zi1kbkJxYXZhVV9jVjZaR0ZYRDhFLVgxemYwSWdqbXFmNmxTV0QtMmRjLXBkdDF0d2xob3AtY1B2alZqN193M082WUpPdjFQQmF0d1BJQVpBdU9KZXhMdXRHVDVOYTB3Nm03QUIwbGhDRUd3bnktaElsU0xhaVcxNjhmX2pXRVdsWXpjdzRBdnBjemhXQnlqYzNWUHZpcnNtU05laS1wM280RzhORi0xOXpGMkNfT0JoRHdRemVEQXBNeVdNMlRKaDZ5bWxaZlJoaU1kbS03anhrUmY0b3lpTEN4ejN6cUZKN281WFpLakpxUnNVU3hYejA3MVJSemZmNVNWTG9jX05rYnhaM0dTSDJyWmdta2I1WGNKajhiTFUxZENNQkhDUjh2SzNqM05kMEl5RXhUZ1NTZnJQVDRZaHY0dWRRQ1JuX21RN0llZlMycUw2YUZTUkZzRXF4ZHczTzQtN3owY0l1cmQ?oc=5",
+   "time": "2026-11-10T23:15:00Z",
+   "location": null,
+   "id": "a60dc51176539a54"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ออกเมื่อวันที่ 10 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่จังหวัดฟู้โถและแทงฮวาไปจนถึงจังหวัดคั้ญฮวา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVLUEZkZUpaQlBYd09LajZBTmRzaUVhLU5MYVBBa1NpY2xzNE1JYmRaalBscTk2aGQtZEY5MW14cDlrUDByNjZiS2N4LWRDMzl3YV9waENFUGwtQzNHNUZTQ1J0aHNJRjBxcTNMNDBPOGtlbUNxeGZEaV9aM2htd045ZXVQWDdXY1ZQVm5acERxWlZrZnlwUUhDVll5QTFXd29mc0NvVkp4ZWZ2Xy0wQzFsT01pS2c?oc=5",
+   "time": "2026-11-10T18:52:03Z",
+   "location": null,
+   "id": "2c34c111ace001fd"
+  },
+  {
+   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
+   "time": "2026-11-10T15:28:38Z",
+   "location": null,
+   "id": "dfae17ed42d7881b"
+  },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
@@ -215,20 +257,6 @@
    "time": "2026-11-10T01:48:30Z",
    "location": null,
    "id": "12634b431a5e2537"
-  },
-  {
-   "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxPOUMzWkVNY203Wkh1UjMzRWZjdXF5UmVuNURrZnR6ZmhKMFlIYVNFWlk0Y1NlRm4wUnpGNjJkbTVmcDJtNUFUMThWbjJEMl81LVVUVmNxclVJZmJhMUZiT3kzdEtFelgxOU1EQ1d1WXlIWHZjZVZjUXJZeWFJQ2tkOUdIdHlLVlp1MFVKQ2lVcmxMemEtcU53Y1NUem44aVRoWFMyOGlGR2JvUFBBUkduZXJ1NlFHWE8yOGxfa1lvYmlPZWxEUFVQbGduYmYtX1RqUFdpdDNHRENpa3JhaHRjX21pbTlpRG54RHJ4OW0wZ2FjNFVNZlZNM0RIMTE0SGFkZVp0U3pyTWVlMWlZYU5nU09Qd2NwY2ZUWXB1eU5sMjdoYXgxaGo0Vi0yQXh1R2Z6YVBNbEZiNmhOanBFV3A0X2VuMWZBQU8tUWRDRzBZUEU2MVFsaXl4d0tjYVdmbkp2aUtkNDhqVW1ITWdyUGxuS2Q5SWVFQ1djSm1MLUZMTUxzM2ZIYlBuMExTek9BbHc1cXFGalpZNHI0UzUyMDZYOUdfMnJ6ZzF5Vk44Zk5HZXVmT21IaEZMTFpZblhneTJzdGdldzlidVZQY09wXzZ3Umc5MENJSjcwRDMxZGJsUGJmb2dDRE1wSmYzdmVCWk83M01XdlY1bmtaQVMtczJyc2xwd0d4ZEYwNTVReWt0YzQ2X1NmazY5Nkh5c3RpYUNnNnE5V2UwRzJmcG5TRVluNnlKWmFVTUx2UVl4RXBYQ1ZkU3oySC1jQlJETEJQN0xucURLdWJzWl83MlE3eldZMEhlNml5RG55SEhsa3U2dV9EbEN2OFNhUEN2Vkw4YlA2ZHloNzlfV3ptbllQWEJTYzRmeEdtd2dBbWw0WXRGNC1mZlNRZ0Y2aWFfa2c1UkNkQ3lqMHRQeWFQdVB6RjdnaldibUxVWFFNTE9UY2p4MkFTd3NJVEExcjN4YVVRSER2N21WMHFLMVBpS3p6dC1BWVBSdjNPZFVuV1EtbEpBYWZRVmxBalhGYXZUWThiT24tN1ItMUF0NkdON2s4NzdOVXBNQVBtTTRRMlhRTng5Y1E2UnRjLU4yQmpZbzZsQ0J1YnI0VWVtaldleDd1OGFrcUZVU2NlZEVkUWpzM2Z0T2REbmlLZWhNQzZUT01OOW9H?oc=5",
-   "time": "2026-11-10T01:45:04Z",
-   "location": null,
-   "id": "9f9a1aff207e61dd"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 4 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
@@ -590,20 +618,6 @@
    "time": "2026-11-10T13:48:34Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
-  },
-  {
-   "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRNTmc2OFNsSzh2TjVFdzVNREFQbVRCZ1dGM25FX3RVelhXenJOd25GZ1lBWGJoU1Rwd1lnODl1V3BnYVd4TmFDUl82bHRkclc0TVhxaGlRbE9sN3NvTEp0QzNmVktpMlBrU2JkdVZrWkdQUW9NX2dWczVocURwdlRZQzIwdU81b0tpUHFKMlJfNkpEOHFKbktacWhNSjhidmRUVXN0VDdDcTltdHZBc0c1TGtldThCMjY1VTJBcU4?oc=5",
-   "time": "2026-11-10T13:14:09Z",
-   "location": null,
-   "id": "92cdce87ec6ed0d2"
   },
   {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
@@ -1112,34 +1126,6 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
-  },
-  {
-   "title": "ดินถล่มในค่ายผู้ลี้ภัยกาซาหลังฝนตกหนัก คร่าชีวิตผู้คน 4 ราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbTFyT2tsRVd3dlBFMFZlSEtUbHBfT2h3WHRIYVdBWUxWTWlBeWtEbmpDTGdza1BYamtsalRrS25xSExYemwxN3JxZmNCUXI5VEg4b0Q1YTR4WEc2eDV6dzlmVnBFX3V1RFc3T2xiejg4WHNablIyb3NEQktoZzdyRzFDOFBlcmJWSl9v?oc=5",
-   "time": "2026-11-10T01:21:12Z",
-   "location": null,
-   "id": "49a3d0db4409b5ac"
-  },
-  {
-   "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNWFdTZGdLdS1oeGVrUEp5ZWhMbXBYZldxYlc0dTRwdEMzSEF3RVRJOHdoVUVJSnZnQVZLSVhHZ2F1RTh5OFJDNGhNWHZVYUFGQ3NabE5KckptVG9oZzROd0lpQkNRMFY4WFpyWUlHUVNXS2pCRHNXRzFYX0Uyekx5eDhZQVh1RjQ3U1MtU3FibnZQdlhGNUxMTVJkb1c4V1BxbUlhZkdfSjVMS3A5dFVoRUFmVTlvdlBtTzk3TGp1NmNIT2NPSXBaaElwU3ZNejB2eDc4dnBPeXZ6VG16T09FSVhpa2EtNHJabmw0ZTloMHlOZG9JVHB1dF8yOWNhQXFzOExSVVNLM0g2UjBXWVdhTDRMQUFTSnNxcVZlcVUxbHkyVU5wQ2VOa3NZcHdYZHh3TGJacVlBNzFmMl9vUHpmN0NxN2JWdDFhMDhQc3BZNzZpbWxyZ2JIVTc5N0UwZ2RINEh1MURpbjlIS2FYdjFxUWl3LTRHWmVJRlJsZWR2cW9LVmFPSTdEbmd2MUFja0ZTaHBrYW11SmdBRnpnQ3N2N0RkYjBLV3hlRktFVEV6LVM2T2k1NXpqcERObWdYZm5ieHphTVhOWXU0SUs2eVR0TFRpcmZ0Z09EZGcxZTE0VTAwWGhINWh0ZDQ5a0dPUjczV2VmY211My1sR0EtLW5jNDFjQTZOVmJmVkNuMkt5YkRveTNRYnE3bVMxTjhuaXhDTDc2d2VCcXcwNVBWZVI5bFppakdzUnVWVjFIblpMVHVjUmlYUm5NZ3JHeExkQmNUTjBwWno4OHM5QmhiS3JxM25RNkxUWXRkQTBBUm9QTzQ0c09MY21fVHNtOXhac3dORl93WkxBUHQ3OHJScUdCLWhXMlNXYmRwXzlKVVBrVlEtd3lvcjBMRE05czB3bllsbldxZHhQMjByZC1ZSmZ1R09WbzJfaFRmSDJvY2k5MlkzV25FSVJqNFVheVJhU1dleGkzUDczQ2F0WGVTekZwZEdCS2U3ZmpZV2RjVmxXenJLNTZJNjVtU3NfcEVqSGsxNXQ2RTJqT2pUTndNUDdpM3E5Wk9LbTNyYVh3NmlKOTkyYUpsSjExdVNVVGtzUEI5WU9oX0JqUEF1OEdhYlJzYjVpMVhGOXJTemdBUGtNYVlvR0k4ZlE5ejZQYXZqcXI3Sl9nYzlTQWhVWUZ0dHhLNlRiWWgyb3E3LTdDOTIxYk95YTEwQVE1bENFU1BaSVUtb09xYU1lQzdfazRUVkVxbWQyV3FQNkxLRk9MVGRscDBEYmFBYnI3VVhKdE5vYTdCcDNkMWtKWnRFUjEyTW5DbFhzdzR1Y0FiUllQZ2tKQzY0alNWcXltM2MzV3J4bzQ?oc=5",
-   "time": "2026-11-10T01:00:00Z",
-   "location": null,
-   "id": "0570a12b2cde0727"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
