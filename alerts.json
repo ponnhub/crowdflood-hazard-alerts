@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T10:56:45Z",
+ "updated_at": "2026-11-10T11:16:43Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 27,
+  "flood": 26,
   "flash_flood": 13,
   "storm": 23,
-  "landslide": 10,
+  "landslide": 9,
   "earthquake": 21,
   "wildfire": 1,
   "drought": 8,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "กรมอุตุนิยมวิทยา เตือน ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 5",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMjFabmswZHpmb09QSTBjdzNHMFhkaU0wX2VPMS03SklCdUw0VXZ5eDRNRXRGV3Q4QjRxVDRYWWlzQVFhYXRZR05NdldNMWo4MWxicUJ3?oc=5",
+   "time": "2026-11-10T11:05:00Z",
+   "location": null,
+   "id": "e58d453d048f41de"
+  },
   {
    "title": "ภาคใต้ 5 จว.พรุ่งนี้ 11 พ.ย.กรมอุตุฯเตือนฝนตกหนัก ระวังน้ำท่วม",
    "summary": "",
@@ -112,31 +126,6 @@
    "time": "2026-11-10T03:38:00Z",
    "location": null,
    "id": "a48da4f92f01ca28",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
-  },
-  {
-   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSDEwR29Gblh2VE91MUYtcWVCSGpEcWE2WEtJQnNldEJ6bE9YNU50aF9rTlJISHJrcGZwVjNUV0JkYkNCbUphUHV1ejZGZ21nRENsT1JtdkdMTFN5?oc=5",
-   "time": "2026-11-10T03:20:00Z",
-   "location": null,
-   "id": "32dfc0eb9712a500",
    "area": {
     "code": "TH93",
     "level": "province",
@@ -422,6 +411,32 @@
    "time": "2026-11-10T10:35:59Z",
    "location": null,
    "id": "d1f317140600442b"
+  },
+  {
+   "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVNTQxZThnODN5TnhDSnNIWlZrWjl6S1E3dzVDVEFYWHJoMVVscFkxYlJJbDhwSWJ4Y0JKM0ZZNEw2d3g2b0JqU1gweHZrT1RCYlE?oc=5",
+   "time": "2026-11-10T10:27:48Z",
+   "location": null,
+   "area": {
+    "code": "TH24",
+    "level": "province",
+    "name": "จ.ฉะเชิงเทรา",
+    "bbox": [
+     100.848,
+     13.182,
+     101.99,
+     13.977
+    ]
+   },
+   "incident_id": "fr_news_26b37764e309d0b23c9e",
+   "id": "26b37764e309d0b2"
   },
   {
    "title": "สภาพอากาศวันพรุ่งนี้ 11 พ.ย. เตือนภาคใต้ฝนตกหนัก ทั่วไทยอากาศเย็น ลมแรง | The Bangkok Insight",
@@ -919,20 +934,6 @@
    "time": "2026-11-10T00:17:56Z",
    "location": null,
    "id": "fa2eb9a4c231a5a4"
-  },
-  {
-   "title": "พยากรณ์อากาศวันนี้ 10 พ.ย.2569 ใต้ฝนตกหนัก ไทยตอนบนอากาศเย็นลมแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOWVyLVJTN0g3Qm5haGx4Q2NZa1pKeVFjOFpidVhLWm9vZTlXSlRFSEY4TEd1bGxYdFdHMGp4aTJQVUFIaW5kbC0xTEZuWGQ3R2pv?oc=5",
-   "time": "2026-11-09T23:46:45Z",
-   "location": null,
-   "id": "25d1891173063ec8"
   },
   {
    "title": "เหตุดินถล่มในชุมชนเกาะตันลอง: ครัวเรือนหลายร้อยหลังยังคงอยู่ในเขตอันตราย",
@@ -2033,58 +2034,6 @@
    },
    "incident_id": "fr_news_c854cbc730e3fd82dcc5",
    "id": "c854cbc730e3fd82"
-  },
-  {
-   "title": "เจาะ 5 เหตุผล ทำไมน้ำท่วมกรุงเทพฯ ระบายยาก? เปิดแผน BMA รับมืออนาคต",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uNEtUTEplRldReDBvWmJFaEpUYS1jVXJPN0tmZU53andRblg2MXFGcXlRU0ZzcVhYODFjRVNtTDVYMWNIcUN1WE5RcFJ2TmNkaHNMcVh5SF9zeEx2ZjFEeWExdV9wZw?oc=5",
-   "time": "2026-11-08T11:09:28Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_c2b455f0f37ec2c5640e",
-   "id": "c2b455f0f37ec2c5"
-  },
-  {
-   "title": "‘ปชป.’ ผนึก ชาวแฟลตคลองจั่น ฟ้อง‘ศาลปกครอง’ บี้ ‘กทม.’ชดใช้ เซ่นน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zUDQyODhQUXhZdGo5c3Q2Mi1kSUpEQjhMMHFqeDEzVTdBVFV5bldMR0ZxMzk0SnlWQ1BFWnYwaDdiWTJkUGJTSzRaS1k3MUxaTE5YZnROeGM2aDQ?oc=5",
-   "time": "2026-11-08T11:06:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_d17541b985727a142397",
-   "id": "d17541b985727a14"
   }
  ]
 }
