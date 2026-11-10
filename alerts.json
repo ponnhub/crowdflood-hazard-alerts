@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T08:01:07Z",
+ "updated_at": "2026-11-10T08:15:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 28,
-  "flash_flood": 12,
-  "storm": 22,
+  "flash_flood": 11,
+  "storm": 23,
   "landslide": 10,
   "earthquake": 19,
   "wildfire": 1,
@@ -284,6 +284,20 @@
    "id": "020bcaed1705e02f"
   },
   {
+   "title": "ปภ. เตือน 16 จังหวัด ภาคกลาง-ใต้ รับมือฝนตกหนักถึงหนักมาก 9 - 13 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWUt4dlE3MFpINFYtTjg3X0QtM2lyby04MmlZcjN3NFNHXzRGTWsxMmVkY3cyc2Y3ZnYzVXpRVVpiMXY2a1lNM3ZIR1lYNlFycXEyY0pxbkM?oc=5",
+   "time": "2026-11-09T07:32:03Z",
+   "location": null,
+   "id": "c140b7348a1296b9"
+  },
+  {
    "title": "🚨 ปภ. เตือน 16 จังหวัด ภาคกลาง–ใต้ เฝ้าระวังฝนตกหนักถึงหนักมาก 9–13 พ.ย. นี้! ⚠️ เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ขอประชาชนพื้นที่เสี่ยงเตรียมพร้อมรับมือ กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) แจ้งเตือนประชาชนในพื้นที่ 16 จังหวัด ภาคกลางและภา",
    "summary": "",
    "category": "news",
@@ -324,20 +338,6 @@
    "time": "2026-11-09T04:19:00Z",
    "location": null,
    "id": "ae4cbc4385818553"
-  },
-  {
-   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWkJMMmIwdzBsRXZPZmlYMzZKb1MzUExyOW1Fd0xONEtpSmk1dWQ5ZXFDTUw0SDlSSkZYeUNCWXFWWU53Sy1nSTFLcDcycmNwQXNV?oc=5",
-   "time": "2026-11-09T04:00:27Z",
-   "location": null,
-   "id": "81db9746d2cb254c"
   },
   {
    "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
@@ -625,6 +625,32 @@
    "time": "2026-11-10T02:17:34Z",
    "location": null,
    "id": "9efb77d2387c65bf"
+  },
+  {
+   "title": "คพ. ลงพื้นที่ตรวจสอบแม่น้ำปราจีนบุรีเน่าเสีย-ปลาลอยคอ คาดสาเหตุน้ำหลากพัดซากพืชเน่าสะสม เผยค่าออกซิเจนจุดรับน้ำต่ำวิกฤต",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42SVJGX3psN192TFZSMHdkODBOazlmcDRoRVhITENZWlRZRTBvLXRXZEVIcTdlVjhLLW14TFdtNElEQzBwNGk3WFFRYUVVdjM2NERSWURoR3c1WF8xUmZyVzdFS2JSX0J0Ty1oV181STlLRUIt?oc=5",
+   "time": "2026-11-10T01:52:46Z",
+   "location": null,
+   "area": {
+    "code": "TH25",
+    "level": "province",
+    "name": "จ.ปราจีนบุรี",
+    "bbox": [
+     101.138,
+     13.584,
+     102.124,
+     14.462
+    ]
+   },
+   "incident_id": "fr_news_3e986d3e412913405365",
+   "id": "3e986d3e41291340"
   },
   {
    "title": "ฝนฟ้าอากาศเช้านี้ 10 พ.ย.69 | ไม่หวั่น แม้น้ำท่วมวัด แห่ไปทำบุญกฐินคึกคัก จ.นครศรีธรรมราช",
@@ -989,6 +1015,20 @@
    "id": "c8d98ab891413ca3"
   },
   {
+   "title": "กรมอุตุนิยมวิทยาญี่ปุ่น | ข้อมูลแผ่นดินไหว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "気象庁",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZi1qV3ZUYXRPM0VEOUFpY1AyRWdIeG9XRl8zc2xkZ2twV0NtNUFCNXYxaTc0Q2h1S3QtazMwOXJkZlRjcENxa3l4OG5ueVNmQlkyUGo4a2VvM2hEXzE2dG9QaEZCOXNuLVIyYkNtenpPVnh0QTVJSGdFdXhPbVNjZ2tzS3lhcDR2S201NzVmSm4?oc=5",
+   "time": "2026-11-09T08:12:28Z",
+   "location": null,
+   "id": "30826b7c1f86aa09"
+  },
+  {
    "title": "ไทยเข้าสู่ฤดูหนาวแล้ว! อุตุ ยังเตือนเฝ้าระวัง ภัยแล้ง ไฟป่า",
    "summary": "",
    "category": "news",
@@ -1340,6 +1380,20 @@
    "id": "8f5166b815047562"
   },
   {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
+  },
+  {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
    "summary": "",
    "category": "news",
@@ -1681,20 +1735,6 @@
    "id": "404b017f2a185bbb"
   },
   {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 กำชับเจ้าหน้าที่รัฐเฝ้าระวังและช่วยเหลือประชาชนอย่างใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ททบ. 5",
-   "source_url": "https://news.google.com/rss/articles/CBMiohFBVV95cUxOdHNkN3dOejB1LUNRbU9DcVk0RzktQVZIRTROc0c2S1NTdE1FWjNwdXR0ZjVwVUp5N2lvNWVZUUFUSm5lNnF5c211UzV6empHbFZnSkxRUWxyNHhsdHBtaEVEZU1IZFFLTk9IRkpZTUNxbnh4QzlPa0ZLOVFHcS15MmVXcndDRjF5V1BWRzBvTXlHTWJUa2pVdXdOakNpVVUzQUR0QjZocEVHWWpzYklnYTJJVEMyNE92d3o1TlpGem9vUTBEWXBETWVXVzk5Zl9OczVhQUtEcmlhQ1hBUHNHaldyejRsYm50d0JsUkZTLWtpTVlpbHljZXlHbjhyWnVSZUhqb0hqeUFtVXhUYXRuQ28yWUdXeWltUFFHNHFPNEFFSVU0N1Q5aDRTblJOYldfTjBxTjJPWXpGUnF5YjdkQllTOU5WYjZvWTk1TlRfenYyUXA4M1JuTF9sWGdVcWY3elVhZXZHSGZNV2p4azUwam1DT2NIbHBYa0N3Wk8xSUtYY0lLM193cTBjUnJ4dGdXMHBYRzF2VTREWFhlYjU5aThVXy1pMWxyVHRUbC1pY2lMcGQtamp3Y3BGYkVkdFhHdkFDVDlybmVHRUVuRGJCU2J3UDc3VTEwVXJfcWJPdktFbHNaTFNxSGRCMjlIMHpET1BvbDI5Vnk1a05xRDFoM2IwUm9DbkRwTlRBU2t3djlZZ0tqOFhLaUhOU1RjYzZwdjgyX09Xb1JxRmx0eVVFNF9qd3QtVlVIVXJPLTU5UEpLTmljR0x2OVUwTnBrS0NoOVhOMTdxc0pQblZPbHpDRDBZVVdaNlJnbVlXOC1FdWVGSEs2TWJQM0VKd0d1Z2d1S1lxTDdheXFrMVRVUkxzUW9hZWVZOHBjb3BrUFRlZ0RQQlBqTEZESlVJU3BRc2gtMWV3X3RKSi1kNzJqZHpZNlFQTF9yVE9jc0hvVEZOZEVqanl6V3Q5a0pMRzFmeFQ1Tm4zczl3dHZtQ3lES2NRMUZhRnNrM1pFMTg2Ykd0dkZXUzE3d3NLQkw2dEo0VjE3dWlVS2J0aS1OeDA3djVBd3p3WVZHS1lBdjdJQThISmRJazJkdno5SS1OTW9OSENxT1lkSFlIZzVHTk55bUhzdE16SVhxRi1XM0JXcllYc2ZLaUJxT3NnWlh1NnNwUS1JMFZiMGZ4NWZyeTdsU3F4Xy1vQzNXMUpibXdIcF9ZMDZydGVDVHFCVnd1QU4xOGxGMTVXejFqTHNiVkdTdHd3NWxXZE9oazQwNTRPbFBTU3hOY0haSkZiN1czVmludjVhVlVxUHhJeDNHNkhSYXZ5NUxtOWZNZkZ0ZnNwUTFuS01lU3VrT3JFN2JrNkxWcW9TUGwydU1VVEtmMmx2WWtfR2hGbTdPTlZaX1gzS2R0LUxKb2pMcG13d1E5cTNiRXc4ZnFnV1JXMlhxSC1vX1VlRm5lczRMSmFmVXB0eVVUdE1RazRZcEw5NlFQaGpuUVhCU0h0ZWtXV2d4d25yNlZkam43a2lSRHNzenNKSFR3NGlrcEJqT2ZtaVVna1FyNnREdVl0RW4yYTEtaDhzWkloSkpaTUg4TG1UT0VLdXhTN2xYck95cFdLUEJvcFN3OXlXRTNXbVVYNXd4RTZZcXNFbGFzY3FBQ0VFbHZRVk1RN3RUR242WGdBRnlmOWMxUFZPdEd1UkRiWHpTZXRJZFMxQ2RLYmIwaEt2ZXJ5dVd6WGpDSklGSDdaVXFmbVcwUmJ1RHV4QWtsdmxOZjZieFh4R3N2UmtxV09aTU43ckFNYlFyVjU5TENTdkN4Tjd4MG5RNDFzLWZZRDBqNzU0RU9lU2diQnlwM004Qlg2OU81ckZEbkJpc1RJbE82a0RYVWVZNE9uemJzbG9VWkxlc0JvYjhWNTViY2Y4SUppb1JzSTN1dG9CR0VraURubXVESWphcU1weFl1aDE0WER3SFAzdmlwYU16VmF0bDVfR3JCU1VRdHpBR2hxU3VjcDBDdzJxUV9VNk1CVUFhbEZxSlN4S2NodVdwLTNPbXVTUHlFZUt0OUpmb081RGM5czFhZkZ3aXRyWTE5ZExZUVhfTGlOSTFVbDh3a3VQVVc0ZTAtT3FIeDhFaFg1bGg4LWpZX2VEZjFISmVlN2hHaHUyb21BMzN3bkJLakFfeXpBWGhFSmFjaDBOSUpiY0ZzcU1IaDNmUFRpQmo3Q1FCWUdMbXVsVTBzRUV1aDQ0MmRfcElabUN3ZHNkSl8yQ0hjUkdtTmJobFVDTVJZbW1QaGQxdFFwOVdqd2lxUWlGUmtxME9PMmJYcjhUelNiLVpoWEM0NDZHcjBMX0gyR0toZ0tsbFJ0Y1p2ejRRTklLVENQUHhhNUE4TlliT001eTVVYl9SUlJCN0VwSmtrLTF0dEVHMUJaR2otYjhzYzRWOXlDSGtHSWZfSEREclNEbkNBSGp5al9mSW9qc3hURmRTQ0JBZ3hWcjZuSEFwb1U3ek5PeUl1WFJkR3NvdHprRWZEbWdLeE1rMklqZUtkTUpsYS1PSzk1dUNXbnpZcDJNUUlaby1KVS1kcXE2VjNjZDBHQmxkaU1mQU5LZjV2OFgwcmhXODNCbWdHTjdjcXNMb2dSWnRvSnBaNm0yWW82ckEzekwxRnJ6bHE3N0xEdWlrZFRFZUtXZTVXZGdKeXhtcm1VR05lLVFiSzFDV2VLSmItbEo2bUJkeWxXOEotdWZYSDVpZDNiUE05eGhCUDVlRWpLNjI5ZVhTRk83MDNDU0Ftdy1Qb0VBb3BMMUt6VEh4dEpPalRaSXZPYlVNR05kVklrblJzNGlySEJOenc1N1JqTnM4QjBpNVAwbV9EWm9Cb1Q2U3VLRWhMNExvZmJ1dW1FUXg5VTc0QkhWdWtiQWFjR29DRjVtNjhNWlQ4bk1jdHdkYVRmZFZtTFcwNUU5OUEzUElyY0JIQQ?oc=5",
-   "time": "2026-11-08T11:52:00Z",
-   "location": null,
-   "id": "b6ce138a4b67d85a"
-  },
-  {
    "title": "ปชป. จับมือ แฟลตคลองจั่น จ่อยื่นศาลปกครอง ฟ้อง ‘กทม.-ชัชชาติ’ เร่งชดใช้เยียวยาน้ำท่วม",
    "summary": "ประชาธิปัตย์ จับมือ ชุมชนแฟลตคลองจั่น เตรียมยื่นศาลปกครอง ฟ้อง “กทม.-ชัชชาติ” เร่งชดใช้เยียวยาน้ำท่วม ครอบคลุม-เป็นธรรม ชี้บกพร่อง4จุดใหญ่ เรียกร้องรัฐ อุ้มกลุ่มรถผ่อนกุญแจเปล่า 8 พ.ย. 69 – นายสกลธี ภัททิยกุล สส.บัญชีราบชื่อ รองหัวหน้าพรรคประชาธิปัตย์ ดูแลพื้นที่กรุงเทพฯ พร้อมด้วย นายราเมศ รัตนะเชวง รองเลขาธิการพรรคและประธานฝ่ายกฎหมาย พรรคประชาธิปัตย์ ลงพื้นที่ชุมชนแฟลตคลองจั่น เขตบางกะปิ เพื่อติด",
    "category": "flooding",
@@ -1971,46 +2011,6 @@
    },
    "incident_id": "fr_news_fbb0c9cc1c3fff20c9ff",
    "id": "fbb0c9cc1c3fff20"
-  },
-  {
-   "title": "ญี่ปุ่นแผ่นดินไหวสองครั้งซ้อน ขนาด 5.7 และ 4.3 ที่ชิซูโอกะและคุมาโมโตะ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5bDdackVwTGEtN0xfXzE4OEg0NGhJUjhSbmd5THlUX3BJR29IRThXWjVwWWhRRkJMOFZUX0piV1FQMlRjbWpzaldLdGNOTXotTUE?oc=5",
-   "time": "2026-11-08T08:37:39Z",
-   "location": null,
-   "id": "ba3dbbb976529454"
-  },
-  {
-   "title": "# ชาวจันท์แฉ! 3 อ่างเดิมกักน้ำป้อนโรงงานจนเต็ม? น้ำท่วม 8 อำเภอ ยังคิดสร้างอ่างใหม่ 7.2 พันล.อีก! ชาวจันทบุรีเดือด! ตัวแทนประชาชนผู้คัดค้านโครงการก่อสร้างอ่างเก็บน้ำคลองวังโตนด จังหวัดจันทบุรี วงเงิน ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiygdBVV95cUxPeFdlNU40cVVTcVZLenRaY2x2bTJycUNOWGNxVEVHNmhKMVROQjNkMVc5WUU4NkZhcFR4bFJvZldpcE9KOWIxV2FMazR6OS1yUEt6T1FEV3dRS3hQYkFCUmgtd0ZIcTgzWkRoNUpVWnNKYmVxS1FTWl9pSjR2NkkzLWRRam9ET0R6M2lnYkJwYm5nZWdxd3RGN2ZoeWxoT3poT3ZpQXE3XzI1YUtmcGw4bFlYbm1hRUQyeUZMQ3ZhazFITmllSWdiZHk1dkRlQ01NRE1IZWs3NUVTQ3dTR3JqQmxWNUpCczY5dm5iejZJR25HS2UzdHg5aTZCRmJhaUxHbGlMTG5jcDNIalRVb0cwYXNpSWFpWFFCMmVPMk93SnZVcVFCMGl4NUYtY1d0OThWSldwR3M4dXZadEozdmxUaXExN21lcHdaYnBSTnJFNjZxMFpJLTR2Q3NHMlZNeldvVHVPR0lFd2F2MDVQZWxEd19qUVFtb1Z6RjhkVHM5alJEVjZrUHdoRlZubE84cW80ZEVCZWwzbWFWRTZUcGVyUWVuQlYwYmFaNEs4VDI0WkY1djdpWFFwc19mdFVlaGs1eExiMkxWei05M2UtTWpUSWM1QkNUd29oMmlEdDktYnltLW9ZRFRPc2FielpyWU1JM19LNDVpcXQ1azQ5QkFZV3FZNHl6Z0RReVYybWoxWTBsZVFvMURNMjFtRUJJQ0piaG9fbFpPeVNoV25VS1F6WHNLemFObnRkWUxtZnFkQTQ4Vy1aR1dEZVBYOVYzSVBraTJBanFibi02ZHluNzFFOURnMC1BZHdqcW4tN2lteW1Ta1dKX0JSV2k4dC1TUC1MM2tQNGM4UGdnRkg2NjNaUU9WSmZkSS1KdHFBMTBoQlVmNkd3RFhOdmxTUlhCbmpxSlZOZk1Gc25vbW1hZlZucnJMNk5YVEZLbi1OLWhGY1Rvd04tMEVqaFlRZ24wUTR2QmgyQXo5WUoxZHNEYWp3MjdpM2lmSVVUNUxtbTRZWERwRTJrN0x2eWktQVBqN1Q5T1NvdDRHeVViY2JfQkJxdlRSWjN0STJFczk4dkE0c21hR1JqeU1nUzNtOXhBa0hIcmQyUEhHYnBOMEwweWZQYkF1SF9tWHB0VGdrSmp1Szd5RXVwVmNEYVRNWnRZTHREamVFbHBqeXk2OVp2R1p0bkVvRllyUEpMT0twcVBobXNlSUcwdVdYZXotWlBIOWxMX1NpRGZXd2pvLWlNZTdybFlIZ3dyNkFRLXJ6VldTZnZkLVk0V0JWQnVR?oc=5",
-   "time": "2026-11-08T08:12:13Z",
-   "location": null,
-   "area": {
-    "code": "TH22",
-    "level": "province",
-    "name": "จ.จันทบุรี",
-    "bbox": [
-     101.685,
-     12.293,
-     102.532,
-     13.335
-    ]
-   },
-   "incident_id": "fr_news_e2edf4084aa2fe8e3e0b",
-   "id": "e2edf4084aa2fe8e"
   }
  ]
 }
