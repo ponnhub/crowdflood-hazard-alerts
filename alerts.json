@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T13:25:11Z",
+ "updated_at": "2026-11-10T13:42:37Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 19,
+  "flood": 18,
   "flash_flood": 11,
-  "storm": 25,
+  "storm": 24,
   "landslide": 11,
   "earthquake": 20,
   "wildfire": 1,
@@ -42,6 +42,20 @@
    "time": "2026-11-10T12:43:58Z",
    "location": null,
    "id": "bef368caf3a5ff92"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา เตือน ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 5",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMjFabmswZHpmb09QSTBjdzNHMFhkaU0wX2VPMS03SklCdUw0VXZ5eDRNRXRGV3Q4QjRxVDRYWWlzQVFhYXRZR05NdldNMWo4MWxicUJ3?oc=5",
+   "time": "2026-11-10T11:05:00Z",
+   "location": null,
+   "id": "e58d453d048f41de"
   },
   {
    "title": "ภาคใต้ 5 จว.พรุ่งนี้ 11 พ.ย.กรมอุตุฯเตือนฝนตกหนัก ระวังน้ำท่วม",
@@ -228,18 +242,18 @@
    "id": "3855163e7c93c904"
   },
   {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
+   "title": "กรมอุตุฯ เตือนด่วน! 14 จังหวัดเจอฝนถล่ม น้ำท่วมฉับพลัน 10-13 พ.ย.",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kSTJkQ2d4M3RZQmFYLW0zcDcwOEhDRmRBNWpHVEprNFdmdVhRdlhWVjAxVXJmN1FyM0lyVkJrODZZMDZadjFrZWVFZ2pXZFNOWV9tN1pJSkstR3pFeEdIYXhaYVVFQQ?oc=5",
+   "time": "2026-11-10T02:22:00Z",
    "location": null,
-   "id": "c66b8d445bce8cc7"
+   "id": "f8e2c2eecb91101e"
   },
   {
    "title": "อุตุฯ ประกาศเตือนภาคใต้ฝนตกหนัก ฉบับที่ 4 ขณะที่ \"อีสาน-กทม\" อุณหภูมิลดอีก 2 องศา",
@@ -535,20 +549,6 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
-  },
-  {
-   "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qa204Tjg4WXJXaFFucmVtV3Q0Tzh3NjkxZkV2Z1M0R3hLbjk3NnZmWTlfVG5oZ0lSMHM5bFlkOU5vX1U0cmVyRWZJZkJFVUU3SGpKR3BrY2J6c3VJT3J6Qzcxbmg1QQ?oc=5",
-   "time": "2026-11-10T10:38:00Z",
-   "location": null,
-   "id": "0cf9c4844c46bf30"
   },
   {
    "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’",
@@ -1191,7 +1191,7 @@
    "official": false,
    "source": "TrueID",
    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsNHJpREVCOUhiNnNHcnN2dkx5VEhIUV95OEtBUnhkeGJJT2tLLW8xdHR4NURQVkZ3WTIxeDBORUFuaU45MzhJS0dibE0yMkhmVG1FRGxR?oc=5",
-   "time": "2026-11-09T09:09:22Z",
+   "time": "2026-11-09T09:09:23Z",
    "location": null,
    "id": "48f84d75f537ae7e"
   },
@@ -1557,6 +1557,20 @@
    "id": "aa787350249d014c"
   },
   {
+   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
+   "time": "2026-11-09T01:16:23Z",
+   "location": null,
+   "id": "a9f0519346e941ce"
+  },
+  {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
    "summary": "",
    "category": "flooding",
@@ -1828,72 +1842,6 @@
    },
    "incident_id": "fr_news_796c9663895b65d0a6a5",
    "id": "796c9663895b65d0"
-  },
-  {
-   "title": "แผ่นดินไหวในญี่ปุ่นทำให้มีผู้บาดเจ็บอย่างน้อย 22 ราย: สถานการณ์ของชาวเวียดนามเป็นอย่างไรบ้าง?",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlRGS2pFQlM3bmc4TDFnVG1UbEl1WkFFM0JFaFphZDBPUkUwR0pDVHU5VkNqWXhqU2gxcGRaSXg4LWloVXlkMG9sNmN5SWJOZXNFWG1ON3lJcTlsTmE1TW9GX3B2MGIybndsRUNfVXJDR3ZuZld5Z1A0dVJqSUkzdnlQVmdSZ2JSZXJ6WkFlNjVKUGhEbnh2SG56NXVUQjd3WlE?oc=5",
-   "time": "2026-11-08T14:34:02Z",
-   "location": null,
-   "id": "dd52891119e461db"
-  },
-  {
-   "title": "“พิพัฒน์” เปิดทางลอดบางกล่ำ เดินหน้าวงแหวนหาดใหญ่ 61 กม. ย้ำพัฒนาถนนต้องไม่ซ้ำเติมปัญหาน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yYXFVOGhKWEZFdzdpaVVoRjdFYUI0bk1KZG0yUHl1VElrQmNOTEVpR25SR1dPWFB5QjJ6SEs4cV9LQk9IN1VmVTB6aDlzX0E?oc=5",
-   "time": "2026-11-08T13:39:54Z",
-   "location": null,
-   "area": {
-    "code": "TH90",
-    "level": "province",
-    "name": "จ.สงขลา",
-    "bbox": [
-     100.057,
-     6.296,
-     101.104,
-     7.936
-    ]
-   },
-   "incident_id": "fr_news_ae72ec5f342eab1e2421",
-   "id": "ae72ec5f342eab1e"
-  },
-  {
-   "title": "ตร.น้ำสัตหีบ ลุยน้ำท่วมระยอง! ระดมกำลังช่วยชาวศุภาลัยวิลล์อพยพ-ขนของหนีตายอลหม่าน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "COP'S Magazine",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHR0h3cnFGZVN5dlB3cXpYVFhmeEdSRklaRlloOHhrdDAxQjlTY0UtNFJPUXlWTi1NNURjUVViSjQ4UGREZTlLUWVXUjJlem9KU2thMlN3?oc=5",
-   "time": "2026-11-08T13:26:11Z",
-   "location": null,
-   "area": {
-    "code": "TH21",
-    "level": "province",
-    "name": "จ.ระยอง",
-    "bbox": [
-     100.984,
-     12.594,
-     101.83,
-     13.163
-    ]
-   },
-   "incident_id": "fr_news_94b36c20556ca2cdd64e",
-   "id": "94b36c20556ca2cd"
   }
  ]
 }
