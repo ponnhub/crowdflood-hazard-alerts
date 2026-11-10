@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T15:17:34Z",
+ "updated_at": "2026-11-10T15:31:30Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,13 +19,13 @@
   "flood": 17,
   "flash_flood": 12,
   "storm": 24,
-  "landslide": 11,
+  "landslide": 10,
   "earthquake": 19,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
   "heat": 1,
-  "tsunami": 3,
+  "tsunami": 2,
   "other": 1
  },
  "items": [
@@ -368,20 +368,6 @@
    "id": "a6030bcd91cd952d"
   },
   {
-   "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "จส. 100",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80YkdpWl9Od2FPWHZtX2p6YUdaS09jcEZGSkNPV1d4aWpGVnVRSFE1ZXRHMFpmUEVwcllEYzdfTWhwa0FZOWNPS2VKUGVDSGNLRVhHRjZOLXZtZw?oc=5",
-   "time": "2026-11-09T02:23:04Z",
-   "location": null,
-   "id": "9605d53062dc2839"
-  },
-  {
    "title": "รายงาน IPCC เตือนภัยแล้ง น้ำท่วม และอากาศร้อนกระทบการผลิตอาหารและเศรษฐกิจการเกษตร",
    "summary": "",
    "category": "news",
@@ -422,6 +408,26 @@
    "time": "2026-11-09T00:25:02Z",
    "location": null,
    "id": "a4b6ff48e5bc60e4"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 3.4 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 69 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17407",
+   "time": "2026-11-10T15:10:39Z",
+   "magnitude": 3.4,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.08,
+    "lng": 97.948,
+    "precision": "epicentre"
+   },
+   "id": "ea4fcf323e0b7b57"
   },
   {
    "title": "นายก อบต.หงษ์เจริญ ผนึกกำลังท้องถิ่น ดันฝายทับอินทนิล–ประตูคลองอธรรม เสนอประปาภูเขาแก้ภัยแล้ง 3 ตำบล",
@@ -583,20 +589,6 @@
    "time": "2026-11-10T11:23:14Z",
    "location": null,
    "id": "d626a5ff2cc9ce4e"
-  },
-  {
-   "title": "เกิดดินถล่มบนทางหลวงหมายเลข 9C ส่งผลให้เกิดน้ำท่วมรุนแรงบริเวณท่อระบายน้ำหลายแห่ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFVVTY0cXpEaGtrclNIQVVBTzhvNzkxdXppQjNNMWZzV1lCNVNuc2ZMUE5rRUFLaWJvVkJObWgyTlNfZUpYTnVaYWo1QmhrbFVVbk9qX3AxYUtUMGlhX2kwUXBzOFZkMEVqY0o2QmJ0QU5TajBmbTVKN3AxVXN5MmJlczZjR3Zx?oc=5",
-   "time": "2026-11-10T10:52:56Z",
-   "location": null,
-   "id": "a9084d31708db0cd"
   },
   {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
@@ -1677,26 +1669,6 @@
     "precision": "epicentre"
    },
    "id": "f6cd81e234ff3b81"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 64 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17397",
-   "time": "2026-11-08T21:32:12Z",
-   "magnitude": 2.4,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.042,
-    "lng": 97.978,
-    "precision": "epicentre"
-   },
-   "id": "8f5166b815047562"
   },
   {
    "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
