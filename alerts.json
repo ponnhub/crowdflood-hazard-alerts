@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T15:31:30Z",
+ "updated_at": "2026-11-10T15:44:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,16 +16,16 @@
   "other"
  ],
  "counts": {
-  "flood": 17,
+  "flood": 16,
   "flash_flood": 12,
   "storm": 24,
-  "landslide": 10,
-  "earthquake": 19,
+  "landslide": 9,
+  "earthquake": 20,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
   "heat": 1,
-  "tsunami": 2,
+  "tsunami": 3,
   "other": 1
  },
  "items": [
@@ -126,31 +126,6 @@
    "time": "2026-11-10T05:15:42Z",
    "location": null,
    "id": "877a9392205a5e70"
-  },
-  {
-   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม - กรมป้องกันและบรรเทาสาธารณภัย | ปภ. ข่าว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9keGtJeVphTzJSUE1XTC1uVnc4T0FibmZoLWxyT1U4bXAxZU5wd1JXNl9DM3dKUF81eV9XLWstRFFVX0p4STd5TWtKWFg2aktab05XQ1d1TGRYbmV4V2pPSHVrUjE4dFdTanQxQmh3?oc=5",
-   "time": "2026-11-10T03:38:00Z",
-   "location": null,
-   "id": "a48da4f92f01ca28",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
   },
   {
    "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม",
@@ -368,6 +343,20 @@
    "id": "a6030bcd91cd952d"
   },
   {
+   "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "จส. 100",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80YkdpWl9Od2FPWHZtX2p6YUdaS09jcEZGSkNPV1d4aWpGVnVRSFE1ZXRHMFpmUEVwcllEYzdfTWhwa0FZOWNPS2VKUGVDSGNLRVhHRjZOLXZtZw?oc=5",
+   "time": "2026-11-09T02:23:04Z",
+   "location": null,
+   "id": "9605d53062dc2839"
+  },
+  {
    "title": "รายงาน IPCC เตือนภัยแล้ง น้ำท่วม และอากาศร้อนกระทบการผลิตอาหารและเศรษฐกิจการเกษตร",
    "summary": "",
    "category": "news",
@@ -575,20 +564,6 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
-  },
-  {
-   "title": "ปรากฏการณ์เอลนีโญรุนแรง กรุงดงทับเตรียมแผนรับมือภัยแล้งและการรุกของน้ำเค็ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Q4cmpfSDhXdV9tZGNTQ3NkRHJ2ay1QdC1lNXN2eW1MMjY2WElJa2VoV01mT3l4X0VaOGlTeGY5ZWd5RDdKSmJwWFVuVDlEd3FGUkZrMGNPTGYxbU55Q1gyektOR1RnbllWZ3VvSFpUYmZkUnlXYWN1dVNIb25Mc0tZM2M?oc=5",
-   "time": "2026-11-10T11:23:14Z",
-   "location": null,
-   "id": "d626a5ff2cc9ce4e"
   },
   {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
@@ -1583,6 +1558,20 @@
    "id": "aa787350249d014c"
   },
   {
+   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
+   "time": "2026-11-09T01:16:23Z",
+   "location": null,
+   "id": "a9f0519346e941ce"
+  },
+  {
    "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
    "summary": "",
    "category": "news",
@@ -1649,6 +1638,20 @@
    "time": "2026-11-08T23:11:00Z",
    "location": null,
    "id": "2fc9a8b13f04b741"
+  },
+  {
+   "title": "ภัยพิบัติเขย่าสมดุลธรรมชาติเปิดทางโรคอุบัติใหม่ วิกฤติสุขภาพที่โลกต้องตั้งรับ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EaUVUTmprZTRMTlhXLUxFTlVxWXNLWjBJT3RIUnZVdnk4d2Zma28zQ1Vjb0tta0lRQ2ZIT0pBdFdkaGU3WmlqYXdFVDMyWkhBaF9Qa08yM0JBS1pnOVM2VlNDd0xwY2JUR0lXV1hn?oc=5",
+   "time": "2026-11-08T22:52:52Z",
+   "location": null,
+   "id": "9d7ded9c35643a04"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.7 ประเทศเมียนมา (Myanmar)",
@@ -1762,32 +1765,6 @@
    },
    "incident_id": "fr_rss_c883d79f4c3c001ac7bc",
    "id": "c883d79f4c3c001a"
-  },
-  {
-   "title": "ปชป.ช่วยชาวแฟลตคลองจั่น เตรียมยื่นฟ้อง กทม. เร่งเยียวยาน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
-   "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpeS1tWmxud2ZjTDBvYmFuRHJ5VDhHazgtVERhclRsWDNGcENlX2VwYW5MeWpHMU9MZ0l2b1hqbVI0UkZ1a1hnU1FLU3J1TmNTSE4zeG9VOHJ3ZWdTMzJfdFpR?oc=5",
-   "time": "2026-11-08T15:36:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_bf08a2420f16769f1e24",
-   "id": "bf08a2420f16769f"
   }
  ]
 }
