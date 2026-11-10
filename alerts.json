@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T13:42:37Z",
+ "updated_at": "2026-11-10T13:59:36Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 18,
-  "flash_flood": 11,
-  "storm": 24,
-  "landslide": 11,
+  "flood": 17,
+  "flash_flood": 12,
+  "storm": 25,
+  "landslide": 10,
   "earthquake": 20,
   "wildfire": 1,
   "drought": 8,
@@ -242,18 +242,18 @@
    "id": "3855163e7c93c904"
   },
   {
-   "title": "กรมอุตุฯ เตือนด่วน! 14 จังหวัดเจอฝนถล่ม น้ำท่วมฉับพลัน 10-13 พ.ย.",
+   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
+   "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kSTJkQ2d4M3RZQmFYLW0zcDcwOEhDRmRBNWpHVEprNFdmdVhRdlhWVjAxVXJmN1FyM0lyVkJrODZZMDZadjFrZWVFZ2pXZFNOWV9tN1pJSkstR3pFeEdIYXhaYVVFQQ?oc=5",
-   "time": "2026-11-10T02:22:00Z",
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
+   "time": "2026-11-10T02:33:00Z",
    "location": null,
-   "id": "f8e2c2eecb91101e"
+   "id": "c66b8d445bce8cc7"
   },
   {
    "title": "อุตุฯ ประกาศเตือนภาคใต้ฝนตกหนัก ฉบับที่ 4 ขณะที่ \"อีสาน-กทม\" อุณหภูมิลดอีก 2 องศา",
@@ -279,7 +279,7 @@
    "official": true,
    "source": "thestandard.co",
    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SeFl2b1UzU1FkUUIwRG5SZnphMnZHOVNxSGZfVzlWUHJ6My1wdUZmWWZWMmd3VGR2bFpUVFZQMzhhWjBKNlNSNDhkNFlKb3hoQktUNzI1YTF0UXItSWJmaGg5Wk9nX1RLMGkzc0FB?oc=5",
-   "time": "2026-11-10T01:48:13Z",
+   "time": "2026-11-10T01:48:30Z",
    "location": null,
    "id": "12634b431a5e2537"
   },
@@ -450,6 +450,26 @@
    "time": "2026-11-09T00:25:02Z",
    "location": null,
    "id": "a4b6ff48e5bc60e4"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 57 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17406",
+   "time": "2026-11-10T13:35:23Z",
+   "magnitude": 1.6,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.989,
+    "lng": 98.013,
+    "precision": "epicentre"
+   },
+   "id": "2928a487eb78e31b"
   },
   {
    "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
@@ -1074,20 +1094,6 @@
    "id": "905d512341783b90"
   },
   {
-   "title": "เหตุดินถล่มในชุมชนเกาะตันลอง: ครัวเรือนหลายร้อยหลังยังคงอยู่ในเขตอันตราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlR1WHBLV3plNGFyOGpiZExNMmY2UkpKWGhaeW1ZLXdWMzhlWXkyd2xrNUJvV0dSa2ZWaS1paXNuN2RKU0NKTl9lMGZEbjRaOUNoTUhIZVZGS2VOY1F0NzNTV2FDTE4wNndjQ01UalFGdWd2MWk1Ui1XSXVFZWV6T2VGQ0Y3MzhaN0R6cC1mLWRNdUYwUkNkWWVmdlUyZw?oc=5",
-   "time": "2026-11-09T23:15:21Z",
-   "location": null,
-   "id": "516930ac54f0215f"
-  },
-  {
    "title": "สภาพอากาศวันนี้ ไทยตอนบนเย็นลง 1-2 องศาเซลเซียส ใต้ฝนตกหนักระวังน้ำท่วม",
    "summary": "",
    "category": "news",
@@ -1557,20 +1563,6 @@
    "id": "aa787350249d014c"
   },
   {
-   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
-   "time": "2026-11-09T01:16:23Z",
-   "location": null,
-   "id": "a9f0519346e941ce"
-  },
-  {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
    "summary": "",
    "category": "flooding",
@@ -1679,6 +1671,20 @@
    "id": "8f5166b815047562"
   },
   {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
+  },
+  {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
    "summary": "",
    "category": "news",
@@ -1744,26 +1750,6 @@
    "time": "2026-11-08T18:42:26Z",
    "location": null,
    "id": "7204c1ea72198452"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.5 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 180 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17396",
-   "time": "2026-11-08T18:42:12Z",
-   "magnitude": 2.5,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.728,
-    "lng": 96.315,
-    "precision": "epicentre"
-   },
-   "id": "820abaadaf31a13a"
   },
   {
    "title": "‘BIGBANG’ แจงยกเลิกคอนเสิร์ตกลางคัน เจอฝนถล่มหนักฟ้าคะนอง ห่วงศิลปิน-ผู้ชมทุกคนพร้อมคืนเงินค่าบัตร",
@@ -1842,6 +1828,20 @@
    },
    "incident_id": "fr_news_796c9663895b65d0a6a5",
    "id": "796c9663895b65d0"
+  },
+  {
+   "title": "แผ่นดินไหวในญี่ปุ่นทำให้มีผู้บาดเจ็บอย่างน้อย 22 ราย: สถานการณ์ของชาวเวียดนามเป็นอย่างไรบ้าง?",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlRGS2pFQlM3bmc4TDFnVG1UbEl1WkFFM0JFaFphZDBPUkUwR0pDVHU5VkNqWXhqU2gxcGRaSXg4LWloVXlkMG9sNmN5SWJOZXNFWG1ON3lJcTlsTmE1TW9GX3B2MGIybndsRUNfVXJDR3ZuZld5Z1A0dVJqSUkzdnlQVmdSZ2JSZXJ6WkFlNjVKUGhEbnh2SG56NXVUQjd3WlE?oc=5",
+   "time": "2026-11-08T14:34:02Z",
+   "location": null,
+   "id": "dd52891119e461db"
   }
  ]
 }
