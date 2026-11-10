@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T14:49:34Z",
+ "updated_at": "2026-11-10T15:01:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,9 +17,9 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 10,
+  "flash_flood": 11,
   "storm": 26,
-  "landslide": 11,
+  "landslide": 10,
   "earthquake": 20,
   "wildfire": 1,
   "drought": 9,
@@ -520,20 +520,6 @@
    "id": "4091a821dcdeaf6f"
   },
   {
-   "title": "ฝนตกหนักทำให้เกิดดินถล่มในหลายพื้นที่ของรัฐกวางงาย ส่งผลให้ต้องอพยพประชาชนหลายร้อยคน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ052TndKZVBGdlpiQk5abUNxZUhlQVRUMzYyYnc2VnVSNEtkTGF6YVNiZDJ5R2RjcVlhOF95NWxLNFR1UW5pYnh2d0hXOUpNV0g2ZTQ4NTNyZnM1dnJaaGVuUm5ZSDVCRUlGUGswY05vU1RQSGNERlhNTWpfM1hTNmJlX1c0T3VxSzl6Zmt6WE5FVGdUdjNOc0x3?oc=5",
-   "time": "2026-11-10T12:16:39Z",
-   "location": null,
-   "id": "359508ebe7f80098"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 328 กม.",
    "category": "official",
@@ -597,6 +583,20 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
+  },
+  {
+   "title": "ปรากฏการณ์เอลนีโญรุนแรง กรุงดงทับเตรียมแผนรับมือภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Q4cmpfSDhXdV9tZGNTQ3NkRHJ2ay1QdC1lNXN2eW1MMjY2WElJa2VoV01mT3l4X0VaOGlTeGY5ZWd5RDdKSmJwWFVuVDlEd3FGUkZrMGNPTGYxbU55Q1gyektOR1RnbllWZ3VvSFpUYmZkUnlXYWN1dVNIb25Mc0tZM2M?oc=5",
+   "time": "2026-11-10T11:23:14Z",
+   "location": null,
+   "id": "d626a5ff2cc9ce4e"
   },
   {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
@@ -1645,20 +1645,6 @@
    "id": "2fc9a8b13f04b741"
   },
   {
-   "title": "ภัยพิบัติเขย่าสมดุลธรรมชาติเปิดทางโรคอุบัติใหม่ วิกฤติสุขภาพที่โลกต้องตั้งรับ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EaUVUTmprZTRMTlhXLUxFTlVxWXNLWjBJT3RIUnZVdnk4d2Zma28zQ1Vjb0tta0lRQ2ZIT0pBdFdkaGU3WmlqYXdFVDMyWkhBaF9Qa08yM0JBS1pnOVM2VlNDd0xwY2JUR0lXV1hn?oc=5",
-   "time": "2026-11-08T22:52:52Z",
-   "location": null,
-   "id": "9d7ded9c35643a04"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.7 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 266 กม.",
    "category": "official",
@@ -1697,6 +1683,20 @@
     "precision": "epicentre"
    },
    "id": "8f5166b815047562"
+  },
+  {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
