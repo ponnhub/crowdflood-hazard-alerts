@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T09:41:31Z",
+ "updated_at": "2026-11-10T10:04:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,32 +16,60 @@
   "other"
  ],
  "counts": {
-  "flood": 27,
-  "flash_flood": 11,
-  "storm": 21,
+  "flood": 28,
+  "flash_flood": 13,
+  "storm": 22,
   "landslide": 10,
   "earthquake": 21,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
-  "heat": 3,
+  "heat": 2,
   "tsunami": 3,
   "other": 1
  },
  "items": [
   {
-   "title": "ปักธงแดง เตือนภัย 'อ่าวมะนาว - เขาตันหยง' ฝนตกหนัก คลื่นสูงซัดฝั่ง",
+   "title": "กรมอุตุนิยมวิทยา เตือนฉบับที่ 5 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUc09BSnFZQ3NhaFdKaXp4NTgzSGJEQy1WQkw1dXVnamZtQVZ2bnJpbjh0T0wtWEg5eFp6MHRNb2Z3M0JYSjhWMnE4UDlpbkNjVVpUc0c4LUJnX1c3Vzd6cWJfNlpSZw?oc=5",
-   "time": "2026-11-10T06:32:00Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CY2xidEVHeUpBZjExUDVEVWFfZVhSMjVicG9WdDNjVF9BZ0xRbG9TcGJPTkVlRThZWEZwSDVyYmZzQWJjNG9JbU8teV84VFNxR3MyTlBB?oc=5",
+   "time": "2026-11-10T09:55:31Z",
    "location": null,
-   "id": "2914b21c6d8ad260"
+   "id": "80671aff0c9162f8"
+  },
+  {
+   "title": "สถานีอุตุนิยมวิทยานราธิวาส แจ้งประกาศเตือนภาคใต้ฝั่งตะวันออก ฝนตกหนักวันที่ 10-13 พฤศจิกายนนี้ เฝ้าระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "NBT CONNEXT",
+   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZVkyZEM4VGpMc0NKTm1RUklGSWMwUksxaUcwcUVGazU4X1hNM0g2Z1dYLVZyX3h3ekpDcXRPeEFmOHA5eDRuOFY5TUlGSGhUN1dUelNFbGs3ejZ2cmlWODdJeTZUUGo3NzJRdzdnWQ?oc=5",
+   "time": "2026-11-10T08:38:02Z",
+   "location": null,
+   "id": "53fcad27fa151da4"
+  },
+  {
+   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "NBT CONNEXT",
+   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
+   "time": "2026-11-10T08:38:02Z",
+   "location": null,
+   "id": "d8368079e0e659d7"
   },
   {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
@@ -326,18 +354,18 @@
    "id": "ae4cbc4385818553"
   },
   {
-   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69",
+   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69 | สวพ.FM91",
    "summary": "",
    "category": "news",
    "hazard_type": "flash_flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWkJMMmIwdzBsRXZPZmlYMzZKb1MzUExyOW1Fd0xONEtpSmk1dWQ5ZXFDTUw0SDlSSkZYeUNCWXFWWU53Sy1nSTFLcDcycmNwQXNV?oc=5",
-   "time": "2026-11-09T04:00:27Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qN0J6bVFkRkMwWl85QVFCbFQ4VU5mTzFMazR0RTlKS0FGWUk4MVBBYkx1cV9RM09wcHgwbURZMjhNck1IcWpEM01veGo4TWUxQjlUeUt3?oc=5",
+   "time": "2026-11-09T03:58:16Z",
    "location": null,
-   "id": "81db9746d2cb254c"
+   "id": "a6030bcd91cd952d"
   },
   {
    "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
@@ -421,6 +449,58 @@
    }
   },
   {
+   "title": "สถานทูตจีน ร่วม ป่อเต็กตึ๊ง ลงพื้นที่ฉะเชิงเทรา ให้กำลังใจ-เยียวยาผู้ประสบภัยหลังน้ำท่วมลด",
+   "summary": "ไทย-จีนพี่น้องกัน.. สถานเอกอัครราชทูตสาธารณรัฐประชาชนจี […]",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "มติชน",
+   "source_url": "https://www.matichon.co.th/publicize/news_5969697",
+   "time": "2026-11-10T09:49:12Z",
+   "location": null,
+   "area": {
+    "code": "TH24",
+    "level": "province",
+    "name": "จ.ฉะเชิงเทรา",
+    "bbox": [
+     100.848,
+     13.182,
+     101.99,
+     13.977
+    ]
+   },
+   "incident_id": "fr_rss_e83ce8ff8138193b31a9",
+   "id": "e83ce8ff8138193b"
+  },
+  {
+   "title": "ไทยตอนบนอากาศเย็น ใต้ฝนตกหนัก กทม.อุณหภูมิจะลดลง 1-2 องศา",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "komchadluek",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUY01LWGI1NnFJaHRHODJKM0FPZHBGZmg1czUzdjdDaDUxcEhFUWFUOEJ3UURDckgycDFRcm5SMkNrTU5DejFiY1FIWWVFUFF3Q2phaWkxVHBIeXM?oc=5",
+   "time": "2026-11-10T09:43:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_61a537b052c5226c3a44",
+   "id": "61a537b052c5226c"
+  },
+  {
    "title": "เชียงรายผนึกกำลัง 3 จังหวัดภาคเหนือ ขับเคลื่อนงานวิจัย PM2.5 ใช้นวัตกรรมแก้ปัญหาฝุ่นควัน",
    "summary": "",
    "category": "news",
@@ -433,6 +513,26 @@
    "time": "2026-11-10T09:33:58Z",
    "location": null,
    "id": "567b18c3577e23c2"
+  },
+  {
+   "title": "สุดสลดเสียชีวิต 4 รถตู้กู้ชีพอบต.ฝ่าสายฝน พาหนูน้อยป่วยลมชัก-ญาติส่งรพ. ยางระเบิดหมุนฟาดต้นไม้ยับ",
+   "summary": "เกิดอุบัติเหตุเศร้า รถตู้กู้ชีพอบต. นำผู้ป่วยเป็นหนูน้อยส่งโรงพยาบาลขณะฝนตกหนัก เกิดยางระเบิดรถหมุนฟาดต้นไม้ ส่งผลให้มีผู้เสียชีวิตถึง 4 ราย ที่ท่าศาลา นครศรีธรรมราช วันที่ 10 พ.ย.2569 ผู้สื่อข่าวรายงานเกิดอุบัติเหตุเศร้า รถตู้กู้ชีพนำผู้ป่วยส่งโรงพยาบาล แล้วเกิดยางระเบิดหมุนฟาดต้นไม้ ส่งผลให้มีผู้เสียชีวิตถึง 4 ราย โดยเหตุการณ์นี้เกิดขึ้นในพื้นที่ หมู่ 2 บ้านสองแพรก ตำบลโพธิ์ทอง อำเภอท่าศาลา จังห",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/breaking-news/news_10467327",
+   "time": "2026-11-10T09:23:05Z",
+   "location": {
+    "name": "อ.ท่าศาลา",
+    "lat": 8.7060315,
+    "lng": 99.8956014,
+    "precision": "district"
+   },
+   "incident_id": "fr_rss_37ad8776040d98cb809d",
+   "id": "37ad8776040d98cb"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
@@ -648,20 +748,6 @@
    "time": "2026-11-10T03:00:00Z",
    "location": null,
    "id": "0852ea7b1d81cacb"
-  },
-  {
-   "title": "ถนนหลายสายถูกตัดขาดเนื่องจากดินถล่ม และอุโมงค์ลอดใต้ถนนหลายแห่งถูกน้ำท่วมเพราะฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelpDS0ZwXzkzdzVYWjNsV2JHemlHQl81YzhzVnhNblk4c2RpVFB3ZVNkNkxzdmthcnRUcWFEZl93RWk5TjBhQVpVMHFOU1FPQ1VCLWZyaGk5eFhNejh2NEI0aVM4TkFOVjhoazdDVm42RzNlYnI0WGQxTGtCQkRKNEYteFZNaXVYQjZ6NXFmRFRyeXBGZ1Z0Wk03QQ?oc=5",
-   "time": "2026-11-10T02:59:03Z",
-   "location": null,
-   "id": "cd938de65a02d5bf"
   },
   {
    "title": "เตือน 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน-น้ำป่า-น้ำล้นตลิ่ง ช่วงวันที่ 9 – 13 พ.ย. 69",
@@ -908,20 +994,6 @@
    "id": "866b0e3a1600690a"
   },
   {
-   "title": "สถานการณ์ภูมิอากาศโลกปี 2026 “ทะลุเกณฑ์”! เอลนีโญเพิ่มเสี่ยงภัยพิบัติยาวถึงปี 2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Online Newstime",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3ZfSlRmYWhRWGZud0otYktJUkJfZG1CYWpOTU9zMXdoV1pfeEpJOWlvbzBGcHBocDlocER1bWlfV0VLWnlQMFlpR1dXaE00RFJyNkRIUXR2bFlKZWdhNEM1WlNjNDFwdC12a1A5WTBwN1ZjcG9nc0NVWXg5blI0b0VTb3R5Q0hhMXfSAYoBQVVfeXFMUFd2X0pUZmFoUVhmbndKLWJLSVJCX2RtQmFqTk1PczF3aFdaX3hKSTlpb28wRnBwaHA5aHBEdW1pX1dFS1p5UDBZaUdXV2hNNERScjZESFF0dmxZSmVnYTRDNVpTYzQxcHQtdmtQOVkwcDdWY3BvZ3NDVVl4OW5SNG9FU290eUNIYTF3?oc=5",
-   "time": "2026-11-09T18:54:36Z",
-   "location": null,
-   "id": "1afc2413957fa801"
-  },
-  {
    "title": "กทม. สรุปยอดเยียวยาน้ำท่วม 9 พ.ย. \"ทะลุ 4.68 พันล้าน\" โอนสำเร็จแล้วกว่า 6.7 แสนครัวเรือน",
    "summary": "",
    "category": "flooding",
@@ -960,20 +1032,6 @@
    "time": "2026-11-09T12:32:37Z",
    "location": null,
    "id": "eebdbba32d5a3b00"
-  },
-  {
-   "title": "อุตุฯ ประกาศ ฉ.3 \"เหนือ-อีสาน\" อุณหภูมิลดลง 3-5 องศาฯ - ใต้ฝนตกหนักถึง 13 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vX3ZTZHB1Ukd2dkdTazRRT0V3TnlSNUdraVZDR1FpMVB6ejRJTnN1aHFrTnJoRmprcWJzMm5BbWg0b0NFc1NPRFR4MmotWVRQSEVvX3ZGeGQ?oc=5",
-   "time": "2026-11-09T10:42:17Z",
-   "location": null,
-   "id": "49d08d54b1754ce5"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
@@ -1375,6 +1433,20 @@
    "time": "2026-11-08T23:46:26Z",
    "location": null,
    "id": "c050d477ccd00bcd"
+  },
+  {
+   "title": "อุตุฯ ประกาศฉบับ 2 ภาคใต้ฝนหนักต่อเนื่อง 9-13 พ.ย. รับมือน้ำท่วม-น้ำป่า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waXZRcVlYc0RnRGI5MmpUYllLakFzZE04amxUdE8zMW5aQTJYMmVMbGpsbzRFLUtETzltUjZWTTNGNEpoV1BnUnBsSVJ2R2l6ZGo2M3Z1SWU?oc=5",
+   "time": "2026-11-08T23:32:25Z",
+   "location": null,
+   "id": "e1b22c51e2149cd2"
   },
   {
    "title": "ใต้ฝนตกหนัก ระวังถึง13พ.ย. ทะลักฉับพลัน ดินโคลนถล่ม",
