@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T10:04:59Z",
+ "updated_at": "2026-11-10T10:12:29Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,12 +18,12 @@
  "counts": {
   "flood": 28,
   "flash_flood": 13,
-  "storm": 22,
+  "storm": 23,
   "landslide": 10,
   "earthquake": 21,
   "wildfire": 1,
-  "drought": 9,
-  "pm25": 3,
+  "drought": 8,
+  "pm25": 4,
   "heat": 2,
   "tsunami": 3,
   "other": 1
@@ -58,18 +58,18 @@
    "id": "53fcad27fa151da4"
   },
   {
-   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
+   "title": "ปักธงแดง เตือนภัย 'อ่าวมะนาว - เขาตันหยง' ฝนตกหนัก คลื่นสูงซัดฝั่ง",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
+   "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "NBT CONNEXT",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
-   "time": "2026-11-10T08:38:02Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUc09BSnFZQ3NhaFdKaXp4NTgzSGJEQy1WQkw1dXVnamZtQVZ2bnJpbjh0T0wtWEg5eFp6MHRNb2Z3M0JYSjhWMnE4UDlpbkNjVVpUc0c4LUJnX1c3Vzd6cWJfNlpSZw?oc=5",
+   "time": "2026-11-10T06:32:00Z",
    "location": null,
-   "id": "d8368079e0e659d7"
+   "id": "2914b21c6d8ad260"
   },
   {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
@@ -354,18 +354,18 @@
    "id": "ae4cbc4385818553"
   },
   {
-   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69 | สวพ.FM91",
+   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69",
    "summary": "",
    "category": "news",
    "hazard_type": "flash_flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qN0J6bVFkRkMwWl85QVFCbFQ4VU5mTzFMazR0RTlKS0FGWUk4MVBBYkx1cV9RM09wcHgwbURZMjhNck1IcWpEM01veGo4TWUxQjlUeUt3?oc=5",
-   "time": "2026-11-09T03:58:16Z",
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWkJMMmIwdzBsRXZPZmlYMzZKb1MzUExyOW1Fd0xONEtpSmk1dWQ5ZXFDTUw0SDlSSkZYeUNCWXFWWU53Sy1nSTFLcDcycmNwQXNV?oc=5",
+   "time": "2026-11-09T04:00:27Z",
    "location": null,
-   "id": "a6030bcd91cd952d"
+   "id": "81db9746d2cb254c"
   },
   {
    "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
@@ -535,6 +535,20 @@
    "id": "37ad8776040d98cb"
   },
   {
+   "title": "ฝนตกหนักในจังหวัดกวางตรีส่งผลให้เกิดดินถล่มและน้ำท่วมสะพานหลายแห่ง ทำให้การสัญจรถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN285OVhEZlpucWJfbWJkMExMLTdWMWJhZUhHVHFtLTRPa0hxanF4SlJSM1kxb2Y2TGZDbFF3UWlYdlNrMVdQdjlURVNtWklCNjNsV0l0VHVnVlM0d0RsamxFUkxjUXlmSkdkN0I5czRpbjRxQUpObTNtMWp1QjR5dXNnU2hBbUJKOHA2Y2JyNVprZDJqdHpjazZ3?oc=5",
+   "time": "2026-11-10T08:36:22Z",
+   "location": null,
+   "id": "72dc24266261474f"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 354 กม.",
    "category": "official",
@@ -553,31 +567,6 @@
     "precision": "epicentre"
    },
    "id": "f4502dddad6c1b8c"
-  },
-  {
-   "title": "สรจ.นครนายก ร่วมประชุมติดตามสถานการณ์อุทกภัย เร่งช่วยเหลือเกษตรกร พร้อมสั่งการ เตรียมรับมือภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "กระทรวงแรงงาน",
-   "source_url": "https://news.google.com/rss/articles/CBMiowlBVV95cUxPMTRiV2RVeWQ4N0tKN2Fua05EN3B4VFJxNURmbGNUNWh1WldSR2QxMzRhZUFWdkpRZmVZQnhBOGNCT19ZakttVFVKckxsVTRGeG9mXzJtN1JRZmRLWnR2STk5RWVhQXRIWGJtWTZmeHYxcmE2cVQtSjBaZTdoWDczTFZodGFRUkZCNUE0dzQtWnU0WmIxSlNka2owRFRCVFZQWHA0b3Izd1RMTmdqU0x3SzMwQlVaaWNMQUFzZVpPZm5mT1M4M0hra0IzWXpreVJEUFYzLTBBbUJsS00yVlhMYkdQYzhxLVdzZ1pqR1NNWjNvek9nTUhqLTJmUXhzM2Y5MlE0QUEwMEdIMWczNk5HcHJKT3hsZHptcmxGRUJvVlM4X0VmVzNWbHcxbGN1NkxPTGFuckRiVjh6dU9KNUZ1ekoxWDNrS0dHUUZKWnNJWXJETzNPMzJORmdiSXlsZXluQWR6b2o5VmtHMlFsbjU2OGFQYldhOV9vcHdaM01nbmxNZlBkS2VGdllpWUNPaUd5cm9HTW1oY1JiN3RyU2pQOC01NTVEc3dXTGIxOFZyczJ3VW9adU5LRWhIT0tfdzliUGNJUzZFSlRYdFVnR1VBOGdyX0Y0SGxfLXpVLVRQT3dEUmdLYmtQT09KY25qdzU1ZEJ0RXNXVW83MERkcjd6MzdRclRaamxfZVdkUkVUZlU0UUtMNHFfUG1DcmhPREpWWDRXejFBbVdMUTBEeDBfMm9laFhPNTNqVzNldDdwblhNRThxS3dEQmp6UmZ3VU1LbzVjZG5DaUZZaHBwNFhsaE5pZ3FnX3YwWWM0X0VENWZsQlNYOHRVRTFNRHFNVS03cENmdzRDSkVJOHZxaXkwcy0wdUFuanAycWZXTFlFTmxHNFRnckgtQnN4STViUTdzUjBuSHVQeW8tR1duVnlhOUpCTlJMYzVwQW1NVlQ2WEtDMkdxRXhvOUNPZ1d6cm1ORHZvaEl4LUtqNzJtcHJYZHMtRXpZUW4wSWRyMzQ1bTVBekwxQXoyUWl2V0lmcm1WSVBhYlpDZEFmYkZPTzBNQnlrUnYzbDBNY1ltUHdpRXBybE42eDdManAwR0w0cGxLcHdCZUQzM1pycTczUXlqOEFUWl8zV1NYcWJ5aEdxV0hzZDBTM29KRDJZdVB2ckxPWXQtNjZ4NTZjQzFQY2RnYWMyZXVWaDBKZ2czcndCR3JfTzJ4UTNudGhkVVRybmU5ZXpTVXNNOFF0UTAwT2hQWk4xcmQtaU5wV3NLZ0pxcXh2UWtrSndaUWVHVE1hN3VBZFU4ZGdDclc5Vl9hdEVDYThDbElsS2NXcHhWUnpseUpEb2h0eVAwdFZkNFN3NGJzX0ozUzRCdXZKUFJQeVRxRWN5TWktWUI0aDNMWWZRM3VVdElUbVVGdW4yYXJxVTZBVWRER0RwZnZpeVB4UFBuNzFxRXhab2xkYUYzQ3g4OEt5U3JtZk9faDNzTlVxRUtmbW1naUhiYWxWazFPd0JTUFZ0SWVQQVE1c2d5U0s4ZDZKUVdPSFJZaG40dkcta29fREI5emFLaXYwSm5UMk92dUZoRQ?oc=5",
-   "time": "2026-11-10T07:45:01Z",
-   "location": null,
-   "id": "a020d084f1f489d6",
-   "area": {
-    "code": "TH26",
-    "level": "province",
-    "name": "จ.นครนายก",
-    "bbox": [
-     100.914,
-     13.961,
-     101.502,
-     14.512
-    ]
-   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.4 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -696,7 +685,7 @@
    "id": "47d89453b6f136bb"
   },
   {
-   "title": "จังหวัดกวางตรี: ทางหลวงหมายเลข 9C ถูกปิดกั้นเนื่องจากดินถล่ม",
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อเคลียร์ดินถล่มบนทางหลวงโฮจิมินห์ที่ผ่านจังหวัดแทงฮวา",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -704,10 +693,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelJ0bGVMT3hTeW1DcEdRa093ek83Uk4zMW5INjdTWlcwTndvcXlKZmJNQ05UQ2VfbGM1dFFYTXhseGlDMEl0QWhQaWRHU3lQRVFDUmItQ3VQd3NyeHYxVWFTSHR3ZnJBNi14MHNtR2ZyVmh4WTl3N2gwcVF6Rm0ybUxrVQ?oc=5",
-   "time": "2026-11-10T05:09:21Z",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUVwU2RKb3FiVWM1WEQzWTJZeXM1SXhzODFKdnp6LV9ac21GOFA3ekxDQTUwd21hOWZmVnFveWlDNUVnNUJaSEIzUlBuXzZEU3UwZDlPRW1fVmJUM1lwTnAtUUZZallTalJoN2R0X3pHMDZGRHBnenpUTU4zVGRfNUNDNll5dWI0NjNwT3VWRTI5SE5FR0RPOW4yQ3ZyVUtx?oc=5",
+   "time": "2026-11-10T03:51:24Z",
    "location": null,
-   "id": "3425235d26d25930"
+   "id": "9e7cd29ee1be56e1"
   },
   {
    "title": "เช็กสภาพอากาศ! ไทยตอนบนลมแรง กทม.จ่อเย็นลง 1-2 องศา ใต้ฝนตกหนัก",
@@ -1194,6 +1183,20 @@
    "id": "0aff815a399aad1a"
   },
   {
+   "title": "\"วันพระบิดาแห่งฝนหลวง 2569\" เตรียมจัดใหญ่กลางสวนรถไฟ เปิดโลกนวัตกรรมสู้ภัยแล้ง-ฝุ่น PM2.5",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NFlqYWRiZnFqem83a2R0QnN6eDlLUzBHRDNGTGs0VEhMTmJPVmRqeVlBdGlsVVIxcGdicElTVmJlNjVWbGFTeGxRS21UNTVKbHhv?oc=5",
+   "time": "2026-11-09T06:18:00Z",
+   "location": null,
+   "id": "593f7493960a8e6d"
+  },
+  {
    "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
    "summary": "",
    "category": "news",
@@ -1515,6 +1518,20 @@
     "precision": "epicentre"
    },
    "id": "8f5166b815047562"
+  },
+  {
+   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
+   "time": "2026-11-08T20:25:04Z",
+   "location": null,
+   "id": "318f0e44a3ee940f"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
@@ -1856,20 +1873,6 @@
     "precision": "epicentre"
    },
    "id": "404b017f2a185bbb"
-  },
-  {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 กำชับเจ้าหน้าที่รัฐเฝ้าระวังและช่วยเหลือประชาชนอย่างใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ททบ. 5",
-   "source_url": "https://news.google.com/rss/articles/CBMiohFBVV95cUxOdHNkN3dOejB1LUNRbU9DcVk0RzktQVZIRTROc0c2S1NTdE1FWjNwdXR0ZjVwVUp5N2lvNWVZUUFUSm5lNnF5c211UzV6empHbFZnSkxRUWxyNHhsdHBtaEVEZU1IZFFLTk9IRkpZTUNxbnh4QzlPa0ZLOVFHcS15MmVXcndDRjF5V1BWRzBvTXlHTWJUa2pVdXdOakNpVVUzQUR0QjZocEVHWWpzYklnYTJJVEMyNE92d3o1TlpGem9vUTBEWXBETWVXVzk5Zl9OczVhQUtEcmlhQ1hBUHNHaldyejRsYm50d0JsUkZTLWtpTVlpbHljZXlHbjhyWnVSZUhqb0hqeUFtVXhUYXRuQ28yWUdXeWltUFFHNHFPNEFFSVU0N1Q5aDRTblJOYldfTjBxTjJPWXpGUnF5YjdkQllTOU5WYjZvWTk1TlRfenYyUXA4M1JuTF9sWGdVcWY3elVhZXZHSGZNV2p4azUwam1DT2NIbHBYa0N3Wk8xSUtYY0lLM193cTBjUnJ4dGdXMHBYRzF2VTREWFhlYjU5aThVXy1pMWxyVHRUbC1pY2lMcGQtamp3Y3BGYkVkdFhHdkFDVDlybmVHRUVuRGJCU2J3UDc3VTEwVXJfcWJPdktFbHNaTFNxSGRCMjlIMHpET1BvbDI5Vnk1a05xRDFoM2IwUm9DbkRwTlRBU2t3djlZZ0tqOFhLaUhOU1RjYzZwdjgyX09Xb1JxRmx0eVVFNF9qd3QtVlVIVXJPLTU5UEpLTmljR0x2OVUwTnBrS0NoOVhOMTdxc0pQblZPbHpDRDBZVVdaNlJnbVlXOC1FdWVGSEs2TWJQM0VKd0d1Z2d1S1lxTDdheXFrMVRVUkxzUW9hZWVZOHBjb3BrUFRlZ0RQQlBqTEZESlVJU3BRc2gtMWV3X3RKSi1kNzJqZHpZNlFQTF9yVE9jc0hvVEZOZEVqanl6V3Q5a0pMRzFmeFQ1Tm4zczl3dHZtQ3lES2NRMUZhRnNrM1pFMTg2Ykd0dkZXUzE3d3NLQkw2dEo0VjE3dWlVS2J0aS1OeDA3djVBd3p3WVZHS1lBdjdJQThISmRJazJkdno5SS1OTW9OSENxT1lkSFlIZzVHTk55bUhzdE16SVhxRi1XM0JXcllYc2ZLaUJxT3NnWlh1NnNwUS1JMFZiMGZ4NWZyeTdsU3F4Xy1vQzNXMUpibXdIcF9ZMDZydGVDVHFCVnd1QU4xOGxGMTVXejFqTHNiVkdTdHd3NWxXZE9oazQwNTRPbFBTU3hOY0haSkZiN1czVmludjVhVlVxUHhJeDNHNkhSYXZ5NUxtOWZNZkZ0ZnNwUTFuS01lU3VrT3JFN2JrNkxWcW9TUGwydU1VVEtmMmx2WWtfR2hGbTdPTlZaX1gzS2R0LUxKb2pMcG13d1E5cTNiRXc4ZnFnV1JXMlhxSC1vX1VlRm5lczRMSmFmVXB0eVVUdE1RazRZcEw5NlFQaGpuUVhCU0h0ZWtXV2d4d25yNlZkam43a2lSRHNzenNKSFR3NGlrcEJqT2ZtaVVna1FyNnREdVl0RW4yYTEtaDhzWkloSkpaTUg4TG1UT0VLdXhTN2xYck95cFdLUEJvcFN3OXlXRTNXbVVYNXd4RTZZcXNFbGFzY3FBQ0VFbHZRVk1RN3RUR242WGdBRnlmOWMxUFZPdEd1UkRiWHpTZXRJZFMxQ2RLYmIwaEt2ZXJ5dVd6WGpDSklGSDdaVXFmbVcwUmJ1RHV4QWtsdmxOZjZieFh4R3N2UmtxV09aTU43ckFNYlFyVjU5TENTdkN4Tjd4MG5RNDFzLWZZRDBqNzU0RU9lU2diQnlwM004Qlg2OU81ckZEbkJpc1RJbE82a0RYVWVZNE9uemJzbG9VWkxlc0JvYjhWNTViY2Y4SUppb1JzSTN1dG9CR0VraURubXVESWphcU1weFl1aDE0WER3SFAzdmlwYU16VmF0bDVfR3JCU1VRdHpBR2hxU3VjcDBDdzJxUV9VNk1CVUFhbEZxSlN4S2NodVdwLTNPbXVTUHlFZUt0OUpmb081RGM5czFhZkZ3aXRyWTE5ZExZUVhfTGlOSTFVbDh3a3VQVVc0ZTAtT3FIeDhFaFg1bGg4LWpZX2VEZjFISmVlN2hHaHUyb21BMzN3bkJLakFfeXpBWGhFSmFjaDBOSUpiY0ZzcU1IaDNmUFRpQmo3Q1FCWUdMbXVsVTBzRUV1aDQ0MmRfcElabUN3ZHNkSl8yQ0hjUkdtTmJobFVDTVJZbW1QaGQxdFFwOVdqd2lxUWlGUmtxME9PMmJYcjhUelNiLVpoWEM0NDZHcjBMX0gyR0toZ0tsbFJ0Y1p2ejRRTklLVENQUHhhNUE4TlliT001eTVVYl9SUlJCN0VwSmtrLTF0dEVHMUJaR2otYjhzYzRWOXlDSGtHSWZfSEREclNEbkNBSGp5al9mSW9qc3hURmRTQ0JBZ3hWcjZuSEFwb1U3ek5PeUl1WFJkR3NvdHprRWZEbWdLeE1rMklqZUtkTUpsYS1PSzk1dUNXbnpZcDJNUUlaby1KVS1kcXE2VjNjZDBHQmxkaU1mQU5LZjV2OFgwcmhXODNCbWdHTjdjcXNMb2dSWnRvSnBaNm0yWW82ckEzekwxRnJ6bHE3N0xEdWlrZFRFZUtXZTVXZGdKeXhtcm1VR05lLVFiSzFDV2VLSmItbEo2bUJkeWxXOEotdWZYSDVpZDNiUE05eGhCUDVlRWpLNjI5ZVhTRk83MDNDU0Ftdy1Qb0VBb3BMMUt6VEh4dEpPalRaSXZPYlVNR05kVklrblJzNGlySEJOenc1N1JqTnM4QjBpNVAwbV9EWm9Cb1Q2U3VLRWhMNExvZmJ1dW1FUXg5VTc0QkhWdWtiQWFjR29DRjVtNjhNWlQ4bk1jdHdkYVRmZFZtTFcwNUU5OUEzUElyY0JIQQ?oc=5",
-   "time": "2026-11-08T11:52:00Z",
-   "location": null,
-   "id": "b6ce138a4b67d85a"
   },
   {
    "title": "ปชป. จับมือ แฟลตคลองจั่น จ่อยื่นศาลปกครอง ฟ้อง ‘กทม.-ชัชชาติ’ เร่งชดใช้เยียวยาน้ำท่วม",
