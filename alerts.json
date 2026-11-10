@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T10:28:32Z",
+ "updated_at": "2026-11-10T10:43:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 27,
-  "flash_flood": 12,
+  "flash_flood": 13,
   "storm": 23,
   "landslide": 10,
-  "earthquake": 20,
+  "earthquake": 21,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
   "heat": 2,
-  "tsunami": 3,
+  "tsunami": 2,
   "other": 1
  },
  "items": [
@@ -326,18 +326,18 @@
    "id": "ae4cbc4385818553"
   },
   {
-   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69",
+   "title": "ปภ. แจ้งเตือน 16 จังหวัด ภาคกลาง–ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 9 - 13 พ.ย. 69 | สวพ.FM91",
    "summary": "",
    "category": "news",
    "hazard_type": "flash_flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWkJMMmIwdzBsRXZPZmlYMzZKb1MzUExyOW1Fd0xONEtpSmk1dWQ5ZXFDTUw0SDlSSkZYeUNCWXFWWU53Sy1nSTFLcDcycmNwQXNV?oc=5",
-   "time": "2026-11-09T04:00:27Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qN0J6bVFkRkMwWl85QVFCbFQ4VU5mTzFMazR0RTlKS0FGWUk4MVBBYkx1cV9RM09wcHgwbURZMjhNck1IcWpEM01veGo4TWUxQjlUeUt3?oc=5",
+   "time": "2026-11-09T03:58:16Z",
    "location": null,
-   "id": "81db9746d2cb254c"
+   "id": "a6030bcd91cd952d"
   },
   {
    "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
@@ -396,29 +396,18 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
-   "title": "ตอนกลางญี่ปุ่น เกิดแผ่นดินไหว 5.7 แมกนิจูด ไม่มีเตือนสึนามิ | กรุงเทพธุรกิจ_InFocus . เกิดเหตุแผ่นดินไหวขนาด 5.7 แมกนิจูด ทางตอนกลางของประเทศญี่ปุ่น ในช่วงเช้ามืดวันอาทิตย์ ส่งผลให้มีผู้ได้รับบาดเจ็บอย่างน้อย 22 ราย เบื้องต้นยังไม่มีการเตือนภัยคลื่นสึนามิ . #แผ่นดินไหวญี่ปุ่น #ญี่ปุ่น",
+   "title": "เตือนฉบับ 5 ฝนตกหนักถึงหนักมากภาคใต้ อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMikwdBVV95cUxNaHpkSDZCRzZMS2d6NGI3bV82OUZpenIxcmltZFBtMTlhZUtTZHZsc0Z6NjJRSmhDWGt5M0lfT0VEZW9TWm1vSE5DdDNnajVSbkxPQWV1Ykd2V0FXS1FaVUJTZTBRaExGcU9XQWJXSll4NHhvbzZpMkRtMC0wRTRFNEtvR0p0cTFHdk1STUdxSDIwOElfS21sU2wtb25mMUxSQ3dMTG5ubkgyd0dZV0ZOVy11cjVWNEF0dkQzWWFHWGZ2NXBBSFQ2MDUxY2E2ZG9OVWFXdjRWVG5YOGZqMGt4NzhSX29pa0lpSHNEakVFUjEzcU9CTjN4bExXT0NLVXpZN0MyYjAtMWNpMTJHTG1zUzE0R0hadzIySFRHQmlGMmlBeUFFRXpUcWtsX3NVSnVWTEhlbmZGRUJfdld4UVE5R0lUTU9qTGxQZGZtQjd4V28yNDhRMERWS0FJLU8zaG05SzdfTU9WbnJSQ3ZXdDQ1SXg5Tlk0Qy16RmxNMHlIU1hucTJFalVBN1ZhbFZSQVNWWEhuZzVKUFRjbXlZOXNyYnpHR0RlbGE0ZVk5ZTN3aFBrWkRsZjloblhaYTUzN3ZSUHBkSjhhWmpvZ1N4ZEJYbVZOLUFSeFBYNGs5VHUta3FzbTc1d2czN3h4YWxYVUUxRGRqWGlabENuZ3ZueVJSZWEtYm12cjh0Znhrc2RCdmxGUXQxV044YW1RVVdwVjZRaExWb1h4OTdYZWJyWEpCMG41Q0V3YVE0WnJJTHhOaXFuUm5odW00dUlEVkRHVUtoRXNtMkl2VUxXdmwyeE5MVEhWdWRzNzd3MURYVWpSNHJDOHczN1F3TmFpZVVkMGgwWFVfeGVVRFJXNWVxSXZLVThLUThCWnU5Nnc2cTEyQy1FTHdYeTlBbHVrcV9Ca2N6TG0zT3YzYUVNdVdNNE5QSTFqUkQtTWhsbUxhZEpJdUpSQy1zdE4zZHBUd1BqRE5oQUI0dGZGYVU1eGJXaWYxeWxuVVNiU01OV0FLcl9tVjhfS0Nra2F6bUs0SkVLWHU5dTUxOTBYR1JaeGZaaHFfX1pBNTBCTEcyZGlxX1ctclFrXzdkbVgzTk05TkVyRjdkSUpYNkJNSVQ1Yzl2RTBRNTNjSjBQa3dxUjBvMUR0WmZiVGptOUNOY1l3dUY4WEdpNkwzWHdOSEZGWVhwaC1SbmtUbVJKUFFrZUZNTzBxNnJUSFU?oc=5",
-   "time": "2026-11-08T10:34:21Z",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NeTd6aEQ3Uk5IN005UjJHQzJEOGFhUUpmRjM1RzlRZTdxS1ZER3dtaGp4RjZpSkFLc25ycXN4dU96OUJraThVVHU4Wl9zajdScl8tU1ltZ1o?oc=5",
+   "time": "2026-11-10T10:35:59Z",
    "location": null,
-   "id": "cadf5e54b07abc3f",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
+   "id": "d1f317140600442b"
   },
   {
    "title": "สภาพอากาศวันพรุ่งนี้ 11 พ.ย. เตือนภาคใต้ฝนตกหนัก ทั่วไทยอากาศเย็น ลมแรง | The Bangkok Insight",
@@ -1286,6 +1275,20 @@
    },
    "incident_id": "fr_news_6e823f35e60f344aae27",
    "id": "6e823f35e60f344a"
+  },
+  {
+   "title": "แผ่นดินไหวญี่ปุ่น 5.7 เขย่าแรงกลางดึก เตือนระวังอาฟเตอร์ช็อก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "kapook.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ENC1WRDNsM2tIdXAtbTZGckdvQ0tHT1BUU2hzbE52VVFLZnNma2hDQVhJeW03Q2ZoSE5XUTAweFFiSzZuLU4yZHJFdWwwOHc?oc=5",
+   "time": "2026-11-09T05:18:16Z",
+   "location": null,
+   "id": "2cc1d4a1be3f4503"
   },
   {
    "title": "สงขลา | ฝนตกทีไรน้ำทะลักเข้าบ้านตลอด เร่งหาทางแก้ไข หลังชาวบ้านเดือดร้อนน้ำท่วมขังซอยอารี-พะวง",
