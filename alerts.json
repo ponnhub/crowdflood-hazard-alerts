@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T14:11:49Z",
+ "updated_at": "2026-11-10T14:33:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 12,
-  "storm": 25,
-  "landslide": 10,
-  "earthquake": 20,
+  "flash_flood": 11,
+  "storm": 26,
+  "landslide": 11,
+  "earthquake": 19,
   "wildfire": 1,
   "drought": 8,
   "pm25": 4,
   "heat": 1,
-  "tsunami": 2,
+  "tsunami": 3,
   "other": 1
  },
  "items": [
@@ -506,6 +506,20 @@
    "id": "4091a821dcdeaf6f"
   },
   {
+   "title": "ฝนตกหนักทำให้เกิดดินถล่มในหลายพื้นที่ของรัฐกวางงาย ส่งผลให้ต้องอพยพประชาชนหลายร้อยคน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ052TndKZVBGdlpiQk5abUNxZUhlQVRUMzYyYnc2VnVSNEtkTGF6YVNiZDJ5R2RjcVlhOF95NWxLNFR1UW5pYnh2d0hXOUpNV0g2ZTQ4NTNyZnM1dnJaaGVuUm5ZSDVCRUlGUGswY05vU1RQSGNERlhNTWpfM1hTNmJlX1c0T3VxSzl6Zmt6WE5FVGdUdjNOc0x3?oc=5",
+   "time": "2026-11-10T12:16:39Z",
+   "location": null,
+   "id": "359508ebe7f80098"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 328 กม.",
    "category": "official",
@@ -569,6 +583,20 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
+  },
+  {
+   "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qa204Tjg4WXJXaFFucmVtV3Q0Tzh3NjkxZkV2Z1M0R3hLbjk3NnZmWTlfVG5oZ0lSMHM5bFlkOU5vX1U0cmVyRWZJZkJFVUU3SGpKR3BrY2J6c3VJT3J6Qzcxbmg1QQ?oc=5",
+   "time": "2026-11-10T10:38:00Z",
+   "location": null,
+   "id": "0cf9c4844c46bf30"
   },
   {
    "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’",
@@ -1549,18 +1577,18 @@
    "id": "aa787350249d014c"
   },
   {
-   "title": "แผ่นดินไหวในญี่ปุ่นส่งผลให้มีผู้บาดเจ็บจำนวนมาก",
+   "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
    "summary": "",
    "category": "news",
-   "hazard_type": "earthquake",
+   "hazard_type": "tsunami",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaXQyR0tZdUZXbHltdHdvcV81bi1tejh4NjJvRlk3RnZ5ZC15U3hMQVVxeWtoeUplY2RnOE45blZtUHU5WjBEU2lpZFh1OFZibTFoUDdzRXZxZ3M0bDF2NkRWbUNNUEJQaEJURjZYWWlhX3VJY0E?oc=5",
-   "time": "2026-11-09T01:16:23Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcUJ6Rm5lQTVFTzNyOTA3Q3pMM1ZvMEVGMV9PcnBvS1FUNVBkTWxLS1NRbzRVV19McEhWZkN4N2hJc296Z1FHeUc3Ty1CeDc0Mzg4?oc=5",
+   "time": "2026-11-09T00:42:04Z",
    "location": null,
-   "id": "a9f0519346e941ce"
+   "id": "66f32ee0921376a0"
   },
   {
    "title": "ปชป.จ่อฟ้อง กทม.-ชัชชาติ บกพร่อง 4 ด้าน ทำน้ำท่วมแฟลตคลองจั่น ลุยตั้งทีมกฎหมายเยียวยาประชาชน",
@@ -1669,20 +1697,6 @@
     "precision": "epicentre"
    },
    "id": "8f5166b815047562"
-  },
-  {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
-   "time": "2026-11-08T20:25:04Z",
-   "location": null,
-   "id": "318f0e44a3ee940f"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
