@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T20:31:55Z",
+ "updated_at": "2026-11-10T20:46:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,10 +17,10 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 12,
-  "storm": 23,
+  "flash_flood": 11,
+  "storm": 25,
   "landslide": 10,
-  "earthquake": 17,
+  "earthquake": 16,
   "wildfire": 1,
   "drought": 9,
   "pm25": 3,
@@ -215,6 +215,20 @@
      7.902
     ]
    }
+  },
+  {
+   "title": "\"กรมอุตุฯ\" ออกประกาศฉบับ 4 เตือนฝนหนักถึงหนักมากทั่วภาคใต้ 10–13 พ.ย. เช็กพื้นที่เสี่ยงรายวัน ระวังคลื่นสูงเกิน 2 เมตร ส่วนไทยตอนบนอากาศเย็นลง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMzF6TjZyRWlzSEVvbDI0TmtieW1SeU9PbHM0QjVTU3VycUhoWFRzMVlONTA3SEZ0M0thcTEyTFpmUkpDVjlaRUd2ZnpET2M?oc=5",
+   "time": "2026-11-10T02:44:04Z",
+   "location": null,
+   "id": "3855163e7c93c904"
   },
   {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
@@ -427,6 +441,26 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 66 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17414",
+   "time": "2026-11-10T20:26:32Z",
+   "magnitude": 1.8,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.057,
+    "lng": 97.972,
+    "precision": "epicentre"
+   },
+   "id": "62f4f30923035607"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.6 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 63 กม.",
    "category": "official",
@@ -471,26 +505,6 @@
    },
    "incident_id": "fr_news_cf413ac814ee5f6fcdfc",
    "id": "cf413ac814ee5f6f"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 56 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17409",
-   "time": "2026-11-10T17:16:52Z",
-   "magnitude": 1.8,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.985,
-    "lng": 98.044,
-    "precision": "epicentre"
-   },
-   "id": "82bd353f163bff28"
   },
   {
    "title": "พวกเขาข้ามลำธารที่อันตรายและพาผู้คนไปยังที่ปลอดภัยก่อนที่จะเกิดดินถล่ม",
@@ -926,26 +940,6 @@
    }
   },
   {
-   "title": "แผ่นดินไหว ขนาด 3.4 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.ภูเก็ต ประมาณ 414 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17403",
-   "time": "2026-11-10T07:36:22Z",
-   "magnitude": 3.4,
-   "location": {
-    "name": "ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-    "lat": 4.756,
-    "lng": 96.374,
-    "precision": "epicentre"
-   },
-   "id": "3d98a99628e54eeb"
-  },
-  {
    "title": "🚨 แจ้งเตือนเฝ้าระวังฝนตกหนัก จังหวัดภูเก็ต ระหว่างวันที่ 9–13 พฤศจิกายน 2569 เฝ้าระวังสถานการณ์ฝนตกหนักถึงหนักมาก ระวัง 5 ภัยเสี่ยง 🌧️ ฝนตกหนักถึงหนักมาก 🌊 น้ำท่วมฉับพลัน ⛰️ น้ำป่าไหลหลากและดินโคลนถล่",
    "summary": "",
    "category": "flooding",
@@ -1240,6 +1234,20 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
+  },
+  {
+   "title": "อุตุฯ ประกาศ ฉ.3 \"เหนือ-อีสาน\" อุณหภูมิลดลง 3-5 องศาฯ - ใต้ฝนตกหนักถึง 13 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vX3ZTZHB1Ukd2dkdTazRRT0V3TnlSNUdraVZDR1FpMVB6ejRJTnN1aHFrTnJoRmprcWJzMm5BbWg0b0NFc1NPRFR4MmotWVRQSEVvX3ZGeGQ?oc=5",
+   "time": "2026-11-09T10:42:17Z",
+   "location": null,
+   "id": "49d08d54b1754ce5"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
@@ -1683,20 +1691,6 @@
    "time": "2026-11-08T23:46:26Z",
    "location": null,
    "id": "c050d477ccd00bcd"
-  },
-  {
-   "title": "อุตุฯ ประกาศฉบับ 2 ภาคใต้ฝนหนักต่อเนื่อง 9-13 พ.ย. รับมือน้ำท่วม-น้ำป่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waXZRcVlYc0RnRGI5MmpUYllLakFzZE04amxUdE8zMW5aQTJYMmVMbGpsbzRFLUtETzltUjZWTTNGNEpoV1BnUnBsSVJ2R2l6ZGo2M3Z1SWU?oc=5",
-   "time": "2026-11-08T23:32:25Z",
-   "location": null,
-   "id": "e1b22c51e2149cd2"
   },
   {
    "title": "ใต้ฝนตกหนัก ระวังถึง13พ.ย. ทะลักฉับพลัน ดินโคลนถล่ม",
