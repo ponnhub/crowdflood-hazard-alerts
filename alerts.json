@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T20:05:11Z",
+ "updated_at": "2026-11-10T20:31:55Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,9 +17,9 @@
  ],
  "counts": {
   "flood": 17,
-  "flash_flood": 13,
+  "flash_flood": 12,
   "storm": 23,
-  "landslide": 9,
+  "landslide": 10,
   "earthquake": 17,
   "wildfire": 1,
   "drought": 9,
@@ -1000,6 +1000,20 @@
    "id": "29cc8bb543968a8e"
   },
   {
+   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
+   "time": "2026-11-10T06:28:35Z",
+   "location": null,
+   "id": "570d7d2fe4578700"
+  },
+  {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
    "summary": "",
    "category": "news",
@@ -1711,20 +1725,6 @@
    "time": "2026-11-08T22:52:52Z",
    "location": null,
    "id": "9d7ded9c35643a04"
-  },
-  {
-   "title": "รัฐบาลเตือนพี่น้องภาคใต้ เตรียมรับมือฝนตกต่อเนื่องและฝนสะสม เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และดินโคลนถล่ม ช่วงวันที่ 8 - 13 พ.ย. 69 | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NXBHQ2VnN1pNQTdrU05vMnVoNmVxUG1DQ0V3cEwwemhJYUNGdlZfcWZ6N1Q1YW44UEk5VFpaQ1JVZk9hTmJWV3NodGUtWUxEa0NwTFFn?oc=5",
-   "time": "2026-11-08T20:25:04Z",
-   "location": null,
-   "id": "318f0e44a3ee940f"
   }
  ]
 }
