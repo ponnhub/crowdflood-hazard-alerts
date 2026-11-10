@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T21:34:32Z",
+ "updated_at": "2026-11-10T21:43:45Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -29,20 +29,6 @@
   "other": 1
  },
  "items": [
-  {
-   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
-   "time": "2026-11-10T15:28:38Z",
-   "location": null,
-   "id": "dfae17ed42d7881b"
-  },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
@@ -427,6 +413,26 @@
    "id": "a4b6ff48e5bc60e4"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 336 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17415",
+   "time": "2026-11-10T21:31:13Z",
+   "magnitude": 3.3,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 21.852,
+    "lng": 96.193,
+    "precision": "epicentre"
+   },
+   "id": "276009029e6d91de"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 66 กม.",
    "category": "official",
@@ -592,6 +598,20 @@
    "time": "2026-11-10T13:48:34Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
+  },
+  {
+   "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRNTmc2OFNsSzh2TjVFdzVNREFQbVRCZ1dGM25FX3RVelhXenJOd25GZ1lBWGJoU1Rwd1lnODl1V3BnYVd4TmFDUl82bHRkclc0TVhxaGlRbE9sN3NvTEp0QzNmVktpMlBrU2JkdVZrWkdQUW9NX2dWczVocURwdlRZQzIwdU81b0tpUHFKMlJfNkpEOHFKbktacWhNSjhidmRUVXN0VDdDcTltdHZBc0c1TGtldThCMjY1VTJBcU4?oc=5",
+   "time": "2026-11-10T13:14:09Z",
+   "location": null,
+   "id": "92cdce87ec6ed0d2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
@@ -854,26 +874,6 @@
    },
    "incident_id": "fr_rss_37ad8776040d98cb809d",
    "id": "37ad8776040d98cb"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 354 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17402",
-   "time": "2026-11-10T08:11:27Z",
-   "magnitude": 3.0,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 22.156,
-    "lng": 96.338,
-    "precision": "epicentre"
-   },
-   "id": "f4502dddad6c1b8c"
   },
   {
    "title": "สรจ.นครนายก ร่วมประชุมติดตามสถานการณ์อุทกภัย เร่งช่วยเหลือเกษตรกร พร้อมสั่งการ เตรียมรับมือภัยแล้ง",
