@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T22:42:54Z",
+ "updated_at": "2026-11-10T23:00:40Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,13 +22,41 @@
   "landslide": 10,
   "earthquake": 16,
   "wildfire": 1,
-  "drought": 9,
-  "pm25": 3,
+  "drought": 8,
+  "pm25": 4,
   "heat": 1,
   "tsunami": 3,
   "other": 1
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ออกเมื่อวันที่ 10 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่จังหวัดฟู้โถและแทงฮวาไปจนถึงจังหวัดคั้ญฮวา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVLUEZkZUpaQlBYd09LajZBTmRzaUVhLU5MYVBBa1NpY2xzNE1JYmRaalBscTk2aGQtZEY5MW14cDlrUDByNjZiS2N4LWRDMzl3YV9waENFUGwtQzNHNUZTQ1J0aHNJRjBxcTNMNDBPOGtlbUNxeGZEaV9aM2htd045ZXVQWDdXY1ZQVm5acERxWlZrZnlwUUhDVll5QTFXd29mc0NvVkp4ZWZ2Xy0wQzFsT01pS2c?oc=5",
+   "time": "2026-11-10T18:52:03Z",
+   "location": null,
+   "id": "2c34c111ace001fd"
+  },
+  {
+   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
+   "time": "2026-11-10T15:28:38Z",
+   "location": null,
+   "id": "dfae17ed42d7881b"
+  },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
@@ -592,20 +620,6 @@
    "id": "99bddd5dd9dd2b90"
   },
   {
-   "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRNTmc2OFNsSzh2TjVFdzVNREFQbVRCZ1dGM25FX3RVelhXenJOd25GZ1lBWGJoU1Rwd1lnODl1V3BnYVd4TmFDUl82bHRkclc0TVhxaGlRbE9sN3NvTEp0QzNmVktpMlBrU2JkdVZrWkdQUW9NX2dWczVocURwdlRZQzIwdU81b0tpUHFKMlJfNkpEOHFKbktacWhNSjhidmRUVXN0VDdDcTltdHZBc0c1TGtldThCMjY1VTJBcU4?oc=5",
-   "time": "2026-11-10T13:14:09Z",
-   "location": null,
-   "id": "92cdce87ec6ed0d2"
-  },
-  {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
    "summary": "ครอบครัว 3 ขวบร้องไห้ระงม ป่วยญาติเรียกเจ้าหน้าที่กู้ชีพรับพาส่งโรงพยาบาลท่ามกลางฝนตกหนัก ไม่ทันถึงรพ.ท่าศาลา รถตู้กู้ชีพเสียหลักลื่นหมุนฟาดต้นไม้ยับ เสียชีวิตพร้อมญาติ เจ้าหน้าที่กู้ชีพด้วยรวม 4 ราย คนขับอาการสาหัส เมื่อเวลา 14.53 น. วันที่ 10 พ.ย.2569 พ.ต.ท.สมชาย มวยดี รอง ผกก.(สอบสวน) สภ.ท่าศาลา จ.นครศรีธรรมราช รับแจ้งอุบัติเหตุรถตู้กู้ชีพเสียหลักชนต้นไม้ริมถนน ขณะนำผู้ป่วยส่ง รพ.ท่าศาลา มีผู้เ",
    "category": "flooding",
@@ -950,20 +964,6 @@
    "time": "2026-11-10T06:30:00Z",
    "location": null,
    "id": "29cc8bb543968a8e"
-  },
-  {
-   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
-   "time": "2026-11-10T06:28:35Z",
-   "location": null,
-   "id": "570d7d2fe4578700"
   },
   {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
@@ -1368,6 +1368,20 @@
    "id": "0aff815a399aad1a"
   },
   {
+   "title": "\"วันพระบิดาแห่งฝนหลวง 2569\" เตรียมจัดใหญ่กลางสวนรถไฟ เปิดโลกนวัตกรรมสู้ภัยแล้ง-ฝุ่น PM2.5",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NFlqYWRiZnFqem83a2R0QnN6eDlLUzBHRDNGTGs0VEhMTmJPVmRqeVlBdGlsVVIxcGdicElTVmJlNjVWbGFTeGxRS21UNTVKbHhv?oc=5",
+   "time": "2026-11-09T06:18:00Z",
+   "location": null,
+   "id": "593f7493960a8e6d"
+  },
+  {
    "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
    "summary": "",
    "category": "news",
@@ -1677,20 +1691,6 @@
    "time": "2026-11-08T23:11:00Z",
    "location": null,
    "id": "2fc9a8b13f04b741"
-  },
-  {
-   "title": "ภัยพิบัติเขย่าสมดุลธรรมชาติเปิดทางโรคอุบัติใหม่ วิกฤติสุขภาพที่โลกต้องตั้งรับ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EaUVUTmprZTRMTlhXLUxFTlVxWXNLWjBJT3RIUnZVdnk4d2Zma28zQ1Vjb0tta0lRQ2ZIT0pBdFdkaGU3WmlqYXdFVDMyWkhBaF9Qa08yM0JBS1pnOVM2VlNDd0xwY2JUR0lXV1hn?oc=5",
-   "time": "2026-11-08T22:52:52Z",
-   "location": null,
-   "id": "9d7ded9c35643a04"
   }
  ]
 }
