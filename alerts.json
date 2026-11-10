@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T21:43:45Z",
+ "updated_at": "2026-11-10T21:57:32Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -668,20 +668,6 @@
    "id": "868bd7c9b634591f"
   },
   {
-   "title": "เกิดดินถล่มบนทางหลวงหมายเลข 9C ส่งผลให้เกิดน้ำท่วมรุนแรงบริเวณท่อระบายน้ำหลายแห่ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFVVTY0cXpEaGtrclNIQVVBTzhvNzkxdXppQjNNMWZzV1lCNVNuc2ZMUE5rRUFLaWJvVkJObWgyTlNfZUpYTnVaYWo1QmhrbFVVbk9qX3AxYUtUMGlhX2kwUXBzOFZkMEVqY0o2QmJ0QU5TajBmbTVKN3AxVXN5MmJlczZjR3Zx?oc=5",
-   "time": "2026-11-10T10:52:56Z",
-   "location": null,
-   "id": "a9084d31708db0cd"
-  },
-  {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
    "summary": "",
    "category": "news",
@@ -1115,6 +1101,20 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
+  },
+  {
+   "title": "ดินถล่มในค่ายผู้ลี้ภัยกาซาหลังฝนตกหนัก คร่าชีวิตผู้คน 4 ราย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbTFyT2tsRVd3dlBFMFZlSEtUbHBfT2h3WHRIYVdBWUxWTWlBeWtEbmpDTGdza1BYamtsalRrS25xSExYemwxN3JxZmNCUXI5VEg4b0Q1YTR4WEc2eDV6dzlmVnBFX3V1RFc3T2xiejg4WHNablIyb3NEQktoZzdyRzFDOFBlcmJWSl9v?oc=5",
+   "time": "2026-11-10T01:21:12Z",
+   "location": null,
+   "id": "49a3d0db4409b5ac"
   },
   {
    "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
