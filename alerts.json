@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T14:00:53Z",
+ "updated_at": "2026-11-11T14:20:19Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,8 +18,8 @@
  "counts": {
   "flood": 19,
   "flash_flood": 9,
-  "storm": 17,
-  "landslide": 12,
+  "storm": 18,
+  "landslide": 2,
   "earthquake": 14,
   "wildfire": 0,
   "drought": 8,
@@ -67,20 +67,6 @@
      10.184
     ]
    }
-  },
-  {
-   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว เมื่อวันที่ 11 พฤศจิกายน 2569 สำหรับพื้นที่ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDZDa1JidWw5SVpfanBreHl3T0NMRjdtRzg3V1NPZXVjN1lzaWtkR010a09TNUw0RndMYkNxUTVKcFltVnBlb3ZhbExmZVpDbmF1cEdWVC1HQnhjQ2o0TThtNFBWLWE2WkVFZ21KZl9KU1g5Z09FWHFDUUdGcDVHV1B2eDlGZHRPVzMyR3VfR1FPR3J4UFZOaUMtTms5MTVZVjJCQnpaVFhhOUVRc0lRQmJTbnU?oc=5",
-   "time": "2026-11-11T10:39:25Z",
-   "location": null,
-   "id": "69fbe70de4a258ec"
   },
   {
    "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
@@ -181,20 +167,6 @@
    "id": "53fcad27fa151da4"
   },
   {
-   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "NBT CONNEXT",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
-   "time": "2026-11-10T08:38:03Z",
-   "location": null,
-   "id": "d8368079e0e659d7"
-  },
-  {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -276,6 +248,20 @@
    "id": "26d9bdd36a65ac1d"
   },
   {
+   "title": "ฝนฟ้าอากาศ 11 พ.ย.69 | ภาคใต้เฝ้าระวังฝนตกหนักถึงหนักมาก ถึงวันที่ 13 พ.ย.นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YVk1CRXlrWVU4R3VtWnktb3pfSkFzRTYxVDdJemxGbnNpTkl6QUhZd0hOaTdPNXFrUG5XNkJNY3NtOHkwblNleTNDaw?oc=5",
+   "time": "2026-11-11T14:10:05Z",
+   "location": null,
+   "id": "363aafc9a488a024"
+  },
+  {
    "title": "UPDATE: ชาวแม่สาย สุดอัดอั้น จำทนผวาน้ำท่วม-กลัวสารพิษ เผยเดือดร้อนสาหัส-ห่วงอนาคตลูกหลานไม่มีแม่น้ำใช้-ยื่น 9 ข้อเสนอถึง นายกฯ เร่งแก้ปัญหา วันนี้ (11 พ.ย. 69) ที่ศาลาวัดเกาะทรายคำ อ.แม่สาย จ.เชียงรา",
    "summary": "",
    "category": "flooding",
@@ -294,34 +280,6 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
-  },
-  {
-   "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkotUkEyMzB3Y1VKV0RTUnZrSHNDMEE4V3JlbWFpblhMdGVnUDgtNnBFZjdfUUxWVHE5UElsNnJLeFkweVZ4UndPeGtGZjd2T1R3WnE0X3pGVHpRWkY4R0ZBU0FMZmVCY2Zva2UzbEpwSGliV3dmaFpxYXVpWVlFeTlySjUtMVhoWnJhVWtrMTdfWmlx?oc=5",
-   "time": "2026-11-11T13:04:34Z",
-   "location": null,
-   "id": "e112592cea7963ef"
-  },
-  {
-   "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTRyeVNlN1hIY1FWbk1pSjZORjZHNkx4Y25fQWFQOTNsTTdla3htbVJvZU5fdUpfMllZRWt3eU1xdUVsTXEtcWJGVmdDd2hCSzVXclNBNFdxaVZYTlVLaTNuUWF5Q2hfa0d2RmJTYkRLbklvTmJ5OE5jOFlhZnBrWlRqTGFrY0pYWkxnS2R4dzZHaDg?oc=5",
-   "time": "2026-11-11T12:56:30Z",
-   "location": null,
-   "id": "caf0a6fe12ae5036"
   },
   {
    "title": "กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ | The Reporters",
@@ -436,20 +394,6 @@
    }
   },
   {
-   "title": "เกิดดินถล่มหลายจุด ส่งผลให้การจราจรบนทางหลวงหมายเลข 40B ถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1Y0WDI1aWNHdlI5c1JFdTFHTzNUTC1BU0N0VUpVaFVMcHBNdXdfVnVraWJtek1BTHoxV01sMHpOdXU4NEl6YW5DV29SMU1TR2hSMFVSdDdWX3RjMWM5Rlc1YVRqQVRDVkFwTHowZUo0aDBPbTJEanQtNGluczl3LU5YVmE0TUVZMVdpSEM4YWU?oc=5",
-   "time": "2026-11-11T11:35:37Z",
-   "location": null,
-   "id": "00f0068dddc7e114"
-  },
-  {
    "title": "ทิ้งหมัดเข้ามุม – สีเขียวหลีกทาง? ศึกซ่อมสระแก้ว",
    "summary": "สนามเลือกตั้งซ่อม สส.สระแก้ว เขต 3 กำหนดให้มีขึ้นวันที่ 6 ธ.ค.นี้ แม้พรรคเพื่อไทยจะเป็นฝ่ายได้เปรียบ เนื่องจากพรรคกล้าธรรมเจ้าของที่นั่งเดิม ตัดสินใจไม่ส่งผู้สมัครลงแทนนายสุรศักดิ์ ชิงนวรรณ์ อดีตสส.ผู้ล่วงลับ เปิดทางให้นายสรวงศ์ เทียนทอง ลงทวงคืนพื้นที่ แต่เบื้องหลังกลับถูกมองว่ามีเกมการเมืองให้ต้องจับตา นายสรวงศ์จับสลากได้เบอร์ 1 ประกาศพร้อมลุยหาเสียงเต็มที่ ชูจุดแข็งการทำงานคลุกคลีกับพื้นที่ ลงช",
    "category": "flooding",
@@ -482,20 +426,6 @@
    "time": "2026-11-11T11:00:00Z",
    "location": null,
    "id": "a2dfb1df1e60fa61"
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในพื้นที่ภูเขาหลายแห่งของเมืองดานัง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlAyNzA4Q011OU1tLUgwcFRibDkzMkRuaGk2TTNGNHdZTG1ka2l3cWxld0VXVV9VSXRtb0paYmg1SFNyNVlvNXNSZlhNZVpjYUkwelQwT3NWcXhkb0ZUYWRUdzhOM1Y3WFV3Q0xMZGFrczQ0RmEzMjVmMUJHaUxNM0hVcTJHUHdzaXc?oc=5",
-   "time": "2026-11-11T10:47:26Z",
-   "location": null,
-   "id": "4948a76fd625c252"
   },
   {
    "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
@@ -612,20 +542,6 @@
    "id": "f8f552554715a917"
   },
   {
-   "title": "ฝนตกหนักทำให้เกิดดินถล่ม ส่งผลให้ถนนหลายสายในภาคกลางของเวียดนามถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHZ2MkNwOUlFMjJISU9HT2NHdE9RZXBrU0gta2xfeHFXMmhXRmtiMy1BeTA3Sl9EVnNjWC1kdW0wUHpHaTdpd3JsRGRtSldUbnFQTzZJNlVIaWhPUnprTmJ3R2VvMHJ4NlViUHh3ZncydjZlaDJoZjFfYVFNZkNxajByd3RIUWRzcDY5eEh2dHl0TVU?oc=5",
-   "time": "2026-11-11T09:25:41Z",
-   "location": null,
-   "id": "e81a0ef1f21a02ab"
-  },
-  {
    "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
    "summary": "",
    "category": "news",
@@ -665,20 +581,6 @@
    "id": "e4bb627c0052fadd"
   },
   {
-   "title": "ดำเนินการเชิงรุกเพื่อรับมือกับฝนตกหนัก น้ำท่วม และความเสี่ยงจากดินถล่มอย่างต่อเนื่อง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVgyMVlUNG1FVFhhQTVxMzZYaXp0elZ4WFhES2E3SktnUDB5RGZOS2pNbjNHdmFscG9sWFZoUF9DSFpKWm43X0kyZWRzRjJHSlNnRDBkWnZRMUlpVXdKbGxnY1lteFEzUV9tRXl0TFJjdDF2bDR2U2JCWGdxZmE5NG1FUzQxbnJyUTJ0R0JjOVdBZw?oc=5",
-   "time": "2026-11-11T08:47:19Z",
-   "location": null,
-   "id": "cd4ca19f213ab065"
-  },
-  {
    "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -702,20 +604,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUFpdkdlWjgtMHluUU1sUGRUMzZQc1VObW8zemlnVGRBRXh1dFZxdmVWMnJIZE5OMUJvQmR3UEtGZm9CTENTS0lyaWNMZWNaUS1lRGRqVEh2TzNLTU1KamNoX1dEUVJHMkpaMmNiVVlXQUdMc19IWDlyS05VWjRHSmJB?oc=5",
-   "time": "2026-11-11T08:33:27Z",
-   "location": null,
-   "id": "9285cc4f9c594b6a"
   },
   {
    "title": "ปภ. เปิด 3 ช่องทาง แจ้งเหตุ-ขอความช่วยเหลือจากภัยพิบัติ ตลอด 24 ชม.",
@@ -798,20 +686,6 @@
    "time": "2026-11-11T07:19:46Z",
    "location": null,
    "id": "4e23b6c722a72b87"
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดดินถล่ม โดยน้ำได้พัดพาเอาดินและหินลงมาทับถมบนทางหลวงหมายเลข 1D",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1dmc2VXN0UxYnRaRURpVm5fcHFlUTZzUnkxc1NtYkFhRUFxaU1odmJXdkZQalpIQ3dzOElFUW92NjE3WDl2b3NGMDRraElLUmVTWnNPdWk1b3ZEUG14ekRDek5tOTR2OEw0OFRMcW8ybjhsZDdVNHJSMW53dnFQU3NOeUFIbHpndHpTMGt3?oc=5",
-   "time": "2026-11-11T07:18:38Z",
-   "location": null,
-   "id": "926050b30bbf0d9e"
   },
   {
    "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
@@ -1386,7 +1260,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Matichon",
+   "source": "Matichon Online",
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDTDltSkNCaWM1QkJhZ3BtUEUxQ2dpQjVMQm12UndEa1VqVGg3a1hhZjdLbVROSmdoZVAwaE1zTkdWdFlVNElWd1hQU0tSNklGVHU1N005cUNUUQ?oc=5",
    "time": "2026-11-10T09:33:58Z",
    "location": null,
