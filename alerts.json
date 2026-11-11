@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T12:57:54Z",
+ "updated_at": "2026-11-11T13:12:28Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -274,6 +274,20 @@
    "time": "2026-11-10T01:45:04Z",
    "location": null,
    "id": "9f9a1aff207e61dd"
+  },
+  {
+   "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkotUkEyMzB3Y1VKV0RTUnZrSHNDMEE4V3JlbWFpblhMdGVnUDgtNnBFZjdfUUxWVHE5UElsNnJLeFkweVZ4UndPeGtGZjd2T1R3WnE0X3pGVHpRWkY4R0ZBU0FMZmVCY2Zva2UzbEpwSGliV3dmaFpxYXVpWVlFeTlySjUtMVhoWnJhVWtrMTdfWmlx?oc=5",
+   "time": "2026-11-11T13:04:34Z",
+   "location": null,
+   "id": "e112592cea7963ef"
   },
   {
    "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
@@ -872,20 +886,6 @@
    "location": null,
    "incident_id": "fr_news_e21d4ff8ef1eb840a255",
    "id": "e21d4ff8ef1eb840"
-  },
-  {
-   "title": "เกิดดินถล่มครั้งใหญ่บนทางหลวงโฮจิมินห์สายตะวันตก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmdiYkdyOFZZQXVLQjIyRl85Ul90Sy01UHJQb19oRjB1eUViVldxQlJpczJBd21lb0pVZ3JWNEFzVU1GNjlGRFBhcEV4VU90QVhTTDZNaTJyV0pfM0NwWjN3b244bHEzSUN6a29ZM0ZuNG4tRG40aEszOEtDX2d0aHRHX18?oc=5",
-   "time": "2026-11-11T03:42:04Z",
-   "location": null,
-   "id": "a27bcf0ce2afd31c"
   },
   {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
