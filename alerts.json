@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T05:31:53Z",
+ "updated_at": "2026-11-11T05:42:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,18 +17,32 @@
  ],
  "counts": {
   "flood": 15,
-  "flash_flood": 9,
+  "flash_flood": 8,
   "storm": 21,
   "landslide": 12,
-  "earthquake": 16,
+  "earthquake": 15,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 4,
   "heat": 1,
   "tsunami": 1,
   "other": 2
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่ม ตั้งแต่จังหวัดกวางตรีถึงจังหวัดคั้ญฮวา ในอีก 6 ชั่วโมงข้างหน้าของวันที่ 11 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZRZEhtRFJaWVZ2bFdDeFRqaUN6dlFZenZydXlEVWZ4bnQ2NHd5ZkVzUExrQkVfQl9JTDdTbExYQVFTQWFVZUpXTVUxOEExQi1GOS1SNWxWYnRfVjdaMElqX2R6TTBnVTQxWHJqWUREQVdSQzJ1b1VPQlIwRlJQeVB6eUVXc2M4Nk1OYjdKQXozZkFNUXFFRVlMY2pkbXRmalBramFoelo3SExoZEI2bGZB?oc=5",
+   "time": "2026-11-11T03:50:22Z",
+   "location": null,
+   "id": "64685becb2cf4c22"
+  },
   {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
    "summary": "",
@@ -449,20 +463,6 @@
    },
    "incident_id": "fr_news_52eca5812047102dad34",
    "id": "52eca5812047102d"
-  },
-  {
-   "title": "เหตุการณ์ดินถล่มกำลังคุกคามใจกลางตำบลตรามี ในเขตภูเขาทางตอนใต้ (เมืองดานัง)",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXlIMVBmR0VqeGE2eFB5b0lWTXNrN2VwVHBlRVpBR21zT0kzUGxvUC1XdjhGa2VsdVhKZ3ZsRk1wX3NYQXFCcWYtR3lZY3dNQW1XRVpyTk92eHhSQmx3N1l1cmZfYjIzblpXMUIxT3ZzZU9USGV6bXRkal9ud1AtbzNFei01b3JF?oc=5",
-   "time": "2026-11-11T04:06:17Z",
-   "location": null,
-   "id": "08f635573e29d0d3"
   },
   {
    "title": "ปภ. โอนเงินเยียวยาน้ำท่วม 12 จังหวัดและ กทม. กว่า 1.4 หมื่นครัวเรือน ยอดพุ่งทะยานต่อเนื่อง",
@@ -1368,20 +1368,6 @@
    "id": "08b700e647c312b6"
   },
   {
-   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
-   "time": "2026-11-09T12:32:37Z",
-   "location": null,
-   "id": "eebdbba32d5a3b00"
-  },
-  {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
    "summary": "",
    "category": "news",
@@ -1568,46 +1554,6 @@
    "time": "2026-11-09T05:56:24Z",
    "location": null,
    "id": "b92663c83a88b890"
-  },
-  {
-   "title": "เกิดแผ่นดินไหว 5.9 นอกชายฝั่งญี่ปุ่น รับรู้แรงสั่นสะเทือนถึงโตเกียว : อินโฟเควสท์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สำนักข่าวอินโฟเควสท์",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnYVEwd2F1Wndnb1pXOUNITFBpY2l4ZUtIenNWZ2tuTWd5YVZ3WDNUOWo1bHNHRWhtTEItejZYSERSYjhZVXp1N2hOeEpVMXU2?oc=5",
-   "time": "2026-11-09T05:41:00Z",
-   "location": null,
-   "id": "c182d7448fee7dc6"
-  },
-  {
-   "title": "อุทัยธานีวิกฤต! ฝายเขาฆ้องชัยแตก น้ำป่าผสมน้ำล้นสปิลเวย์เขื่อนทับเสลา กัดเซาะโพรงยักษ์เจาะถึงตัวบ้าน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nbU1MUzgwbFE1STljM2tpODdvM0MxMWx2cTNZQlRIRzRvNENCUEgyQkZfQWRnaVhtd0FrVU0taEdsNV9MTG9LY29KbVFpZmdjY1UwM1d3UUllU0xIOFVVVi1YX2NyTWZRNzlpUTlB?oc=5",
-   "time": "2026-11-09T05:38:00Z",
-   "location": null,
-   "area": {
-    "code": "TH61",
-    "level": "province",
-    "name": "จ.อุทัยธานี",
-    "bbox": [
-     98.984,
-     14.943,
-     100.102,
-     15.798
-    ]
-   },
-   "incident_id": "fr_news_6e823f35e60f344aae27",
-   "id": "6e823f35e60f344a"
   }
  ]
 }
