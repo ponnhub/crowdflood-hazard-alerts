@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T21:25:25Z",
+ "updated_at": "2026-11-11T21:45:26Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 10,
   "storm": 17,
   "landslide": 12,
-  "earthquake": 14,
+  "earthquake": 13,
   "wildfire": 0,
   "drought": 10,
   "pm25": 7,
@@ -338,7 +338,7 @@
    "official": false,
    "source": "thestandard.co",
    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-11T18:24:01Z",
+   "time": "2026-11-11T20:24:26Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
   },
@@ -366,7 +366,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:50Z",
+   "time": "2026-11-11T15:48:35Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -1716,20 +1716,6 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
-  },
-  {
-   "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNmpBTUpmS2Fkc2RGUFhxakg5ODNqZEp5VjdDXzM0Z2w2aXBvekZEZ3hMNnlTYUpwMjNUb0dOR2Z4OUg1LTNUUllNYlF5VDV5UHZmVHNwcl9NandX?oc=5",
-   "time": "2026-11-09T21:32:52Z",
-   "location": null,
-   "id": "519d7da56e731678"
   }
  ]
 }
