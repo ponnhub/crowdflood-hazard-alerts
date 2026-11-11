@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T09:14:56Z",
+ "updated_at": "2026-11-11T09:26:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -24,7 +24,7 @@
   "wildfire": 0,
   "drought": 8,
   "pm25": 5,
-  "heat": 2,
+  "heat": 3,
   "tsunami": 0,
   "other": 3
  },
@@ -42,6 +42,20 @@
    "time": "2026-11-11T08:05:00Z",
    "location": null,
    "id": "a802062f67713488"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่ม ตั้งแต่จังหวัดกวางตรีถึงจังหวัดคั้ญฮวา ในอีก 6 ชั่วโมงข้างหน้าของวันที่ 11 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZRZEhtRFJaWVZ2bFdDeFRqaUN6dlFZenZydXlEVWZ4bnQ2NHd5ZkVzUExrQkVfQl9JTDdTbExYQVFTQWFVZUpXTVUxOEExQi1GOS1SNWxWYnRfVjdaMElqX2R6TTBnVTQxWHJqWUREQVdSQzJ1b1VPQlIwRlJQeVB6eUVXc2M4Nk1OYjdKQXozZkFNUXFFRVlMY2pkbXRmalBramFoelo3SExoZEI2bGZB?oc=5",
+   "time": "2026-11-11T03:50:22Z",
+   "location": null,
+   "id": "64685becb2cf4c22"
   },
   {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
@@ -304,31 +318,6 @@
    "id": "b6560297fcedf4ea"
   },
   {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lblVlalBWZ3NYRU1oU2ZPUmxlX2pzWUsyZDdMYkJ5em9VMXNmT2lOdlo0ZXJfVVFFdlh5cm1ITnlDMFd0ZFJsel9mUlptOTJYaWc4?oc=5",
-   "time": "2026-11-11T09:11:15Z",
-   "location": null,
-   "id": "e0d09df32afb81d1",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
    "summary": "",
    "category": "news",
@@ -382,6 +371,20 @@
    "id": "6574f12a15d9aea4"
   },
   {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
+   "time": "2026-11-11T07:52:30Z",
+   "location": null,
+   "id": "eff1f7fe34bbc4a2"
+  },
+  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -411,18 +414,29 @@
    "id": "be6b81fbac036c12"
   },
   {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
    "summary": "",
    "category": "news",
-   "hazard_type": "earthquake",
+   "hazard_type": "drought",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID InTrend",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
-   "time": "2026-11-11T07:19:46Z",
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jblBpWENRbzhDWTNIM0dLa0xNaGoyTUpsVlhiWWNQTlpNMG10WV9ab3FGUHNLTXdkTnZhd1d3SjNRWDBvWWdhZWw2ZXloS2tROWg1REpKQndxQjJIYWcwOUhEdGMtTHdxVUxIVGd2Y2Q5eDdtZ2Y4NFpEZlg?oc=5",
+   "time": "2026-11-11T07:25:20Z",
    "location": null,
-   "id": "4e23b6c722a72b87"
+   "id": "7246551cd5f9c2af",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม โดยน้ำได้พัดพาเอาดินและหินลงมาทับถมบนทางหลวงหมายเลข 1D",
@@ -749,20 +763,6 @@
    "time": "2026-11-11T01:55:31Z",
    "location": null,
    "id": "0274d0cb836f815e"
-  },
-  {
-   "title": "ความพยายามในการปกป้องประชาชนในพื้นที่เสี่ยงต่อการเกิดดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4NUx3cmpLN0E4bzJUN2Z6Vmw5MUVDakpEWGVxV1A3OThfZWwwWFRNUFlnT2RnVzlHVVlHeVZ3VnBNSUw4QUxqUnM0RlJOam1ZN2NXeVAxbFpSNTZ1TE41RlBXNFNOMGdvN04zdi1n?oc=5",
-   "time": "2026-11-11T01:39:27Z",
-   "location": null,
-   "id": "9e62f79aa87830bb"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.7 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -1277,7 +1277,7 @@
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
    "summary": "",
    "category": "news",
-   "hazard_type": "drought",
+   "hazard_type": "heat",
    "severity": "medium",
    "urgent": false,
    "official": false,
@@ -1528,6 +1528,20 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
   },
   {
    "title": "อุตุฯ ประกาศ ฉ.3 \"เหนือ-อีสาน\" อุณหภูมิลดลง 3-5 องศาฯ - ใต้ฝนตกหนักถึง 13 พ.ย.",
