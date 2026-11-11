@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T08:30:53Z",
+ "updated_at": "2026-11-11T08:42:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,17 +16,17 @@
   "other"
  ],
  "counts": {
-  "flood": 19,
+  "flood": 20,
   "flash_flood": 7,
-  "storm": 24,
+  "storm": 21,
   "landslide": 11,
   "earthquake": 14,
   "wildfire": 0,
   "drought": 8,
   "pm25": 4,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
-  "other": 3
+  "other": 2
  },
  "items": [
   {
@@ -112,20 +112,6 @@
    "time": "2026-11-11T01:18:00Z",
    "location": null,
    "id": "b0cf09d0b5ec8ae8"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 6 เตือนฝนตกหนักถึงหนักมากภาคใต้ 11-13 พ.ย. 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYzlhSDZLRVYtSUM4R0JyZVRvQkttYjl6SFhvSGZXUDlfVVJKbC1hZkJXMDhzMnVHX0Uxa2VYUF9MUlVjbmh5MFpqTldqMU5ISm5IcFZ3cU9JODdVSW5Yc0JvUFh3d2Uzd1NiRzR3?oc=5",
-   "time": "2026-11-10T23:59:00Z",
-   "location": null,
-   "id": "bad81c271eda6bf1"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
@@ -335,7 +321,7 @@
    "title": "ปภ. เปิด 3 ช่องทาง แจ้งเหตุ-ขอความช่วยเหลือจากภัยพิบัติ ตลอด 24 ชม.",
    "summary": "",
    "category": "news",
-   "hazard_type": "other",
+   "hazard_type": "flood",
    "severity": "high",
    "urgent": false,
    "official": true,
@@ -1345,6 +1331,20 @@
    "id": "acfb1353b9fda242"
   },
   {
+   "title": "WMO เตือนวิกฤตหนัก มหาสมุทรเดือด คลื่นความร้อนทะเลพุ่ง 3 เท่า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWF82bWNMTW5hTmVUX2JtQVlVclExc3JvYl9iRGd0ajFpZTlVNjhLTW05VmNsYndxM1FNa3JsU3ktWk5rWmFnOEE4TWNSQUlVVVFteFl3?oc=5",
+   "time": "2026-11-10T03:00:00Z",
+   "location": null,
+   "id": "0852ea7b1d81cacb"
+  },
+  {
    "title": "ปภ. อัปเดตประกันภัยพิบัติ อนุมัติจ่ายแล้ว 5,635 ราย รวมกว่า 65 ล้าน | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1519,20 +1519,6 @@
    "id": "49d08d54b1754ce5"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 10 พ.ย. ไทยตอนบนหนาวแล้ว ลมแรง อุณหภูมิลดลง 3-5 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoZDRFeHpBSVpqam9qX2djU21pQUZ1VmpOczdjWXc4UzhxWnpQYUNqa3RZWTFNOFlJSUp0ekRKV1ZPOFJKWEV6QVBrR28xLVpyVkJ6b1ZTV3YtZmZMaTgzRFY0VURDbUNJS01kU2MxS0pJbWQxMWpaX0lDd20?oc=5",
-   "time": "2026-11-09T10:09:19Z",
-   "location": null,
-   "id": "fe80e20503f5b4ed"
-  },
-  {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
    "summary": "",
    "category": "news",
@@ -1620,21 +1606,6 @@
    },
    "incident_id": "fr_news_da05b1e22095ea2c1c41",
    "id": "da05b1e22095ea2c"
-  },
-  {
-   "title": "9-12 พ.ย. 69 อากาศเย็นลง ภาคอีสาน อากาศเย็นลง 3-5°C ภาคเหนือ กลาง ตะวันออก กรุงเทพฯและปริมณฑล อากาศเย็นลง 1-3°C ในขณะที่ภาคใต้ยังคงมี #ฝนตกหนัก ถึงหนักมาก ในช่วงวันที่ 9-13 พ.ย. 69 #กรมอุตุนิยมวิทยา #",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxOUUR0dUxOM0NuVU9xWHpITVd4VmVVQ0xlVlU5SXdlSll4ZER6R2JpY1dZLUxlV21YOU9kV3FsT0o2aWRfTV9lakpOeHEyNTFSSERDLUxMMmtSalh6ekYzWmJmOC1WWlNlMHdGRXBhYVVTSW9sMkFTZlFGQ3phc2ZDZC1BdWxtbDNBU3o1VFZPUUozY0pza0lybnJiSGZZOE1KdWlWTEg3OHlYRU43WEctSDNvaEhVdjJfOTNIZUthakxyV2F0THQzUWZNcXc1N3NqV3NqdkoxRTdIVDl2WmRIdjYxeko4NlNmWXlLeTJ0OGNsSzFfMW1INTJGRHpob0R2ZEZieE1jY29tdGhEdE9Id05zdnNLZXFJajVSakRGR0xUUHdOdEFGT0RTdm1nN3pOTHpOT0lQUGZRNFNpMExHN0JSdUVMMVh6ZlROT1FtdW1ZTXNGT0liQWowdkRsY2FOeW1DLTBpTFlScTNEUi1tdXJzRloyeDlMMTRaNlpVSlozVlp6UW53S09qV193b293QmI0dWFQUjFJNFdMdUZYcEhtcXJ1R0xrZkpzbWF6TmdCZHBhMy1hb2xvLVJYWXNoVk1wTEZQWkN6VXRnMWtudGtRRUNCOWpUdGdZbWdhQkJLVmVrZ2JFVk9OYmloNFA4WXpabWw4TUp1T19YWEJWcVNUcWdXMzZXS0pZNlV5ZEdrMUtOdVY4MUhEQ19ETC1XdjVvX05qOC04aDRyNWN0X1hmQmpXNkxvRElmMFpDWk5NWmZpY0h5Q3dSU1VfYmRqLWFhUVZZMEZFVGZXX245T1lldkZhNVF3YnFFUVlEcVVGZVloT3NNXzI0WmJSM1ExTVVmVnZ2VlhtcU1UaU0yaXRpZURLX2hqM2tCU2kzcFJhWnJISmYwc3FseTJ3eGJMbWJ4cDhDWVVCYjVBNmFjaTZ1M1dPdm1jSHUyZ2Vvajk1YWJjYzRuOF9Jc0hpMm1ISW9KYk9CWi1wSDNubG9VSnJ0eWttYkpaMGdqRXNac3B3RHN3czJkUzl2YXZDYUhyQm9tRTM1ZkQydWc1eHpiZ2V1M0hjS0dtcG5hWGh6UE1vYUgxbkswQkZYRFZ3ZV9SQ2l0OVpHWXdEWllLT29XSDRFSmhoS3R3bjFmVW9LZUpNUXM1OXZmckg1MGFsSEZuSnc?oc=5",
-   "time": "2026-11-09T08:37:42Z",
-   "location": null,
-   "incident_id": "fr_news_f8773169da07f8a60642",
-   "id": "f8773169da07f8a6"
   }
  ]
 }
