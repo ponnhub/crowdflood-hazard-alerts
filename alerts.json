@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T05:17:11Z",
+ "updated_at": "2026-11-11T05:31:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,10 +19,10 @@
   "flood": 15,
   "flash_flood": 9,
   "storm": 21,
-  "landslide": 10,
-  "earthquake": 17,
+  "landslide": 12,
+  "earthquake": 16,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 4,
   "heat": 1,
   "tsunami": 1,
@@ -378,9 +378,9 @@
    "severity": "low",
    "urgent": false,
    "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44c2JaV0FmbFkzdkZEbzl0MmZEZFYwdnVWWDhJSW9meDc1ZjlUcjR4cHd5V1c3RU1BV2R3V0Rob3V0elR1eXc?oc=5",
-   "time": "2026-11-11T05:13:20Z",
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1oTFJSLWo5WEhBMUlnaDhrZWdBV0ZGY2J5WGJVWUFhTHVCTnI1NWlkVWpqb2VaSTBBYkRUV3lqUnFkbGJTRG80?oc=5",
+   "time": "2026-11-11T05:15:00Z",
    "location": null,
    "area": {
     "code": "TH80",
@@ -393,8 +393,8 @@
      9.323
     ]
    },
-   "incident_id": "fr_news_cf115a91839623a4aee6",
-   "id": "cf115a91839623a4"
+   "incident_id": "fr_news_906df18fd3eee49a9a94",
+   "id": "906df18fd3eee49a"
   },
   {
    "title": "ดานัง: ฝนตกหนักต่อเนื่องเป็นเวลานานทำให้เกิดดินถล่ม น้ำท่วมในบางพื้นที่ และส่งผลกระทบต่อการจราจรในหลายพื้นที่ภูเขา",
@@ -451,6 +451,20 @@
    "id": "52eca5812047102d"
   },
   {
+   "title": "เหตุการณ์ดินถล่มกำลังคุกคามใจกลางตำบลตรามี ในเขตภูเขาทางตอนใต้ (เมืองดานัง)",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXlIMVBmR0VqeGE2eFB5b0lWTXNrN2VwVHBlRVpBR21zT0kzUGxvUC1XdjhGa2VsdVhKZ3ZsRk1wX3NYQXFCcWYtR3lZY3dNQW1XRVpyTk92eHhSQmx3N1l1cmZfYjIzblpXMUIxT3ZzZU9USGV6bXRkal9ud1AtbzNFei01b3JF?oc=5",
+   "time": "2026-11-11T04:06:17Z",
+   "location": null,
+   "id": "08f635573e29d0d3"
+  },
+  {
    "title": "ปภ. โอนเงินเยียวยาน้ำท่วม 12 จังหวัดและ กทม. กว่า 1.4 หมื่นครัวเรือน ยอดพุ่งทะยานต่อเนื่อง",
    "summary": "",
    "category": "flooding",
@@ -478,6 +492,20 @@
    "time": "2026-11-11T03:42:04Z",
    "location": null,
    "id": "a27bcf0ce2afd31c"
+  },
+  {
+   "title": "เกิดดินถล่มในหลายพื้นที่ของเมืองดานังที่เป็นภูเขา ทำให้ถนนถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjEwR2U5NmYtd0V6b083TEY4NGhKcGVTWUpoWlpnOWV2UjUxRzFCX2J5Vm1UWHBvVEF6SnRxdVRfdHBoZl9qVk8xMFcxV0FlalZHdVl6NjBSLS1tRlJfLTR6cVIwSlVTai11SFM2cC04cEl4OEk3RUExREtpb2tCeURDcw?oc=5",
+   "time": "2026-11-11T03:20:07Z",
+   "location": null,
+   "id": "eabf7cf061ccc952"
   },
   {
    "title": "ดานัง: ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มอย่างรุนแรงบนถนนหลายสายในพื้นที่ภูเขา",
@@ -1340,6 +1368,20 @@
    "id": "08b700e647c312b6"
   },
   {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
+  },
+  {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
    "summary": "",
    "category": "news",
@@ -1566,20 +1608,6 @@
    },
    "incident_id": "fr_news_6e823f35e60f344aae27",
    "id": "6e823f35e60f344a"
-  },
-  {
-   "title": "แผ่นดินไหวญี่ปุ่น 5.7 เขย่าแรงกลางดึก เตือนระวังอาฟเตอร์ช็อก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "kapook.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ENC1WRDNsM2tIdXAtbTZGckdvQ0tHT1BUU2hzbE52VVFLZnNma2hDQVhJeW03Q2ZoSE5XUTAweFFiSzZuLU4yZHJFdWwwOHc?oc=5",
-   "time": "2026-11-09T05:18:16Z",
-   "location": null,
-   "id": "2cc1d4a1be3f4503"
   }
  ]
 }
