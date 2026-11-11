@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T21:19:19Z",
+ "updated_at": "2026-11-11T21:25:25Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -357,20 +357,6 @@
    "id": "e4aa4170e62715ac"
   },
   {
-   "title": "ภาคใต้ของเวียดนามดำเนินการเชิงรุกเพื่อสร้างความมั่นใจในการจัดหาน้ำเพื่อรับมือกับความเสี่ยงจากภัยแล้งและการรุกของน้ำเค็ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHplM0ZUSlh6YmxtWmFpYVFBVXZ4enhuejA2RFpmaC1VbUdfUUktZzEwNm53S3lpWkd1WEFJMXNCc3haUGJvaTBILTc4MURnbkJWUW1ncWk3MTdYZkMyeXFjMFAwb1VfdHJhUnoxUk1WamowT1RpNElEYlozUm1VTVpkUDh4bHJDalE?oc=5",
-   "time": "2026-11-11T17:08:59Z",
-   "location": null,
-   "id": "a6988e614cc3603c"
-  },
-  {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -380,7 +366,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:48:35Z",
+   "time": "2026-11-11T15:47:50Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -445,6 +431,20 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
+  },
+  {
+   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
+   "time": "2026-11-11T13:15:00Z",
+   "location": null,
+   "id": "82ffe788907662f1"
   },
   {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
