@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T13:30:02Z",
+ "updated_at": "2026-11-11T13:48:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 17,
+  "flood": 18,
   "flash_flood": 9,
-  "storm": 19,
-  "landslide": 11,
+  "storm": 18,
+  "landslide": 12,
   "earthquake": 14,
   "wildfire": 0,
-  "drought": 8,
+  "drought": 9,
   "pm25": 6,
   "heat": 3,
   "tsunami": 0,
@@ -276,6 +276,26 @@
    "id": "26d9bdd36a65ac1d"
   },
   {
+   "title": "UPDATE: ชาวแม่สาย สุดอัดอั้น จำทนผวาน้ำท่วม-กลัวสารพิษ เผยเดือดร้อนสาหัส-ห่วงอนาคตลูกหลานไม่มีแม่น้ำใช้-ยื่น 9 ข้อเสนอถึง นายกฯ เร่งแก้ปัญหา วันนี้ (11 พ.ย. 69) ที่ศาลาวัดเกาะทรายคำ อ.แม่สาย จ.เชียงรา",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMisgdBVV95cUxONjRoelBQOFZnSG0yaFhpRmlDQXgwZWhkRFd0bndGQlhIMnZwSW1HUmE4bXRVZ3hTVmxKcG1rRkRYS2VZVFBrc0xwdzFWSlJjazltazZvMjd0Z19ZbC15ZTYxbU1sTmFURXVYaG0yeDBVX3hIZWIwU1plZmVuZTBOMTUyZVBDRnpWUHg2VGZCSDFOUk4zSWdiYVJPZmlfVUVFQ2RVdXBIcnk0QWo0aFhFazFzT0Y2QktLcW5oci1fcnJId3N0N0syWVFZVXRSc3dmc0xjYU02ZFpfM1BVRGVTMjFUbWhiMmE1WVBocEJRX01uNzF4ckF0ZWVKUHdGS1M2WGZlcVFtT2gyQVFTM2tyLWtETmtSTFhzWjhzSUNZR0xzQ2gtSzdUby1fUmw2ZlJfVFhDMVRTa0pMNTJhVC1xMHBETzlnekdQVnRNQXBqQ3hscS1sWEluQ2VQY1JiSHFIeW9qb0Fuc3ZEQjM3WFl0RU8zTEpZQlptOFQxcVdKNUZnUWtTeGFNdHNWUHFlZ3lRSE5icjdKU1Z0TmlrNUkzTnNuTjBqaURQMzN3OHFidmU0XzhZNVJoSWpRaElFSWotS2J2TlpQUGt5VWVENmJKel9mNEtfbWlzcHF3R3JYSU5lZFY1U3FsVzQzWnByZE9UZXdSSGgxMFZuSENTWDZlRU15ZS1TZnVJT3dzLWZuSnp6UTMyV0MwbWwxc19oeVNzUkVXZHpIUzl3Q1pmaXNqWmNNcy05QXdfVWxVSExIRjBSN1g0eWZkeGphekNLRWZWZVJVeHdEeVI3Qm1qdkwzQnhMQkVQN25rV0ZoTGR3SHlVYWV5MENGd2UybERXZXMza194NlJqX0RKUHN0cHQwcHdnUXVDZE15a2hDcmhjYWpkVHVnSFZTczN2LXlCMzlNb1lsVW5jYWVQazByZ0xuR0pkaWstNDBrNXpEa0Zmd2Rsa0QybHZlZlFLTF8wLTdQT3VIMUpKYU93ZThPRFBWYWpCelMwUFNUQUVyMFBteWxxQ3FwM3F3NzdZY0hLSWppcHVROFhZZUdsOHhScC1fTG5meFh2QWlYS3VNXzYwTjNuV0hiQl9yRk5JY3hWclV3UHFsaGViNXpUVWJlOUZldVU4V3QxWkdpTjVQNVBLUmhDTEpwdkRsTjQ5SUJZVW90V05BcXdLTUhILWRkOXNFRV9XbUtMNmpRMklXb3FSX3FuNUVNNzVzTFVDeGhkVG9LU3V0Njc1UG8zam4xNC1NWFhB?oc=5",
+   "time": "2026-11-11T13:38:39Z",
+   "location": {
+    "name": "อ.แม่สาย",
+    "lat": 20.4397711,
+    "lng": 99.8829694,
+    "precision": "district"
+   },
+   "incident_id": "fr_news_24736c2a684bef56aa7b",
+   "id": "24736c2a684bef56"
+  },
+  {
    "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
    "summary": "",
    "category": "news",
@@ -288,6 +308,20 @@
    "time": "2026-11-11T13:04:34Z",
    "location": null,
    "id": "e112592cea7963ef"
+  },
+  {
+   "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTRyeVNlN1hIY1FWbk1pSjZORjZHNkx4Y25fQWFQOTNsTTdla3htbVJvZU5fdUpfMllZRWt3eU1xdUVsTXEtcWJGVmdDd2hCSzVXclNBNFdxaVZYTlVLaTNuUWF5Q2hfa0d2RmJTYkRLbklvTmJ5OE5jOFlhZnBrWlRqTGFrY0pYWkxnS2R4dzZHaDg?oc=5",
+   "time": "2026-11-11T12:56:30Z",
+   "location": null,
+   "id": "caf0a6fe12ae5036"
   },
   {
    "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
@@ -697,20 +731,6 @@
    "location": null,
    "incident_id": "fr_news_7d0176f5913c8081dccd",
    "id": "7d0176f5913c8081"
-  },
-  {
-   "title": "Tra Leng ดำเนินการเชิงรุกเพื่อปกป้องความปลอดภัยของผู้อยู่อาศัยจากฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekV5ZEpRWE1LNGdMazJIS1ppTG82TFF3T1h3S1dZU0FoOXdLdEN1WVhOWjdLNEMwaDU3MmpFWHRiLXpXODQtcDBSbVVmT1RnZWwxT0RIeUs5RXJ4M3FtajAwaWRQbUdrZGRDVUtyMDdmVW5McEFnMXZhc1h0UDhKRlB3Y0dCaE9SVVE?oc=5",
-   "time": "2026-11-11T07:28:53Z",
-   "location": null,
-   "id": "be6b81fbac036c12"
   },
   {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
@@ -1453,6 +1473,20 @@
    },
    "incident_id": "fr_news_7c0bfd250bc892e65eab",
    "id": "7c0bfd250bc892e6"
+  },
+  {
+   "title": "จังหวัดด่งทับพัฒนาแผนรับมือภัยแล้งและดินเค็มระดับสูงสุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHN3OHh4SVVJSzh2VExwTFVjbmQ3d2x4X2dkRUI4S2NrdU5HNTdKM19DVllSZHJRd0pGUngzYVR5UDBQTmNjZ3pzZjd0V1JWUlFCRG1nampyZkxJT0x0Nzh0YUV4aWhsam1nZXdMWG50Q1NwOHc0bFBqbzExQzhqaUkwbDY?oc=5",
+   "time": "2026-11-10T06:57:14Z",
+   "location": null,
+   "id": "822d84d51eed150f"
   },
   {
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
