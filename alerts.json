@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T12:01:09Z",
+ "updated_at": "2026-11-11T12:14:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 18,
-  "flash_flood": 8,
-  "storm": 18,
+  "flood": 17,
+  "flash_flood": 9,
+  "storm": 19,
   "landslide": 12,
   "earthquake": 13,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "กรมอุตุนิยมวิทยาเตือนฝนตกหนักถึงหนักมากบริเวณภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51eHNJaXRnejBzWTFvYV94MXROaW9iSUhYeEFOTVBYQVE5WDlTVU1CY2lvd3dQZXJzMVRlOExNellzcVlnWFRWNk5feHByUkk1eXhXcTlIaEdUMUFuaVZTeGhGRHJPcFlnRUU0Q1V3?oc=5",
+   "time": "2026-11-11T12:07:00Z",
+   "location": null,
+   "id": "e334ea4f72b33245"
+  },
   {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
@@ -139,20 +153,6 @@
    "id": "95bd6cb76be88d6f"
   },
   {
-   "title": "สภาพอากาศวันนี้ 11 พ.ย. 69 กรมอุตุฯ เตือน 5 จังหวัดภาคใต้ ฝนตกหนัก - อากาศวันนี้ | กรมอุตุนิยมวิทยา ข่าว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cDdSMlllVjgxaWVHRHVYRmVCUXZ1dE9zTWRPcjVfTUVOSDNyYkZDRkM5V3hob0VXYmh0RVFhcTB4czM5LW5RMXZyWTJCRF9wT3BZZGNXNy0wT2gxdXR2UFpaaEhZSUU1RUxLRmZB?oc=5",
-   "time": "2026-11-11T01:18:00Z",
-   "location": null,
-   "id": "b0cf09d0b5ec8ae8"
-  },
-  {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
    "summary": "",
    "category": "news",
@@ -234,6 +234,31 @@
    }
   },
   {
+   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
+   "time": "2026-11-10T03:00:37Z",
+   "location": null,
+   "id": "1d39d81e21175f05",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
+  },
+  {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
@@ -276,18 +301,18 @@
    "id": "9f9a1aff207e61dd"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 4 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
+   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BeWVnMWFlR0ZOVW43WEVYTHF1Ql9YWVNSODM3T2M0ZXl1Nk93Y3hYOWV3bVBENkNVcjZoeHpTY3VqVk82b0RGMWFSM09KN0FHb3QxcF9HdVRORXllQkRfLWFLZw?oc=5",
-   "time": "2026-11-09T23:58:00Z",
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
+   "time": "2026-11-09T23:31:17Z",
    "location": null,
-   "id": "26d9bdd36a65ac1d"
+   "id": "39e8dc1c5d93fc31"
   },
   {
    "title": "เตือนด่วน! อ.เกาะสมุย - อ.เกาะพะงัน สุราษฎร์ธานี ฝนตกหนัก เสี่ยงน้ำท่วม ดินสไลด์",
@@ -377,18 +402,18 @@
    "id": "4948a76fd625c252"
   },
   {
-   "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
+   "title": "ประกาศฉบับ 7 ภาคใต้ฝนตกหนัก เสี่ยงน้ำท่วม 11-13 พ.ย. ทั่วไทยอากาศเย็น ลมแรง",
    "summary": "",
    "category": "news",
-   "hazard_type": "drought",
+   "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXJMN1diVEhmS1hjd0xRUkFTT2c3MnVhTV8yZDBpZFExQ0x6X0R6d2k1UUc2a0xKbWRxa2p5RFB2R3hFV1NVU0F2QU1iUTZXRXB5dGVPUlB0NWl4Zl9RZ0hTWGpQZnRXcTJ4MDd4NFFHOFR2MkdNbUdxeXFsazRQOHNaTXNpY3VGeU1VbUs1NDFfZGE4c3c?oc=5",
-   "time": "2026-11-11T10:45:32Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLV93dkd0UlJMSmM1cXBsU3oxbVdoa2hidU9jcTZVNVdwVzFCS1RuVDNaNXRLanhnSkIzWlF2by1hTzFvS0otbVlpcWYwa1RTUVNDRVJZTl8zT082dk9uSno4S1hGZw?oc=5",
+   "time": "2026-11-11T10:39:31Z",
    "location": null,
-   "id": "cb87edfd5b817c01"
+   "id": "e2e03b351acd17e6"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -744,20 +769,6 @@
    "time": "2026-11-11T06:17:00Z",
    "location": null,
    "id": "59d1471a7b051064"
-  },
-  {
-   "title": "ขนเครื่องสูบน้ำลงใต้ ปักหลักสงขลา รับมือ ฝนแช่สะสม 13 จว. เสี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oWUhKbTdrWTlhUHlYR3p5XzlSV3JZSzUzcEtqZ2R1bm5Xd3BrbXNmemxuRmVJcmJXeFR4SEtKVW5LZ0Z2R0xMeGc4NTJ6cXFCUThCSDZUaHcyVDRQM0VDNzFYWjRsdw?oc=5",
-   "time": "2026-11-11T06:02:00Z",
-   "location": null,
-   "id": "7e1d472c208c2343"
   },
   {
    "title": "เงินเยียวยาน้ำท่วม 2569 ธนาคารออมสิน โอนให้อีก 12 จังหวัด กทม.ด้วย",
@@ -1636,6 +1647,20 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
   }
  ]
 }
