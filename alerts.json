@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T19:14:25Z",
+ "updated_at": "2026-11-11T19:29:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 20,
-  "flash_flood": 10,
-  "storm": 16,
+  "flash_flood": 11,
+  "storm": 17,
   "landslide": 12,
   "earthquake": 14,
   "wildfire": 0,
@@ -151,6 +151,20 @@
    "time": "2026-11-11T01:24:37Z",
    "location": null,
    "id": "95bd6cb76be88d6f"
+  },
+  {
+   "title": "เตือนจากกรมอุตุ ฉบับที่ 2 ฝนตกหนักถึงหนักมาก อากาศหนาวเย็นลงและลมแรง | มุมข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdjJUWVVfeWJQVjNMdG9YYlBKM25jcWhhb25seTVJcWdoVmU1b2YzaGFFd3Z3T3lLX3JaZkNXMW5EZnRoNWRCdDRjYktxV1JueFFWNzh3?oc=5",
+   "time": "2026-11-10T20:30:39Z",
+   "location": null,
+   "id": "5f2522573ec3bdb5"
   },
   {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
@@ -1622,6 +1636,20 @@
    "time": "2026-11-10T03:00:00Z",
    "location": null,
    "id": "0852ea7b1d81cacb"
+  },
+  {
+   "title": "เตือน 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน-น้ำป่า-น้ำล้นตลิ่ง ช่วงวันที่ 9 – 13 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51MVkwU2tTTnRodWkwSmJPQnZ4QWR5cjhyalFQcFl4UmhXOTdNR3g2SnNqSUc1Z3Z3ZHJZcDItcXo1dUtJR2hrUFVVSWp5MWVNV0xJWmdOQQ?oc=5",
+   "time": "2026-11-10T02:30:50Z",
+   "location": null,
+   "id": "c6433e3bbc1e7056"
   },
   {
    "title": "Aquatech Asia 2026 บุกไทยครั้งแรก รวมเทคโนโลยีน้ำโลก รับมือวิกฤตน้ำท่วม–ภัยแล้ง",
