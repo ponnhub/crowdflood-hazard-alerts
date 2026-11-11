@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T19:46:46Z",
+ "updated_at": "2026-11-11T19:58:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -444,20 +444,6 @@
    "id": "82ffe788907662f1"
   },
   {
-   "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkotUkEyMzB3Y1VKV0RTUnZrSHNDMEE4V3JlbWFpblhMdGVnUDgtNnBFZjdfUUxWVHE5UElsNnJLeFkweVZ4UndPeGtGZjd2T1R3WnE0X3pGVHpRWkY4R0ZBU0FMZmVCY2Zva2UzbEpwSGliV3dmaFpxYXVpWVlFeTlySjUtMVhoWnJhVWtrMTdfWmlx?oc=5",
-   "time": "2026-11-11T13:04:34Z",
-   "location": null,
-   "id": "e112592cea7963ef"
-  },
-  {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
    "summary": "",
    "category": "news",
@@ -733,6 +719,20 @@
    },
    "incident_id": "fr_news_f8f552554715a917893d",
    "id": "f8f552554715a917"
+  },
+  {
+   "title": "ฝนตกหนักทำให้เกิดดินถล่ม ส่งผลให้ถนนหลายสายในภาคกลางของเวียดนามถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHZ2MkNwOUlFMjJISU9HT2NHdE9RZXBrU0gta2xfeHFXMmhXRmtiMy1BeTA3Sl9EVnNjWC1kdW0wUHpHaTdpd3JsRGRtSldUbnFQTzZJNlVIaWhPUnprTmJ3R2VvMHJ4NlViUHh3ZncydjZlaDJoZjFfYVFNZkNxajByd3RIUWRzcDY5eEh2dHl0TVU?oc=5",
+   "time": "2026-11-11T09:25:41Z",
+   "location": null,
+   "id": "e81a0ef1f21a02ab"
   },
   {
    "title": "ซวนไต้ตอบสนองต่อลมแรงในทะเล ฝนตกหนัก และความเสี่ยงจากดินถล่มอย่างทันท่วงที",
