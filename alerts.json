@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T09:50:18Z",
+ "updated_at": "2026-11-11T09:55:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 15,
+  "flood": 16,
   "flash_flood": 7,
   "storm": 22,
-  "landslide": 11,
+  "landslide": 10,
   "earthquake": 13,
   "wildfire": 0,
   "drought": 7,
-  "pm25": 5,
+  "pm25": 6,
   "heat": 3,
   "tsunami": 0,
   "other": 3
@@ -42,6 +42,20 @@
    "time": "2026-11-11T08:05:00Z",
    "location": null,
    "id": "a802062f67713488"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่ม ตั้งแต่จังหวัดกวางตรีถึงจังหวัดคั้ญฮวา ในอีก 6 ชั่วโมงข้างหน้าของวันที่ 11 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZRZEhtRFJaWVZ2bFdDeFRqaUN6dlFZenZydXlEVWZ4bnQ2NHd5ZkVzUExrQkVfQl9JTDdTbExYQVFTQWFVZUpXTVUxOEExQi1GOS1SNWxWYnRfVjdaMElqX2R6TTBnVTQxWHJqWUREQVdSQzJ1b1VPQlIwRlJQeVB6eUVXc2M4Nk1OYjdKQXozZkFNUXFFRVlMY2pkbXRmalBramFoelo3SExoZEI2bGZB?oc=5",
+   "time": "2026-11-11T03:50:22Z",
+   "location": null,
+   "id": "64685becb2cf4c22"
   },
   {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
@@ -304,6 +318,31 @@
    "id": "b6560297fcedf4ea"
   },
   {
+   "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oU0N3Y0xSRjlIOHdTVGxzU3lrMjNOSUZ1RmFPbllkc2NERXJlQlF0NWY4ZF9JaVdQWEdoTFJPN0hWNEJWM2t6VXZweVZxYmxsZkF6aFNzVXZ0WGNsNF9aUkV1ZXVZQQ?oc=5",
+   "time": "2026-11-11T09:45:24Z",
+   "location": null,
+   "id": "ecb77f8dc555123d",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 4.5 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 181 กม.",
    "category": "official",
@@ -361,20 +400,6 @@
    "time": "2026-11-11T08:47:28Z",
    "location": null,
    "id": "e4bb627c0052fadd"
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUFpdkdlWjgtMHluUU1sUGRUMzZQc1VObW8zemlnVGRBRXh1dFZxdmVWMnJIZE5OMUJvQmR3UEtGZm9CTENTS0lyaWNMZWNaUS1lRGRqVEh2TzNLTU1KamNoX1dEUVJHMkpaMmNiVVlXQUdMc19IWDlyS05VWjRHSmJB?oc=5",
-   "time": "2026-11-11T08:33:27Z",
-   "location": null,
-   "id": "9285cc4f9c594b6a"
   },
   {
    "title": "ปภ. เปิด 3 ช่องทาง แจ้งเหตุ-ขอความช่วยเหลือจากภัยพิบัติ ตลอด 24 ชม.",
@@ -621,6 +646,20 @@
    "id": "0fe73d93615141ce"
   },
   {
+   "title": "ในพื้นที่ภูเขาของเมืองดานัง มีการอพยพประชาชน 189 คน และมีการสำรองเสบียงอาหารไว้เผื่อกรณีที่น้ำท่วมตัดขาดเส้นทางสัญจร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVU16Rk5neFVkS213THBCdzljajVBSV9ELTQxblZ6cVhELUNfUWxNb2tlWGU2ZFBOajVZZGdkQkU2MkFZS1hnZ2UtVndLN1NGVzBfdTVRc1BjelFHRDBiOW1yZ2lTUmhPSS1mUUZLbHBjZ1lvM2hRUU00MlBZNFdRZUpsbGMzcG5Ob3puOUxCV1kwZU1kMzd6X3JTcFpWeDJs?oc=5",
+   "time": "2026-11-11T04:36:50Z",
+   "location": null,
+   "id": "438d3075b6d9e008"
+  },
+  {
    "title": "นครศรีธรรมราชฝนตกหนัก ทำน้ำป่าทะลักน้ำตกเทือกเขาหลวง เตือนเฝ้าระวังน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "flooding",
@@ -730,20 +769,6 @@
    "time": "2026-11-11T02:41:41Z",
    "location": null,
    "id": "4a405c960334e10b"
-  },
-  {
-   "title": "ในจังหวัดกวางงาย ภูเขาแตกแยก และประชาชนเกือบ 400 คนต้องอพยพหนีดินถล่มในชั่วข้ามคืน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbld0X3l6bDJtdDA2aS05ay1tT3BGbVRGZXNCUG4ySjNKTU0wQzRpRWtmTDZYQzN4OUoyTVpyaDE4QW5Ob0haNFFteXUwNDVMLTlUMmRHVzNKMjVPVlRuZzRoemwySk5RSDJBUndUNEhoc3NwWnllcWFpQjhnLVN2ZnNsQWM?oc=5",
-   "time": "2026-11-11T02:15:36Z",
-   "location": null,
-   "id": "aa358a90a10e9498"
   },
   {
    "title": "ชาวนาชัยภูมิอ่วม! ภัยแล้งทำข้าวผลผลิตลด ซ้ำค่ารถเกี่ยวพุ่งไร่ละ 800 บาท",
