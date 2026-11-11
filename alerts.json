@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T21:05:05Z",
+ "updated_at": "2026-11-11T21:19:19Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -357,6 +357,20 @@
    "id": "e4aa4170e62715ac"
   },
   {
+   "title": "ภาคใต้ของเวียดนามดำเนินการเชิงรุกเพื่อสร้างความมั่นใจในการจัดหาน้ำเพื่อรับมือกับความเสี่ยงจากภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHplM0ZUSlh6YmxtWmFpYVFBVXZ4enhuejA2RFpmaC1VbUdfUUktZzEwNm53S3lpWkd1WEFJMXNCc3haUGJvaTBILTc4MURnbkJWUW1ncWk3MTdYZkMyeXFjMFAwb1VfdHJhUnoxUk1WamowT1RpNElEYlozUm1VTVpkUDh4bHJDalE?oc=5",
+   "time": "2026-11-11T17:08:59Z",
+   "location": null,
+   "id": "a6988e614cc3603c"
+  },
+  {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -366,7 +380,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:50Z",
+   "time": "2026-11-11T15:48:35Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -383,31 +397,6 @@
    "time": "2026-11-11T15:13:24Z",
    "location": null,
    "id": "e1f59bc2fe1933cd"
-  },
-  {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPcTB1alJodHlqaWVDcXVkblhwaWt3NzNZTTVSZHdzei03YklzNXFINGdvRHpUSmp6SWJXc1F5amZpa21GNldNbHR3LWEzYmtaaHRET1BTZHZVZkNnbDNseG1HUndjZTVER2lmTmQzUTJqREZHcUVZTVVyVHVTX05Xd3l6UjRPaUJBZi1jNmk3eTFXb0g5NHVGTmgzb0MzemJwdE1JaDctdGhzU3FOcXo4YW9sYTgzZVM0X0laY0RRWlFNakpISXViOXhyYnlTQzlvLUFJek1hUU5QVl9WMXc1SU02dHRNQ2ltNUw0QUZFX0I1TXhuM1RDZHk3T3dxM3lzWHF1LWZPMXV5Qm55TUMwOFU4bnM3bkJsNTkwWkFFbHptaXRXY2Q2WXlYanBVejVUU3dVUzUyQ004a0h6c1AwZ3hrc2lPZ1Y5eFQ3dG1jOVd2TGtxREt2bjZqelZwT0U3cGw0bVJRcXpIRW1GcEh5M3RWd0JsTWpoQmlQZkQ4Nl9BRGoxWk51QnNZZGFFX1hBd21vNERxY3pMX2E1c3NOc2N4VEgxTXA1TEZJU0NYZ1BPTEpjRmtKWXFfRkRKMEgyT3dPaWE5WTh4YkpndVJROXFWN0tLWHR4dkQzX1FiNEs3TFBvaGRzX0o5WkZsc3hzY2pKX2E4a2g3R0lhUFJ2cU1WYkNkRzQwbWFuMHU3bGIzM2piN3IzTVpsVEkzWlNOQlp0U2Y4a3pVdHRTWU0yRmplUnZJMUhpbUlJYklTV3dtX3lsWVlES2ZCSVRoNkp6NWhobk1PdEFXS1lxbHVJekV6VnhMMEI1bVFjOWh4NlFDYlZzNUNBQXlZTkV3ZURubWpxT2lnMjRMRlFuTjNIZVVRVjU2SjB5SDZSMUR6VE9DUFVJRnRYUzBUSVZfYURKazJ3OEJkYXFBY09kQUlzUmsxV2Zpb2pwLWhhZmxWYWx1ZDNvNzhoQkVyTTZwYk5nYVY0aW5kS2xwUUdoNmlVdk1mQWd4cTFrZE55Y1VtZ1ZINDJGck1feTVwVW4tVUdORlRPT3U5Tk9IemlyaUJsOXd4QU5RSEJUQ1VudFlsdHNuNE9Mb1RhTWNVVllpcWNzQXhqNndOZFVrTWlVdHlwVFV2MEY3Z0xIUXZSeFB6TUd3S0VTTG05eGlxY2JjdzZKZUFGc2w0UmRLM3JBXzJXbU1yT242a091ODdfUlVlVmhyTlJ4LVF4cHQyT0ZhQmNJcklTTDBOSHVCNVJwR21sQ21oUEhfZEd5STUtMEkxeWxGV2ozalpNNE1SSDQycDdKWURFRjVqTllNMHJSejBmTWM1YjJDZnVFTmNrS0pCZDVBUQ?oc=5",
-   "time": "2026-11-11T14:59:17Z",
-   "location": null,
-   "id": "a8e5e0649f03a05c",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "ส่อวิกฤต! 'ซูเปอร์เอลนีโญ' ทำฝุ่น PM2.5 รุนแรงยาวนานถึง พ.ค.",
@@ -456,20 +445,6 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
-  },
-  {
-   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
-   "time": "2026-11-11T13:15:00Z",
-   "location": null,
-   "id": "82ffe788907662f1"
   },
   {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
@@ -800,6 +775,31 @@
    "time": "2026-11-11T09:03:43Z",
    "location": null,
    "id": "0e79dbd4e7c9fc52",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPcTB1alJodHlqaWVDcXVkblhwaWt3NzNZTTVSZHdzei03YklzNXFINGdvRHpUSmp6SWJXc1F5amZpa21GNldNbHR3LWEzYmtaaHRET1BTZHZVZkNnbDNseG1HUndjZTVER2lmTmQzUTJqREZHcUVZTVVyVHVTX05Xd3l6UjRPaUJBZi1jNmk3eTFXb0g5NHVGTmgzb0MzemJwdE1JaDctdGhzU3FOcXo4YW9sYTgzZVM0X0laY0RRWlFNakpISXViOXhyYnlTQzlvLUFJek1hUU5QVl9WMXc1SU02dHRNQ2ltNUw0QUZFX0I1TXhuM1RDZHk3T3dxM3lzWHF1LWZPMXV5Qm55TUMwOFU4bnM3bkJsNTkwWkFFbHptaXRXY2Q2WXlYanBVejVUU3dVUzUyQ004a0h6c1AwZ3hrc2lPZ1Y5eFQ3dG1jOVd2TGtxREt2bjZqelZwT0U3cGw0bVJRcXpIRW1GcEh5M3RWd0JsTWpoQmlQZkQ4Nl9BRGoxWk51QnNZZGFFX1hBd21vNERxY3pMX2E1c3NOc2N4VEgxTXA1TEZJU0NYZ1BPTEpjRmtKWXFfRkRKMEgyT3dPaWE5WTh4YkpndVJROXFWN0tLWHR4dkQzX1FiNEs3TFBvaGRzX0o5WkZsc3hzY2pKX2E4a2g3R0lhUFJ2cU1WYkNkRzQwbWFuMHU3bGIzM2piN3IzTVpsVEkzWlNOQlp0U2Y4a3pVdHRTWU0yRmplUnZJMUhpbUlJYklTV3dtX3lsWVlES2ZCSVRoNkp6NWhobk1PdEFXS1lxbHVJekV6VnhMMEI1bVFjOWh4NlFDYlZzNUNBQXlZTkV3ZURubWpxT2lnMjRMRlFuTjNIZVVRVjU2SjB5SDZSMUR6VE9DUFVJRnRYUzBUSVZfYURKazJ3OEJkYXFBY09kQUlzUmsxV2Zpb2pwLWhhZmxWYWx1ZDNvNzhoQkVyTTZwYk5nYVY0aW5kS2xwUUdoNmlVdk1mQWd4cTFrZE55Y1VtZ1ZINDJGck1feTVwVW4tVUdORlRPT3U5Tk9IemlyaUJsOXd4QU5RSEJUQ1VudFlsdHNuNE9Mb1RhTWNVVllpcWNzQXhqNndOZFVrTWlVdHlwVFV2MEY3Z0xIUXZSeFB6TUd3S0VTTG05eGlxY2JjdzZKZUFGc2w0UmRLM3JBXzJXbU1yT242a091ODdfUlVlVmhyTlJ4LVF4cHQyT0ZhQmNJcklTTDBOSHVCNVJwR21sQ21oUEhfZEd5STUtMEkxeWxGV2ozalpNNE1SSDQycDdKWURFRjVqTllNMHJSejBmTWM1YjJDZnVFTmNrS0pCZDVBUQ?oc=5",
+   "time": "2026-11-11T09:03:02Z",
+   "location": null,
+   "id": "a8e5e0649f03a05c",
    "area": {
     "code": "TH10",
     "level": "province",
