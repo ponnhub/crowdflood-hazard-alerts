@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T16:18:01Z",
+ "updated_at": "2026-11-11T16:25:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 9,
   "storm": 18,
   "landslide": 12,
-  "earthquake": 15,
+  "earthquake": 14,
   "wildfire": 0,
   "drought": 9,
   "pm25": 6,
@@ -389,20 +389,6 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
-  },
-  {
-   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
-   "time": "2026-11-11T13:15:00Z",
-   "location": null,
-   "id": "82ffe788907662f1"
   },
   {
    "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
