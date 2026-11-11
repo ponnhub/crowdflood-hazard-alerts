@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T09:04:23Z",
+ "updated_at": "2026-11-11T09:14:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 16,
+  "flood": 15,
   "flash_flood": 7,
   "storm": 22,
   "landslide": 11,
-  "earthquake": 14,
+  "earthquake": 13,
   "wildfire": 0,
   "drought": 8,
-  "pm25": 4,
+  "pm25": 5,
   "heat": 2,
   "tsunami": 0,
   "other": 3
@@ -248,18 +248,18 @@
    }
   },
   {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
+   "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SeFl2b1UzU1FkUUIwRG5SZnphMnZHOVNxSGZfVzlWUHJ6My1wdUZmWWZWMmd3VGR2bFpUVFZQMzhhWjBKNlNSNDhkNFlKb3hoQktUNzI1YTF0UXItSWJmaGg5Wk9nX1RLMGkzc0FB?oc=5",
+   "time": "2026-11-10T01:48:30Z",
    "location": null,
-   "id": "c66b8d445bce8cc7"
+   "id": "12634b431a5e2537"
   },
   {
    "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
@@ -311,11 +311,36 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMjJuUGMwVU1NeS05alNSV3VqN2lBeFdORVhCMWQwYm1Ja1RuMG5VYkJwOUI3YkMyUVR6Vk0yU3BaWDlwdTVZbENVcFk3NEU5VmtWcTVn?oc=5",
-   "time": "2026-11-11T09:03:18Z",
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lblVlalBWZ3NYRU1oU2ZPUmxlX2pzWUsyZDdMYkJ5em9VMXNmT2lOdlo0ZXJfVVFFdlh5cm1ITnlDMFd0ZFJsel9mUlptOTJYaWc4?oc=5",
+   "time": "2026-11-11T09:11:15Z",
    "location": null,
-   "id": "0e79dbd4e7c9fc52",
+   "id": "e0d09df32afb81d1",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
+   "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ThaiPR.NET",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TX256QXg5RzEyZ0xGOGw0bkpjQWVLeXAzZ3JxWXBQMHVKb0hUcTA1dEIwUWE3cE8wSV9Tc01KZmpnSmEzdVR4UWd6T1AySGNhWVE?oc=5",
+   "time": "2026-11-11T09:04:00Z",
+   "location": null,
+   "id": "b64ee5742700a269",
    "area": {
     "code": "TH10",
     "level": "province",
@@ -357,20 +382,6 @@
    "id": "6574f12a15d9aea4"
   },
   {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
-   "time": "2026-11-11T07:52:30Z",
-   "location": null,
-   "id": "eff1f7fe34bbc4a2"
-  },
-  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -398,6 +409,20 @@
    "time": "2026-11-11T07:28:53Z",
    "location": null,
    "id": "be6b81fbac036c12"
+  },
+  {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID InTrend",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
+   "time": "2026-11-11T07:19:46Z",
+   "location": null,
+   "id": "4e23b6c722a72b87"
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม โดยน้ำได้พัดพาเอาดินและหินลงมาทับถมบนทางหลวงหมายเลข 1D",
@@ -1531,35 +1556,6 @@
    "time": "2026-11-09T09:59:24Z",
    "location": null,
    "id": "d991c59bd8050c38"
-  },
-  {
-   "title": "earthquake แผ่นดินไหวใกล้ตัวกว่าที่คิด รู้ทันก่อนภัยมาเยือน!",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsNHJpREVCOUhiNnNHcnN2dkx5VEhIUV95OEtBUnhkeGJJT2tLLW8xdHR4NURQVkZ3WTIxeDBORUFuaU45MzhJS0dibE0yMkhmVG1FRGxR?oc=5",
-   "time": "2026-11-09T09:09:22Z",
-   "location": null,
-   "id": "48f84d75f537ae7e"
-  },
-  {
-   "title": "กรมชลฯ เกาะติดสถานการณ์น้ำ เร่งระบายพื้นที่ท่วมขัง พร้อมรับมือฝนหนักภาคใต้ 9–13 พ.ย. นี้",
-   "summary": "วันนี้ (9 พฤศจิกายน 2569) นายวรพจน์ เพชรนรชาติ รองอธิบดีกรมชลประทาน เป็นประธานการประชุมคณะทำงานติดตามและวิเคราะห์แนวโน้มสถานการณ์น้ำ ร่วมกับหน่วยงานที่เกี่ยวข้อง อาทิ กรมอุตุนิยมวิทยา สถาบันสารสนเทศทรัพยากรน้ำ และการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย พร้อมถ่ายทอดการประชุมผ่านระบบ VDO Conference ไปยังสำนักงานชลประทานที่ 1–17 และสำนักเครื่องจักรกล ณ ห้องประชุมศูนย์ปฏิบัติการน้ำอัจฉริยะ (SWOC) กรมชลประทาน สา",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/pr-news/news_10466051",
-   "time": "2026-11-09T09:07:11Z",
-   "location": null,
-   "incident_id": "fr_rss_c4a629461dd3517e30df",
-   "id": "c4a629461dd3517e"
   }
  ]
 }
