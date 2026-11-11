@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T11:18:31Z",
+ "updated_at": "2026-11-11T11:35:00Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 18,
   "flash_flood": 8,
-  "storm": 18,
+  "storm": 19,
   "landslide": 11,
   "earthquake": 13,
   "wildfire": 0,
@@ -26,7 +26,7 @@
   "pm25": 6,
   "heat": 3,
   "tsunami": 0,
-  "other": 2
+  "other": 3
  },
  "items": [
   {
@@ -137,6 +137,20 @@
    "time": "2026-11-11T01:18:00Z",
    "location": null,
    "id": "b0cf09d0b5ec8ae8"
+  },
+  {
+   "title": "เตือนจากกรมอุตุ ฉบับที่ 2 ฝนตกหนักถึงหนักมาก อากาศหนาวเย็นลงและลมแรง | มุมข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdjJUWVVfeWJQVjNMdG9YYlBKM25jcWhhb25seTVJcWdoVmU1b2YzaGFFd3Z3T3lLX3JaZkNXMW5EZnRoNWRCdDRjYktxV1JueFFWNzh3?oc=5",
+   "time": "2026-11-10T20:30:39Z",
+   "location": null,
+   "id": "5f2522573ec3bdb5"
   },
   {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
@@ -324,6 +338,20 @@
    "id": "4948a76fd625c252"
   },
   {
+   "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxORHM5d09DNnZMZ1BpcWtTVzdJWUI4VkllaFdrWlZnV0hVZGY0MUpncnl1UUlSY2NaMlR1XzJScDJwZk5oTFZxOTNvTVRwX0l0eDBLSUJsR3BNZTJUOVdERTZtT3Z2QW12QlNnZWd6cjJkZThkY3JfUDZTVzdxVVNDSlNaMmtlLTdqZmJac0NPdmFQbENpdk5tdzVyMzViLWpSMWpwZjFuZ3hVeVUxcktmRjlYd2UteUEyN3BaYlV6aGo5QkNxMEtBOUFOalJfWjI1dHJVSlRtWFFaVUxTX0s5LTZfZnpQTk53VHRYLXVwYUZsV19uSlVIT0M0clQ1SVFuUncwc0Q5cFJUWG1FMmVNcHhlc2RIQXp5cW9hZkktTmZVOUxDelVUSml2cHNaWGVDX2VXSWVSQ2I4MkZMekxBLVF4ZVdfLUNXaWlrWm5Zcm5FMTIyTjk0UGtIUlRiZ21FMWVZNUFQdkZuSjhZelVpdTczcWwzQXBwbmJETW9TbGdTWXN0RzJPVXNCRzlFX1RjNEVOY0ZGcE1QMGpCUmhQTGl4Zm5XWUpiUzJGRUlrSUk0TGVPbjlPaDk2amhPSUJIRFJrT0NwaVk2WkotRUVpQ2t4b2hzcEZ4RkZMTDF4WTdkZHlkbGJKNk9iQ0hGSVdfRlIxanVMSVh6NHNqb2FPTUZBWDh6clZvdDV0bURfZ0xTdmgxSE0wRkdvVy1GR2JlbHN5SG9DLUJLUm9hS3Y3WmwzcHJXN2x5NmJHX0dtQnpLajNZd2tZVVNHS0ZUTko1NWZ1VF9uM0k4OTRaSVQ5TkU2ZDRZQ1NzdmtEMXVrdkdtTzhSY3lRQjB5MmlZNlFNQXEzUnRzREpEdGZIZEpNS0pnd0xUTUd6TENBQzV6VWlPMzdrOG9QSUdhZ212RXdTUnhJNFhvc0pzaVoxMmtiVXlFWnZMVHZyM1RqVlpRcUQ3OEVsMEZNem94QUlBZjJkU3dtYU1rQm1FNHJ5ZlU1OXZFYmpBM3dzZXc0cHR3d1g1eUdGQXVqZTRVZERKYS1ldUh3VFpVdDV3QTZmdmFBREs4ZzBSMmRYekJNZ2NmM3NTR0xuakIyaVNSYmxwTmVoMkx4cnNUenh0enZLMXJkOXhxTDBUbmg3dkhLS2FvOV85aUxKaHNiRmgwcDJoTHBMUHJoYkdmUzVwcDRvd0hOaGpMQXotNE5ELVFRVnVoNHFycHRLakV3ZlBSOFdMdnRkOWVVYllxdjJkRWNUYUtVUFlGNHI1OVppM2FhaHp3Qm1ZX3hyejNr?oc=5",
+   "time": "2026-11-11T09:58:00Z",
+   "location": null,
+   "id": "ae39c306e19596c6"
+  },
+  {
    "title": "นครศรีธรรมราช เร่งเปิดทางระบายน้ำคลองพระราชดำริ หลังน้ำหลากท่วมชุมชนบ้านหนองเข้ 2 จุด เร่งลดระดับน้ำต่อเนื่อง",
    "summary": "",
    "category": "flooding",
@@ -350,31 +378,6 @@
    "id": "6aec26e2ca0f8b76"
   },
   {
-   "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oU0N3Y0xSRjlIOHdTVGxzU3lrMjNOSUZ1RmFPbllkc2NERXJlQlF0NWY4ZF9JaVdQWEdoTFJPN0hWNEJWM2t6VXZweVZxYmxsZkF6aFNzVXZ0WGNsNF9aUkV1ZXVZQQ?oc=5",
-   "time": "2026-11-11T09:45:24Z",
-   "location": null,
-   "id": "ecb77f8dc555123d",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 4.5 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 181 กม.",
    "category": "official",
@@ -393,6 +396,20 @@
     "precision": "epicentre"
    },
    "id": "9ea24c5e16a6625a"
+  },
+  {
+   "title": "ฝนตกหนักทำให้เกิดดินถล่ม ส่งผลให้ถนนหลายสายในภาคกลางของเวียดนามถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHZ2MkNwOUlFMjJISU9HT2NHdE9RZXBrU0gta2xfeHFXMmhXRmtiMy1BeTA3Sl9EVnNjWC1kdW0wUHpHaTdpd3JsRGRtSldUbnFQTzZJNlVIaWhPUnprTmJ3R2VvMHJ4NlViUHh3ZncydjZlaDJoZjFfYVFNZkNxajByd3RIUWRzcDY5eEh2dHl0TVU?oc=5",
+   "time": "2026-11-11T09:25:41Z",
+   "location": null,
+   "id": "e81a0ef1f21a02ab"
   },
   {
    "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
@@ -448,6 +465,31 @@
    "id": "cd4ca19f213ab065"
   },
   {
+   "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oU0N3Y0xSRjlIOHdTVGxzU3lrMjNOSUZ1RmFPbllkc2NERXJlQlF0NWY4ZF9JaVdQWEdoTFJPN0hWNEJWM2t6VXZweVZxYmxsZkF6aFNzVXZ0WGNsNF9aUkV1ZXVZQQ?oc=5",
+   "time": "2026-11-11T08:40:00Z",
+   "location": null,
+   "id": "ecb77f8dc555123d",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในหลายพื้นที่ของจังหวัดเกียลาย",
    "summary": "",
    "category": "news",
@@ -465,7 +507,7 @@
    "title": "ปภ. เปิด 3 ช่องทาง แจ้งเหตุ-ขอความช่วยเหลือจากภัยพิบัติ ตลอด 24 ชม.",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
+   "hazard_type": "other",
    "severity": "high",
    "urgent": false,
    "official": true,
@@ -474,6 +516,20 @@
    "time": "2026-11-11T08:23:00Z",
    "location": null,
    "id": "6574f12a15d9aea4"
+  },
+  {
+   "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVNnF3Y2lJWTJiMGw3bnhzamhpMl9TRmxUUDlmczhfNHlja2NLMEFJUEZRYUJfSzk2MXp4N3BLMFZGQlBuNlpvNjlMdG5vZmdUWU5xTDRjMkRMS2dHbVhGSHpJNDRHVjdkYWV4WQ?oc=5",
+   "time": "2026-11-11T07:51:33Z",
+   "location": null,
+   "id": "868bd7c9b634591f"
   },
   {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
@@ -638,20 +694,6 @@
    "location": null,
    "incident_id": "fr_rss_2cf04943732ea54fec42",
    "id": "2cf04943732ea54f"
-  },
-  {
-   "title": "จังหวัดเกียลายสั่งห้ามสัญจรผ่านด่านญาซัมเนื่องจากดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FN0NNYXg2UmNtaVlwWVdWQlRlbXZIaXJiNGY0ZmlsZXA0dldoWmM4ank2S3Z1WndFOEJUU2FuVnMwakdxWHBBOVFzTm5lNUo5d2ZUblhVR1F0Y2NzREdOOVV1MUxIRVZCT2lSUFlYc2dqREFGa3paa253bHRpZw?oc=5",
-   "time": "2026-11-11T05:34:40Z",
-   "location": null,
-   "id": "0b6aaaede8a04351"
   },
   {
    "title": "# รัฐบาลไม่มีวันเข้าใจ? คนจันทบุรีเล่าความจริงสุดช้ำ สวนทุเรียนจมน้ำหมดตัว เผยเพื่อนชาวสวนจบชีวิตแล้ว 2 ราย! เสียงสะท้อนสุดสะเทือนใจจากชาวสวนทุเรียนจังหวัดจันทบุรี ที่เดินทางมาร่วมชุมนุมกับกำนันมะโน เ",
@@ -1087,20 +1129,6 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
-  },
-  {
-   "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVNnF3Y2lJWTJiMGw3bnhzamhpMl9TRmxUUDlmczhfNHlja2NLMEFJUEZRYUJfSzk2MXp4N3BLMFZGQlBuNlpvNjlMdG5vZmdUWU5xTDRjMkRMS2dHbVhGSHpJNDRHVjdkYWV4WQ?oc=5",
-   "time": "2026-11-10T11:11:34Z",
-   "location": null,
-   "id": "868bd7c9b634591f"
   },
   {
    "title": "‘สถานทูตจีน-ป่อเต็กตึ๊ง’ลงพื้นที่เยียวยาผู้ประสบภัยน้ำท่วม‘ฉะเชิงเทรา’",
