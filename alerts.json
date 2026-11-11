@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T20:13:03Z",
+ "updated_at": "2026-11-11T20:28:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 14,
   "wildfire": 0,
   "drought": 10,
-  "pm25": 6,
+  "pm25": 7,
   "heat": 3,
   "tsunami": 0,
   "other": 3
@@ -315,20 +315,6 @@
    "id": "39e8dc1c5d93fc31"
   },
   {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-11T18:24:01Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
-  },
-  {
    "title": "สภาพอากาศวันนี้ -17 พ.ย.ใต้ระวังน้ำท่วม ไทยตอนบนอากาศเย็น ฝนคะนองบางแห่ง",
    "summary": "",
    "category": "news",
@@ -366,7 +352,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:00Z",
+   "time": "2026-11-11T15:47:50Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -408,6 +394,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "ส่อวิกฤต! 'ซูเปอร์เอลนีโญ' ทำฝุ่น PM2.5 รุนแรงยาวนานถึง พ.ค.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OcmF3M0Zqeko0TmdLZHlEOXJ4YVlEZVFqeVlWdjRoRUxjc3plbEpvOXVyUjZQY016Wng5bkpJTlBYMTVraWczSVZGQU5GLXZkNG9VOFBVa0V5ZGlfcnphdTRDNEJnQQ?oc=5",
+   "time": "2026-11-11T14:19:00Z",
+   "location": null,
+   "id": "d8d2403fbad42ac0"
   },
   {
    "title": "ฝนฟ้าอากาศ 11 พ.ย.69 | ภาคใต้เฝ้าระวังฝนตกหนักถึงหนักมาก ถึงวันที่ 13 พ.ย.นี้",
@@ -543,7 +543,7 @@
    "official": true,
    "source": "bangkokbiznews",
    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16ZHVVbjFMcjl5cTJxckplSm00UFBpdm9qQTZ4d0ZxWDctcVNvQnVuWl9ma0RjZFAzNmhZWmpEVHY0dExSQUJJcXVhWlJrdjZVN1NuakxSNGJEN1gwdEpEQzlib0ZPZw?oc=5",
-   "time": "2026-11-11T11:54:31Z",
+   "time": "2026-11-11T12:16:31Z",
    "location": null,
    "id": "fc44c3a166cc7812"
   },
@@ -649,18 +649,18 @@
    "id": "cb87edfd5b817c01"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
+   "title": "ประกาศฉบับ 7 ภาคใต้ฝนตกหนัก เสี่ยงน้ำท่วม 11-13 พ.ย. ทั่วไทยอากาศเย็น ลมแรง",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
-   "time": "2026-11-11T10:15:46Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLV93dkd0UlJMSmM1cXBsU3oxbVdoa2hidU9jcTZVNVdwVzFCS1RuVDNaNXRLanhnSkIzWlF2by1hTzFvS0otbVlpcWYwa1RTUVNDRVJZTl8zT082dk9uSno4S1hGZw?oc=5",
+   "time": "2026-11-11T10:39:31Z",
    "location": null,
-   "id": "17cc5dcad884f35f"
+   "id": "e2e03b351acd17e6"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -1320,6 +1320,20 @@
    "time": "2026-11-10T14:28:16Z",
    "location": null,
    "id": "672a87e7bb54999c"
+  },
+  {
+   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
+   "time": "2026-11-10T13:48:34Z",
+   "location": null,
+   "id": "99bddd5dd9dd2b90"
   },
   {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
