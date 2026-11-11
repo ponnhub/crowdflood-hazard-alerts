@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T23:03:20Z",
+ "updated_at": "2026-11-11T23:15:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 19,
-  "flash_flood": 10,
+  "flood": 20,
+  "flash_flood": 11,
   "storm": 17,
   "landslide": 12,
-  "earthquake": 13,
+  "earthquake": 14,
   "wildfire": 0,
   "drought": 10,
   "pm25": 7,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
+   "time": "2026-11-11T23:02:52Z",
+   "location": null,
+   "id": "e9a5a74c6159ab01"
+  },
   {
    "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
    "summary": "",
@@ -329,6 +343,20 @@
    "id": "39e8dc1c5d93fc31"
   },
   {
+   "title": "ขนเครื่องสูบน้ำลงใต้ ปักหลักสงขลา รับมือ ฝนแช่สะสม 13 จว. เสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oWUhKbTdrWTlhUHlYR3p5XzlSV3JZSzUzcEtqZ2R1bm5Xd3BrbXNmemxuRmVJcmJXeFR4SEtKVW5LZ0Z2R0xMeGc4NTJ6cXFCUThCSDZUaHcyVDRQM0VDNzFYWjRsdw?oc=5",
+   "time": "2026-11-11T23:05:58Z",
+   "location": null,
+   "id": "7e1d472c208c2343"
+  },
+  {
    "title": "ฝนตกหนักและน้ำท่วมทำให้เกิดดินถล่ม ส่งผลให้ถนนสองสายถูกปิดกั้นในจังหวัดแทงฮวาและกวางตรี",
    "summary": "",
    "category": "news",
@@ -413,20 +441,6 @@
    "id": "d8d2403fbad42ac0"
   },
   {
-   "title": "ฝนฟ้าอากาศ 11 พ.ย.69 | ภาคใต้เฝ้าระวังฝนตกหนักถึงหนักมาก ถึงวันที่ 13 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YVk1CRXlrWVU4R3VtWnktb3pfSkFzRTYxVDdJemxGbnNpTkl6QUhZd0hOaTdPNXFrUG5XNkJNY3NtOHkwblNleTNDaw?oc=5",
-   "time": "2026-11-11T14:10:05Z",
-   "location": null,
-   "id": "363aafc9a488a024"
-  },
-  {
    "title": "UPDATE: ชาวแม่สาย สุดอัดอั้น จำทนผวาน้ำท่วม-กลัวสารพิษ เผยเดือดร้อนสาหัส-ห่วงอนาคตลูกหลานไม่มีแม่น้ำใช้-ยื่น 9 ข้อเสนอถึง นายกฯ เร่งแก้ปัญหา วันนี้ (11 พ.ย. 69) ที่ศาลาวัดเกาะทรายคำ อ.แม่สาย จ.เชียงรา",
    "summary": "",
    "category": "flooding",
@@ -450,7 +464,7 @@
    "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
    "summary": "",
    "category": "news",
-   "hazard_type": "drought",
+   "hazard_type": "earthquake",
    "severity": "high",
    "urgent": false,
    "official": true,
@@ -496,7 +510,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Matichon Online",
+   "source": "มติชนออนไลน์",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
    "time": "2026-11-11T12:36:41Z",
    "location": null,
@@ -946,6 +960,20 @@
    "time": "2026-11-11T07:18:38Z",
    "location": null,
    "id": "926050b30bbf0d9e"
+  },
+  {
+   "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0dRUVgwaVlqM2VSTlI0NkJLc2dkVkgxdzNhZjREeFpRcHlTRFZxcWMtXzFyOVdUeHZZeThFRlhsbnQ0dXpHdGxZdFRGR3M3Rlg3TV80SHZrQTIwYVA4LWtKdXdmS3luSzFVcnFBRWtNX0VHdHdHYmNrQllEZk8zbWFybVh0b3gtM1E?oc=5",
+   "time": "2026-11-11T07:09:23Z",
+   "location": null,
+   "id": "3456974aa13fa880"
   },
   {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
@@ -1624,20 +1652,6 @@
    "id": "acfb1353b9fda242"
   },
   {
-   "title": "WMO เตือนวิกฤตหนัก มหาสมุทรเดือด คลื่นความร้อนทะเลพุ่ง 3 เท่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWF82bWNMTW5hTmVUX2JtQVlVclExc3JvYl9iRGd0ajFpZTlVNjhLTW05VmNsYndxM1FNa3JsU3ktWk5rWmFnOEE4TWNSQUlVVVFteFl3?oc=5",
-   "time": "2026-11-10T03:00:00Z",
-   "location": null,
-   "id": "0852ea7b1d81cacb"
-  },
-  {
    "title": "เตือน 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน-น้ำป่า-น้ำล้นตลิ่ง ช่วงวันที่ 9 – 13 พ.ย. 69",
    "summary": "",
    "category": "news",
@@ -1650,6 +1664,20 @@
    "time": "2026-11-10T02:30:50Z",
    "location": null,
    "id": "c6433e3bbc1e7056"
+  },
+  {
+   "title": "Aquatech Asia 2026 บุกไทยครั้งแรก รวมเทคโนโลยีน้ำโลก รับมือวิกฤตน้ำท่วม–ภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UYnBaUHRZa09zRTNReVByR3YzUUNxZG41NWRacVRwMGFsUlRQNWNUVlY4cXQ4RHM3ajdVem9EcnBjOWozNjE3MzNJQ2lvc25qWFQ0bFdKRUNIaWh6OHN2Rw?oc=5",
+   "time": "2026-11-10T02:28:00Z",
+   "location": null,
+   "id": "e10d3939538aba89"
   },
   {
    "title": "คพ. ลงพื้นที่ตรวจสอบแม่น้ำปราจีนบุรีเน่าเสีย-ปลาลอยคอ คาดสาเหตุน้ำหลากพัดซากพืชเน่าสะสม เผยค่าออกซิเจนจุดรับน้ำต่ำวิกฤต",
@@ -1702,6 +1730,20 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
+  },
+  {
+   "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNWFdTZGdLdS1oeGVrUEp5ZWhMbXBYZldxYlc0dTRwdEMzSEF3RVRJOHdoVUVJSnZnQVZLSVhHZ2F1RTh5OFJDNGhNWHZVYUFGQ3NabE5KckptVG9oZzROd0lpQkNRMFY4WFpyWUlHUVNXS2pCRHNXRzFYX0Uyekx5eDhZQVh1RjQ3U1MtU3FibnZQdlhGNUxMTVJkb1c4V1BxbUlhZkdfSjVMS3A5dFVoRUFmVTlvdlBtTzk3TGp1NmNIT2NPSXBaaElwU3ZNejB2eDc4dnBPeXZ6VG16T09FSVhpa2EtNHJabmw0ZTloMHlOZG9JVHB1dF8yOWNhQXFzOExSVVNLM0g2UjBXWVdhTDRMQUFTSnNxcVZlcVUxbHkyVU5wQ2VOa3NZcHdYZHh3TGJacVlBNzFmMl9vUHpmN0NxN2JWdDFhMDhQc3BZNzZpbWxyZ2JIVTc5N0UwZ2RINEh1MURpbjlIS2FYdjFxUWl3LTRHWmVJRlJsZWR2cW9LVmFPSTdEbmd2MUFja0ZTaHBrYW11SmdBRnpnQ3N2N0RkYjBLV3hlRktFVEV6LVM2T2k1NXpqcERObWdYZm5ieHphTVhOWXU0SUs2eVR0TFRpcmZ0Z09EZGcxZTE0VTAwWGhINWh0ZDQ5a0dPUjczV2VmY211My1sR0EtLW5jNDFjQTZOVmJmVkNuMkt5YkRveTNRYnE3bVMxTjhuaXhDTDc2d2VCcXcwNVBWZVI5bFppakdzUnVWVjFIblpMVHVjUmlYUm5NZ3JHeExkQmNUTjBwWno4OHM5QmhiS3JxM25RNkxUWXRkQTBBUm9QTzQ0c09MY21fVHNtOXhac3dORl93WkxBUHQ3OHJScUdCLWhXMlNXYmRwXzlKVVBrVlEtd3lvcjBMRE05czB3bllsbldxZHhQMjByZC1ZSmZ1R09WbzJfaFRmSDJvY2k5MlkzV25FSVJqNFVheVJhU1dleGkzUDczQ2F0WGVTekZwZEdCS2U3ZmpZV2RjVmxXenJLNTZJNjVtU3NfcEVqSGsxNXQ2RTJqT2pUTndNUDdpM3E5Wk9LbTNyYVh3NmlKOTkyYUpsSjExdVNVVGtzUEI5WU9oX0JqUEF1OEdhYlJzYjVpMVhGOXJTemdBUGtNYVlvR0k4ZlE5ejZQYXZqcXI3Sl9nYzlTQWhVWUZ0dHhLNlRiWWgyb3E3LTdDOTIxYk95YTEwQVE1bENFU1BaSVUtb09xYU1lQzdfazRUVkVxbWQyV3FQNkxLRk9MVGRscDBEYmFBYnI3VVhKdE5vYTdCcDNkMWtKWnRFUjEyTW5DbFhzdzR1Y0FiUllQZ2tKQzY0alNWcXltM2MzV3J4bzQ?oc=5",
+   "time": "2026-11-10T01:00:00Z",
+   "location": null,
+   "id": "0570a12b2cde0727"
   }
  ]
 }
