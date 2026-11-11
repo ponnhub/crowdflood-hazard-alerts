@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T11:47:15Z",
+ "updated_at": "2026-11-11T12:01:09Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -234,31 +234,6 @@
    }
   },
   {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
-   "time": "2026-11-10T03:00:37Z",
-   "location": null,
-   "id": "1d39d81e21175f05",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
-  },
-  {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
@@ -402,6 +377,20 @@
    "id": "4948a76fd625c252"
   },
   {
+   "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXJMN1diVEhmS1hjd0xRUkFTT2c3MnVhTV8yZDBpZFExQ0x6X0R6d2k1UUc2a0xKbWRxa2p5RFB2R3hFV1NVU0F2QU1iUTZXRXB5dGVPUlB0NWl4Zl9RZ0hTWGpQZnRXcTJ4MDd4NFFHOFR2MkdNbUdxeXFsazRQOHNaTXNpY3VGeU1VbUs1NDFfZGE4c3c?oc=5",
+   "time": "2026-11-11T10:45:32Z",
+   "location": null,
+   "id": "cb87edfd5b817c01"
+  },
+  {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
    "summary": "",
    "category": "news",
@@ -460,6 +449,32 @@
     "precision": "epicentre"
    },
    "id": "9ea24c5e16a6625a"
+  },
+  {
+   "title": "นครศรีธรรมราชสาหัส น้ำป่ากัดเซาะทางเลี่ยงเมืองขาด",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ3dXcUw1WEZLSnl3ZlJlb0lTeTZwYWhZSUtzekFaQ0NLT3dSa0ZsQkdNMXphaW1xSU45Q1dRaXJfTU1xWVRCN2wwZE54eWxtMkhvVi0xSXRBVzlKRXdhRXN1NzFWcVNMdmh2c2thUEYyVkc1S1h5eVFxeEtmcjZZX3lDVndqa0ViS01kdmxiY2ptUGhBZjQxSlQ4UUw0dkFqWXc3R3pEdE16UFFWWGZoV3d6Z2JGZWphN01PQnVBMU5ldzJTSDBRTkNBaVg3X0xWcW5NN1J4ampwRXV4aW9OT1hHbDRJUjBmbDlLekM4Y1Npa2FfVjBKeDE4THdqd2tsMTRfTkxCQUFWM2I0UWFCVm9IT0V0UQ?oc=5",
+   "time": "2026-11-11T09:37:00Z",
+   "location": null,
+   "area": {
+    "code": "TH80",
+    "level": "province",
+    "name": "จ.นครศรีธรรมราช",
+    "bbox": [
+     99.234,
+     7.838,
+     100.337,
+     9.323
+    ]
+   },
+   "incident_id": "fr_news_f8f552554715a917893d",
+   "id": "f8f552554715a917"
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม ส่งผลให้ถนนหลายสายในภาคกลางของเวียดนามถูกตัดขาด",
@@ -1621,20 +1636,6 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
-   "time": "2026-11-09T12:32:37Z",
-   "location": null,
-   "id": "eebdbba32d5a3b00"
   }
  ]
 }
