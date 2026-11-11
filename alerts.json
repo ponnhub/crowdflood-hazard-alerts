@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T17:43:50Z",
+ "updated_at": "2026-11-11T17:58:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 20,
-  "flash_flood": 9,
+  "flash_flood": 10,
   "storm": 16,
   "landslide": 12,
   "earthquake": 14,
@@ -195,6 +195,20 @@
    "id": "53fcad27fa151da4"
   },
   {
+   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "NBT CONNEXT",
+   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
+   "time": "2026-11-10T08:38:03Z",
+   "location": null,
+   "id": "d8368079e0e659d7"
+  },
+  {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -221,6 +235,31 @@
    "time": "2026-11-10T03:20:00Z",
    "location": null,
    "id": "32dfc0eb9712a500",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
+  },
+  {
+   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
+   "time": "2026-11-10T03:00:37Z",
+   "location": null,
+   "id": "1d39d81e21175f05",
    "area": {
     "code": "TH93",
     "level": "province",
@@ -538,20 +577,6 @@
    "time": "2026-11-11T11:00:00Z",
    "location": null,
    "id": "a2dfb1df1e60fa61"
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในพื้นที่ภูเขาหลายแห่งของเมืองดานัง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlAyNzA4Q011OU1tLUgwcFRibDkzMkRuaGk2TTNGNHdZTG1ka2l3cWxld0VXVV9VSXRtb0paYmg1SFNyNVlvNXNSZlhNZVpjYUkwelQwT3NWcXhkb0ZUYWRUdzhOM1Y3WFV3Q0xMZGFrczQ0RmEzMjVmMUJHaUxNM0hVcTJHUHdzaXc?oc=5",
-   "time": "2026-11-11T10:47:26Z",
-   "location": null,
-   "id": "4948a76fd625c252"
   },
   {
    "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
