@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T01:02:50Z",
+ "updated_at": "2026-11-11T01:11:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -371,20 +371,6 @@
    "id": "9605d53062dc2839"
   },
   {
-   "title": "รายงาน IPCC เตือนภัยแล้ง น้ำท่วม และอากาศร้อนกระทบการผลิตอาหารและเศรษฐกิจการเกษตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pQ0VMOHRBMjJHRnFEWUJ5LVFpRnA3d2ZrU09wMEhvVW1lSHJUM085MXhDVjd5NlBTeWltMG9QOGFXNzBnU0xIeXF5dlItWmQ0LWxnVkctdHRxdk5maTB4aGJJc0hUMU1leHR3Sg?oc=5",
-   "time": "2026-11-09T01:11:00Z",
-   "location": null,
-   "id": "a8383f94a4c01157"
-  },
-  {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เผย อุณหภูมิลด ลมแรง 9จว.ใต้ ฝนถล่มหนัก",
    "summary": "",
    "category": "news",
@@ -674,20 +660,6 @@
    "id": "868bd7c9b634591f"
   },
   {
-   "title": "เกิดดินถล่มบนทางหลวงหมายเลข 9C ส่งผลให้เกิดน้ำท่วมรุนแรงบริเวณท่อระบายน้ำหลายแห่ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFVVTY0cXpEaGtrclNIQVVBTzhvNzkxdXppQjNNMWZzV1lCNVNuc2ZMUE5rRUFLaWJvVkJObWgyTlNfZUpYTnVaYWo1QmhrbFVVbk9qX3AxYUtUMGlhX2kwUXBzOFZkMEVqY0o2QmJ0QU5TajBmbTVKN3AxVXN5MmJlczZjR3Zx?oc=5",
-   "time": "2026-11-10T10:52:56Z",
-   "location": null,
-   "id": "a9084d31708db0cd"
-  },
-  {
    "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
    "summary": "",
    "category": "news",
@@ -880,6 +852,20 @@
    },
    "incident_id": "fr_rss_37ad8776040d98cb809d",
    "id": "37ad8776040d98cb"
+  },
+  {
+   "title": "ฝนตกหนักในจังหวัดกวางตรีส่งผลให้เกิดดินถล่มและน้ำท่วมสะพานหลายแห่ง ทำให้การสัญจรถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN285OVhEZlpucWJfbWJkMExMLTdWMWJhZUhHVHFtLTRPa0hxanF4SlJSM1kxb2Y2TGZDbFF3UWlYdlNrMVdQdjlURVNtWklCNjNsV0l0VHVnVlM0d0RsamxFUkxjUXlmSkdkN0I5czRpbjRxQUpObTNtMWp1QjR5dXNnU2hBbUJKOHA2Y2JyNVprZDJqdHpjazZ3?oc=5",
+   "time": "2026-11-10T08:36:22Z",
+   "location": null,
+   "id": "72dc24266261474f"
   },
   {
    "title": "กรุงเทพมหานคร. . 🌫️ สู้ฝุ่น PM2.5 ต้องทำต่อเนื่อง เพราะปัญหานี้ไม่จบในวันเดียว! ฝุ่น PM2.5 เป็นปัญหาที่ต้องอาศัยความร่วมมือจากทุกภาคส่วน กรุงเทพมหานครจึงเดินหน้ามาตรการเชิงรุก เพื่อลดฝุ่นจากแหล่งกำเนิดอย่างเป็นระบบ ทั้ง 4 ด้าน ได้แก่ 🚛 คุมเข้มรถบรรทุกในเขตมลพิษต่ำ (Low E",
@@ -1198,6 +1184,20 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
