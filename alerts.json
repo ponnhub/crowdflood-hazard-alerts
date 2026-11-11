@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T10:17:12Z",
+ "updated_at": "2026-11-11T10:34:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 18,
-  "flash_flood": 7,
-  "storm": 19,
+  "flash_flood": 8,
+  "storm": 20,
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 2
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xY2RNblJDazdNVmdGSmlLRmRUT2ZkV0VHdlNIaV9RTmpxVTUxTGZyV3B3a1oxTGFLVnZ2cm5KZmwxUEpkMjA1VXdURGZZb243SzhSNUpR?oc=5",
+   "time": "2026-11-11T09:26:53Z",
+   "location": null,
+   "id": "416dd136d9a6e834"
+  },
   {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
    "summary": "",
@@ -72,20 +86,6 @@
    "id": "847b2491232f8361"
   },
   {
-   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมาก คลื่นสูง 2-3 เมตร เดินเรือระมัดระวัง! | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cmFGdU5iWkd3MzBrMVlCa1pHMTRVZGY3U19Qa1Y5cXVudjJ5R00wT1poMnRRUngtbWV4LTFVODFmaV84WEg5a3Y1U2hQZDQxb0ZaaXh3?oc=5",
-   "time": "2026-11-11T01:38:41Z",
-   "location": null,
-   "id": "e740bfd7ec0446c3"
-  },
-  {
    "title": "ยังมีฝน-ลมกระโชกแรงในภาคเหนือตอนบน-เตือนฉบับที่ 6 ฝนตกหนักภาคใต้",
    "summary": "",
    "category": "news",
@@ -98,6 +98,34 @@
    "time": "2026-11-11T01:24:37Z",
    "location": null,
    "id": "95bd6cb76be88d6f"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 11 พ.ย. 69 กรมอุตุฯ เตือน 5 จังหวัดภาคใต้ ฝนตกหนัก - อากาศวันนี้ | กรมอุตุนิยมวิทยา ข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cDdSMlllVjgxaWVHRHVYRmVCUXZ1dE9zTWRPcjVfTUVOSDNyYkZDRkM5V3hob0VXYmh0RVFhcTB4czM5LW5RMXZyWTJCRF9wT3BZZGNXNy0wT2gxdXR2UFpaaEhZSUU1RUxLRmZB?oc=5",
+   "time": "2026-11-11T01:18:00Z",
+   "location": null,
+   "id": "b0cf09d0b5ec8ae8"
+  },
+  {
+   "title": "กรมอุตุฯ ประกาศฉบับที่ 6 ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน น้ำป่า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kSjJ3cGphaXRKRWRiSDR3M1ZDWWlqdU1NU1FyRVFPTUN1ZkpadjlHY3dpTFdRa2E1cFNZTy1RR2drNUkwcFFBb0Q4c08zdW1hVm5GeWxyUEQ5bTd5NnN3Xy1pcw?oc=5",
+   "time": "2026-11-10T23:54:00Z",
+   "location": null,
+   "id": "047243c6081f1ba3"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 2 ฝนตกหนักถึงหนักมาก อุณหภูมิลด ลมแรง | Khaosod",
@@ -232,20 +260,6 @@
      7.902
     ]
    }
-  },
-  {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
-   "location": null,
-   "id": "c66b8d445bce8cc7"
   },
   {
    "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
@@ -842,6 +856,20 @@
    "id": "0d8516ec188b1fd5"
   },
   {
+   "title": "สภาพอากาศวันนี้ 11 พ.ย. อุณหภูมิลดลง ลมแรง ภาคใต้ฝนตกหนัก!",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1renJ4amZFOUViUVRXdk0xZlNteDBuSTIxUjVMYVNGTmFKUG9PR3haem5NcGxncFg3Yi1QVzg2dUczTkY1QTlqMVFJeFJDT0Q0VUVzNnVYc2Y2eUNRMkJaSHA2d3hsNmdHdm4zWW9rU29KX05ERVM0aFM1U1Y?oc=5",
+   "time": "2026-11-11T00:39:30Z",
+   "location": null,
+   "id": "719b3129b413f339"
+  },
+  {
    "title": "พยากรณ์อากาศวันนี้ 11 พ.ย.2569 ไทยตอนบนสัมผัสอากาศเย็น-ใต้ฝนตกหนัก",
    "summary": "",
    "category": "news",
@@ -1194,7 +1222,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Matichon Online",
+   "source": "Matichon",
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDTDltSkNCaWM1QkJhZ3BtUEUxQ2dpQjVMQm12UndEa1VqVGg3a1hhZjdLbVROSmdoZVAwaE1zTkdWdFlVNElWd1hQU0tSNklGVHU1N005cUNUUQ?oc=5",
    "time": "2026-11-10T09:33:58Z",
    "location": null,
