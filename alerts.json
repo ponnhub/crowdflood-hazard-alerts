@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T11:02:51Z",
+ "updated_at": "2026-11-11T11:18:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,44 @@
   "other"
  ],
  "counts": {
-  "flood": 17,
+  "flood": 18,
   "flash_flood": 8,
-  "storm": 20,
-  "landslide": 12,
+  "storm": 18,
+  "landslide": 11,
   "earthquake": 13,
   "wildfire": 0,
   "drought": 7,
   "pm25": 6,
-  "heat": 4,
+  "heat": 3,
   "tsunami": 0,
   "other": 2
  },
  "items": [
+  {
+   "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ROXF3V2ZIOXptbm5xX0JhLU16U0M4VkJYWGZYekFxTzdmSWRTenp6RTVobU56c3BZS0pxNmNrRkxKUHpFbkxyVU9idDhRY3Bvc0I0ckUydjVsR0lkdV9id0ROU3ZnQQ?oc=5",
+   "time": "2026-11-11T11:14:00Z",
+   "location": null,
+   "id": "e7565783cec09e02",
+   "area": {
+    "code": "TH8608",
+    "level": "amphoe",
+    "name": "อ.ทุ่งตะโก จ.ชุมพร",
+    "bbox": [
+     98.921,
+     10.019,
+     99.175,
+     10.184
+    ]
+   }
+  },
   {
    "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว เมื่อวันที่ 11 พฤศจิกายน 2569 สำหรับพื้นที่ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
    "summary": "",
@@ -42,20 +67,6 @@
    "time": "2026-11-11T10:39:25Z",
    "location": null,
    "id": "69fbe70de4a258ec"
-  },
-  {
-   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xY2RNblJDazdNVmdGSmlLRmRUT2ZkV0VHdlNIaV9RTmpxVTUxTGZyV3B3a1oxTGFLVnZ2cm5KZmwxUEpkMjA1VXdURGZZb243SzhSNUpR?oc=5",
-   "time": "2026-11-11T09:26:53Z",
-   "location": null,
-   "id": "416dd136d9a6e834"
   },
   {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
@@ -72,20 +83,6 @@
    "id": "a802062f67713488"
   },
   {
-   "title": "กรมอุตุฯ ประกาศ ฝนลากยาว 3 วัน หวั่นเกิดน้ำท่วม เปิดชื่อจังหวัดฝนตกรายวัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlcEZjUXFyVHZVQjg1TEtUU3pZY3A2ZTVqeWJaYXhfaHRrSTdZNVVkandCYkZ1UXRoUTVXMkVlNUMyOE9oZVFua3lvZkhuQ0sxYTlJRWZ3?oc=5",
-   "time": "2026-11-11T06:47:44Z",
-   "location": null,
-   "id": "ce846167b6b6147d"
-  },
-  {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
    "summary": "",
    "category": "news",
@@ -98,6 +95,20 @@
    "time": "2026-11-11T03:26:00Z",
    "location": null,
    "id": "85206bc60810e723"
+  },
+  {
+   "title": "กรมอุตุฯ ประกาศ ฝนลากยาว 3 วัน หวั่นเกิดน้ำท่วม เปิดชื่อจังหวัดฝนตกรายวัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1STm1MengxejZRbHN3R2ZieDJqNHZzVVJUTW1kVU1OMjFFcjM5X3lPdjdhLWExMnMza1JNZ0R0R0NkTHdLWU1hSUJkRGpyM1gyTzhTRE54cS1tR21BcHZxOEtPZUdtdw?oc=5",
+   "time": "2026-11-11T02:02:10Z",
+   "location": null,
+   "id": "847b2491232f8361"
   },
   {
    "title": "ยังมีฝน-ลมกระโชกแรงในภาคเหนือตอนบน-เตือนฉบับที่ 6 ฝนตกหนักภาคใต้",
@@ -126,34 +137,6 @@
    "time": "2026-11-11T01:18:00Z",
    "location": null,
    "id": "b0cf09d0b5ec8ae8"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 6 ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน น้ำป่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kSjJ3cGphaXRKRWRiSDR3M1ZDWWlqdU1NU1FyRVFPTUN1ZkpadjlHY3dpTFdRa2E1cFNZTy1RR2drNUkwcFFBb0Q4c08zdW1hVm5GeWxyUEQ5bTd5NnN3Xy1pcw?oc=5",
-   "time": "2026-11-10T23:54:00Z",
-   "location": null,
-   "id": "047243c6081f1ba3"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSUxRdE82c0pDRV9PX2dHbGVGa0dCWl8yZ0QtbXV6WUw4VXVaT1lqMkFzWE82Q1Z2S3lLOXRYOVFFdGk0MFpRdUNNR3dPaDRLQmlZUloxSEQ?oc=5",
-   "time": "2026-11-10T12:43:58Z",
-   "location": null,
-   "id": "bef368caf3a5ff92"
   },
   {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
@@ -237,31 +220,6 @@
    }
   },
   {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
-   "time": "2026-11-10T03:00:37Z",
-   "location": null,
-   "id": "1d39d81e21175f05",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
-  },
-  {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
@@ -316,6 +274,40 @@
    "time": "2026-11-09T11:43:00Z",
    "location": null,
    "id": "b6560297fcedf4ea"
+  },
+  {
+   "title": "ทิ้งหมัดเข้ามุม – สีเขียวหลีกทาง? ศึกซ่อมสระแก้ว",
+   "summary": "สนามเลือกตั้งซ่อม สส.สระแก้ว เขต 3 กำหนดให้มีขึ้นวันที่ 6 ธ.ค.นี้ แม้พรรคเพื่อไทยจะเป็นฝ่ายได้เปรียบ เนื่องจากพรรคกล้าธรรมเจ้าของที่นั่งเดิม ตัดสินใจไม่ส่งผู้สมัครลงแทนนายสุรศักดิ์ ชิงนวรรณ์ อดีตสส.ผู้ล่วงลับ เปิดทางให้นายสรวงศ์ เทียนทอง ลงทวงคืนพื้นที่ แต่เบื้องหลังกลับถูกมองว่ามีเกมการเมืองให้ต้องจับตา นายสรวงศ์จับสลากได้เบอร์ 1 ประกาศพร้อมลุยหาเสียงเต็มที่ ชูจุดแข็งการทำงานคลุกคลีกับพื้นที่ ลงช",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/newspaper-column/relevant/news_10468762",
+   "time": "2026-11-11T11:08:53Z",
+   "location": {
+    "name": "อ.เชน",
+    "lat": 15.7509959,
+    "lng": 102.7487815,
+    "precision": "district"
+   },
+   "incident_id": "fr_rss_5cd6221ae6e4d87509bd",
+   "id": "5cd6221ae6e4d875"
+  },
+  {
+   "title": "อุตุฯ ฉบับ 7 เตือนจังหวัดภาคใต้ฝนตกหนักถึงหนักมาก เฝ้าระวังน้ำท่วม น้ำป่าหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pX0VQQW54MFhmNUJ5em1YV0VnOEdXcDZlU2xDbkJLM25QQUhGZURMemtuUmxYZXlIQkJyVHJTZEJIZ0llaW9ldGpUcS1FYTlXVFh3OHdRTkM?oc=5",
+   "time": "2026-11-11T11:00:00Z",
+   "location": null,
+   "id": "a2dfb1df1e60fa61"
   },
   {
    "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในพื้นที่ภูเขาหลายแห่งของเมืองดานัง",
@@ -848,20 +840,6 @@
      16.723
     ]
    }
-  },
-  {
-   "title": "เนื่องจากมีความเสี่ยงต่อการเกิดดินถล่มในหลายพื้นที่ จังหวัดกวางงายจึงอพยพประชาชนหลายร้อยคน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0dZRmNoUklMNHkwUnktMWpPNTBIRG1lQndvR0MzRkIzelNvbUsyeV80alVSRHdRcVdoaVNyanhDMGx0WTBIeU16MmxCWnRKWkxtX2gxTEIxMTNmM29ncjFZdWxUUE1QS0dJSm1xd1FDVWkxUEVCY1R4V09JczVSUm9qYkxIcjM1aXo5aWF2ZWZoUQ?oc=5",
-   "time": "2026-11-11T01:55:31Z",
-   "location": null,
-   "id": "0274d0cb836f815e"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.7 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -1567,20 +1545,6 @@
    },
    "incident_id": "fr_news_58d11696aeae452306d9",
    "id": "58d11696aeae4523"
-  },
-  {
-   "title": "สถานการณ์ภูมิอากาศโลกปี 2026 “ทะลุเกณฑ์”! เอลนีโญเพิ่มเสี่ยงภัยพิบัติยาวถึงปี 2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Online Newstime",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW1GS2dBWEY5enVXME5uS0ctWmZvS2hEOEtWcTRUbTg2dzhZRU0temNlcmVoWU5TUHVTSVVxRWJjVTZSV29pNjhSLXE1bnVXTjNrMTVCQUFPVGlFcWg3Q05LQ2x0OHZRdElkQXY1Rno4QkNKTVIwV1NOSVFKZUlzejVjSU3SAYoBQVVfeXFMUFd2X0pUZmFoUVhmbndKLWJLSVJCX2RtQmFqTk1PczF3aFdaX3hKSTlpb28wRnBwaHA5aHBEdW1pX1dFS1p5UDBZaUdXV2hNNERScjZESFF0dmxZSmVnYTRDNVpTYzQxcHQtdmtQOVkwcDdWY3BvZ3NDVVl4OW5SNG9FU290eUNIYTF3?oc=5",
-   "time": "2026-11-09T18:57:11Z",
-   "location": null,
-   "id": "e8e35b7aaf207ee6"
   },
   {
    "title": "กทม. สรุปยอดเยียวยาน้ำท่วม 9 พ.ย. \"ทะลุ 4.68 พันล้าน\" โอนสำเร็จแล้วกว่า 6.7 แสนครัวเรือน",
