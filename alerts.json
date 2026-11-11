@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T02:42:12Z",
+ "updated_at": "2026-11-11T03:03:10Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 15,
   "flash_flood": 11,
-  "storm": 22,
+  "storm": 23,
   "landslide": 9,
   "earthquake": 17,
   "wildfire": 1,
@@ -140,20 +140,6 @@
    "time": "2026-11-10T20:30:39Z",
    "location": null,
    "id": "5f2522573ec3bdb5"
-  },
-  {
-   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
-   "time": "2026-11-10T15:28:38Z",
-   "location": null,
-   "id": "dfae17ed42d7881b"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
@@ -413,6 +399,20 @@
    "id": "ae4cbc4385818553"
   },
   {
+   "title": "จังหวัดกวางตรี: ปฏิบัติงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่มบนทางหลวงโฮจิมินห์สายตะวันตก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeks3S3NHc3ZLbDMzQ1VsWk16VnloLVFOa3ZEWWZPM0RnS0RkQ2stWVQwUFRBT1V5VDhhdXhzQmRaa0hWdFQwcFlfdXZfQmlNT05wYlV5UmVGN1VQazI3R3dXWWowNFZxOW5BN2dFMldvTWFDc085eEJOZHFhYnZBb20tMXVQOE5xZGJ0NVp6M2NHcEMtNVJ0N1U5RQ?oc=5",
+   "time": "2026-11-11T02:41:41Z",
+   "location": null,
+   "id": "4a405c960334e10b"
+  },
+  {
    "title": "เนื่องจากมีความเสี่ยงต่อการเกิดดินถล่มในหลายพื้นที่ จังหวัดกวางงายจึงอพยพประชาชนหลายร้อยคน",
    "summary": "",
    "category": "news",
@@ -468,11 +468,25 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oS01kS0RzMWp6ZW00dXNVMWVzdTM3RUtxUnJ6bWVYZEZkblgtVXJDWnJkVzR4bnlOT2V0d1k5MzZnY1FIaDNDd1hMQjk1Uk43d3lVU1JR?oc=5",
-   "time": "2026-11-10T23:52:00Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jVWtpTlJRTm1KT1ZrZ0VXTzRxblV0bGs1Y1VPUGFicVBHbnZZY0RaV0hkamxTanFMWE9iWmpTM0k0QmpMMmZPVVFRcnIwSV8zVUE?oc=5",
+   "time": "2026-11-10T23:52:33Z",
    "location": null,
-   "id": "382e022f486d8667"
+   "id": "fd798584fd0acbda"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เผย อุณหภูมิลด ลมแรง 9จว.ใต้ ฝนถล่มหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HcVlIaWNjb09PQjJ0X1dYZ0x5QzFtNWtjZUlUNWVrSmsxOU9fdEpTQ01mQXlxdkVYamZBcXlOVV9tWUNwcTdJbFdpcEkzcHpfbUlOR2QxdldDSkM3NF80dHI4QQ?oc=5",
+   "time": "2026-11-10T23:30:00Z",
+   "location": null,
+   "id": "1df22bd3d31aea0c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
