@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T17:58:31Z",
+ "updated_at": "2026-11-11T18:12:06Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 20,
   "flash_flood": 10,
-  "storm": 16,
+  "storm": 17,
   "landslide": 12,
   "earthquake": 14,
   "wildfire": 0,
@@ -299,6 +299,20 @@
    "time": "2026-11-10T01:45:04Z",
    "location": null,
    "id": "9f9a1aff207e61dd"
+  },
+  {
+   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
+   "time": "2026-11-09T23:31:17Z",
+   "location": null,
+   "id": "39e8dc1c5d93fc31"
   },
   {
    "title": "สภาพอากาศวันนี้ -17 พ.ย.ใต้ระวังน้ำท่วม ไทยตอนบนอากาศเย็น ฝนคะนองบางแห่ง",
