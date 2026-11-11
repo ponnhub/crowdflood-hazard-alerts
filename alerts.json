@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T06:02:06Z",
+ "updated_at": "2026-11-11T06:19:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,16 +16,16 @@
   "other"
  ],
  "counts": {
-  "flood": 17,
+  "flood": 18,
   "flash_flood": 8,
   "storm": 20,
-  "landslide": 12,
-  "earthquake": 14,
+  "landslide": 11,
+  "earthquake": 13,
   "wildfire": 1,
-  "drought": 7,
-  "pm25": 4,
+  "drought": 8,
+  "pm25": 3,
   "heat": 1,
-  "tsunami": 1,
+  "tsunami": 0,
   "other": 2
  },
  "items": [
@@ -357,18 +357,18 @@
    "id": "c140b7348a1296b9"
   },
   {
-   "title": "ญี่ปุ่นเกิดแผ่นดินไหวแรง 5.7 ที่ \"ชิซูโอกะ\" ไม่เตือนภัยสึนามิ",
+   "title": "ขนเครื่องสูบน้ำลงใต้ ปักหลักสงขลา รับมือ ฝนแช่สะสม 13 จว. เสี่ยงน้ำท่วม",
    "summary": "",
    "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.js100.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02MmJzdFpfYXFDQWk1WkN5U3cxa0F2QjlNSVNNbkdIQ0xzUl9kSUJOaGJlREltUWtjVEZfa2dWaC1hLS1HaVlRNEktOTdoaTI0SFpEbEZxMVl2Zw?oc=5",
-   "time": "2026-11-09T06:11:08Z",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oWUhKbTdrWTlhUHlYR3p5XzlSV3JZSzUzcEtqZ2R1bm5Xd3BrbXNmemxuRmVJcmJXeFR4SEtKVW5LZ0Z2R0xMeGc4NTJ6cXFCUThCSDZUaHcyVDRQM0VDNzFYWjRsdw?oc=5",
+   "time": "2026-11-11T06:02:00Z",
    "location": null,
-   "id": "f1d7c926ce2ab699"
+   "id": "7e1d472c208c2343"
   },
   {
    "title": "เงินเยียวยาน้ำท่วม 2569 ธนาคารออมสิน โอนให้อีก 12 จังหวัด กทม.ด้วย",
@@ -533,20 +533,6 @@
    "time": "2026-11-11T03:20:07Z",
    "location": null,
    "id": "eabf7cf061ccc952"
-  },
-  {
-   "title": "ดานัง: ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มอย่างรุนแรงบนถนนหลายสายในพื้นที่ภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTcxc3YySEhPZk5xMHRpRjB5RkhxVXQ1bzA5YWJxNUkxMUg3emlzcFdxRHBLc3FxbXh0bXlkOVNqbmFXYS1ma1VHQnB5RWpObmtKMVpaNXBqYzMzQm1IbllVcjdXME1tbV9Za3RvX0Zfa0xvM0JNekZ2VnJ3d2dRSEhOZXZVTDBoRVd0MFczN25ERmROLTc2SXI4b2I?oc=5",
-   "time": "2026-11-11T03:18:13Z",
-   "location": null,
-   "id": "94a10932398d995e"
   },
   {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
@@ -1395,6 +1381,20 @@
    "id": "08b700e647c312b6"
   },
   {
+   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
+   "time": "2026-11-09T12:32:37Z",
+   "location": null,
+   "id": "eebdbba32d5a3b00"
+  },
+  {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
    "summary": "",
    "category": "news",
@@ -1539,34 +1539,6 @@
    "time": "2026-11-09T07:06:00Z",
    "location": null,
    "id": "fee59215b260f559"
-  },
-  {
-   "title": "เกิดแผ่นดินไหวขนาด 5.7 ริกเตอร์ในญี่ปุ่น ส่งผลให้มีผู้บาดเจ็บกว่า 20 คน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUpGbk5IT21JOTRmLVZXMURJRmN1YjV4UmVtdUxNYWdDSDJFc1A4cE53SFpKUDItbURURjB0UW5uNjZVYzZBM3lESDZ0YTExZzFFZUlYS0pmYTRMMmNvTkxOTUs5bGNNWUxGMURCVk5UcDFENjA1ZmZOdzVUZk5YUlB0bw?oc=5",
-   "time": "2026-11-09T06:18:30Z",
-   "location": null,
-   "id": "0aff815a399aad1a"
-  },
-  {
-   "title": "\"วันพระบิดาแห่งฝนหลวง 2569\" เตรียมจัดใหญ่กลางสวนรถไฟ เปิดโลกนวัตกรรมสู้ภัยแล้ง-ฝุ่น PM2.5",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NFlqYWRiZnFqem83a2R0QnN6eDlLUzBHRDNGTGs0VEhMTmJPVmRqeVlBdGlsVVIxcGdicElTVmJlNjVWbGFTeGxRS21UNTVKbHhv?oc=5",
-   "time": "2026-11-09T06:18:00Z",
-   "location": null,
-   "id": "593f7493960a8e6d"
   }
  ]
 }
