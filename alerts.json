@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T01:43:53Z",
+ "updated_at": "2026-11-11T02:04:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 13,
   "storm": 21,
   "landslide": 9,
-  "earthquake": 16,
+  "earthquake": 17,
   "wildfire": 1,
   "drought": 7,
   "pm25": 4,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ ประกาศ ฝนลากยาว 3 วัน หวั่นเกิดน้ำท่วม เปิดชื่อจังหวัดฝนตกรายวัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1STm1MengxejZRbHN3R2ZieDJqNHZzVVJUTW1kVU1OMjFFcjM5X3lPdjdhLWExMnMza1JNZ0R0R0NkTHdLWU1hSUJkRGpyM1gyTzhTRE54cS1tR21BcHZxOEtPZUdtdw?oc=5",
+   "time": "2026-11-11T02:02:10Z",
+   "location": null,
+   "id": "847b2491232f8361"
+  },
   {
    "title": "ยังมีฝน-ลมกระโชกแรงในภาคเหนือตอนบน-เตือนฉบับที่ 6 ฝนตกหนักภาคใต้",
    "summary": "",
@@ -142,18 +156,18 @@
    "id": "2c34c111ace001fd"
   },
   {
-   "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
+   "title": "กรมอุตุนิยมวิทยา เตือน ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 5",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
+   "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEVvZUhZNHI4WVRiSnlBN0VYNTFCUzd0OW1Oa1N1UmNIVUpZbmNSTlZ4RUdJbTVRcGFaVXFLcHhFU0JZa18zZkx1Z2gybElrNzRqR3JyUGNoUlBsMFpVMjVXNmlNRjNFeXNRTXpQQ3ZHTGd1QUh4OWY1TjJYODZNNU0zTHhlNnFZMjRENlRKSzU1RFY0VkJIemZmYmp5QQ?oc=5",
-   "time": "2026-11-10T15:28:38Z",
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMjFabmswZHpmb09QSTBjdzNHMFhkaU0wX2VPMS03SklCdUw0VXZ5eDRNRXRGV3Q4QjRxVDRYWWlzQVFhYXRZR05NdldNMWo4MWxicUJ3?oc=5",
+   "time": "2026-11-10T11:05:00Z",
    "location": null,
-   "id": "dfae17ed42d7881b"
+   "id": "e58d453d048f41de"
   },
   {
    "title": "ภาคใต้ 5 จว.พรุ่งนี้ 11 พ.ย.กรมอุตุฯเตือนฝนตกหนัก ระวังน้ำท่วม",
@@ -413,6 +427,20 @@
    "id": "9605d53062dc2839"
   },
   {
+   "title": "เนื่องจากมีความเสี่ยงต่อการเกิดดินถล่มในหลายพื้นที่ จังหวัดกวางงายจึงอพยพประชาชนหลายร้อยคน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0dZRmNoUklMNHkwUnktMWpPNTBIRG1lQndvR0MzRkIzelNvbUsyeV80alVSRHdRcVdoaVNyanhDMGx0WTBIeU16MmxCWnRKWkxtX2gxTEIxMTNmM29ncjFZdWxUUE1QS0dJSm1xd1FDVWkxUEVCY1R4V09JczVSUm9qYkxIcjM1aXo5aWF2ZWZoUQ?oc=5",
+   "time": "2026-11-11T01:55:31Z",
+   "location": null,
+   "id": "0274d0cb836f815e"
+  },
+  {
    "title": "ความพยายามในการปกป้องประชาชนในพื้นที่เสี่ยงต่อการเกิดดินถล่ม",
    "summary": "",
    "category": "news",
@@ -427,18 +455,38 @@
    "id": "9e62f79aa87830bb"
   },
   {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เผย อุณหภูมิลด ลมแรง 9จว.ใต้ ฝนถล่มหนัก",
+   "title": "แผ่นดินไหว ขนาด 3.7 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
+   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.สตูล ประมาณ 373 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17418",
+   "time": "2026-11-11T01:27:07Z",
+   "magnitude": 3.7,
+   "location": {
+    "name": "ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
+    "lat": 4.285,
+    "lng": 97.696,
+    "precision": "epicentre"
+   },
+   "id": "0d8516ec188b1fd5"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 11 พ.ย.2569 ไทยตอนบนสัมผัสอากาศเย็น-ใต้ฝนตกหนัก",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
-   "severity": "high",
+   "severity": "medium",
    "urgent": false,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HcVlIaWNjb09PQjJ0X1dYZ0x5QzFtNWtjZUlUNWVrSmsxOU9fdEpTQ01mQXlxdkVYamZBcXlOVV9tWUNwcTdJbFdpcEkzcHpfbUlOR2QxdldDSkM3NF80dHI4QQ?oc=5",
-   "time": "2026-11-10T23:30:00Z",
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oS01kS0RzMWp6ZW00dXNVMWVzdTM3RUtxUnJ6bWVYZEZkblgtVXJDWnJkVzR4bnlOT2V0d1k5MzZnY1FIaDNDd1hMQjk1Uk43d3lVU1JR?oc=5",
+   "time": "2026-11-10T23:52:00Z",
    "location": null,
-   "id": "1df22bd3d31aea0c"
+   "id": "382e022f486d8667"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -700,20 +748,6 @@
    "time": "2026-11-10T11:11:34Z",
    "location": null,
    "id": "868bd7c9b634591f"
-  },
-  {
-   "title": "อุตุฯ เตือน ฉ.5 ใต้ฝนตกหนัก เสี่ยงน้ำท่วม 10-13 พ.ย. ทั่วไทยอากาศเย็นลง มีลมแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qa204Tjg4WXJXaFFucmVtV3Q0Tzh3NjkxZkV2Z1M0R3hLbjk3NnZmWTlfVG5oZ0lSMHM5bFlkOU5vX1U0cmVyRWZJZkJFVUU3SGpKR3BrY2J6c3VJT3J6Qzcxbmg1QQ?oc=5",
-   "time": "2026-11-10T10:38:00Z",
-   "location": null,
-   "id": "0cf9c4844c46bf30"
   },
   {
    "title": "เตือนฉบับ 5 ฝนตกหนักถึงหนักมากภาคใต้ อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -1563,32 +1597,6 @@
    "time": "2026-11-09T04:03:46Z",
    "location": null,
    "id": "bfb58559cdaf1808"
-  },
-  {
-   "title": "“ประชาธิปัตย์” จับมือแฟลตคลองจั่น เตรียมยื่นศาลปกครอง ฟ้อง “กทม. - ชัชชาติ” เร่งชดใช้เยียวยาน้ำท่วม ชี้บกพร่อง 4 จุดใหญ่ เรียกร้องรัฐอุ้มกลุ่มรถผ่อนกุญแจเปล่า",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "banmuang.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IQWFkWmE2TVQxYmJ4SW82cDA1Q0taN0NMVS1GaHRGWGNsaEZhczc3clFNbEZMbVU1ODlmVzRPZHQ3M0Vpamp1RENOTE5rOHppelZWV1doMVFMTjZJNlp4MmRIcw?oc=5",
-   "time": "2026-11-09T01:50:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_aee978ee448b3f2d8e72",
-   "id": "aee978ee448b3f2d"
   }
  ]
 }
