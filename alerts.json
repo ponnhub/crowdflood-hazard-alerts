@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T09:26:58Z",
+ "updated_at": "2026-11-11T09:50:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 11,
   "earthquake": 13,
   "wildfire": 0,
-  "drought": 8,
+  "drought": 7,
   "pm25": 5,
   "heat": 3,
   "tsunami": 0,
@@ -42,20 +42,6 @@
    "time": "2026-11-11T08:05:00Z",
    "location": null,
    "id": "a802062f67713488"
-  },
-  {
-   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่ม ตั้งแต่จังหวัดกวางตรีถึงจังหวัดคั้ญฮวา ในอีก 6 ชั่วโมงข้างหน้าของวันที่ 11 พฤศจิกายน 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnZRZEhtRFJaWVZ2bFdDeFRqaUN6dlFZenZydXlEVWZ4bnQ2NHd5ZkVzUExrQkVfQl9JTDdTbExYQVFTQWFVZUpXTVUxOEExQi1GOS1SNWxWYnRfVjdaMElqX2R6TTBnVTQxWHJqWUREQVdSQzJ1b1VPQlIwRlJQeVB6eUVXc2M4Nk1OYjdKQXozZkFNUXFFRVlMY2pkbXRmalBramFoelo3SExoZEI2bGZB?oc=5",
-   "time": "2026-11-11T03:50:22Z",
-   "location": null,
-   "id": "64685becb2cf4c22"
   },
   {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
@@ -318,6 +304,26 @@
    "id": "b6560297fcedf4ea"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 4.5 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 181 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17419",
+   "time": "2026-11-11T09:37:12Z",
+   "magnitude": 4.5,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.568,
+    "lng": 96.262,
+    "precision": "epicentre"
+   },
+   "id": "9ea24c5e16a6625a"
+  },
+  {
    "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
    "summary": "",
    "category": "news",
@@ -357,6 +363,20 @@
    "id": "e4bb627c0052fadd"
   },
   {
+   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในหลายพื้นที่ของจังหวัดเกียลาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUFpdkdlWjgtMHluUU1sUGRUMzZQc1VObW8zemlnVGRBRXh1dFZxdmVWMnJIZE5OMUJvQmR3UEtGZm9CTENTS0lyaWNMZWNaUS1lRGRqVEh2TzNLTU1KamNoX1dEUVJHMkpaMmNiVVlXQUdMc19IWDlyS05VWjRHSmJB?oc=5",
+   "time": "2026-11-11T08:33:27Z",
+   "location": null,
+   "id": "9285cc4f9c594b6a"
+  },
+  {
    "title": "ปภ. เปิด 3 ช่องทาง แจ้งเหตุ-ขอความช่วยเหลือจากภัยพิบัติ ตลอด 24 ชม.",
    "summary": "",
    "category": "news",
@@ -369,20 +389,6 @@
    "time": "2026-11-11T08:23:00Z",
    "location": null,
    "id": "6574f12a15d9aea4"
-  },
-  {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
-   "time": "2026-11-11T07:52:30Z",
-   "location": null,
-   "id": "eff1f7fe34bbc4a2"
   },
   {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
@@ -437,6 +443,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID InTrend",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
+   "time": "2026-11-11T07:19:46Z",
+   "location": null,
+   "id": "4e23b6c722a72b87"
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม โดยน้ำได้พัดพาเอาดินและหินลงมาทับถมบนทางหลวงหมายเลข 1D",
@@ -937,26 +957,6 @@
    },
    "incident_id": "fr_news_cf413ac814ee5f6fcdfc",
    "id": "cf413ac814ee5f6f"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 3.4 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 69 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17407",
-   "time": "2026-11-10T15:10:39Z",
-   "magnitude": 3.4,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.08,
-    "lng": 97.948,
-    "precision": "epicentre"
-   },
-   "id": "ea4fcf323e0b7b57"
   },
   {
    "title": "ชาวนาชัยภูมิจมทุกข์ เจอภัยแล้ง น้ำมัน-ปุ๋ยแพง ผลผลิตได้ไม่คุ้มทุน",
@@ -1528,20 +1528,6 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
-   "time": "2026-11-09T12:32:37Z",
-   "location": null,
-   "id": "eebdbba32d5a3b00"
   },
   {
    "title": "อุตุฯ ประกาศ ฉ.3 \"เหนือ-อีสาน\" อุณหภูมิลดลง 3-5 องศาฯ - ใต้ฝนตกหนักถึง 13 พ.ย.",
