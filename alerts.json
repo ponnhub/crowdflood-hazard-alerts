@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T17:33:28Z",
+ "updated_at": "2026-11-11T17:43:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 19,
+  "flood": 20,
   "flash_flood": 9,
-  "storm": 17,
-  "landslide": 13,
+  "storm": 16,
+  "landslide": 12,
   "earthquake": 14,
   "wildfire": 0,
   "drought": 10,
@@ -234,20 +234,6 @@
    }
   },
   {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
-   "location": null,
-   "id": "c66b8d445bce8cc7"
-  },
-  {
    "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -274,6 +260,20 @@
    "time": "2026-11-10T01:45:04Z",
    "location": null,
    "id": "9f9a1aff207e61dd"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ -17 พ.ย.ใต้ระวังน้ำท่วม ไทยตอนบนอากาศเย็น ฝนคะนองบางแห่ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yYzJHcHB3aFJGeE5NcDQ5YjBOb2RqNkx2dlBXWF90Wks4NWZnWjlfTEtyMXlZZHR6dFlyNFFoOTBLXzNzZnRJNzZYYmxzZ29sWkU2aWxmLW5HNzBj?oc=5",
+   "time": "2026-11-11T17:30:00Z",
+   "location": null,
+   "id": "e4aa4170e62715ac"
   },
   {
    "title": "ภาคใต้ของเวียดนามดำเนินการเชิงรุกเพื่อสร้างความมั่นใจในการจัดหาน้ำเพื่อรับมือกับความเสี่ยงจากภัยแล้งและการรุกของน้ำเค็ม",
@@ -375,20 +375,6 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
-  },
-  {
-   "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkotUkEyMzB3Y1VKV0RTUnZrSHNDMEE4V3JlbWFpblhMdGVnUDgtNnBFZjdfUUxWVHE5UElsNnJLeFkweVZ4UndPeGtGZjd2T1R3WnE0X3pGVHpRWkY4R0ZBU0FMZmVCY2Zva2UzbEpwSGliV3dmaFpxYXVpWVlFeTlySjUtMVhoWnJhVWtrMTdfWmlx?oc=5",
-   "time": "2026-11-11T13:04:34Z",
-   "location": null,
-   "id": "e112592cea7963ef"
   },
   {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
