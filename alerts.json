@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T06:32:59Z",
+ "updated_at": "2026-11-11T06:47:38Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,7 +19,7 @@
   "flood": 18,
   "flash_flood": 8,
   "storm": 20,
-  "landslide": 11,
+  "landslide": 12,
   "earthquake": 13,
   "wildfire": 1,
   "drought": 8,
@@ -140,6 +140,20 @@
    "time": "2026-11-10T20:30:39Z",
    "location": null,
    "id": "5f2522573ec3bdb5"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ออกเมื่อวันที่ 10 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่จังหวัดฟู้โถและแทงฮวาไปจนถึงจังหวัดคั้ญฮวา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVLUEZkZUpaQlBYd09LajZBTmRzaUVhLU5MYVBBa1NpY2xzNE1JYmRaalBscTk2aGQtZEY5MW14cDlrUDByNjZiS2N4LWRDMzl3YV9waENFUGwtQzNHNUZTQ1J0aHNJRjBxcTNMNDBPOGtlbUNxeGZEaV9aM2htd045ZXVQWDdXY1ZQVm5acERxWlZrZnlwUUhDVll5QTFXd29mc0NvVkp4ZWZ2Xy0wQzFsT01pS2c?oc=5",
+   "time": "2026-11-10T18:52:03Z",
+   "location": null,
+   "id": "2c34c111ace001fd"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
@@ -521,7 +535,7 @@
    "id": "a27bcf0ce2afd31c"
   },
   {
-   "title": "ดานัง: ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มอย่างรุนแรงบนถนนหลายสายในพื้นที่ภูเขา",
+   "title": "เกิดดินถล่มในหลายพื้นที่ของเมืองดานังที่เป็นภูเขา ทำให้ถนนถูกตัดขาด",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -529,10 +543,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTcxc3YySEhPZk5xMHRpRjB5RkhxVXQ1bzA5YWJxNUkxMUg3emlzcFdxRHBLc3FxbXh0bXlkOVNqbmFXYS1ma1VHQnB5RWpObmtKMVpaNXBqYzMzQm1IbllVcjdXME1tbV9Za3RvX0Zfa0xvM0JNekZ2VnJ3d2dRSEhOZXZVTDBoRVd0MFczN25ERmROLTc2SXI4b2I?oc=5",
-   "time": "2026-11-11T03:18:13Z",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjEwR2U5NmYtd0V6b083TEY4NGhKcGVTWUpoWlpnOWV2UjUxRzFCX2J5Vm1UWHBvVEF6SnRxdVRfdHBoZl9qVk8xMFcxV0FlalZHdVl6NjBSLS1tRlJfLTR6cVIwSlVTai11SFM2cC04cEl4OEk3RUExREtpb2tCeURDcw?oc=5",
+   "time": "2026-11-11T03:20:07Z",
    "location": null,
-   "id": "94a10932398d995e"
+   "id": "eabf7cf061ccc952"
   },
   {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
@@ -1235,20 +1249,6 @@
    "id": "e4bb627c0052fadd"
   },
   {
-   "title": "เตือน 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน-น้ำป่า-น้ำล้นตลิ่ง ช่วงวันที่ 9 – 13 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51MVkwU2tTTnRodWkwSmJPQnZ4QWR5cjhyalFQcFl4UmhXOTdNR3g2SnNqSUc1Z3Z3ZHJZcDItcXo1dUtJR2hrUFVVSWp5MWVNV0xJWmdOQQ?oc=5",
-   "time": "2026-11-10T02:30:50Z",
-   "location": null,
-   "id": "c6433e3bbc1e7056"
-  },
-  {
    "title": "Aquatech Asia 2026 บุกไทยครั้งแรก รวมเทคโนโลยีน้ำโลก รับมือวิกฤตน้ำท่วม–ภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1313,6 +1313,20 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
+  },
+  {
+   "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNWFdTZGdLdS1oeGVrUEp5ZWhMbXBYZldxYlc0dTRwdEMzSEF3RVRJOHdoVUVJSnZnQVZLSVhHZ2F1RTh5OFJDNGhNWHZVYUFGQ3NabE5KckptVG9oZzROd0lpQkNRMFY4WFpyWUlHUVNXS2pCRHNXRzFYX0Uyekx5eDhZQVh1RjQ3U1MtU3FibnZQdlhGNUxMTVJkb1c4V1BxbUlhZkdfSjVMS3A5dFVoRUFmVTlvdlBtTzk3TGp1NmNIT2NPSXBaaElwU3ZNejB2eDc4dnBPeXZ6VG16T09FSVhpa2EtNHJabmw0ZTloMHlOZG9JVHB1dF8yOWNhQXFzOExSVVNLM0g2UjBXWVdhTDRMQUFTSnNxcVZlcVUxbHkyVU5wQ2VOa3NZcHdYZHh3TGJacVlBNzFmMl9vUHpmN0NxN2JWdDFhMDhQc3BZNzZpbWxyZ2JIVTc5N0UwZ2RINEh1MURpbjlIS2FYdjFxUWl3LTRHWmVJRlJsZWR2cW9LVmFPSTdEbmd2MUFja0ZTaHBrYW11SmdBRnpnQ3N2N0RkYjBLV3hlRktFVEV6LVM2T2k1NXpqcERObWdYZm5ieHphTVhOWXU0SUs2eVR0TFRpcmZ0Z09EZGcxZTE0VTAwWGhINWh0ZDQ5a0dPUjczV2VmY211My1sR0EtLW5jNDFjQTZOVmJmVkNuMkt5YkRveTNRYnE3bVMxTjhuaXhDTDc2d2VCcXcwNVBWZVI5bFppakdzUnVWVjFIblpMVHVjUmlYUm5NZ3JHeExkQmNUTjBwWno4OHM5QmhiS3JxM25RNkxUWXRkQTBBUm9QTzQ0c09MY21fVHNtOXhac3dORl93WkxBUHQ3OHJScUdCLWhXMlNXYmRwXzlKVVBrVlEtd3lvcjBMRE05czB3bllsbldxZHhQMjByZC1ZSmZ1R09WbzJfaFRmSDJvY2k5MlkzV25FSVJqNFVheVJhU1dleGkzUDczQ2F0WGVTekZwZEdCS2U3ZmpZV2RjVmxXenJLNTZJNjVtU3NfcEVqSGsxNXQ2RTJqT2pUTndNUDdpM3E5Wk9LbTNyYVh3NmlKOTkyYUpsSjExdVNVVGtzUEI5WU9oX0JqUEF1OEdhYlJzYjVpMVhGOXJTemdBUGtNYVlvR0k4ZlE5ejZQYXZqcXI3Sl9nYzlTQWhVWUZ0dHhLNlRiWWgyb3E3LTdDOTIxYk95YTEwQVE1bENFU1BaSVUtb09xYU1lQzdfazRUVkVxbWQyV3FQNkxLRk9MVGRscDBEYmFBYnI3VVhKdE5vYTdCcDNkMWtKWnRFUjEyTW5DbFhzdzR1Y0FiUllQZ2tKQzY0alNWcXltM2MzV3J4bzQ?oc=5",
+   "time": "2026-11-10T01:00:00Z",
+   "location": null,
+   "id": "0570a12b2cde0727"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
