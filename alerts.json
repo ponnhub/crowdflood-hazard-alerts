@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T18:12:06Z",
+ "updated_at": "2026-11-11T18:25:29Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 20,
   "flash_flood": 10,
-  "storm": 17,
+  "storm": 16,
   "landslide": 12,
   "earthquake": 14,
   "wildfire": 0,
@@ -42,20 +42,6 @@
    "time": "2026-11-11T16:06:58Z",
    "location": null,
    "id": "1866a131c3ecd187"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยาเตือนฝนตกหนักถึงหนักมากบริเวณภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51eHNJaXRnejBzWTFvYV94MXROaW9iSUhYeEFOTVBYQVE5WDlTVU1CY2lvd3dQZXJzMVRlOExNellzcVlnWFRWNk5feHByUkk1eXhXcTlIaEdUMUFuaVZTeGhGRHJPcFlnRUU0Q1V3?oc=5",
-   "time": "2026-11-11T12:07:00Z",
-   "location": null,
-   "id": "e334ea4f72b33245"
   },
   {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
@@ -193,20 +179,6 @@
    "time": "2026-11-10T08:38:03Z",
    "location": null,
    "id": "53fcad27fa151da4"
-  },
-  {
-   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "NBT CONNEXT",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
-   "time": "2026-11-10T08:38:03Z",
-   "location": null,
-   "id": "d8368079e0e659d7"
   },
   {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
@@ -591,6 +563,20 @@
    "time": "2026-11-11T11:00:00Z",
    "location": null,
    "id": "a2dfb1df1e60fa61"
+  },
+  {
+   "title": "ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มในพื้นที่ภูเขาหลายแห่งของเมืองดานัง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlAyNzA4Q011OU1tLUgwcFRibDkzMkRuaGk2TTNGNHdZTG1ka2l3cWxld0VXVV9VSXRtb0paYmg1SFNyNVlvNXNSZlhNZVpjYUkwelQwT3NWcXhkb0ZUYWRUdzhOM1Y3WFV3Q0xMZGFrczQ0RmEzMjVmMUJHaUxNM0hVcTJHUHdzaXc?oc=5",
+   "time": "2026-11-11T10:47:26Z",
+   "location": null,
+   "id": "4948a76fd625c252"
   },
   {
    "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
