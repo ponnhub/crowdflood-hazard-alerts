@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T20:28:47Z",
+ "updated_at": "2026-11-11T20:43:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -315,6 +315,20 @@
    "id": "39e8dc1c5d93fc31"
   },
   {
+   "title": "ฝนตกหนักและน้ำท่วมทำให้เกิดดินถล่ม ส่งผลให้ถนนสองสายถูกปิดกั้นในจังหวัดแทงฮวาและกวางตรี",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUp5MFkxcEZnbnRPNUtodXlQeUNDTmhiYlF5Ry1Yd2xuS011LS0yY1FsSUNBTjBRU01Zd256ZmV1dEl1MGxEci1rZkJFZTR0Qy1NZE5kUnZObXJqOWxqNUEtQ0tpcXJJblU4RGlmUVhzUFZBektOa2NIcHJiQkR4Ym53TDV0aGhubjNVWDdNM1pxanBWazB0NExpU1ljclk?oc=5",
+   "time": "2026-11-11T20:30:47Z",
+   "location": null,
+   "id": "c1191d1310bf4c55"
+  },
+  {
    "title": "สภาพอากาศวันนี้ -17 พ.ย.ใต้ระวังน้ำท่วม ไทยตอนบนอากาศเย็น ฝนคะนองบางแห่ง",
    "summary": "",
    "category": "news",
@@ -352,7 +366,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:50Z",
+   "time": "2026-11-11T15:48:35Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -456,20 +470,6 @@
    "time": "2026-11-11T13:15:00Z",
    "location": null,
    "id": "82ffe788907662f1"
-  },
-  {
-   "title": "ฝนตกหนักต่อเนื่อง ส่งผลให้เกิดดินถล่มและน้ำท่วมในหลายพื้นที่ของจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkotUkEyMzB3Y1VKV0RTUnZrSHNDMEE4V3JlbWFpblhMdGVnUDgtNnBFZjdfUUxWVHE5UElsNnJLeFkweVZ4UndPeGtGZjd2T1R3WnE0X3pGVHpRWkY4R0ZBU0FMZmVCY2Zva2UzbEpwSGliV3dmaFpxYXVpWVlFeTlySjUtMVhoWnJhVWtrMTdfWmlx?oc=5",
-   "time": "2026-11-11T13:04:34Z",
-   "location": null,
-   "id": "e112592cea7963ef"
   },
   {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มและควบคุมการจราจรบนถนนที่ได้รับผลกระทบ",
