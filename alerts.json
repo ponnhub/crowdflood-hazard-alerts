@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T12:34:24Z",
+ "updated_at": "2026-11-11T12:47:55Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,8 +19,8 @@
   "flood": 17,
   "flash_flood": 9,
   "storm": 19,
-  "landslide": 12,
-  "earthquake": 13,
+  "landslide": 11,
+  "earthquake": 14,
   "wildfire": 0,
   "drought": 7,
   "pm25": 6,
@@ -234,31 +234,6 @@
    }
   },
   {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
-   "time": "2026-11-10T03:00:37Z",
-   "location": null,
-   "id": "1d39d81e21175f05",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
-  },
-  {
    "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
    "summary": "",
    "category": "news",
@@ -271,6 +246,20 @@
    "time": "2026-11-10T02:33:00Z",
    "location": null,
    "id": "c66b8d445bce8cc7"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SeFl2b1UzU1FkUUIwRG5SZnphMnZHOVNxSGZfVzlWUHJ6My1wdUZmWWZWMmd3VGR2bFpUVFZQMzhhWjBKNlNSNDhkNFlKb3hoQktUNzI1YTF0UXItSWJmaGg5Wk9nX1RLMGkzc0FB?oc=5",
+   "time": "2026-11-10T01:48:30Z",
+   "location": null,
+   "id": "12634b431a5e2537"
   },
   {
    "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
@@ -287,32 +276,38 @@
    "id": "9f9a1aff207e61dd"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 4 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
+   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BeWVnMWFlR0ZOVW43WEVYTHF1Ql9YWVNSODM3T2M0ZXl1Nk93Y3hYOWV3bVBENkNVcjZoeHpTY3VqVk82b0RGMWFSM09KN0FHb3QxcF9HdVRORXllQkRfLWFLZw?oc=5",
-   "time": "2026-11-09T23:58:00Z",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
+   "time": "2026-11-11T12:39:22Z",
    "location": null,
-   "id": "26d9bdd36a65ac1d"
+   "id": "e645fecb49879186"
   },
   {
-   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
+   "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 162 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
    "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
-   "time": "2026-11-09T23:31:17Z",
-   "location": null,
-   "id": "39e8dc1c5d93fc31"
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17420",
+   "time": "2026-11-11T12:24:28Z",
+   "magnitude": 2.8,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 18.858,
+    "lng": 96.407,
+    "precision": "epicentre"
+   },
+   "id": "a09b9888c16c66d1"
   },
   {
    "title": "เตือนด่วน! อ.เกาะสมุย - อ.เกาะพะงัน สุราษฎร์ธานี ฝนตกหนัก เสี่ยงน้ำท่วม ดินสไลด์",
@@ -771,20 +766,6 @@
    }
   },
   {
-   "title": "ฝนตกหนักทำให้เกิดดินถล่มบนทางหลวงหมายเลข 1D ส่งผลให้การจราจรติดขัด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSm5TdkNJRWZTcTIzampYWWM3ZVYwNnExUUhwekUtRVpYWGphLVBOdzFDdFhSX1h4bTNxMzRqT3JoZm03Qm83REhyS2hZVnp6TnZrUnZsV21SaV9PSVV2c1ItOTNzMElzUjBvLWp3RzJ0eDBzQmdIeXZEeGxHczZTQlBlWG9RVGgzTUE?oc=5",
-   "time": "2026-11-11T06:17:00Z",
-   "location": null,
-   "id": "59d1471a7b051064"
-  },
-  {
    "title": "เงินเยียวยาน้ำท่วม 2569 ธนาคารออมสิน โอนให้อีก 12 จังหวัด กทม.ด้วย",
    "summary": "",
    "category": "flooding",
@@ -992,6 +973,20 @@
     "precision": "epicentre"
    },
    "id": "0d8516ec188b1fd5"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เผย อุณหภูมิลด ลมแรง 9จว.ใต้ ฝนถล่มหนัก | Khaosod",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Zel9MR2RhWVJEbml6YTB0NkpoWXFtTllJS0lDaU5QcE9Vd0hON1VBaGI3YVZQTlQ2bFVBQUg3NFlpUTV1T281dHdmR3NoaGVsSWpUUHln?oc=5",
+   "time": "2026-11-10T23:53:54Z",
+   "location": null,
+   "id": "51290218a55d9700"
   },
   {
    "title": "พยากรณ์อากาศวันนี้ 11 พ.ย.2569 ไทยตอนบนสัมผัสอากาศเย็น-ใต้ฝนตกหนัก",
