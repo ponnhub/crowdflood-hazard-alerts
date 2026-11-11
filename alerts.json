@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T06:19:24Z",
+ "updated_at": "2026-11-11T06:32:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -521,7 +521,7 @@
    "id": "a27bcf0ce2afd31c"
   },
   {
-   "title": "เกิดดินถล่มในหลายพื้นที่ของเมืองดานังที่เป็นภูเขา ทำให้ถนนถูกตัดขาด",
+   "title": "ดานัง: ฝนตกหนักทำให้เกิดน้ำท่วมและดินถล่มอย่างรุนแรงบนถนนหลายสายในพื้นที่ภูเขา",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -529,10 +529,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjEwR2U5NmYtd0V6b083TEY4NGhKcGVTWUpoWlpnOWV2UjUxRzFCX2J5Vm1UWHBvVEF6SnRxdVRfdHBoZl9qVk8xMFcxV0FlalZHdVl6NjBSLS1tRlJfLTR6cVIwSlVTai11SFM2cC04cEl4OEk3RUExREtpb2tCeURDcw?oc=5",
-   "time": "2026-11-11T03:20:07Z",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTcxc3YySEhPZk5xMHRpRjB5RkhxVXQ1bzA5YWJxNUkxMUg3emlzcFdxRHBLc3FxbXh0bXlkOVNqbmFXYS1ma1VHQnB5RWpObmtKMVpaNXBqYzMzQm1IbllVcjdXME1tbV9Za3RvX0Zfa0xvM0JNekZ2VnJ3d2dRSEhOZXZVTDBoRVd0MFczN25ERmROLTc2SXI4b2I?oc=5",
+   "time": "2026-11-11T03:18:13Z",
    "location": null,
-   "id": "eabf7cf061ccc952"
+   "id": "94a10932398d995e"
   },
   {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
