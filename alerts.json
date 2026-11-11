@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T05:42:41Z",
+ "updated_at": "2026-11-11T06:02:06Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 15,
+  "flood": 17,
   "flash_flood": 8,
-  "storm": 21,
+  "storm": 20,
   "landslide": 12,
-  "earthquake": 15,
+  "earthquake": 14,
   "wildfire": 1,
   "drought": 7,
   "pm25": 4,
@@ -315,20 +315,6 @@
    "id": "12634b431a5e2537"
   },
   {
-   "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxPOUMzWkVNY203Wkh1UjMzRWZjdXF5UmVuNURrZnR6ZmhKMFlIYVNFWlk0Y1NlRm4wUnpGNjJkbTVmcDJtNUFUMThWbjJEMl81LVVUVmNxclVJZmJhMUZiT3kzdEtFelgxOU1EQ1d1WXlIWHZjZVZjUXJZeWFJQ2tkOUdIdHlLVlp1MFVKQ2lVcmxMemEtcU53Y1NUem44aVRoWFMyOGlGR2JvUFBBUkduZXJ1NlFHWE8yOGxfa1lvYmlPZWxEUFVQbGduYmYtX1RqUFdpdDNHRENpa3JhaHRjX21pbTlpRG54RHJ4OW0wZ2FjNFVNZlZNM0RIMTE0SGFkZVp0U3pyTWVlMWlZYU5nU09Qd2NwY2ZUWXB1eU5sMjdoYXgxaGo0Vi0yQXh1R2Z6YVBNbEZiNmhOanBFV3A0X2VuMWZBQU8tUWRDRzBZUEU2MVFsaXl4d0tjYVdmbkp2aUtkNDhqVW1ITWdyUGxuS2Q5SWVFQ1djSm1MLUZMTUxzM2ZIYlBuMExTek9BbHc1cXFGalpZNHI0UzUyMDZYOUdfMnJ6ZzF5Vk44Zk5HZXVmT21IaEZMTFpZblhneTJzdGdldzlidVZQY09wXzZ3Umc5MENJSjcwRDMxZGJsUGJmb2dDRE1wSmYzdmVCWk83M01XdlY1bmtaQVMtczJyc2xwd0d4ZEYwNTVReWt0YzQ2X1NmazY5Nkh5c3RpYUNnNnE5V2UwRzJmcG5TRVluNnlKWmFVTUx2UVl4RXBYQ1ZkU3oySC1jQlJETEJQN0xucURLdWJzWl83MlE3eldZMEhlNml5RG55SEhsa3U2dV9EbEN2OFNhUEN2Vkw4YlA2ZHloNzlfV3ptbllQWEJTYzRmeEdtd2dBbWw0WXRGNC1mZlNRZ0Y2aWFfa2c1UkNkQ3lqMHRQeWFQdVB6RjdnaldibUxVWFFNTE9UY2p4MkFTd3NJVEExcjN4YVVRSER2N21WMHFLMVBpS3p6dC1BWVBSdjNPZFVuV1EtbEpBYWZRVmxBalhGYXZUWThiT24tN1ItMUF0NkdON2s4NzdOVXBNQVBtTTRRMlhRTng5Y1E2UnRjLU4yQmpZbzZsQ0J1YnI0VWVtaldleDd1OGFrcUZVU2NlZEVkUWpzM2Z0T2REbmlLZWhNQzZUT01OOW9H?oc=5",
-   "time": "2026-11-10T01:45:04Z",
-   "location": null,
-   "id": "9f9a1aff207e61dd"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 4 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -383,6 +369,47 @@
    "time": "2026-11-09T06:11:08Z",
    "location": null,
    "id": "f1d7c926ce2ab699"
+  },
+  {
+   "title": "เงินเยียวยาน้ำท่วม 2569 ธนาคารออมสิน โอนให้อีก 12 จังหวัด กทม.ด้วย",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/breaking-news/news_10468121",
+   "time": "2026-11-11T05:41:34Z",
+   "location": null,
+   "incident_id": "fr_rss_2cf04943732ea54fec42",
+   "id": "2cf04943732ea54f"
+  },
+  {
+   "title": "# รัฐบาลไม่มีวันเข้าใจ? คนจันทบุรีเล่าความจริงสุดช้ำ สวนทุเรียนจมน้ำหมดตัว เผยเพื่อนชาวสวนจบชีวิตแล้ว 2 ราย! เสียงสะท้อนสุดสะเทือนใจจากชาวสวนทุเรียนจังหวัดจันทบุรี ที่เดินทางมาร่วมชุมนุมกับกำนันมะโน เ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNclhOejVRT0FPSERRblFWQVBBd292YVJNZENJZmFBVFp5eWhuUlBHZi0taTRMMlRtR1FuMm0ta1duM0wydjIwZEFyUUpITkpzM2dOQzdPOXVHM0o0LWVwTzZYTE9XaFZCVlI1QUI3VEg1QmRwNVhHVE0wXzRYaDVkd2kyWkdWbDN4SGVFTmYxS1J3WWRJeFFPcldXcmotTVVBUHZvNGc2eUgyVTI4amVRQkRyY2RkaXBpb2xONlF2ZGpReU5HQWw0aTdMa0ktT1V2Z252XzY5X2hxN05SN2hGd0ZOd010SllDLUFnNWlNT0xidFgtYWVULXdycmlwZGFXQUtubEcxRVNhSHdBbzZkdkFpNTlvX1U1bGJVVmZzZGxCWVZXR3lDZ0FrQ3AzSTZQOHZwSHFhTk5vN3QzSVoyb1RKeHpJWnFrQlZndWNjLTBXcFJxR3hKYzJDY2pJRUwyNG9UX1JrclVSY19LSWNVbV9XTjFVM0xRUXNKTjR0WWZwRWJMWEdFU1Uzc1ZFMHgxeXlQQ0JySGk0OGsxZTJQQlFLVFpEd1lZT1VFaDllS1lwQzhLdzBMbmdDRUhjeWhFekZhd0NCNXdybFhJWVpiY185U254RDJmbVV4RTZKajNTQnRRZnFsR0NJbjF3ZUEwZzQ1Y21QbUt0ZnlrWHl4N2s3RW5pZ3NzZ1dQMTFDTndaZ0o1SURVLXhSdVM4WWxPc0MtZmZHZ3p2b0U2UDVMU0lzY3dleE9FYzlRSVF3ZmRXRm12eWhyX0VFYXZ4T3NweUZpVUg4Y1R2NFhQV2M1QXRENnBURjhQendYaUR4U1RGTmdVVEQxUmcwM3RsSWF1bU9ZNHNOQ1VTQ1JCejkyVjBqOWttS3E3VVZfdnpzOGdtY1BvclZBX1Qwc21nQks0VEFORmg3NldNb2NYb29wSzFKZWFuTFBhODRISUhEc2M4SVhNcWxxM2l2eXJuTlVZdEh1U0lXZFlvSC0wdndsdXBJME9HamliRmM3THBYS3hFckVqZTF5cjZnY0RiSVU2YWhGRG9LazVMbmtNQkRTMnQwNlpuWUFsdHBEYjNmRU9EUzlkdjFDaE5sODNPZUM3TzhXQTRTOE9WMnZQakxmZ2lkUmJjeVcxM3NCcUFhTEo1SkZHM01qdWVwY29rakVuS0p3azJrVjI4VWxnRDhTdkYyQ2hYRkpzVTlTRWw1QjNOaURnN1ZkOHRmRmVjU2FvQkNZelpEblFZRzRyUnAzaDZlNFkzVjRuS3J1YzVQVGNjQXVYVk5OeWg3dmVDT3BzaThMMVJfY3U5dWw0cjlRZV9xUDdNVjhqLUVZMVR2RmhCbDY1NVpDVTY4eExqNEU?oc=5",
+   "time": "2026-11-11T05:30:03Z",
+   "location": null,
+   "area": {
+    "code": "TH22",
+    "level": "province",
+    "name": "จ.จันทบุรี",
+    "bbox": [
+     101.685,
+     12.293,
+     102.532,
+     13.335
+    ]
+   },
+   "incident_id": "fr_news_e65b21b9fdcc6321aadc",
+   "id": "e65b21b9fdcc6321"
   },
   {
    "title": "จ.นครศรีธรรมราช เฝ้าระวัง! หลังฝนตกหนักติดต่อกันหลายวัน ทำน้ำป่าทะลักน้ำตกเทือกเขาหลวง",
@@ -1540,20 +1567,6 @@
    "time": "2026-11-09T06:18:00Z",
    "location": null,
    "id": "593f7493960a8e6d"
-  },
-  {
-   "title": "ญี่ปุ่นระทึก นาทีแผ่นดินไหว 5.7 เขย่าภาคกลาง รับภัยหนาวสุดโหด หิมะถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xS3BrSm5yajZoTzFIaU8zcGt5NVk2a2dtN0tOUDlQVkRhZkJMRzNDaVpOUUtaTHhkbThzeW5qVnFUUXpFR1FHMkFDOVB5VmRWNEpLbVpn?oc=5",
-   "time": "2026-11-09T05:56:24Z",
-   "location": null,
-   "id": "b92663c83a88b890"
   }
  ]
 }
