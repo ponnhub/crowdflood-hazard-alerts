@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T07:19:35Z",
+ "updated_at": "2026-11-11T07:33:05Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,15 +16,15 @@
   "other"
  ],
  "counts": {
-  "flood": 18,
+  "flood": 17,
   "flash_flood": 8,
-  "storm": 21,
+  "storm": 22,
   "landslide": 12,
   "earthquake": 13,
   "wildfire": 0,
-  "drought": 8,
-  "pm25": 3,
-  "heat": 2,
+  "drought": 7,
+  "pm25": 4,
+  "heat": 1,
   "tsunami": 0,
   "other": 2
  },
@@ -304,6 +304,20 @@
    "id": "26d9bdd36a65ac1d"
   },
   {
+   "title": "ปภ. เตือน16จังหวัด ภาคกลาง-ใต้ รับมือฝนตกหนักถึงหนักมาก เสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zNWhYWXplTkVYT0R4WFNpTS0ybkQ0OHpHRzZiZ3B4ai05VFZSamZmdGJ6b3AwQzM2bF9yaU5kd1lza20yaUhKUG1uR1NmbUgwNVl4emhB?oc=5",
+   "time": "2026-11-09T11:43:00Z",
+   "location": null,
+   "id": "b6560297fcedf4ea"
+  },
+  {
    "title": "ปภ. เตือน 16 จังหวัด ภาคกลาง–ใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -332,18 +346,57 @@
    "id": "b3b4fbb3340979ca"
   },
   {
-   "title": "ปภ. เตือน 16 จังหวัด ภาคกลาง-ใต้ รับมือฝนตกหนักถึงหนักมาก 9 - 13 พ.ย. 69",
+   "title": "Tra Leng ดำเนินการเชิงรุกเพื่อปกป้องความปลอดภัยของผู้อยู่อาศัยจากฝนตกหนัก",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GWUt4dlE3MFpINFYtTjg3X0QtM2lyby04MmlZcjN3NFNHXzRGTWsxMmVkY3cyc2Y3ZnYzVXpRVVpiMXY2a1lNM3ZIR1lYNlFycXEyY0pxbkM?oc=5",
-   "time": "2026-11-09T07:32:03Z",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekV5ZEpRWE1LNGdMazJIS1ppTG82TFF3T1h3S1dZU0FoOXdLdEN1WVhOWjdLNEMwaDU3MmpFWHRiLXpXODQtcDBSbVVmT1RnZWwxT0RIeUs5RXJ4M3FtajAwaWRQbUdrZGRDVUtyMDdmVW5McEFnMXZhc1h0UDhKRlB3Y0dCaE9SVVE?oc=5",
+   "time": "2026-11-11T07:28:53Z",
    "location": null,
-   "id": "c140b7348a1296b9"
+   "id": "be6b81fbac036c12"
+  },
+  {
+   "title": "ฝนตกหนักทำให้เกิดดินถล่ม โดยน้ำได้พัดพาเอาดินและหินลงมาทับถมบนทางหลวงหมายเลข 1D",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1dmc2VXN0UxYnRaRURpVm5fcHFlUTZzUnkxc1NtYkFhRUFxaU1odmJXdkZQalpIQ3dzOElFUW92NjE3WDl2b3NGMDRraElLUmVTWnNPdWk1b3ZEUG14ekRDek5tOTR2OEw0OFRMcW8ybjhsZDdVNHJSMW53dnFQU3NOeUFIbHpndHpTMGt3?oc=5",
+   "time": "2026-11-11T07:18:38Z",
+   "location": null,
+   "id": "926050b30bbf0d9e"
+  },
+  {
+   "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ททบ. 5",
+   "source_url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPYnJzc014bnR0QmxDMmZLUHZOYmxHcGxXWmotUV9UZUxidy02Y2dNM09oOHMxYnlGQ3FhSElzaGZkYWliN0xHSlV2ekVXeGtCYjdMZ1o5SnZQMng0WmlIT2Q2V04xcl90ODJKM2Y0eU1UX0l5dUJyWGViZG9qbEh3Zm5ha3VGS2F2WjBFRTgzM2dWMDgzREI2dmpBYmNHb092bXQ3SllZUWFjUmlfckpqZHQ5YkxrRXFyNGhmR3R3cFFVLXVqMHJlR0ZyeDI2OV9GX1pHY2x5N0JCMHJQc09YT1prVUVpaE1zZDJOVGx1am5GdTJNRkNHTXdTQm9TLVVETTR2ZGVKbEVnVTNBNk56bUl3TFFNSHhjV0NUNWxpUHR2Z05HOEI2QUJDdk91RktJdDdnV2xzNHFBOU9MSjVqMm9xXzVYaDRzbXdRbWxJaDBKYnFId19NQTN2dVR6aUVUN0N4THRRZWlFU2p3a0Q1eDZhNVJCVXRQdFdjNzUzQkdaRWFuVlNVQzRYR2xLaHZZT0hMUm9sVTJrUzRjclJpUlE1M1RUbHA5d3gyNEdhUkcyb1VzT2lEZDgwek1FU3FDaXN4UjJyTFZNcmU5ZUtTQmZIOVhNeGFYQndkeUhLdktETFQ5ZnNoeWhqX2stMWxLYTlYajdFS0xEbm5QWElTZnZDdjRKaWthSUpkdWE0cWRFUXJWNC01emVRSUpURWs2SDYyTktrV083cnJSVUh6dDVBczNkSndGSTg4NFNtenZBSlhJa0R4VWJRU204ek5FS3g4WEpCdDJFdDQtWEd5UzBINzhaM0w0d29ISThnbGsxTC1vdl9qeEpFLUNrUUVBUXBTX1dR?oc=5",
+   "time": "2026-11-11T06:43:00Z",
+   "location": null,
+   "id": "87b81afc814d770d",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่มบนทางหลวงหมายเลข 1D ส่งผลให้การจราจรติดขัด",
@@ -469,20 +522,6 @@
    "id": "0fe73d93615141ce"
   },
   {
-   "title": "ในพื้นที่ภูเขาของเมืองดานัง มีการอพยพประชาชน 189 คน และมีการสำรองเสบียงอาหารไว้เผื่อกรณีที่น้ำท่วมตัดขาดเส้นทางสัญจร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVU16Rk5neFVkS213THBCdzljajVBSV9ELTQxblZ6cVhELUNfUWxNb2tlWGU2ZFBOajVZZGdkQkU2MkFZS1hnZ2UtVndLN1NGVzBfdTVRc1BjelFHRDBiOW1yZ2lTUmhPSS1mUUZLbHBjZ1lvM2hRUU00MlBZNFdRZUpsbGMzcG5Ob3puOUxCV1kwZU1kMzd6X3JTcFpWeDJs?oc=5",
-   "time": "2026-11-11T04:36:50Z",
-   "location": null,
-   "id": "438d3075b6d9e008"
-  },
-  {
    "title": "นครศรีธรรมราชฝนตกหนัก ทำน้ำป่าทะลักน้ำตกเทือกเขาหลวง เตือนเฝ้าระวังน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "flooding",
@@ -536,20 +575,6 @@
    "time": "2026-11-11T03:42:04Z",
    "location": null,
    "id": "a27bcf0ce2afd31c"
-  },
-  {
-   "title": "เกิดดินถล่มในหลายพื้นที่ของเมืองดานังที่เป็นภูเขา ทำให้ถนนถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjEwR2U5NmYtd0V6b083TEY4NGhKcGVTWUpoWlpnOWV2UjUxRzFCX2J5Vm1UWHBvVEF6SnRxdVRfdHBoZl9qVk8xMFcxV0FlalZHdVl6NjBSLS1tRlJfLTR6cVIwSlVTai11SFM2cC04cEl4OEk3RUExREtpb2tCeURDcw?oc=5",
-   "time": "2026-11-11T03:20:07Z",
-   "location": null,
-   "id": "eabf7cf061ccc952"
   },
   {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
@@ -1238,20 +1263,6 @@
    "id": "acfb1353b9fda242"
   },
   {
-   "title": "WMO เตือนวิกฤตหนัก มหาสมุทรเดือด คลื่นความร้อนทะเลพุ่ง 3 เท่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWF82bWNMTW5hTmVUX2JtQVlVclExc3JvYl9iRGd0ajFpZTlVNjhLTW05VmNsYndxM1FNa3JsU3ktWk5rWmFnOEE4TWNSQUlVVVFteFl3?oc=5",
-   "time": "2026-11-10T03:00:00Z",
-   "location": null,
-   "id": "0852ea7b1d81cacb"
-  },
-  {
    "title": "ปภ. อัปเดตประกันภัยพิบัติ อนุมัติจ่ายแล้ว 5,635 ราย รวมกว่า 65 ล้าน | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1410,20 +1421,6 @@
    },
    "incident_id": "fr_news_08b700e647c312b6792c",
    "id": "08b700e647c312b6"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | รัฐบาลตั้งวอร์รูมรับมืออุทกภัย-ภัยแล้งภาคเหนือ “ยศชนัน” นั่งประธานบูรณาการ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1ZGT2NvSjVoN3BhNndWRlBCMGEtekZrS3V4TmhGQ3AwUkgzVXhkdE1ucnRpZDAtLVdMZlJYN1gzT004a0x6cnl5a2Y4UFB1Wlk5MFBIZG4waHU1Z255Y3hqU00?oc=5",
-   "time": "2026-11-09T12:32:37Z",
-   "location": null,
-   "id": "eebdbba32d5a3b00"
   },
   {
    "title": "71 ปี ฝนหลวงพระราชทาน! เกษตรฯ ยกระดับเทคโนโลยีการบินทะลุเมฆ สยบภัยแล้ง-ฝุ่นควันทั่วไทย",
