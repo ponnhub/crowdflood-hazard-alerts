@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-10T23:46:10Z",
+ "updated_at": "2026-11-11T00:03:55Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -411,6 +411,20 @@
    "time": "2026-11-09T00:25:02Z",
    "location": null,
    "id": "a4b6ff48e5bc60e4"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เผย อุณหภูมิลด ลมแรง 9จว.ใต้ ฝนถล่มหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HcVlIaWNjb09PQjJ0X1dYZ0x5QzFtNWtjZUlUNWVrSmsxOU9fdEpTQ01mQXlxdkVYamZBcXlOVV9tWUNwcTdJbFdpcEkzcHpfbUlOR2QxdldDSkM3NF80dHI4QQ?oc=5",
+   "time": "2026-11-10T23:30:00Z",
+   "location": null,
+   "id": "1df22bd3d31aea0c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -1669,20 +1683,6 @@
    },
    "incident_id": "fr_news_ce367b43064ac933646d",
    "id": "ce367b43064ac933"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 9 พ.ย. เตือน 28 จังหวัดยังมีฝนฟ้าคะนอง ภาคใต้ฝนตกหนัก!",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Oa2RQWlhHQy04ME83ZkFnSjVTeW40UHNJUF9Vejh6VFlNWW9WSjZzZjZJbUY1MzUtZFY2OWU1bDNqUFNuV0hWd2k0ZUplVTdDY0pKa1VSUUo4LVEwaVBGWU5pZ2hIbDAxbGpncW1GbmxDR2pIOGkta0l6STg?oc=5",
-   "time": "2026-11-08T23:46:26Z",
-   "location": null,
-   "id": "c050d477ccd00bcd"
   }
  ]
 }
