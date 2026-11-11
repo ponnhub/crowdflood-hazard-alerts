@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T04:58:14Z",
+ "updated_at": "2026-11-11T05:17:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 15,
-  "flash_flood": 10,
-  "storm": 20,
+  "flash_flood": 9,
+  "storm": 21,
   "landslide": 10,
   "earthquake": 17,
   "wildfire": 1,
@@ -112,20 +112,6 @@
    "time": "2026-11-10T23:54:00Z",
    "location": null,
    "id": "047243c6081f1ba3"
-  },
-  {
-   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.6 | 11 พฤศจิกายน 2569 เวลา 05.00 น. ภาคใต้ยังคงมีฝนตกหนักถึงหนักมากบางแห่งในช่วงวันที่ 11–13 พฤศจิกายน 2569 ขอให้ระวังฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเล: อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร บริเ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi4AZBVV95cUxNQ09QajJNTU05MGVNOUNyVW5wRVpzc2N2THprU1FXR08tRU1LeVFVWmZsUndTTUVYaE56ckJSWWhkVldlaGVlZXlYX0I3MlZCbDJ1QXk4bDFFcDBYbVFwMDFYQUhMalVfYk9EV1hiRjRBNmZRVG80OHE2SHZ3RVU1dEk5QkhvcTg4anFGWGlGVWFIa0VlNFFTQVBFTFo1YWlqZDIycm5uUWp0N3N3SWYtRllXOW9sampKLXN4VXV5N2RETlBDdVpDNUs2Y21DY3NXQzMxNFliZXpoRWw1ckRRSGVicTNRelZDczRJRmRackxrODZRcHBpZXpVSlR5aWZVVVZpWEthUlR5NkFjeWJ1UFpaN1V1Q09peFhVbWh1YXlBNkFKTVZySTE4eW5IOWo2NFZjWVBHNVZkYjFPVU9MNi1FZ1RCVlcxOVBjdnlYVnNPMkJEaS13THlpVWZuNTJDYnNUT055MDQyLWlCRGdDQUdmRkFrMnduNzRUZV9URE91VkN4QmZZcDlCYVkxX2ZUNGFjVWswRFFlNmpBazZKRUpZN1B3bXZzcGg1VGk4R1RIR2lmM0RVeDNmY25LTTZrT0wtODQza05yZWdHbFloMHdJVy03NTNVZTJlckFyYUlEc0g3dlV6R0wwdmxMeE5xcmFiYUt2LVQtdnB3Zi1kbkJxYXZhVV9jVjZaR0ZYRDhFLVgxemYwSWdqbXFmNmxTV0QtMmRjLXBkdDF0d2xob3AtY1B2alZqN193M082WUpPdjFQQmF0d1BJQVpBdU9KZXhMdXRHVDVOYTB3Nm03QUIwbGhDRUd3bnktaElsU0xhaVcxNjhmX2pXRVdsWXpjdzRBdnBjemhXQnlqYzNWUHZpcnNtU05laS1wM280RzhORi0xOXpGMkNfT0JoRHdRemVEQXBNeVdNMlRKaDZ5bWxaZlJoaU1kbS03anhrUmY0b3lpTEN4ejN6cUZKN281WFpLakpxUnNVU3hYejA3MVJSemZmNVNWTG9jX05rYnhaM0dTSDJyWmdta2I1WGNKajhiTFUxZENNQkhDUjh2SzNqM05kMEl5RXhUZ1NTZnJQVDRZaHY0dWRRQ1JuX21RN0llZlMycUw2YUZTUkZzRXF4ZHczTzQtN3owY0l1cmQ?oc=5",
-   "time": "2026-11-10T23:15:00Z",
-   "location": null,
-   "id": "a60dc51176539a54"
   },
   {
    "title": "เตือนจากกรมอุตุ ฉบับที่ 2 ฝนตกหนักถึงหนักมาก อากาศหนาวเย็นลงและลมแรง | มุมข่าว",
@@ -301,6 +287,20 @@
    "id": "c66b8d445bce8cc7"
   },
   {
+   "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SeFl2b1UzU1FkUUIwRG5SZnphMnZHOVNxSGZfVzlWUHJ6My1wdUZmWWZWMmd3VGR2bFpUVFZQMzhhWjBKNlNSNDhkNFlKb3hoQktUNzI1YTF0UXItSWJmaGg5Wk9nX1RLMGkzc0FB?oc=5",
+   "time": "2026-11-10T01:48:30Z",
+   "location": null,
+   "id": "12634b431a5e2537"
+  },
+  {
    "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
    "summary": "",
    "category": "news",
@@ -371,18 +371,30 @@
    "id": "f1d7c926ce2ab699"
   },
   {
-   "title": "🚨 ปภ. เตือน 16 จังหวัด ภาคกลาง–ใต้ เฝ้าระวังฝนตกหนักถึงหนักมาก 9–13 พ.ย. นี้! ⚠️ เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ขอประชาชนพื้นที่เสี่ยงเตรียมพร้อมรับมือ กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) แจ้งเตือนประชาชนในพื้นที่ 16 จังหวัด ภาคกลางและภา",
+   "title": "จ.นครศรีธรรมราช เฝ้าระวัง! หลังฝนตกหนักติดต่อกันหลายวัน ทำน้ำป่าทะลักน้ำตกเทือกเขาหลวง",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMijwdBVV95cUxQNlJJWEhYZVpPQ0xFRW44eVpLUWFzdmhpbHdfalUxZkdxOWlHNTJaS1djR1MzcmlVQkFfZG9SbVBOUC0ydVRzZl9CQlVJRXZLd01OTnlPT1BlMm5seFB1TFRDQkNJN3pSTUxhbTA4Tkc4TmwxNE8wbmFhcWluZy1ESFdmeXZpZURNakJiVFZ6UlVDOXZSeDk0cmtqVkdwdWhFalZJWEJnRmZwcDZSaWU1SFpXZGFsbjBMRWlTQURZMlJIOFN1R201Uk5yQmNuOXNxZkRzX3g3TUtiQnVuRFRhVUlrS3B1M3A0cmJ3MU9ueGNxaGRwUmVBVnRiNzJmbUhOTzBRWF94VzNENzlDbXAweE0wMzVpWUJPaGowN2M4VVVsTmdDZ3JuRVp0VlhQRUx4NTFDMHppV3lKZXAzbWFZZ3VCTDZfNExGR213VXNDckRKbmk4cVZBVGxrbi1FM0RUd3YzeFRVNjVhTUlkODdjNlF6RVRkelZYODcyOEhHYWFMbjhyZXIxUFZSQUhITTdUcEVsMUhlUWJ1enZTclIyOVZwaGMyLWJ1V3BycHVSVE5hWGpxZmlOZGcyNjlwQTF3VXV3eUJoNklwTWptMjdVNy01ZEgwYWhkSjhZaXJzWjRXTU5jT081OUJMNzVHY2hkNVpwaDJ3VE1IZS1BR3ZBWHVzWVJfbnNBeXhoMVFkOWswNGVHSXBrSlZGSXNNRWI0azNPM3F2Z0gwMFY4ZXJjdkpSZlpCN2piWDNTUjVOaVRSUFFpNlR5N2tyaG9JejRHZ3I0a2pTY2dvcDNtajExTXNMYXQ0bWpDMjJWVUdzLXY5VUFxRkVKSlZOMGtiWEY0ZVZiTnFBdEREMXQ0NmszdUVlMURvRDV2VlM5VDFpU1dLc3g4dDRSMzdDT3dMRTktWHAzdk9HZ1RocWIxT0tQMnlwSGVrcWJTWHRwcjdBamoxUk1RMUUzZlhLNHo1LThIWENRSXRPcTZ6cXFOc01kczNLZVVNNUdDdU5TUklZem1aa0g4ZmtQa25FU1BDUkVWRExvblR5MDN1MGpkUHpBZC1EYUwzSnFiZDRIRTMxRm9UdUtvTUdpZFllSFV6VFZZTW9GYWYzOFJ2ZHcyRlNqVDcxaFFlTXhySTQydks4QU95TEdWWFZ0VHpxYVZZaEVrMFk2eU1MTWd4YUthWDZtc1c0NkFCdmwxX0VVemJqaw?oc=5",
-   "time": "2026-11-09T04:58:53Z",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44c2JaV0FmbFkzdkZEbzl0MmZEZFYwdnVWWDhJSW9meDc1ZjlUcjR4cHd5V1c3RU1BV2R3V0Rob3V0elR1eXc?oc=5",
+   "time": "2026-11-11T05:13:20Z",
    "location": null,
-   "id": "62ce0a2b04cef38b"
+   "area": {
+    "code": "TH80",
+    "level": "province",
+    "name": "จ.นครศรีธรรมราช",
+    "bbox": [
+     99.234,
+     7.838,
+     100.337,
+     9.323
+    ]
+   },
+   "incident_id": "fr_news_cf115a91839623a4aee6",
+   "id": "cf115a91839623a4"
   },
   {
    "title": "ดานัง: ฝนตกหนักต่อเนื่องเป็นเวลานานทำให้เกิดดินถล่ม น้ำท่วมในบางพื้นที่ และส่งผลกระทบต่อการจราจรในหลายพื้นที่ภูเขา",
