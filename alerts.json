@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T16:25:33Z",
+ "updated_at": "2026-11-11T17:15:38Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,10 +19,10 @@
   "flood": 19,
   "flash_flood": 9,
   "storm": 18,
-  "landslide": 12,
+  "landslide": 13,
   "earthquake": 14,
   "wildfire": 0,
-  "drought": 9,
+  "drought": 10,
   "pm25": 6,
   "heat": 3,
   "tsunami": 0,
@@ -290,18 +290,32 @@
    "id": "9f9a1aff207e61dd"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 4 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
+   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4 | 10 พ.ย. 2569 เวลา 05.00 น. 🌧️ 10–13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก 🌊 คลื่นลมทะเลทั้งสองฝั่ง บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง และหลีกเลี่ยงบริเวณที่มีฝนฟ้าคะนอง 📍 พื้นที่เสี่ยงฝนตกหนักถึงหนัก",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BeWVnMWFlR0ZOVW43WEVYTHF1Ql9YWVNSODM3T2M0ZXl1Nk93Y3hYOWV3bVBENkNVcjZoeHpTY3VqVk82b0RGMWFSM09KN0FHb3QxcF9HdVRORXllQkRfLWFLZw?oc=5",
-   "time": "2026-11-09T23:58:00Z",
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxPazRQd0lCLVphZUVmZWpsV0F2clV4cnFMTmxPZm91NzF2c3N5NnBONjc5bTJJcVVTa3ZKWkV2ZEJkYnY1VUJsRGhOQWNEX1hub2pxYl9hWU5od1BreEFQRDh5MzdPaGh4X1dqT1BuNEtmU20xN0tiX0k2OF9yWVhSS1JlOWNZU3I4U21fREU3bWRNWWR3YVFIU3V5b3J1cEFHWnNfN2dHdUVHSjlOazVQZkVrRUQ2OHN6MmtfeTBHVXR1YkZ1c1M2RGRHOWQ2aFpJU0VDN0t3c1R2aktwa1JrNExaNWJnUnV1ZzFkTkRsS0p1bWVQc2hNUlJsNUJTYWtjazViMUNYWlluM2p2T2JWU3pBTmlqbHFQc1dubHZXYzVxRkRYLU56OUkxWmhTU1prb09mODg1cldMYWMxVWlVX2hCblBRZkZRcDVyWVpnSVNvVFlWbTBaaHIxZTR5MThPM2cyUDlrdHJHM2pfOGFHV1FtNER2WWlTWlh5S093bnJfUFh6RjFFWkxhdXZtVk5JXzZrcUVvVkhhM1JmYUVGaHhMQ29ZWUxWTzcxQXRwRnA4TWR6c1ktYm1HNTZ0VXVIaEY1OU9laVdHSWowd1dMclpVZnBiSnlfXzB5ejdBWnB2Q2lpUWZfMVkxOGRzX1pTM3EwaVloSGRUTE5UOFh5OWpDSVVyNzB1RmhTX3FJd3VTdS13UFJFbEpBQ3lWcnM1TE5RekpFbjNFUEgxZl9oMnc0RW5BMmhWNnBoblNvWEZwXzBuNG5tSjYycVlTMWtDU3g0RGV5WDE3RnhRUldrbFlfUjc1ZHFPTGFaUTBtdkt4RlJCNW1WQ21jclg5V0ZvVy1FM3hKby1NNk5wcTVrcjFfVW5GNFpRYV9wWHZmSXlOYmlaVEVWSW8zOVp3aElrTE9TM0UyMHNvdEg3THNHQmpaZ3dTeVY4aFJWTmQwelZDVTRyc1pXYUp3d2JXSzN2XzZBX2hsaWE0R0xSM09MWXVpSUQ4UV85SjBIRmNHTTY4QTU0UlJBN1JybkQxUHgzNjJTRDFB?oc=5",
+   "time": "2026-11-09T23:31:17Z",
    "location": null,
-   "id": "26d9bdd36a65ac1d"
+   "id": "39e8dc1c5d93fc31"
+  },
+  {
+   "title": "ภาคใต้ของเวียดนามดำเนินการเชิงรุกเพื่อสร้างความมั่นใจในการจัดหาน้ำเพื่อรับมือกับความเสี่ยงจากภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHplM0ZUSlh6YmxtWmFpYVFBVXZ4enhuejA2RFpmaC1VbUdfUUktZzEwNm53S3lpWkd1WEFJMXNCc3haUGJvaTBILTc4MURnbkJWUW1ncWk3MTdYZkMyeXFjMFAwb1VfdHJhUnoxUk1WamowT1RpNElEYlozUm1VTVpkUDh4bHJDalE?oc=5",
+   "time": "2026-11-11T17:08:59Z",
+   "location": null,
+   "id": "a6988e614cc3603c"
   },
   {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
@@ -318,18 +332,18 @@
    "id": "7a02869e9e955657"
   },
   {
-   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
+   "title": "เจ้าหน้าที่ตำรวจฝ่าดงดินถล่มเพื่อนำส่งอาหารไปยังพื้นที่ห่างไกลในเมืองดานัง",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
+   "hazard_type": "landslide",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
-   "time": "2026-11-11T15:42:06Z",
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGlQWktXTTRNcXhHblV2VmZMSzJQNHFCY2E5cThjamlPRjctSUdWZFRuM2dlLTlkN1Z2NXB5YUxDUWt2bjZ6b3IxbnFyeXFILTdYdHI3WFBqYlNDeGg3eFM5QXF6WDBJN3JadDhmRjVpUU9MX1dYbTRJcFlaaWNKMDZUWGktVEo5UkYzSUFYQnNZM0lhaHY0LURR?oc=5",
+   "time": "2026-11-11T15:13:24Z",
    "location": null,
-   "id": "e645fecb49879186"
+   "id": "e1f59bc2fe1933cd"
   },
   {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
@@ -431,6 +445,20 @@
    "time": "2026-11-11T12:40:15Z",
    "location": null,
    "id": "f0b7f56630f0aa2d"
+  },
+  {
+   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
+   "time": "2026-11-11T12:36:41Z",
+   "location": null,
+   "id": "e645fecb49879186"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
