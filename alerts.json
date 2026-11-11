@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-11T00:32:29Z",
+ "updated_at": "2026-11-11T00:44:05Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,18 +17,32 @@
  ],
  "counts": {
   "flood": 16,
-  "flash_flood": 12,
-  "storm": 19,
-  "landslide": 10,
+  "flash_flood": 13,
+  "storm": 20,
+  "landslide": 9,
   "earthquake": 17,
   "wildfire": 1,
   "drought": 8,
   "pm25": 4,
   "heat": 1,
-  "tsunami": 2,
+  "tsunami": 1,
   "other": 1
  },
  "items": [
+  {
+   "title": "กรมอุตุ เตือนภาคใต้ฝนตกหนัก สูงสุด 60% ไทยตอนบนลมแรง อากาศเย็นลง กทม.ต่ำสุด 22 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzeTZlN2lING02b3Z4TzdFWWxlWEZNTnZsZy1SMW90aXZKaEZ5eWJYbmlycnNvMnVtOTJ2VmZnc1VfUXQzaVFSZHprQmlsakktQjQ4eTVKRmw?oc=5",
+   "time": "2026-11-11T00:24:48Z",
+   "location": null,
+   "id": "fd97d809df838c8c"
+  },
   {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 6 เตือนฝนตกหนักถึงหนักมากภาคใต้ 11-13 พ.ย. 2569",
    "summary": "",
@@ -70,6 +84,20 @@
    "time": "2026-11-10T23:15:00Z",
    "location": null,
    "id": "a60dc51176539a54"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ออกเมื่อวันที่ 10 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่จังหวัดฟู้โถและแทงฮวาไปจนถึงจังหวัดคั้ญฮวา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUVLUEZkZUpaQlBYd09LajZBTmRzaUVhLU5MYVBBa1NpY2xzNE1JYmRaalBscTk2aGQtZEY5MW14cDlrUDByNjZiS2N4LWRDMzl3YV9waENFUGwtQzNHNUZTQ1J0aHNJRjBxcTNMNDBPOGtlbUNxeGZEaV9aM2htd045ZXVQWDdXY1ZQVm5acERxWlZrZnlwUUhDVll5QTFXd29mc0NvVkp4ZWZ2Xy0wQzFsT01pS2c?oc=5",
+   "time": "2026-11-10T18:52:03Z",
+   "location": null,
+   "id": "2c34c111ace001fd"
   },
   {
    "title": "เกิดดินถล่มบนถนนบนคาบสมุทรซอนตรา เมืองดานัง มีการออกประกาศเตือนด้านความปลอดภัย",
@@ -626,20 +654,6 @@
    "id": "99bddd5dd9dd2b90"
   },
   {
-   "title": "ขณะนี้กำลังเร่งเตรียมการเพื่อเริ่มก่อสร้างโครงการแก้ไขปัญหาดินถล่มทางฝั่งขวาของแม่น้ำโพธิ์ดาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRNTmc2OFNsSzh2TjVFdzVNREFQbVRCZ1dGM25FX3RVelhXenJOd25GZ1lBWGJoU1Rwd1lnODl1V3BnYVd4TmFDUl82bHRkclc0TVhxaGlRbE9sN3NvTEp0QzNmVktpMlBrU2JkdVZrWkdQUW9NX2dWczVocURwdlRZQzIwdU81b0tpUHFKMlJfNkpEOHFKbktacWhNSjhidmRUVXN0VDdDcTltdHZBc0c1TGtldThCMjY1VTJBcU4?oc=5",
-   "time": "2026-11-10T13:14:09Z",
-   "location": null,
-   "id": "92cdce87ec6ed0d2"
-  },
-  {
    "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
    "summary": "ครอบครัว 3 ขวบร้องไห้ระงม ป่วยญาติเรียกเจ้าหน้าที่กู้ชีพรับพาส่งโรงพยาบาลท่ามกลางฝนตกหนัก ไม่ทันถึงรพ.ท่าศาลา รถตู้กู้ชีพเสียหลักลื่นหมุนฟาดต้นไม้ยับ เสียชีวิตพร้อมญาติ เจ้าหน้าที่กู้ชีพด้วยรวม 4 ราย คนขับอาการสาหัส เมื่อเวลา 14.53 น. วันที่ 10 พ.ย.2569 พ.ต.ท.สมชาย มวยดี รอง ผกก.(สอบสวน) สภ.ท่าศาลา จ.นครศรีธรรมราช รับแจ้งอุบัติเหตุรถตู้กู้ชีพเสียหลักชนต้นไม้ริมถนน ขณะนำผู้ป่วยส่ง รพ.ท่าศาลา มีผู้เ",
    "category": "flooding",
@@ -658,6 +672,20 @@
    },
    "incident_id": "fr_rss_14757629bcdb835289dc",
    "id": "14757629bcdb8352"
+  },
+  {
+   "title": "ปรากฏการณ์เอลนีโญรุนแรง กรุงดงทับเตรียมแผนรับมือภัยแล้งและการรุกของน้ำเค็ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Q4cmpfSDhXdV9tZGNTQ3NkRHJ2ay1QdC1lNXN2eW1MMjY2WElJa2VoV01mT3l4X0VaOGlTeGY5ZWd5RDdKSmJwWFVuVDlEd3FGUkZrMGNPTGYxbU55Q1gyektOR1RnbllWZ3VvSFpUYmZkUnlXYWN1dVNIb25Mc0tZM2M?oc=5",
+   "time": "2026-11-10T11:23:14Z",
+   "location": null,
+   "id": "d626a5ff2cc9ce4e"
   },
   {
    "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
@@ -958,20 +986,6 @@
    "id": "7c0bfd250bc892e6"
   },
   {
-   "title": "จังหวัดด่งทับพัฒนาแผนรับมือภัยแล้งและดินเค็มระดับสูงสุด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHN3OHh4SVVJSzh2VExwTFVjbmQ3d2x4X2dkRUI4S2NrdU5HNTdKM19DVllSZHJRd0pGUngzYVR5UDBQTmNjZ3pzZjd0V1JWUlFCRG1nampyZkxJT0x0Nzh0YUV4aWhsam1nZXdMWG50Q1NwOHc0bFBqbzExQzhqaUkwbDY?oc=5",
-   "time": "2026-11-10T06:57:14Z",
-   "location": null,
-   "id": "822d84d51eed150f"
-  },
-  {
    "title": "UN ส่งสัญญาณเตือน โลกเข้าสู่ยุคใหม่ของ “สภาพอากาศสุดขั้ว” เสี่ยงเกิดภัยพิบัติหนักทั่วโลก",
    "summary": "",
    "category": "news",
@@ -984,20 +998,6 @@
    "time": "2026-11-10T06:30:00Z",
    "location": null,
    "id": "29cc8bb543968a8e"
-  },
-  {
-   "title": "ตำบลตราเลงเร่งอพยพ 5 ครัวเรือนจากพื้นที่เสี่ยงดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1oyS1JTc3JCSHFPd0pyWkNNdGFCN24weXVzeUpQY18tM2VIYmVMUDdrMmJ1X3ZISmcwajdMWV91MGNSY2xBUkpRVFY2bjJWaFlIZGlnWXhiMmFzWHhJbFloRmhOZTl0eGsyaVdmY3pteF9iQzNaVlRiS2lETzlobk5pVVB0VlNuNV9TUHFXd3V4cWo4RkVhbQ?oc=5",
-   "time": "2026-11-10T06:28:35Z",
-   "location": null,
-   "id": "570d7d2fe4578700"
   },
   {
    "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
@@ -1517,6 +1517,20 @@
    "id": "184105900f09bca5"
   },
   {
+   "title": "สุดเจ๋ง! \"ชีวะภาพ\" อึ้งฝายหลักแสนคุณภาพหลักสิบล้านชู \"เชียงม่วนโมเดล\" รับมือน้ำแล้ง-น้ำป่า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XczF4NDl4dkpSQ3EtLWY2a1dINjRKMks2ZGhFM1JFSGRlbl9mUVVtVTBhVkMxOXJ2enZQQ3Vycm5mTzM4RWtYU2o0SUZITzJwYjNRdFM3TnkwNVV6V1BFbFlWYw?oc=5",
+   "time": "2026-11-09T04:19:00Z",
+   "location": null,
+   "id": "20fb2377312d0f3a"
+  },
+  {
    "title": "ฝนถล่มเมืองคอน ขนอม ลมกระโชกแรง เสาไฟโค่นล้มระเนระนาด ปากพนังชาวบ้านเร่งอพยพหนีภัย",
    "summary": "นครศรีธรรมราช ฝนถล่ม3วันติด เมืองคอน รับผลกระทบหนัก ขนอม ลมกระโชกแรง เสาไฟโค่นล้มระเนระนาด ระทึกสุดปากพนัง พายุซัดกระหน่ำพัดหลังคาปลิวบ้านเปิดโล่ง ชาวบ้านเร่งอพยพหนีภัย 9 พ.ย. 69 – ผู้สื่อข่าวรายงานว่า จากสถานการณ์ ฝนตกหนัก 3วันติดต่อกัน ในพื้นที่จ.นครศรีธรรมราช กระทั่งเกิดผลกระทบในหลายพื้นที่ โดยเฉพาะที่บริเวณริมถนน บ้านเขาดาดฟ้า-บ้านเขาปน อ.ขนอม นครศรีฯ ได้มีเสาไฟฟ้าล้มระเนระนาดนับ10ต้น ส่งผลให้",
    "category": "flooding",
@@ -1615,20 +1629,6 @@
    "time": "2026-11-09T01:16:23Z",
    "location": null,
    "id": "a9f0519346e941ce"
-  },
-  {
-   "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcUJ6Rm5lQTVFTzNyOTA3Q3pMM1ZvMEVGMV9PcnBvS1FUNVBkTWxLS1NRbzRVV19McEhWZkN4N2hJc296Z1FHeUc3Ty1CeDc0Mzg4?oc=5",
-   "time": "2026-11-09T00:42:04Z",
-   "location": null,
-   "id": "66f32ee0921376a0"
   }
  ]
 }
