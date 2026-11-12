@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T13:26:57Z",
+ "updated_at": "2026-11-12T13:48:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,14 +17,14 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 18,
-  "storm": 7,
-  "landslide": 8,
+  "flash_flood": 19,
+  "storm": 8,
+  "landslide": 7,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 9,
   "pm25": 5,
-  "heat": 3,
+  "heat": 2,
   "tsunami": 0,
   "other": 2
  },
@@ -72,6 +72,31 @@
    "id": "58717083571cf337"
   },
   {
+   "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSGRaakRpTjhrZjZ6VnZmSHc2Vms3QXp1RUMwTWZoVHhVdWJCdjJHQnFtTDRWMmlBWEk5a0p5R1cyenNhT2doOVc1VGJJVmw1amFsMy1vQ3hxNTZvaE92bzdaYjkwZw?oc=5",
+   "time": "2026-11-12T11:51:00Z",
+   "location": null,
+   "id": "4d394b055ec52d41",
+   "area": {
+    "code": "TH8604",
+    "level": "amphoe",
+    "name": "อ.หลังสวน จ.ชุมพร",
+    "bbox": [
+     98.882,
+     9.793,
+     99.18,
+     10.072
+    ]
+   }
+  },
+  {
    "title": "กรมอุตุฯเตือนภาคใต้ 12-13 พ.ย.ฝนตกหนักถึงหนักมาก เช็กพื้นที่เสี่ยงน้ำท่วม",
    "summary": "",
    "category": "news",
@@ -98,20 +123,6 @@
    "time": "2026-11-12T11:32:00Z",
    "location": null,
    "id": "1da49d986bb4a289"
-  },
-  {
-   "title": "มีการออกประกาศเตือนภัยดินถล่มครอบคลุมกว่า 220 ตำบลและเขตในภาคกลางของเวียดนาม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnVVS1B3UFlndHRBQTlTTmJhRG1EM01TT1NGd2h5c3I4UUpBVEpFNjNOOVU0bTZrbnpjTW1KUHRvUVJkalVKeGxHUGZ0WWk4ZGNMVnFZQVhSTERNamZFVVZYc3QzWjhEUTBQUm9SVUMyQlVsTWVqMzVwZldXdm9WN2hiTFlGMF9qa1p5ZUhmcw?oc=5",
-   "time": "2026-11-12T09:36:30Z",
-   "location": null,
-   "id": "f18a0878f90bd0c6"
   },
   {
    "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในช่วง 6 ชั่วโมงข้างหน้าของวันที่ 12 พฤศจิกายน 2569 ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
@@ -276,6 +287,20 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
+   "time": "2026-11-12T13:26:18Z",
+   "location": null,
+   "id": "ff7a537b785e1a0e"
+  },
+  {
    "title": "ฝนถล่มชุมพร น้ำทะลักท่วมถนนหลายจุด ต้องเฝ้าระวังสถานการณ์อย่างต่อเนื่อง",
    "summary": "",
    "category": "flooding",
@@ -401,6 +426,20 @@
    },
    "incident_id": "fr_rss_2998aa7298d22fe12be6",
    "id": "2998aa7298d22fe1"
+  },
+  {
+   "title": "อุตุฯ ฉบับ 9 เตือนภาคใต้ยังคงมีฝนตกหนัก ส่วนไทยตอนบนเริ่มมีอุณหภูมิสูงขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdGo5T1JmSTd5bzZxcHR0TmZnc1JfVGdxaTFDUHk2YnhOWWN4Z2psRXZGcDZOQW9uWHNlZkliV3Mzcm1LWU1lb1NpZ1BpYWNZLUVHMGczU08?oc=5",
+   "time": "2026-11-12T10:35:00Z",
+   "location": null,
+   "id": "e73cd2f619aca692"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -686,6 +725,20 @@
    "id": "cb210843725235cc"
   },
   {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-12T06:59:05Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
+  },
+  {
    "title": "ปภ. แจ้งเตือนด่วน เกาะสมุย เตรียมยกของขึ้นที่สูง หลังฝนถล่ม-น้ำทะเลหนุนสูง เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "flooding",
@@ -886,20 +939,6 @@
    "location": null,
    "incident_id": "fr_news_3cb40f5ea121bff793fd",
    "id": "3cb40f5ea121bff7"
-  },
-  {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-12T04:25:44Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "เพื่อป้องกันดินถล่ม ควรให้ความสำคัญกับการซ่อมแซมโครงสร้างพื้นฐานด้านการขนส่ง",
@@ -1130,20 +1169,6 @@
     "precision": "epicentre"
    },
    "id": "54f7620deb419d5b"
-  },
-  {
-   "title": "เสริมสร้างมาตรการป้องกันและควบคุมภัยแล้ง เพื่อความปลอดภัยของพืชผลข้าวในฤดูหนาว-ฤดูใบไม้ผลิ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2tqUDFDcUNQZlBjODBsMlpYbTE4STVzOE1taHFqZkdOS09IOGlSaWdlaEpYdDhCbWhnU3p1SkNsT1B3Z3h5Ymg4WEtXbFRnazR4TWk4Q3JHbGxiOFdISDNFdzItYThPTDlqSmdVR1ZuZy0tRGwtNkxBblIzb09kNk9UQXVRVWNsWHdxMW1QZGxLQ0E?oc=5",
-   "time": "2026-11-12T00:54:47Z",
-   "location": null,
-   "id": "1cf5b9eba898e251"
   },
   {
    "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
@@ -1602,20 +1627,6 @@
    "time": "2026-11-11T07:19:46Z",
    "location": null,
    "id": "4e23b6c722a72b87"
-  },
-  {
-   "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0dRUVgwaVlqM2VSTlI0NkJLc2dkVkgxdzNhZjREeFpRcHlTRFZxcWMtXzFyOVdUeHZZeThFRlhsbnQ0dXpHdGxZdFRGR3M3Rlg3TV80SHZrQTIwYVA4LWtKdXdmS3luSzFVcnFBRWtNX0VHdHdHYmNrQllEZk8zbWFybVh0b3gtM1E?oc=5",
-   "time": "2026-11-11T07:09:23Z",
-   "location": null,
-   "id": "3456974aa13fa880"
   },
   {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
