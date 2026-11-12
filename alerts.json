@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T10:41:14Z",
+ "updated_at": "2026-11-12T10:59:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 33,
+  "flood": 34,
   "flash_flood": 16,
   "storm": 9,
   "landslide": 8,
@@ -24,7 +24,7 @@
   "wildfire": 0,
   "drought": 9,
   "pm25": 5,
-  "heat": 2,
+  "heat": 1,
   "tsunami": 0,
   "other": 2
  },
@@ -328,6 +328,32 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yc0V0VHJJWDZOZUt3dUZwUmZCNnRSZHBmSGZ2eTFCWF9lSFFFU3R3cHFsOW1uOHpOaXg5eGRhbFFqd1N0TVJaNld3aHVWN3NXa0l0Snl4WWNTWUUyVWhveXNqdXVwZw?oc=5",
+   "time": "2026-11-12T09:43:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_ea169b5e970372b9203a",
+   "id": "ea169b5e970372b9"
   },
   {
    "title": "จังหวัดวิญหลงเตรียมพร้อมรับมือกับภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027 อย่างทันท่วงที",
@@ -891,20 +917,6 @@
    "time": "2026-11-12T02:24:36Z",
    "location": null,
    "id": "4a5f28918c757e52"
-  },
-  {
-   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
-   "time": "2026-11-12T02:22:38Z",
-   "location": null,
-   "id": "2b30ac0ce5c5ed82"
   },
   {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
