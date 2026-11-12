@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T20:14:06Z",
+ "updated_at": "2026-11-12T20:33:15Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -301,6 +301,20 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
+   "time": "2026-11-11T03:26:00Z",
+   "location": null,
+   "id": "85206bc60810e723"
+  },
+  {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
    "summary": "",
    "category": "news",
@@ -310,7 +324,7 @@
    "official": false,
    "source": "www.thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-12T18:42:54Z",
+   "time": "2026-11-12T20:12:54Z",
    "location": null,
    "id": "e92639afb66d0c2f"
   },
@@ -1179,20 +1193,6 @@
    "time": "2026-11-12T03:20:28Z",
    "location": null,
    "id": "519d7da56e731678"
-  },
-  {
-   "title": "เช็กอากาศ 12–20 พ.ย. เหนือ-อีสานเริ่มเย็น ใต้ยังต้องระวังฝนหนัก! 🌬️ 12–13 พ.ย. ประเทศไทยตอนบน จะมีอากาศเย็นในตอนเช้า ⚠️ ภาคใต้เฝ้าระวังฝนตกหนัก-หนักมาก โดยเฉพาะฝั่งตะวันออก 📍 14–17 พ.ย. ฝนเริ่มลดลง 🌧️ 18–20 พ.ย. ฝนมีแนวโน้มเพิ่มขึ้นอีกครั้ง #กรมอุตุนิยมวิทยา #พ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMigAdBVV95cUxPSS1vTngtRjUtX3hidjd5Znl3aEd3bEZUcERnZEVhTnhvVW5yOVNjazY0cmlqMVpCd2JHRno4QTdPRmM4bG5feWE5bG9uTDk0NXlqOF9xdjhoRVNOSHNhTE0tV3ZrUmY4UzFZVHpHSWotODNOZ3RFU2JJWmhDaUpjeTFKVURGVkNYWEhmOHA0M05KZ1VhQzFaVHpvM0MzMldPaVlQcUNCSi1SMUlRRnFKS2tRcGdLNG5EdC0xS1dwNjNaZlZvT3dYVGFjZFVVZjM4TDlqYUFwaldIMVdVazF1RlFiN1pjUG4yT2ZWRm10SG9BNlJDZFZFRDZ5ZUxhSEw1emw3SFA1VXdERDZpcWxuNzZhYkJvckFXMUQ5UkVaT0V4RTZ4blNyMkdDeHBoLUJwd19ENWlTQWcza1F0ZXVObFdYWjBscFQ2ZGRJSTN4T1RLVExuMGwwcV83bVRZeXhtUkxEWmdMd0VkazFsaUZOWXlNbDdwd2w4N2NpSkMzTC10U2FJYUo2UFJabEFKNE5EUUtKdm03d1VQZjEzX0VqRWR5WEdUY2tLcmVmd0xYNzBTTllua3ZjTmFfMGoydDJVWGNIQ1Y5UHUzYUJ3NW9yektTcDBlbkM2alJ5cXhJNThFNVBRVUJPY1FudTdMUEd3bDFZSFBkS3EwYWxWcWt2ZklZT0NpU190WDdYRVhQQVNBNDhqNHRrUUtpWU5kMzZSZ0ZEeTk0aXlYRlY1dlk5bGpVc3JjYWNGaWl1SEszWUpUT0QyRUpjb0NjUzRKdHR6V0Vwb3J0MDMxeGhoWXdvNDhEVEh2N1VqYjFSTHlnTDNPTFZpX1Y1dG40aWxWRjducFNCMlYwYkxqQ3c4TG5LekNlTVRkTEt3bThaOEE4VW1uekRseXNlMVFLWklDOEJPY2htMU5tdGVLMDBNbEhzNDMxRnVncmFLbmNDTDZVLVpZd2dsYTA2Q1BGT0M3MUVxVEw5QTM3U0I0djRSbW5aWUZHWEdMcFZxMDRGU1FMSDV1UkxmZHVvckJaZEZ3QzRjZ29pNWFkaVBodENwT1VCRk00NWJ5Q0g4U24xei1iN19acnBDWGlyeTlCMTk0REZJYnhmTUdRWTZpQlpMVkJQZnJORGtsOUNYMmtsb1hYZXdjLTFTR0RIZjFUWWxjWUFaR1lCYnl2c05wczhQZUdFUA?oc=5",
-   "time": "2026-11-12T03:10:09Z",
-   "location": null,
-   "id": "bab711103709e5c6"
   },
   {
    "title": "สภากทม. ไฟเขียวตั้งวิสามัญฯ ศึกษาแผน BCP 120 วัน ถอดบทเรียนน้ำท่วม-ระบบล่ม หวังอุดช่องโหว่การจัดการทรัพยากรรับมือวิกฤต",
