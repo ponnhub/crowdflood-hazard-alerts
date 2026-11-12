@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T04:34:19Z",
+ "updated_at": "2026-11-12T04:49:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,58 @@
   "other"
  ],
  "counts": {
-  "flood": 24,
-  "flash_flood": 13,
+  "flood": 25,
+  "flash_flood": 14,
   "storm": 13,
   "landslide": 11,
   "earthquake": 15,
   "wildfire": 0,
-  "drought": 10,
-  "pm25": 6,
+  "drought": 9,
+  "pm25": 7,
   "heat": 3,
   "tsunami": 0,
   "other": 3
  },
  "items": [
+  {
+   "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wWmx0VWRfZFMyNG80RlZPR2lhWkNuX05ha3BsUThiYk1XU05lSXFsMDVvZ3hhUDVzUWxWTmJ6Y3QxTWdmUHNDczJFTmhpTm54cGJLODNyNkhmLVVkX0sxaXQ2NjFQdw?oc=5",
+   "time": "2026-11-12T04:47:33Z",
+   "location": null,
+   "id": "3e01546b962289c8",
+   "area": {
+    "code": "TH84",
+    "level": "province",
+    "name": "จ.สุราษฎร์ธานี",
+    "bbox": [
+     98.443,
+     8.303,
+     100.09,
+     10.125
+    ]
+   }
+  },
+  {
+   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในวันที่ 12 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา ภายใน 6 ชั่วโมงข้างหน้า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWhTYkN1UGRJaFZ5SVhLSTZERGtYQU5JYTdGb01SeGxMblpTOXZxMmk0ZHlRLXpDaW5RMEE3WkRKaDFKYXZjZEdYSHJBNlhfaGJfcnR1aEREd3VtcnNidUhiZU05VW5XNU1QbEhPb25XbTNZVFRrcWlfR1p5OE9ZbmVSTmI4YXpBaF93WkdLcnhnQ0N6OTZrYnlnYjlmcXZUUmFGbnlMZElTTVM3emlRU3lRc1NyMmVCOEE?oc=5",
+   "time": "2026-11-12T03:19:02Z",
+   "location": null,
+   "id": "fa97045fb7364773"
+  },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
@@ -246,6 +285,46 @@
    "time": "2026-11-10T05:15:42Z",
    "location": null,
    "id": "877a9392205a5e70"
+  },
+  {
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น PM2.5 คุมรถ–เผา เตรียมรับภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "posttoday",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BSzktd1lOZlhyX0VWc2tBeFdON3FnNWwyRzYwXzhEVHVFRXVWeVlkZWdWc0VDNGNJRE02ZDJoNkY2Wmd4LWVGczJmdEhGRU5KaUNYem5n?oc=5",
+   "time": "2026-11-12T04:40:58Z",
+   "location": null,
+   "id": "674e67e3f1db817d",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
+   "title": "เช็คเลยวันนี้ ! ‘ปภ.’โอนเยียวยาน้ำท่วม 10 จว.- กทม. 21,755 ครัวเรือน รวม 136.64 ล้านบาท",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HVVZwOHhwODdfMDB1bzRpRFlQLXpMTXNJTkw5ZzYwcTBkRk15cmZJRDUwa2QyUXV6bXg2ZG14eG1sLTExWGd1TDBNeWpIbUxTSWlB?oc=5",
+   "time": "2026-11-12T04:33:00Z",
+   "location": null,
+   "incident_id": "fr_news_3cb40f5ea121bff793fd",
+   "id": "3cb40f5ea121bff7"
   },
   {
    "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
@@ -743,20 +822,6 @@
    "id": "e645fecb49879186"
   },
   {
-   "title": "เหตุร้ายกลางบ้านยังไม่ทันสะสาง ดันเกิดเหตุดินถล่มปิดเส้นทางอีก ! คืนนี้ 20.30 น.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVV3YjlsMHBoclMzWTF5cmF6SnA0bzJfNUgwd2w4TzNsenZ1YkJCa0lVbER3MTBSQUV5TzdMYU1TOHkxbTNxSVkxdFFtaGdCVHdWR0FDb1pqcFRZalJ3WlpmMThSVzNWenFWd0JWTFltVWVfOVFBQWhTMnhzemo2SlY0Qk41UGJXU2pIVnZKVHRGYldWd2p0eU1OQQ?oc=5",
-   "time": "2026-11-11T12:36:28Z",
-   "location": null,
-   "id": "65c675a6cfc2f7d0"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 162 กม.",
    "category": "official",
@@ -834,20 +899,6 @@
    },
    "incident_id": "fr_rss_5cd6221ae6e4d87509bd",
    "id": "5cd6221ae6e4d875"
-  },
-  {
-   "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXJMN1diVEhmS1hjd0xRUkFTT2c3MnVhTV8yZDBpZFExQ0x6X0R6d2k1UUc2a0xKbWRxa2p5RFB2R3hFV1NVU0F2QU1iUTZXRXB5dGVPUlB0NWl4Zl9RZ0hTWGpQZnRXcTJ4MDd4NFFHOFR2MkdNbUdxeXFsazRQOHNaTXNpY3VGeU1VbUs1NDFfZGE4c3c?oc=5",
-   "time": "2026-11-11T10:45:32Z",
-   "location": null,
-   "id": "cb87edfd5b817c01"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
