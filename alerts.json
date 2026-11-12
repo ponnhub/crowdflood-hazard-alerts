@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T17:02:24Z",
+ "updated_at": "2026-11-12T17:29:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -313,6 +313,20 @@
    "time": "2026-11-11T03:26:00Z",
    "location": null,
    "id": "85206bc60810e723"
+  },
+  {
+   "title": "ครัวเรือนจำนวน 1,887 ครัวเรือนถูกอพยพออกจากพื้นที่เสี่ยงน้ำท่วมและดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWxuVFJZdGV5N0JlVmkzQVNFZERyOWh1dnVNbGR3QUVZNV9fai01c2VDNlhBS1ZzeFdTRHhKNDZfQ1RKR0RKUmJyTHROOGVQU2dSWDBPLW5IZlRHcVlEU3FNZzhJamt0Yjg4WHVuUEtvOW5UaDU3ZlhLdmpINS1aOFphWkZhNEh1OXpKUA?oc=5",
+   "time": "2026-11-12T17:17:14Z",
+   "location": null,
+   "id": "6dd1e0e16019a545"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
@@ -1271,20 +1285,6 @@
    "time": "2026-11-12T02:44:27Z",
    "location": null,
    "id": "5d945849b7a9ad82"
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อฝนตกหนัก น้ำท่วม และดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOWJ0bmVHVVM0N2NiUkMta3BPXzROUjNaZmxBTmIxc3RndEpkVXU3cjkzTDN0aGx0ZVpuR0VTYWkzYlhIXzVMYktqbFZJUVF6RjQ4VG52MHRBcmpGZ2E0UG5jNzc5M2V0YnJHOEFnQXY?oc=5",
-   "time": "2026-11-12T02:24:36Z",
-   "location": null,
-   "id": "4a5f28918c757e52"
   },
   {
    "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
