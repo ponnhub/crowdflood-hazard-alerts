@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T08:30:33Z",
+ "updated_at": "2026-11-12T08:45:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 29,
+  "flood": 30,
   "flash_flood": 14,
-  "storm": 12,
-  "landslide": 10,
+  "storm": 13,
+  "landslide": 9,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 9,
@@ -248,18 +248,18 @@
    "id": "4bc3163103266287"
   },
   {
-   "title": "เตือนภัยภาคใต้! ฝนตกหนักยาวถึง 13 พ.ย. ปภ.ยะลา ย้ำ 8 อำเภอ เฝ้าระวังน้ำท่วมฉับพลันและดินโคลนถล่ม",
+   "title": "น้ำท่วมพัดพาเครื่องขุดดิน 2 คันและรถจักรยานยนต์ 2 คันไปในตำบลตราตัน",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "NBT CONNEXT",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWGo1VEw4N1UxeVptNEZLMHJTZi1GdDlINE5JQTJfMkxkU2xKbVRzLVBwUjRjVGJXX3h1blBiSHctaEJhM2RiZjBwNUtxaU92YWlIanMwWWU3bU5ZR1ZWYmNfSGppUHF5el9NNVBqMA?oc=5",
-   "time": "2026-11-10T08:38:03Z",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0l3T0Yzekltdm1PbnlLSWxwM05BV0NWeXdhTGwxRWFqMG8yUkF3ZWZyZVRaNFBXOVhCOTNRYmtEZzZYU1lwbG1YQzdDTU9PLWZ4S285blBrMDkzMUtHb3haU1RaeDhTaTFJNGVCMXplVGpQZHZ5UVVVaWRIWFZNT1BR?oc=5",
+   "time": "2026-11-12T08:38:16Z",
    "location": null,
-   "id": "d8368079e0e659d7"
+   "id": "aae05acb1b7ec8cf"
   },
   {
    "title": "ภาคใต้ ฝั่งตะวันออก แนวโน้มฝนตกต่อเนื่อง \"ระวัง! น้ำท่วมฉับพลัน น้ำไหลหลาก\"",
@@ -1054,6 +1054,20 @@
    "time": "2026-11-11T10:45:32Z",
    "location": null,
    "id": "cb87edfd5b817c01"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
+   "time": "2026-11-11T10:15:46Z",
+   "location": null,
+   "id": "17cc5dcad884f35f"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
