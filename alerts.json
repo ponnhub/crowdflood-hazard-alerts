@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T13:48:42Z",
+ "updated_at": "2026-11-12T13:55:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -26,7 +26,7 @@
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
-  "other": 2
+  "other": 1
  },
  "items": [
   {
@@ -1789,20 +1789,6 @@
    "location": null,
    "incident_id": "fr_news_e21d4ff8ef1eb840a255",
    "id": "e21d4ff8ef1eb840"
-  },
-  {
-   "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QSDRIQ19tRjd3M3VMcXR0cjVBenktRHhKZWVBckVBWHB5TS1fLU9tV0JWMzI1VnNEX0syNlQ3ZnVqQkNTVzE4M0F4Q3I3azE0VjFGWjNlN3pFd1dBMUo0SU5aaUxvcDQ2UG9sN1ZR?oc=5",
-   "time": "2026-11-11T03:15:00Z",
-   "location": null,
-   "id": "20b07ac1ef19c9e2"
   },
   {
    "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
