@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T08:45:59Z",
+ "updated_at": "2026-11-12T08:55:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,10 +17,10 @@
  ],
  "counts": {
   "flood": 30,
-  "flash_flood": 14,
+  "flash_flood": 15,
   "storm": 13,
-  "landslide": 9,
-  "earthquake": 15,
+  "landslide": 8,
+  "earthquake": 16,
   "wildfire": 0,
   "drought": 9,
   "pm25": 6,
@@ -246,6 +246,34 @@
    "time": "2026-11-10T09:04:00Z",
    "location": null,
    "id": "4bc3163103266287"
+  },
+  {
+   "title": "เตือน 8 จังหวัดภาคใต้ ฝนตกหนัก 11-21 พ.ย.นี้ เสี่ยงน้ำป่า- ดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmSTZDOGFXT2dMMnFWYmtzZGZJNEZHZDR1RTNFalN1VlZhemhtMmpLUnJVX0hBUElrMEttZjhIb09LNVB4OHVmMWFsSGYzd3Y0RHl4Sko1aTRJUGg5LVpBZHpyTmNrZw?oc=5",
+   "time": "2026-11-12T08:50:20Z",
+   "location": null,
+   "id": "32396b5390a32a9d"
+  },
+  {
+   "title": "ประธานสภาตำบลขับรถฝ่าพื้นที่ดินถล่มเพื่อพาหญิงตั้งครรภ์ไปโรงพยาบาลเพื่อรับการรักษาฉุกเฉินกลางดึก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmkyUUtiSlhrMGo1TkktUWNmZHg3U00yMHZ3TlZ4ZU9NalhxVWVRczY1Ync0VVB1VTRkYVFENWI0NmYwVG14TmlwYlVQSEtTWUZOYndneC0xcTdrZDZSTGxmblh3dkJTTDNOa0syNnBQS09pT3VHUUZzbTluMlR2WmEzQVdncm9YR2o5WEFlZFN3Q0ZwNVJRU0h3?oc=5",
+   "time": "2026-11-12T08:48:17Z",
+   "location": null,
+   "id": "29ad5bd820f409cf"
   },
   {
    "title": "น้ำท่วมพัดพาเครื่องขุดดิน 2 คันและรถจักรยานยนต์ 2 คันไปในตำบลตราตัน",
@@ -513,20 +541,6 @@
    "id": "1d7c4dcb7bd77521"
   },
   {
-   "title": "จำเป็นต้องเร่งดำเนินการซ่อมแซมดินถล่มบนถนนในพื้นที่ทางตะวันตกเฉียงใต้ของเมืองดานัง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTRfWW4xVXREVUhuejVRUDE0QU5DVk02N0pXUFpwNzRjQ05ocnJ1VnpRcFhjR1ktcjFHQmFWMWZObEVKbWlSSXJlZG5BQWNZb2VtaEowSkh2ZmlnYXdjSDEzRGVldnJwTzBaU1BDeFlsT1FfdEhyVzk4ZjBrRmxtTkZ4b0U5VHU2dTVORmw2SUJwbHFtMks1S0JSUUI?oc=5",
-   "time": "2026-11-12T04:24:15Z",
-   "location": null,
-   "id": "76d911a6f2d13070"
-  },
-  {
    "title": "เพื่อป้องกันดินถล่ม ควรให้ความสำคัญกับการซ่อมแซมโครงสร้างพื้นฐานด้านการขนส่ง",
    "summary": "",
    "category": "news",
@@ -539,20 +553,6 @@
    "time": "2026-11-12T03:54:27Z",
    "location": null,
    "id": "c3d9ae5c77ed0f20"
-  },
-  {
-   "title": "เหตุดินถล่มบนเนินเขาบาวไดในเมืองญาตรัง ส่งผลให้หญิงคนหนึ่งได้รับบาดเจ็บสาหัสและถูกนำตัวส่งโรงพยาบาลหลังจากตกลงไปบนโขดหิน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHpkVFpCR2tibFdDNWxKSlllQTFXZ2RYR3ZTeTlVOV9wMFRncWxmV05HajlVT1ZEWUVMNGlmUE43Ry1KNEdYcDFPNndkWGp1cTVrZHNMOHZNTERlSW9BQ0tWZWM4OHpNOXctdnR0MnJXNHdkLXAwdzJWNGZDS3g2OG5PZzdMNEg3XzdTNHhNOTNVeFlDSkxDbkNLQVg3MGY5?oc=5",
-   "time": "2026-11-12T03:29:52Z",
-   "location": null,
-   "id": "18fdd0079fb8b979"
   },
   {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
@@ -933,6 +933,20 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
+  },
+  {
+   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
+   "time": "2026-11-11T13:15:00Z",
+   "location": null,
+   "id": "82ffe788907662f1"
   },
   {
    "title": "กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ | The Reporters",
