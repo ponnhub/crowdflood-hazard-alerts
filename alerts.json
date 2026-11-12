@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T18:46:45Z",
+ "updated_at": "2026-11-12T18:58:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
-  "flash_flood": 15,
+  "flood": 39,
+  "flash_flood": 16,
   "storm": 14,
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 1,
   "drought": 7,
-  "pm25": 7,
+  "pm25": 6,
   "heat": 2,
   "tsunami": 0,
   "other": 1
@@ -234,6 +234,20 @@
    }
   },
   {
+   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
+   "time": "2026-11-12T00:23:59Z",
+   "location": null,
+   "id": "37825e7f39a6736a"
+  },
+  {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -315,20 +329,6 @@
    "id": "e92639afb66d0c2f"
   },
   {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-12T17:19:22Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
-  },
-  {
    "title": "ครัวเรือนจำนวน 1,887 ครัวเรือนถูกอพยพออกจากพื้นที่เสี่ยงน้ำท่วมและดินถล่ม",
    "summary": "",
    "category": "news",
@@ -341,6 +341,20 @@
    "time": "2026-11-12T17:17:14Z",
    "location": null,
    "id": "6dd1e0e16019a545"
+  },
+  {
+   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
+   "time": "2026-11-12T16:35:37Z",
+   "location": null,
+   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
@@ -750,20 +764,6 @@
    },
    "incident_id": "fr_news_ea169b5e970372b9203a",
    "id": "ea169b5e970372b9"
-  },
-  {
-   "title": "จังหวัดวิญหลงเตรียมพร้อมรับมือกับภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027 อย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdzQzkzT3RkRF81cmNUZTF1cWU0ck90RGRYZVBLOG9ITjBJSmxpbW1tN1BxdFZ5ZjdEQmVQSUlORFU4Zm9zNEZ0Vjg0dVlBVGVGRTFjVlg3d2tldm8wSUJRR25SSWt3VGxKVjV4eWttbC1NRFEwM0t2empzaVdQSjNVQXQ?oc=5",
-   "time": "2026-11-12T09:34:31Z",
-   "location": null,
-   "id": "4c4d94199b3db7dc"
   },
   {
    "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มบนถนนสาย 650 ของจังหวัด",
@@ -2067,32 +2067,6 @@
     "precision": "epicentre"
    },
    "id": "276009029e6d91de"
-  },
-  {
-   "title": "เนื่องจากทราบว่าอ่างเก็บน้ำหลายแห่งจะปล่อยน้ำในวันพรุ่งนี้ ชาวเมืองญาตรังจึงนำรถยนต์ของตนขึ้นไปบนสะพานในคืนนี้เพื่อหลีกเลี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTBHVlBYdGJReWxYM3ljOTlqMTJ6eGUtWHN6QlUzdFRKOEdOSThjYWVwUU5SWVlVUkMwNFc1aE83NTR0Q08ycWdSbTdBay1Nd0N0NUp1cTdQZFVzSVdwMzFUY192cEYzendzeE9CU2RsajZNMjhzVTYwWGgwVUxyb1E3Z1QxWTJsNkFhMkVRWURaSlBheG1PbVZsamRrUFRXTHo2ZEpMRWJjR3lrbGF6Zw?oc=5",
-   "time": "2026-11-10T18:55:30Z",
-   "location": null,
-   "area": {
-    "code": "TH92",
-    "level": "province",
-    "name": "จ.ตรัง",
-    "bbox": [
-     99.246,
-     7.082,
-     99.949,
-     8.009
-    ]
-   },
-   "incident_id": "fr_news_cf413ac814ee5f6fcdfc",
-   "id": "cf413ac814ee5f6f"
   }
  ]
 }
