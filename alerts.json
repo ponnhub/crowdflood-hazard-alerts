@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T03:30:03Z",
+ "updated_at": "2026-11-12T03:43:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,9 +17,9 @@
  ],
  "counts": {
   "flood": 23,
-  "flash_flood": 11,
+  "flash_flood": 13,
   "storm": 14,
-  "landslide": 12,
+  "landslide": 11,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 11,
@@ -83,6 +83,20 @@
    }
   },
   {
+   "title": "ไทยตอนบนอากาศเย็น \"ภาคใต้\"ฝนหนักต่อเนื่อง กรมอุตุฯ เตือน 3 จังหวัด ระวังน้ำป่า-น้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaWJveUVSSDJUR0ZmY29WeDRrSDZSeDRCYXdPajUxdzlGMTR4VHFWQllWTFk2aWtUcHRqa3FGbWdoRjlua2EzS3VHV1FMZDUyTXpOYlh3?oc=5",
+   "time": "2026-11-12T00:12:30Z",
+   "location": null,
+   "id": "7508b3489c6cdde1"
+  },
+  {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -139,18 +153,29 @@
    "id": "05f810f8ebe25ec6"
   },
   {
-   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว เมื่อวันที่ 11 พฤศจิกายน 2569 สำหรับพื้นที่ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
+   "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
+   "hazard_type": "flash_flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDZDa1JidWw5SVpfanBreHl3T0NMRjdtRzg3V1NPZXVjN1lzaWtkR010a09TNUw0RndMYkNxUTVKcFltVnBlb3ZhbExmZVpDbmF1cEdWVC1HQnhjQ2o0TThtNFBWLWE2WkVFZ21KZl9KU1g5Z09FWHFDUUdGcDVHV1B2eDlGZHRPVzMyR3VfR1FPR3J4UFZOaUMtTms5MTVZVjJCQnpaVFhhOUVRc0lRQmJTbnU?oc=5",
-   "time": "2026-11-11T10:39:25Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ROXF3V2ZIOXptbm5xX0JhLU16U0M4VkJYWGZYekFxTzdmSWRTenp6RTVobU56c3BZS0pxNmNrRkxKUHpFbkxyVU9idDhRY3Bvc0I0ckUydjVsR0lkdV9id0ROU3ZnQQ?oc=5",
+   "time": "2026-11-11T11:14:00Z",
    "location": null,
-   "id": "69fbe70de4a258ec"
+   "id": "e7565783cec09e02",
+   "area": {
+    "code": "TH8608",
+    "level": "amphoe",
+    "name": "อ.ทุ่งตะโก จ.ชุมพร",
+    "bbox": [
+     98.921,
+     10.019,
+     99.175,
+     10.184
+    ]
+   }
   },
   {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
@@ -251,29 +276,18 @@
    "id": "877a9392205a5e70"
   },
   {
-   "title": "ปภ. ส่งข้อความ Cell Broadcast เตือน“พัทลุง” ฝนหนัก ระวังน้ำท่วม-ดินโคลนถล่ม - กรมป้องกันและบรรเทาสาธารณภัย | ปภ. ข่าว",
+   "title": "เหตุดินถล่มบนเนินเขาบาวไดในเมืองญาตรัง ส่งผลให้หญิงคนหนึ่งได้รับบาดเจ็บสาหัสและถูกนำตัวส่งโรงพยาบาลหลังจากตกลงไปบนโขดหิน",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9keGtJeVphTzJSUE1XTC1uVnc4T0FibmZoLWxyT1U4bXAxZU5wd1JXNl9DM3dKUF81eV9XLWstRFFVX0p4STd5TWtKWFg2aktab05XQ1d1TGRYbmV4V2pPSHVrUjE4dFdTanQxQmh3?oc=5",
-   "time": "2026-11-10T03:38:00Z",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHpkVFpCR2tibFdDNWxKSlllQTFXZ2RYR3ZTeTlVOV9wMFRncWxmV05HajlVT1ZEWUVMNGlmUE43Ry1KNEdYcDFPNndkWGp1cTVrZHNMOHZNTERlSW9BQ0tWZWM4OHpNOXctdnR0MnJXNHdkLXAwdzJWNGZDS3g2OG5PZzdMNEg3XzdTNHhNOTNVeFlDSkxDbkNLQVg3MGY5?oc=5",
+   "time": "2026-11-12T03:29:52Z",
    "location": null,
-   "id": "a48da4f92f01ca28",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
+   "id": "18fdd0079fb8b979"
   },
   {
    "title": "สภากทม. ไฟเขียวตั้งวิสามัญฯ ศึกษาแผน BCP 120 วัน ถอดบทเรียนน้ำท่วม-ระบบล่ม หวังอุดช่องโหว่การจัดการทรัพยากรรับมือวิกฤต",
@@ -748,20 +762,6 @@
    }
   },
   {
-   "title": "เกิดดินถล่มหลายจุด ส่งผลให้การจราจรบนทางหลวงหมายเลข 40B ถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1Y0WDI1aWNHdlI5c1JFdTFHTzNUTC1BU0N0VUpVaFVMcHBNdXdfVnVraWJtek1BTHoxV01sMHpOdXU4NEl6YW5DV29SMU1TR2hSMFVSdDdWX3RjMWM5Rlc1YVRqQVRDVkFwTHowZUo0aDBPbTJEanQtNGluczl3LU5YVmE0TUVZMVdpSEM4YWU?oc=5",
-   "time": "2026-11-11T11:35:37Z",
-   "location": null,
-   "id": "00f0068dddc7e114"
-  },
-  {
    "title": "ทิ้งหมัดเข้ามุม – สีเขียวหลีกทาง? ศึกซ่อมสระแก้ว",
    "summary": "สนามเลือกตั้งซ่อม สส.สระแก้ว เขต 3 กำหนดให้มีขึ้นวันที่ 6 ธ.ค.นี้ แม้พรรคเพื่อไทยจะเป็นฝ่ายได้เปรียบ เนื่องจากพรรคกล้าธรรมเจ้าของที่นั่งเดิม ตัดสินใจไม่ส่งผู้สมัครลงแทนนายสุรศักดิ์ ชิงนวรรณ์ อดีตสส.ผู้ล่วงลับ เปิดทางให้นายสรวงศ์ เทียนทอง ลงทวงคืนพื้นที่ แต่เบื้องหลังกลับถูกมองว่ามีเกมการเมืองให้ต้องจับตา นายสรวงศ์จับสลากได้เบอร์ 1 ประกาศพร้อมลุยหาเสียงเต็มที่ ชูจุดแข็งการทำงานคลุกคลีกับพื้นที่ ลงช",
    "category": "flooding",
@@ -794,6 +794,20 @@
    "time": "2026-11-11T10:45:32Z",
    "location": null,
    "id": "cb87edfd5b817c01"
+  },
+  {
+   "title": "เกิดดินถล่ม ทำให้หินและดินไหลทะลักลงมาบนทางหลวงหมายเลข 1D ในจังหวัดเกียลาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSF85N0U5V3lGLTkxN01iOXFpa2RqdXRtVkU5UHR0SmNtR0RIRHhxa2xLSl9YMk5VZEdpMGRYNXUwZjdSMEVXSWNRbkxaZ09IOHFfT29lWGl5RVFTbnlGa3BWc2dybGdiMUhSRmNHWWxRTWc5VlZTcnpMY21GUQ?oc=5",
+   "time": "2026-11-11T10:17:41Z",
+   "location": null,
+   "id": "489613fe3ac80884"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
