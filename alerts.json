@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T12:14:00Z",
+ "updated_at": "2026-11-12T12:33:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,47 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
-  "flash_flood": 16,
-  "storm": 9,
+  "flood": 36,
+  "flash_flood": 17,
+  "storm": 7,
   "landslide": 7,
   "earthquake": 14,
   "wildfire": 0,
   "drought": 9,
   "pm25": 5,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
   "other": 2
  },
  "items": [
+  {
+   "title": "ปภ. เตือน 10 จังหวัดภาคกลาง-กทม. ติดตามสถานการณ์ระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SYkw4N2gxel9IWEtvTmdwUWV2cmwtbU5UUFJwSHJ4YjZTdFc2YWJCc0toVWJJMDZ0cUxvSGx0UnVwN0dOb0NKT244cmlYZFRwM3RoVmRxZVY?oc=5",
+   "time": "2026-11-12T12:20:00Z",
+   "location": null,
+   "id": "48731db77f82f054"
+  },
+  {
+   "title": "กรมอุตุ เตือนฉบับที่ 9 ภาคใต้ตกหนัก ระวังฝนสะสม ท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUGd4NXNjdjhhU213dnF3OEVFMFA0TnhEd01uVFhVWmMyNXZnZmhEMy1WTTB0bEZUQldvRzloM08zX29xNjdSVlJ6WWxSNDV3cnpTendWaTU?oc=5",
+   "time": "2026-11-12T12:17:33Z",
+   "location": null,
+   "id": "58717083571cf337"
+  },
   {
    "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
    "summary": "",
@@ -217,20 +245,6 @@
    "id": "9f03560847efab7c"
   },
   {
-   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
-   "time": "2026-11-11T03:26:00Z",
-   "location": null,
-   "id": "85206bc60810e723"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
    "summary": "",
    "category": "news",
@@ -243,6 +257,21 @@
    "time": "2026-11-10T12:43:58Z",
    "location": null,
    "id": "bef368caf3a5ff92"
+  },
+  {
+   "title": "‘ทรู’ ถอดบทเรียนน้ำท่วมหาดใหญ่ ชู AI ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัย",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YllISlExU3FoWmllSGhfWFJHYk9sZFQ0YnhFbGNKbzZTcGVvbWNiN2QzVnl3dTg4SzRfMnJueG5vY1hibEhIOUltR29md0tXVGxCUVp1U2lPZnJHWWplUldOd3JQVzhNbDVBSzF4cTc?oc=5",
+   "time": "2026-11-12T11:49:19Z",
+   "location": null,
+   "incident_id": "fr_news_763f3904fecb3bc7f59b",
+   "id": "763f3904fecb3bc7"
   },
   {
    "title": "ฝนถล่มหนัก ชุมพร น้ำไหลทะลักท่วม ถนนสายหลัก ‘วังตะกอ’ จมผิวจราจร100เมตร สูง30ซม. รถเล็กเสี่ยงติดหล่ม",
@@ -667,15 +696,16 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "flooding",
+   "category": "news",
    "hazard_type": "flash_flood",
-   "severity": "low",
+   "severity": "medium",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:57:39Z",
+   "time": "2026-11-12T04:58:10Z",
    "location": null,
+   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -686,9 +716,7 @@
      100.09,
      10.125
     ]
-   },
-   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
-   "id": "a61e89fb8f5ff977"
+   }
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
@@ -940,6 +968,20 @@
    "id": "4a5f28918c757e52"
   },
   {
+   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
+   "time": "2026-11-12T02:22:38Z",
+   "location": null,
+   "id": "2b30ac0ce5c5ed82"
+  },
+  {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
    "summary": "นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบกรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเสี่ยงอุทกภัย เตรียมเครื่องจักร เครื่องสูบน้ำ เครื่องผลักดันน้ำ และเจ้าหน้าที่ให้พร้อมเข้าปฏิบัติงานตามแผนรับมือสถานการณ์อุทกภัย ปี 2569 เน้นย้ำให้ทุกโครงการชลประทานติดตามสภาพอากาศ ปริมาณฝน และสถานการณ์น้ำอย่างใกล้ชิด รวมทั้งบริหารจัดการน้ำและเร่งระบายน้ำในจุดที่มีความเสี่ยง เพิ่ม",
    "category": "flooding",
@@ -1006,20 +1048,6 @@
    "time": "2026-11-12T00:54:47Z",
    "location": null,
    "id": "1cf5b9eba898e251"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MS3Rnc3otXzFEUVc1Y1Mya3FPWW1UOFNVNUlQU3l2VURuSVRteGRXRnVYSFQ1dHdTbUJnT0o2Wmhud2w5UXZTUFdHRDUxdnF1ejBWVVd2Y1ZVYWhNSTJySHJLQ01tc0RPOHJySkhTek92R2Q0Q19sbFNsTWM?oc=5",
-   "time": "2026-11-12T00:46:01Z",
-   "location": null,
-   "id": "503005866b09603c"
   },
   {
    "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
