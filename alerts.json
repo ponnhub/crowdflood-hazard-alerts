@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T15:59:26Z",
+ "updated_at": "2026-11-12T16:12:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 17,
   "storm": 14,
   "landslide": 8,
-  "earthquake": 15,
+  "earthquake": 16,
   "wildfire": 0,
   "drought": 7,
   "pm25": 6,
@@ -327,6 +327,20 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Sc0lPR09icGdKWjFtZ1NGbE5OMGNBVDJvM200WkhNN1lsZlc3d1FlVnhtT0luNXpzV3pnLVgtMEh2TlRnSTJjdnh1QTV2RGpwQmxBcHJHTXJINUJPWG5fWUszY2JUVUJnT2wyTEdR?oc=5",
+   "time": "2026-11-12T15:57:00Z",
+   "location": null,
+   "id": "e87cc3e0e039eb36"
   },
   {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
