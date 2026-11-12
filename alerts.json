@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T15:49:14Z",
+ "updated_at": "2026-11-12T15:59:26Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
-  "drought": 8,
+  "drought": 7,
   "pm25": 6,
   "heat": 2,
   "tsunami": 0,
@@ -727,6 +727,20 @@
    "id": "4c4d94199b3db7dc"
   },
   {
+   "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มบนถนนสาย 650 ของจังหวัด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbWJ4WGl5Mm5TemhwQ1ptbmlEcmxUVEtBUU1vNV95M1dNUFR2SEJVLTZmVDJNT09WcWZfTjJuQy1LaEV2d09XWU9jdDdONTBMZUNjbng1NEF6UE1NZHhtZ2E3TTVuVWlaVi1rY1o5NnVWYV9vZThkd1dTaVY?oc=5",
+   "time": "2026-11-12T09:28:25Z",
+   "location": null,
+   "id": "53be2660c23c6505"
+  },
+  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -957,20 +971,6 @@
    },
    "incident_id": "fr_news_23099d42b46a479f4abd",
    "id": "23099d42b46a479f"
-  },
-  {
-   "title": "ประธานสภาตำบลตราเลงขับรถฝ่าดินถล่มเพื่อพาหญิงตั้งครรภ์ไปโรงพยาบาลเพื่อคลอดบุตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVI4eUlTMDBzUjlfNWktNWV6S2Y4Y1JlZzlGLUZWZFE2alB4UmFna1V6MkowQzNIM0dzZWI4VHEzV19NbEZGS05wNlU1N3YzV083VWxvV2s3VU1RMFlCcG9xQ1RFdnVKUmRTSDhFMGRzTHhoQ21FaThES3Ntel84VFlDZGs1Y3g5UktaTERTZDJRdw?oc=5",
-   "time": "2026-11-12T06:01:44Z",
-   "location": null,
-   "id": "d9ab03a81142eb9b"
   },
   {
    "title": "อนุทิน สั่งอบจ.-ผู้ว่าฯ ทำงานหัวชนหัว ไร้เส้นแบ่ง ยันน้ำมันลดให้แล้ว 10 บาท",
@@ -1671,31 +1671,6 @@
    "time": "2026-11-11T09:04:00Z",
    "location": null,
    "id": "b64ee5742700a269",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzMjJuUGMwVU1NeS05alNSV3VqN2lBeFdORVhCMWQwYm1Ja1RuMG5VYkJwOUI3YkMyUVR6Vk0yU3BaWDlwdTVZbENVcFk3NEU5VmtWcTVn?oc=5",
-   "time": "2026-11-11T09:03:43Z",
-   "location": null,
-   "id": "0e79dbd4e7c9fc52",
    "area": {
     "code": "TH10",
     "level": "province",
