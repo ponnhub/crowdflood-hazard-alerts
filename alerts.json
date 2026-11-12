@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T22:58:35Z",
+ "updated_at": "2026-11-12T23:13:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,10 +17,10 @@
  ],
  "counts": {
   "flood": 40,
-  "flash_flood": 16,
+  "flash_flood": 15,
   "storm": 14,
   "landslide": 8,
-  "earthquake": 15,
+  "earthquake": 14,
   "wildfire": 1,
   "drought": 7,
   "pm25": 7,
@@ -327,6 +327,20 @@
    "time": "2026-11-12T21:42:54Z",
    "location": null,
    "id": "e92639afb66d0c2f"
+  },
+  {
+   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "มติชนออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
+   "time": "2026-11-12T21:42:21Z",
+   "location": null,
+   "id": "e645fecb49879186"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1463,20 +1477,6 @@
    "id": "4f6c4552da738c14"
   },
   {
-   "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82bGd4b3FQODhZblJhaExqN3kzV0dfS29vVEVFQzJ6YUZKcklNMVJxSE96cXJIX2diaDNLekMzdS03OVFlY3VmZWh1dGJNUEo0WWNMWlRNVmw?oc=5",
-   "time": "2026-11-11T23:13:52Z",
-   "location": null,
-   "id": "d34246ea37987210"
-  },
-  {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -1551,20 +1551,6 @@
    "time": "2026-11-11T12:55:04Z",
    "location": null,
    "id": "f0b7f56630f0aa2d"
-  },
-  {
-   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "มติชนออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
-   "time": "2026-11-11T12:39:22Z",
-   "location": null,
-   "id": "e645fecb49879186"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
@@ -2069,26 +2055,6 @@
     "precision": "epicentre"
    },
    "id": "0d8516ec188b1fd5"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.สตูล ประมาณ 391 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17417",
-   "time": "2026-11-10T23:05:21Z",
-   "magnitude": 4.5,
-   "location": {
-    "name": "ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-    "lat": 4.157,
-    "lng": 97.593,
-    "precision": "epicentre"
-   },
-   "id": "16462f87809e8545"
   }
  ]
 }
