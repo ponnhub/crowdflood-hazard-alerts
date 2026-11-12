@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T07:49:07Z",
+ "updated_at": "2026-11-12T07:58:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 27,
-  "flash_flood": 13,
+  "flash_flood": 14,
   "storm": 14,
   "landslide": 10,
   "earthquake": 15,
@@ -276,6 +276,20 @@
    "id": "cb210843725235cc"
   },
   {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-12T06:59:05Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
+  },
+  {
    "title": "ปภ. แจ้งเตือนด่วน เกาะสมุย เตรียมยกของขึ้นที่สูง หลังฝนถล่ม-น้ำทะเลหนุนสูง เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "flooding",
@@ -435,20 +449,6 @@
    "location": null,
    "incident_id": "fr_news_3cb40f5ea121bff793fd",
    "id": "3cb40f5ea121bff7"
-  },
-  {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-12T04:25:44Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "จำเป็นต้องเร่งดำเนินการซ่อมแซมดินถล่มบนถนนในพื้นที่ทางตะวันตกเฉียงใต้ของเมืองดานัง",
@@ -797,6 +797,20 @@
    "id": "4f6c4552da738c14"
   },
   {
+   "title": "น้ำป่าสีแดงทะลัก 3 น้ำตกเมืองคอน ปิดกรุงชิงยาวถึง 30 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4d0czZGE0dnpxVzV4R0pwMW1pYmMtaTRNd1hpajVWWXozSUdnWDhxOG9xdG9hOHQ4ZF9uTG83V1kxWm93SzJkN2tnT1liWjUxeVc3YjFFX1c?oc=5",
+   "time": "2026-11-11T23:38:00Z",
+   "location": null,
+   "id": "cc86878d6c03a04c"
+  },
+  {
    "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -832,7 +846,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "thansettakij",
+   "source": "Thansettakij",
    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yYzJHcHB3aFJGeE5NcDQ5YjBOb2RqNkx2dlBXWF90Wks4NWZnWjlfTEtyMXlZZHR6dFlyNFFoOTBLXzNzZnRJNzZYYmxzZ29sWkU2aWxmLW5HNzBj?oc=5",
    "time": "2026-11-11T17:30:00Z",
    "location": null,
