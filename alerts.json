@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T21:56:21Z",
+ "updated_at": "2026-11-12T22:13:32Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 15,
   "storm": 15,
   "landslide": 8,
-  "earthquake": 16,
+  "earthquake": 15,
   "wildfire": 1,
   "drought": 7,
   "pm25": 7,
@@ -2075,26 +2075,6 @@
     "precision": "epicentre"
    },
    "id": "16462f87809e8545"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 4.8 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.สตูล ประมาณ 387 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17416",
-   "time": "2026-11-10T22:09:09Z",
-   "magnitude": 4.8,
-   "location": {
-    "name": "ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
-    "lat": 4.218,
-    "lng": 97.587,
-    "precision": "epicentre"
-   },
-   "id": "067b70d0bff257a0"
   }
  ]
 }
