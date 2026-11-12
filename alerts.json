@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T04:59:16Z",
+ "updated_at": "2026-11-12T05:17:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 25,
+  "flood": 26,
   "flash_flood": 13,
-  "storm": 13,
-  "landslide": 11,
+  "storm": 15,
+  "landslide": 10,
   "earthquake": 15,
   "wildfire": 0,
-  "drought": 9,
+  "drought": 10,
   "pm25": 7,
   "heat": 3,
   "tsunami": 0,
@@ -178,6 +178,20 @@
    }
   },
   {
+   "title": "เตือนน้ำท่วมใต้! ปภ. จับตาฝนตกหนัก 2 ระลอก พ.ย. นี้ คุมเข้ม 5 มาตรการ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hV2pXSHJvNHpEMEZvbTlHa3hQWTFmZi0wYUx4M2FqOFh1Z1h2ZXFrNDZFb3p4WTJvanhMWWZvbFdSaHgwcXlURkRfRDFfWjBiRWk2WHB4MUJNdU1jbFlMdmpNWXRIUQ?oc=5",
+   "time": "2026-11-11T09:52:00Z",
+   "location": null,
+   "id": "0d164ab59321ec14"
+  },
+  {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
    "summary": "",
    "category": "news",
@@ -248,32 +262,17 @@
    "id": "d8368079e0e659d7"
   },
   {
-   "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวภูเก็ต",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxPN1NsQ0ZaWkUzZmJUQ253Z2k0d2cwbVdHRlZYOTRURV9KZlZYM09HdFEyLWxDY2Z4TjBtaEZZN3dhTG9IM2Q0UFduZFJhVWNHeEZHUnJMNlkxYjBOb3VIWExzc1hXeGFja0w0Rk5jdkV2MFFUc1VTbjB6TUV4TjhnQlc5UlhXQVVVZ3RFcEwwbXBFcWZReVNZNTU2NDh3UFg5SUs5eHFKZURVd1liZVVpNXpYQzl1NGpMMEdkSUgtbU9FX2twcWlOemg5bGpfai13Tll4Sk5lVWVXZGlwcXVQWnR2RzJWbUstaGkzWFA2OXc1LU5jYVJ2SUZNbUt1c0haUUhoSXlnd3ljX2NVRDlVX2QyQTVLSlpYMnZKVC0xaTRMOThURmJ2aGhyY3hIN1lqWDRDSHY0SjRweVBuZmhreDQ3THlNQlNmMkloQXl2b0xJOGdCeGt2SFF4SXRuQ2w2OVllajZ5U0xFV013NXJibnpKdGpWYUwzdTl2QTd3Y3VacWFDN1FvSllvS0swZ0REV0N0ODdyODZYdkV1a2w0alhBMzBsQk1BNlQyeTMxcWVhSC1vTWVtMkhaaEx2OGR5Z19zS2g1aDVybjBBNWl2dEV1eWFEYXpVQklNUU1Db3dONmJrLWhUbDFDWnZTYVFJeW1WT1hQMVZiNm45ZEFrc1N4UVVSemxXai13Z2dMRzV1WXpCZ3A0MnNtT2pnVW9DOFZYYmJHQ1dBdjY0RzFyX1NPN192U3FhVk9aY0E5ZlZZUXVuNFJreXdQellVOFNqZGNDTmRRYlVGdmRmaUstNXdLSUdPbDJOR0l0RmhteDFoanc0Zm5FaHpyV3M4NkttTXdmVUJTYnZ5Vzh6SVkxOU83VWlUZW9qcDdzRURnb2lBVm9TNFNHQVBoN0lCTFFCYzMxT3Vwb3hOSGdGa2lJZk1aNWRIMWRoRXJRVVhoN0JaWVppcnBFVy1hSnJLZHZDOGZDN1VFcmVaZXk3?oc=5",
-   "time": "2026-11-10T05:15:42Z",
-   "location": null,
-   "id": "877a9392205a5e70"
-  },
-  {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zcThfNmk0OGFiWlhHTUNCcG8xTVJJcEJUSGc2bTlIazNCdTF5VlJ0c1FNb1diZHFmX2Uzd2c0QlQ4cVZYbGc?oc=5",
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
    "time": "2026-11-12T04:57:39Z",
    "location": null,
-   "id": "8e8f71604cb8ff84",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -284,7 +283,55 @@
      100.09,
      10.125
     ]
-   }
+   },
+   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
+   "id": "a61e89fb8f5ff977"
+  },
+  {
+   "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/entertainment/news_10469404",
+   "time": "2026-11-12T04:50:10Z",
+   "location": {
+    "name": "ตลาดอั้มๆ",
+    "lat": 13.7165255,
+    "lng": 100.4995368,
+    "precision": "place"
+   },
+   "incident_id": "fr_rss_d00040c17905263cdb07",
+   "id": "d00040c17905263c"
+  },
+  {
+   "title": "'บอย–เจี๊ยบ' เติมรอยยิ้มให้น้องๆ ยกเชฟเสิร์ฟอาหารฝรั่งครั้งแรกในชีวิต พร้อมมอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม ณ โรงเรียนบ้านเตยใหญ่ จังหวัดนครนายก",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdXcwRm8zbGpDY3JmTkY3akJBaWJsd1NtWDVta0xsY0x6NzZjanJ2TnhvQXBHUVJLMDVYX1ViZGhETGhhbEZna2VWU2RhX1lsZzVoZHhTYUg4S25YcTRURkhfTk9MUE5VUHA4TjZCaFZKY1M3dHc?oc=5",
+   "time": "2026-11-12T04:45:16Z",
+   "location": null,
+   "area": {
+    "code": "TH26",
+    "level": "province",
+    "name": "จ.นครนายก",
+    "bbox": [
+     100.914,
+     13.961,
+     101.502,
+     14.512
+    ]
+   },
+   "incident_id": "fr_news_f49e8c0cae777fbaa7b0",
+   "id": "f49e8c0cae777fba"
   },
   {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น PM2.5 คุมรถ–เผา เตรียมรับภัยแล้ง",
@@ -310,6 +357,32 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "สกลธี จี้รัฐช่วยเหยื่อน้ำท่วมกรุง ชี้ช่องโหว่กฎหมายซ้ำเติมคนจน เสนอ ธปท.-ยุติธรรม สั่งเบรกไฟแนนซ์ทวงหนี้",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/politics/news_10469445",
+   "time": "2026-11-12T04:39:26Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_rss_065c2750c330da3ac6aa",
+   "id": "065c2750c330da3a"
   },
   {
    "title": "เช็คเลยวันนี้ ! ‘ปภ.’โอนเยียวยาน้ำท่วม 10 จว.- กทม. 21,755 ครัวเรือน รวม 136.64 ล้านบาท",
@@ -540,20 +613,6 @@
    "id": "e4bb627c0052fadd"
   },
   {
-   "title": "ขนเครื่องสูบน้ำลงใต้ ปักหลักสงขลา รับมือ ฝนแช่สะสม 13 จว. เสี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oWUhKbTdrWTlhUHlYR3p5XzlSV3JZSzUzcEtqZ2R1bm5Xd3BrbXNmemxuRmVJcmJXeFR4SEtKVW5LZ0Z2R0xMeGc4NTJ6cXFCUThCSDZUaHcyVDRQM0VDNzFYWjRsdw?oc=5",
-   "time": "2026-11-12T02:05:53Z",
-   "location": null,
-   "id": "7e1d472c208c2343"
-  },
-  {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม ดินและหินไหลทะลักลงมาบนทางด่วนจี๋ถัน-วันฟอง ส่งผลให้การจราจรติดขัดอย่างหนัก",
    "summary": "",
    "category": "news",
@@ -600,6 +659,20 @@
    "time": "2026-11-12T00:56:45Z",
    "location": null,
    "id": "2654598921efb0f8"
+  },
+  {
+   "title": "พื้นที่ภูเขามีการตอบสนองต่อฝนและน้ำท่วมอย่างรวดเร็วและทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KN29faTBpbUQ2TEhtRDIwVFlHdHg1T2U5RVZEaWZzbEhZaXpmMlZhTE9hMUQ2cldFWWtnWFdmY0EtelpMaUF1UnktV3Y1X3VvZ0JzZ1FjLVBVRExybk1PMzlFbkp2VEdqaUE?oc=5",
+   "time": "2026-11-12T00:54:48Z",
+   "location": null,
+   "id": "9a83222fe75fb70b"
   },
   {
    "title": "เสริมสร้างมาตรการป้องกันและควบคุมภัยแล้ง เพื่อความปลอดภัยของพืชผลข้าวในฤดูหนาว-ฤดูใบไม้ผลิ",
@@ -794,20 +867,6 @@
    "id": "e645fecb49879186"
   },
   {
-   "title": "เหตุร้ายกลางบ้านยังไม่ทันสะสาง ดันเกิดเหตุดินถล่มปิดเส้นทางอีก ! คืนนี้ 20.30 น.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVV3YjlsMHBoclMzWTF5cmF6SnA0bzJfNUgwd2w4TzNsenZ1YkJCa0lVbER3MTBSQUV5TzdMYU1TOHkxbTNxSVkxdFFtaGdCVHdWR0FDb1pqcFRZalJ3WlpmMThSVzNWenFWd0JWTFltVWVfOVFBQWhTMnhzemo2SlY0Qk41UGJXU2pIVnZKVHRGYldWd2p0eU1OQQ?oc=5",
-   "time": "2026-11-11T12:36:28Z",
-   "location": null,
-   "id": "65c675a6cfc2f7d0"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 162 กม.",
    "category": "official",
@@ -887,18 +946,18 @@
    "id": "5cd6221ae6e4d875"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
+   "title": "จังหวัดด่งนายกำลังรับมือกับภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญอย่างไร?",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "drought",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
-   "time": "2026-11-11T10:15:46Z",
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXJMN1diVEhmS1hjd0xRUkFTT2c3MnVhTV8yZDBpZFExQ0x6X0R6d2k1UUc2a0xKbWRxa2p5RFB2R3hFV1NVU0F2QU1iUTZXRXB5dGVPUlB0NWl4Zl9RZ0hTWGpQZnRXcTJ4MDd4NFFHOFR2MkdNbUdxeXFsazRQOHNaTXNpY3VGeU1VbUs1NDFfZGE4c3c?oc=5",
+   "time": "2026-11-11T10:45:32Z",
    "location": null,
-   "id": "17cc5dcad884f35f"
+   "id": "cb87edfd5b817c01"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -1330,6 +1389,20 @@
    "id": "e21d4ff8ef1eb840"
   },
   {
+   "title": "ภาคใต้ไทยเผชิญฝนฟ้าคะนองหนัก น้ำท่วมและคลื่นลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma3pPR2djRFpJck5oNkIyNmtjcF96VVFvdWpWVjFtMG95N2cyb3BxWGEwTlNEalhJNEU2Z3ZzV3JFUmd5aWNaZ2lPZVczOU9VOHJ5eDIyaFVpLWFwWHJFVGhyb1dudmRnMjVfUXZ3?oc=5",
+   "time": "2026-11-11T03:55:00Z",
+   "location": null,
+   "id": "e1ddf779ad3b25c3"
+  },
+  {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
    "summary": "",
    "category": "news",
@@ -1589,6 +1662,20 @@
    "id": "26b37764e309d0b2"
   },
   {
+   "title": "สภาพอากาศวันพรุ่งนี้ 11 พ.ย. เตือนภาคใต้ฝนตกหนัก ทั่วไทยอากาศเย็น ลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZFJxTUtqMmRLcUdvQUdRSUI0MWZkcGZtMTNDekllVDNLV0N0cmtnaVFheVcyODA2cWhua19qd2Z5aHRXN2lsV1ZrdmN5VzdCQVY2eDVpVUNPckI4TW5TMUthdFctWl9qZ3o5dzhDZ1kxU0FZNlI4d0YzTzg?oc=5",
+   "time": "2026-11-10T10:16:42Z",
+   "location": null,
+   "id": "d070bbac01f4444f"
+  },
+  {
    "title": "อากาศแปรปรวน “ไทยตอนบน-ใต้” ฝนตกหนัก กรมชลฯ เตือน 11 จังหวัดลุ่มเจ้าพระยา เฝ้าระวังระดับน้ำสูงขึ้น",
    "summary": "",
    "category": "news",
@@ -1817,20 +1904,6 @@
    "time": "2026-11-10T05:38:15Z",
    "location": null,
    "id": "fa57a058ce648f47"
-  },
-  {
-   "title": "เตือน 11 จังหวัดลุ่มเจ้าพระยา เฝ้าระวังระดับน้ำสูงขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wSnBXdW1mdHFlek1icHlPMHhXcGtwZjFWWURjNmRCNVF3RmxWZHJ1Rmxoc2haZElGbENMeFZkQmdzZzVHSFRRNTQ2cmpIYjBtby05bnlJb0s?oc=5",
-   "time": "2026-11-10T05:15:49Z",
-   "location": null,
-   "id": "47d89453b6f136bb"
   }
  ]
 }
