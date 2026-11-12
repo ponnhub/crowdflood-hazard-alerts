@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T12:33:01Z",
+ "updated_at": "2026-11-12T12:41:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 36,
+  "flood": 35,
   "flash_flood": 17,
-  "storm": 7,
+  "storm": 8,
   "landslide": 7,
   "earthquake": 14,
   "wildfire": 0,
@@ -139,31 +139,6 @@
    "id": "a7700dea3bbe558b"
   },
   {
-   "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wWmx0VWRfZFMyNG80RlZPR2lhWkNuX05ha3BsUThiYk1XU05lSXFsMDVvZ3hhUDVzUWxWTmJ6Y3QxTWdmUHNDczJFTmhpTm54cGJLODNyNkhmLVVkX0sxaXQ2NjFQdw?oc=5",
-   "time": "2026-11-12T04:47:33Z",
-   "location": null,
-   "id": "3e01546b962289c8",
-   "area": {
-    "code": "TH84",
-    "level": "province",
-    "name": "จ.สุราษฎร์ธานี",
-    "bbox": [
-     98.443,
-     8.303,
-     100.09,
-     10.125
-    ]
-   }
-  },
-  {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
    "category": "news",
@@ -243,6 +218,45 @@
    "time": "2026-11-11T23:25:51Z",
    "location": null,
    "id": "9f03560847efab7c"
+  },
+  {
+   "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ROXF3V2ZIOXptbm5xX0JhLU16U0M4VkJYWGZYekFxTzdmSWRTenp6RTVobU56c3BZS0pxNmNrRkxKUHpFbkxyVU9idDhRY3Bvc0I0ckUydjVsR0lkdV9id0ROU3ZnQQ?oc=5",
+   "time": "2026-11-11T11:14:00Z",
+   "location": null,
+   "id": "e7565783cec09e02",
+   "area": {
+    "code": "TH8608",
+    "level": "amphoe",
+    "name": "อ.ทุ่งตะโก จ.ชุมพร",
+    "bbox": [
+     98.921,
+     10.019,
+     99.175,
+     10.184
+    ]
+   }
+  },
+  {
+   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
+   "time": "2026-11-11T03:26:00Z",
+   "location": null,
+   "id": "85206bc60810e723"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
@@ -696,16 +710,15 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:58:10Z",
+   "time": "2026-11-12T04:57:39Z",
    "location": null,
-   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -716,7 +729,9 @@
      100.09,
      10.125
     ]
-   }
+   },
+   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
+   "id": "a61e89fb8f5ff977"
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
@@ -1506,20 +1521,6 @@
    "time": "2026-11-11T07:19:46Z",
    "location": null,
    "id": "4e23b6c722a72b87"
-  },
-  {
-   "title": "ปภ. ประสาน 10 จังหวัดภาคกลาง และ กทม. เตรียมรับมือ ระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcE1JQmdyNExRYUhrbFlhX2hLdXp4NDlOZVZtdkQzQzlNZmVndlREQ1FXcFJYamdPYjlvMWlVMnFqR3FyTDFSc2cyajVfNEVZUnl6bzdYMnM?oc=5",
-   "time": "2026-11-11T06:45:39Z",
-   "location": null,
-   "id": "89494292ce896196"
   },
   {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
