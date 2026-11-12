@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T15:30:07Z",
+ "updated_at": "2026-11-12T15:49:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 16,
+  "flood": 40,
+  "flash_flood": 17,
   "storm": 14,
-  "landslide": 9,
+  "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 8,
@@ -195,6 +195,20 @@
    "id": "1252b155438fabbd"
   },
   {
+   "title": "\"กรมอุตุฯ\" เตือนฝนถล่มภาคใต้ต่อเนื่อง 2 วัน หลายจังหวัดเสี่ยงน้ำท่วม คลื่นทะเลแรง ขณะที่ภาคเหนือยังมีฝน-อากาศเย็น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43cmFEcVprRTVETmdPaGEycGxaQ1ZqZWFrRUJUZjczX0VtV1dlSWdvQzVWeFVjMWtnRm9xX01BZG44LU9tVWFRTUlmQlpSTk0?oc=5",
+   "time": "2026-11-12T02:36:40Z",
+   "location": null,
+   "id": "acfde948bb910b75"
+  },
+  {
    "title": "กรมอุตุ เตือน 14 จว.ใต้ ฝนตกหนักถึงหนักมาก สูงสุด 70% เหนือตอนบนมีฝน กทม.สัมผัส 23 องศา",
    "summary": "",
    "category": "news",
@@ -315,6 +329,20 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-12T15:42:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
+  },
+  {
    "title": "ภาคใต้ฝนตกหนัก! น้ำท่วมฉับพลัน กองทัพภาคที่ 4 ผนึกกำลังทุกภาคส่วน ลุยพื้นที่ช่วยเหลือประชาชน บรรเทาความเดือดร้อนอย่างเร่งด่วน 📍วันที่ 12 พฤศจิกายน 2569 เวลา 19.00 น. ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 44 เดินหน้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝน",
    "summary": "",
    "category": "news",
@@ -382,20 +410,6 @@
    },
    "incident_id": "fr_news_489471514f3a355b6a89",
    "id": "489471514f3a355b"
-  },
-  {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-12T14:12:54Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
   },
   {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
@@ -713,20 +727,6 @@
    "id": "4c4d94199b3db7dc"
   },
   {
-   "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มบนถนนสาย 650 ของจังหวัด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbWJ4WGl5Mm5TemhwQ1ptbmlEcmxUVEtBUU1vNV95M1dNUFR2SEJVLTZmVDJNT09WcWZfTjJuQy1LaEV2d09XWU9jdDdONTBMZUNjbng1NEF6UE1NZHhtZ2E3TTVuVWlaVi1rY1o5NnVWYV9vZThkd1dTaVY?oc=5",
-   "time": "2026-11-12T09:28:25Z",
-   "location": null,
-   "id": "53be2660c23c6505"
-  },
-  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -777,6 +777,20 @@
    },
    "incident_id": "fr_news_68c34ab860c2b208f0c5",
    "id": "68c34ab860c2b208"
+  },
+  {
+   "title": "เตือน 8 จังหวัดภาคใต้ ฝนตกหนัก 11-21 พ.ย.นี้ เสี่ยงน้ำป่า- ดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmSTZDOGFXT2dMMnFWYmtzZGZJNEZHZDR1RTNFalN1VlZhemhtMmpLUnJVX0hBUElrMEttZjhIb09LNVB4OHVmMWFsSGYzd3Y0RHl4Sko1aTRJUGg5LVpBZHpyTmNrZw?oc=5",
+   "time": "2026-11-12T08:50:20Z",
+   "location": null,
+   "id": "32396b5390a32a9d"
   },
   {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก “HATYAI GASTRONOMY REBORN”",
@@ -976,15 +990,16 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "flooding",
+   "category": "news",
    "hazard_type": "flash_flood",
-   "severity": "low",
+   "severity": "medium",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:57:39Z",
+   "time": "2026-11-12T04:58:10Z",
    "location": null,
+   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -995,9 +1010,7 @@
      100.09,
      10.125
     ]
-   },
-   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
-   "id": "a61e89fb8f5ff977"
+   }
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
