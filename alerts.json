@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T14:29:42Z",
+ "updated_at": "2026-11-12T14:42:21Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
-  "flash_flood": 18,
-  "storm": 10,
+  "flood": 38,
+  "flash_flood": 17,
+  "storm": 11,
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
@@ -234,20 +234,6 @@
    }
   },
   {
-   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
-   "time": "2026-11-12T00:23:59Z",
-   "location": null,
-   "id": "37825e7f39a6736a"
-  },
-  {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉบับที่ 8 (306/2569) วันที่ 12 พฤศจิกายน 2569 เวลา 05.00 น. 🌧️ ภาคใต้เฝ้าระวังฝนหนักถึงหนักมาก 12–13 พ.ย. 69 ฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเลสองฝั่งแรงขึ้น อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร และสู",
    "summary": "",
    "category": "news",
@@ -313,6 +299,32 @@
    "time": "2026-11-12T14:20:51Z",
    "location": null,
    "id": "42be7a4300f4d849"
+  },
+  {
+   "title": "กทม. กางแผนป้องกันน้ำท่วมฝั่งตะวันออก ชูแบ่งพื้นที่ย่อย-ทางด่วนน้ำ-อุโมงค์บึงหนองบอน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xWmdZbkJLRHFXUTNtUlRUQU9Mc1RiWXUtVTIwSlRaR25JWWhZRGF3UTl5MFJrbTBRbVdQb3FoZFJDaUF4Tm9BeXNnbWUwdkVkTkY0eV9n?oc=5",
+   "time": "2026-11-12T14:15:22Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_489471514f3a355b6a89",
+   "id": "489471514f3a355b"
   },
   {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
@@ -1221,6 +1233,20 @@
     "precision": "epicentre"
    },
    "id": "54f7620deb419d5b"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MS3Rnc3otXzFEUVc1Y1Mya3FPWW1UOFNVNUlQU3l2VURuSVRteGRXRnVYSFQ1dHdTbUJnT0o2Wmhud2w5UXZTUFdHRDUxdnF1ejBWVVd2Y1ZVYWhNSTJySHJLQ01tc0RPOHJySkhTek92R2Q0Q19sbFNsTWM?oc=5",
+   "time": "2026-11-12T00:46:01Z",
+   "location": null,
+   "id": "503005866b09603c"
   },
   {
    "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
