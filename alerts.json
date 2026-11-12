@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T09:16:48Z",
+ "updated_at": "2026-11-12T09:32:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 34,
-  "flash_flood": 15,
-  "storm": 11,
+  "flash_flood": 16,
+  "storm": 10,
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
@@ -109,6 +109,31 @@
    "time": "2026-11-12T02:36:40Z",
    "location": null,
    "id": "acfde948bb910b75"
+  },
+  {
+   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iX1MzYzl1cmZHZFVXakhMUVBia25iVDdjcVZtRV94RkplTFV1UkNMV2N1WVhXQ2ZSdGI3bGlGMF9PV0IwZ3FQVkZhSmxES01zVC1TblpR?oc=5",
+   "time": "2026-11-12T00:25:57Z",
+   "location": null,
+   "id": "00885307878314c7",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
@@ -1869,26 +1894,6 @@
    "time": "2026-11-10T09:33:58Z",
    "location": null,
    "id": "567b18c3577e23c2"
-  },
-  {
-   "title": "สุดสลดเสียชีวิต 4 รถตู้กู้ชีพอบต.ฝ่าสายฝน พาหนูน้อยป่วยลมชัก-ญาติส่งรพ. ยางระเบิดหมุนฟาดต้นไม้ยับ",
-   "summary": "เกิดอุบัติเหตุเศร้า รถตู้กู้ชีพอบต. นำผู้ป่วยเป็นหนูน้อยส่งโรงพยาบาลขณะฝนตกหนัก เกิดยางระเบิดรถหมุนฟาดต้นไม้ ส่งผลให้มีผู้เสียชีวิตถึง 4 ราย ที่ท่าศาลา นครศรีธรรมราช วันที่ 10 พ.ย.2569 ผู้สื่อข่าวรายงานเกิดอุบัติเหตุเศร้า รถตู้กู้ชีพนำผู้ป่วยส่งโรงพยาบาล แล้วเกิดยางระเบิดหมุนฟาดต้นไม้ ส่งผลให้มีผู้เสียชีวิตถึง 4 ราย โดยเหตุการณ์นี้เกิดขึ้นในพื้นที่ หมู่ 2 บ้านสองแพรก ตำบลโพธิ์ทอง อำเภอท่าศาลา จังห",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/breaking-news/news_10467327",
-   "time": "2026-11-10T09:23:05Z",
-   "location": {
-    "name": "อ.ท่าศาลา",
-    "lat": 8.7060315,
-    "lng": 99.8956014,
-    "precision": "district"
-   },
-   "incident_id": "fr_rss_37ad8776040d98cb809d",
-   "id": "37ad8776040d98cb"
   }
  ]
 }
