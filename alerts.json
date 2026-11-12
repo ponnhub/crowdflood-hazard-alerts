@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T07:19:58Z",
+ "updated_at": "2026-11-12T07:34:16Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 28,
+  "flood": 27,
   "flash_flood": 15,
   "storm": 13,
-  "landslide": 11,
+  "landslide": 10,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 9,
@@ -55,20 +55,6 @@
    }
   },
   {
-   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในวันที่ 12 พฤศจิกายน 2569 ครอบคลุมพื้นที่ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา ภายใน 6 ชั่วโมงข้างหน้า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWhTYkN1UGRJaFZ5SVhLSTZERGtYQU5JYTdGb01SeGxMblpTOXZxMmk0ZHlRLXpDaW5RMEE3WkRKaDFKYXZjZEdYSHJBNlhfaGJfcnR1aEREd3VtcnNidUhiZU05VW5XNU1QbEhPb25XbTNZVFRrcWlfR1p5OE9ZbmVSTmI4YXpBaF93WkdLcnhnQ0N6OTZrYnlnYjlmcXZUUmFGbnlMZElTTVM3emlRU3lRc1NyMmVCOEE?oc=5",
-   "time": "2026-11-12T03:19:02Z",
-   "location": null,
-   "id": "fa97045fb7364773"
-  },
-  {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
    "category": "news",
@@ -95,31 +81,6 @@
    "time": "2026-11-12T02:36:40Z",
    "location": null,
    "id": "acfde948bb910b75"
-  },
-  {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iX1MzYzl1cmZHZFVXakhMUVBia25iVDdjcVZtRV94RkplTFV1UkNMV2N1WVhXQ2ZSdGI3bGlGMF9PV0IwZ3FQVkZhSmxES01zVC1TblpR?oc=5",
-   "time": "2026-11-12T00:25:57Z",
-   "location": null,
-   "id": "00885307878314c7",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
@@ -287,6 +248,20 @@
    "id": "d8368079e0e659d7"
   },
   {
+   "title": "สทนช. เตือนภาคใต้รับมือฝนตกหนัก 2 ระลอก 8 จังหวัดเสี่ยงน้ำป่า–ดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2NmM4YmJjeFZMaS10dWMwQldRSEQtS2F3NFRuR0FGdjBFejNNWFZES1FxSXJUVDNyZ04yNW4yeEgxUm93Q3RsV25iY3Bkd1N3ZXo1QQ?oc=5",
+   "time": "2026-11-12T07:25:14Z",
+   "location": null,
+   "id": "cb210843725235cc"
+  },
+  {
    "title": "ปภ. แจ้งเตือนด่วน เกาะสมุย เตรียมยกของขึ้นที่สูง หลังฝนถล่ม-น้ำทะเลหนุนสูง เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "flooding",
@@ -307,6 +282,20 @@
    "id": "1594d984eeaf9c3f"
   },
   {
+   "title": "ประธานสภาตำบลตราเลงขับรถฝ่าดินถล่มเพื่อพาหญิงตั้งครรภ์ไปโรงพยาบาลเพื่อคลอดบุตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVI4eUlTMDBzUjlfNWktNWV6S2Y4Y1JlZzlGLUZWZFE2alB4UmFna1V6MkowQzNIM0dzZWI4VHEzV19NbEZGS05wNlU1N3YzV083VWxvV2s3VU1RMFlCcG9xQ1RFdnVKUmRTSDhFMGRzTHhoQ21FaThES3Ntel84VFlDZGs1Y3g5UktaTERTZDJRdw?oc=5",
+   "time": "2026-11-12T06:01:44Z",
+   "location": null,
+   "id": "d9ab03a81142eb9b"
+  },
+  {
    "title": "อนุทิน สั่งอบจ.-ผู้ว่าฯ ทำงานหัวชนหัว ไร้เส้นแบ่ง ยันน้ำมันลดให้แล้ว 10 บาท",
    "summary": "",
    "category": "flooding",
@@ -320,20 +309,6 @@
    "location": null,
    "incident_id": "fr_rss_9969b1493ea869fe7029",
    "id": "9969b1493ea869fe"
-  },
-  {
-   "title": "ดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง ส่งผลให้การจราจรติดขัด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUVweFk1VDdnREYwdGFrWjNlQ0ozMGRMTkdGQmRXbW5CVFI0Yk1jT0kzbGl0RXBnOGtrekNFV1hrdlZXMFJkVDlMMEpZUHQ0VWliT245MGF0NUt4cU9zVFZDeUI5UmVFVDN6aVNkNndLMllzWk5qWENJZ2NRdXNCTGJMTGZ0eG4yRjJiMmd2OWdHeGpfWVlOXzlzMFkxdGJDamc?oc=5",
-   "time": "2026-11-12T05:28:51Z",
-   "location": null,
-   "id": "e69526dd0eb641bb"
   },
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
@@ -636,20 +611,6 @@
    "time": "2026-11-12T02:44:27Z",
    "location": null,
    "id": "5d945849b7a9ad82"
-  },
-  {
-   "title": "ลมหนาวเริ่มอ่อนแรง ยังไม่มีวี่แววจะหนาวต่อ ส่วนภาคใต้ฝนหนัก-คลื่นแรง ระวังน้ำท่วม 12-13 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5leWZsYVQ0aHk4SHpTcTZOc2lldTVyLTVKWU9DV3k2dnF2eHBDOFF1WnJhNzkyQnAzN25LcWtqb0d2TzRYU1VrSkE3RkMwMHpGUzcw?oc=5",
-   "time": "2026-11-12T02:30:00Z",
-   "location": null,
-   "id": "463e71a83b25c454"
   },
   {
    "title": "การตอบสนองเชิงรุกต่อฝนตกหนัก น้ำท่วม และดินถล่ม",
