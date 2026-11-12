@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T23:13:04Z",
+ "updated_at": "2026-11-12T23:26:36Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,12 +17,12 @@
  ],
  "counts": {
   "flood": 40,
-  "flash_flood": 15,
+  "flash_flood": 16,
   "storm": 14,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 7,
   "heat": 2,
   "tsunami": 0,
@@ -324,9 +324,23 @@
    "official": false,
    "source": "www.thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-12T21:42:54Z",
+   "time": "2026-11-12T23:12:54Z",
    "location": null,
    "id": "e92639afb66d0c2f"
+  },
+  {
+   "title": "อุตุฯ เตือน 15 จังหวัดใต้รับมือฝนหนักถึงหนักมาก ระวังน้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3UGRLdkI2d1NIUGpIWk9yRjIwVzQwTmdheFdvZ0drUTNtSTAyS3BHcTB6TFNFaEQtbUxCMFRMUGFlTUdtS1UyQXVKLVBCZWFnZncwOE90Y18?oc=5",
+   "time": "2026-11-12T23:00:00Z",
+   "location": null,
+   "id": "97662f46c8e371ee"
   },
   {
    "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
@@ -814,6 +828,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
