@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T09:44:57Z",
+ "updated_at": "2026-11-12T09:59:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
+  "flood": 33,
   "flash_flood": 16,
-  "storm": 10,
+  "storm": 9,
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
@@ -203,20 +203,6 @@
    "id": "0d164ab59321ec14"
   },
   {
-   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xY2RNblJDazdNVmdGSmlLRmRUT2ZkV0VHdlNIaV9RTmpxVTUxTGZyV3B3a1oxTGFLVnZ2cm5KZmwxUEpkMjA1VXdURGZZb243SzhSNUpR?oc=5",
-   "time": "2026-11-11T09:26:53Z",
-   "location": null,
-   "id": "416dd136d9a6e834"
-  },
-  {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
    "summary": "",
    "category": "news",
@@ -257,6 +243,31 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
+  },
+  {
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPcTB1alJodHlqaWVDcXVkblhwaWt3NzNZTTVSZHdzei03YklzNXFINGdvRHpUSmp6SWJXc1F5amZpa21GNldNbHR3LWEzYmtaaHRET1BTZHZVZkNnbDNseG1HUndjZTVER2lmTmQzUTJqREZHcUVZTVVyVHVTX05Xd3l6UjRPaUJBZi1jNmk3eTFXb0g5NHVGTmgzb0MzemJwdE1JaDctdGhzU3FOcXo4YW9sYTgzZVM0X0laY0RRWlFNakpISXViOXhyYnlTQzlvLUFJek1hUU5QVl9WMXc1SU02dHRNQ2ltNUw0QUZFX0I1TXhuM1RDZHk3T3dxM3lzWHF1LWZPMXV5Qm55TUMwOFU4bnM3bkJsNTkwWkFFbHptaXRXY2Q2WXlYanBVejVUU3dVUzUyQ004a0h6c1AwZ3hrc2lPZ1Y5eFQ3dG1jOVd2TGtxREt2bjZqelZwT0U3cGw0bVJRcXpIRW1GcEh5M3RWd0JsTWpoQmlQZkQ4Nl9BRGoxWk51QnNZZGFFX1hBd21vNERxY3pMX2E1c3NOc2N4VEgxTXA1TEZJU0NYZ1BPTEpjRmtKWXFfRkRKMEgyT3dPaWE5WTh4YkpndVJROXFWN0tLWHR4dkQzX1FiNEs3TFBvaGRzX0o5WkZsc3hzY2pKX2E4a2g3R0lhUFJ2cU1WYkNkRzQwbWFuMHU3bGIzM2piN3IzTVpsVEkzWlNOQlp0U2Y4a3pVdHRTWU0yRmplUnZJMUhpbUlJYklTV3dtX3lsWVlES2ZCSVRoNkp6NWhobk1PdEFXS1lxbHVJekV6VnhMMEI1bVFjOWh4NlFDYlZzNUNBQXlZTkV3ZURubWpxT2lnMjRMRlFuTjNIZVVRVjU2SjB5SDZSMUR6VE9DUFVJRnRYUzBUSVZfYURKazJ3OEJkYXFBY09kQUlzUmsxV2Zpb2pwLWhhZmxWYWx1ZDNvNzhoQkVyTTZwYk5nYVY0aW5kS2xwUUdoNmlVdk1mQWd4cTFrZE55Y1VtZ1ZINDJGck1feTVwVW4tVUdORlRPT3U5Tk9IemlyaUJsOXd4QU5RSEJUQ1VudFlsdHNuNE9Mb1RhTWNVVllpcWNzQXhqNndOZFVrTWlVdHlwVFV2MEY3Z0xIUXZSeFB6TUd3S0VTTG05eGlxY2JjdzZKZUFGc2w0UmRLM3JBXzJXbU1yT242a091ODdfUlVlVmhyTlJ4LVF4cHQyT0ZhQmNJcklTTDBOSHVCNVJwR21sQ21oUEhfZEd5STUtMEkxeWxGV2ozalpNNE1SSDQycDdKWURFRjVqTllNMHJSejBmTWM1YjJDZnVFTmNrS0pCZDVBUQ?oc=5",
+   "time": "2026-11-12T09:56:54Z",
+   "location": null,
+   "id": "a8e5e0649f03a05c",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
@@ -1285,31 +1296,6 @@
    }
   },
   {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxPcTB1alJodHlqaWVDcXVkblhwaWt3NzNZTTVSZHdzei03YklzNXFINGdvRHpUSmp6SWJXc1F5amZpa21GNldNbHR3LWEzYmtaaHRET1BTZHZVZkNnbDNseG1HUndjZTVER2lmTmQzUTJqREZHcUVZTVVyVHVTX05Xd3l6UjRPaUJBZi1jNmk3eTFXb0g5NHVGTmgzb0MzemJwdE1JaDctdGhzU3FOcXo4YW9sYTgzZVM0X0laY0RRWlFNakpISXViOXhyYnlTQzlvLUFJek1hUU5QVl9WMXc1SU02dHRNQ2ltNUw0QUZFX0I1TXhuM1RDZHk3T3dxM3lzWHF1LWZPMXV5Qm55TUMwOFU4bnM3bkJsNTkwWkFFbHptaXRXY2Q2WXlYanBVejVUU3dVUzUyQ004a0h6c1AwZ3hrc2lPZ1Y5eFQ3dG1jOVd2TGtxREt2bjZqelZwT0U3cGw0bVJRcXpIRW1GcEh5M3RWd0JsTWpoQmlQZkQ4Nl9BRGoxWk51QnNZZGFFX1hBd21vNERxY3pMX2E1c3NOc2N4VEgxTXA1TEZJU0NYZ1BPTEpjRmtKWXFfRkRKMEgyT3dPaWE5WTh4YkpndVJROXFWN0tLWHR4dkQzX1FiNEs3TFBvaGRzX0o5WkZsc3hzY2pKX2E4a2g3R0lhUFJ2cU1WYkNkRzQwbWFuMHU3bGIzM2piN3IzTVpsVEkzWlNOQlp0U2Y4a3pVdHRTWU0yRmplUnZJMUhpbUlJYklTV3dtX3lsWVlES2ZCSVRoNkp6NWhobk1PdEFXS1lxbHVJekV6VnhMMEI1bVFjOWh4NlFDYlZzNUNBQXlZTkV3ZURubWpxT2lnMjRMRlFuTjNIZVVRVjU2SjB5SDZSMUR6VE9DUFVJRnRYUzBUSVZfYURKazJ3OEJkYXFBY09kQUlzUmsxV2Zpb2pwLWhhZmxWYWx1ZDNvNzhoQkVyTTZwYk5nYVY0aW5kS2xwUUdoNmlVdk1mQWd4cTFrZE55Y1VtZ1ZINDJGck1feTVwVW4tVUdORlRPT3U5Tk9IemlyaUJsOXd4QU5RSEJUQ1VudFlsdHNuNE9Mb1RhTWNVVllpcWNzQXhqNndOZFVrTWlVdHlwVFV2MEY3Z0xIUXZSeFB6TUd3S0VTTG05eGlxY2JjdzZKZUFGc2w0UmRLM3JBXzJXbU1yT242a091ODdfUlVlVmhyTlJ4LVF4cHQyT0ZhQmNJcklTTDBOSHVCNVJwR21sQ21oUEhfZEd5STUtMEkxeWxGV2ozalpNNE1SSDQycDdKWURFRjVqTllNMHJSejBmTWM1YjJDZnVFTmNrS0pCZDVBUQ?oc=5",
-   "time": "2026-11-11T09:03:02Z",
-   "location": null,
-   "id": "a8e5e0649f03a05c",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1842,32 +1828,6 @@
    },
    "incident_id": "fr_news_b7f4a41a1c7839ba6512",
    "id": "b7f4a41a1c7839ba"
-  },
-  {
-   "title": "สถานทูตจีน ร่วม ป่อเต็กตึ๊ง ลงพื้นที่ฉะเชิงเทรา ให้กำลังใจ-เยียวยาผู้ประสบภัยหลังน้ำท่วมลด",
-   "summary": "ไทย-จีนพี่น้องกัน.. สถานเอกอัครราชทูตสาธารณรัฐประชาชนจี […]",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "มติชน",
-   "source_url": "https://www.matichon.co.th/publicize/news_5969697",
-   "time": "2026-11-10T09:49:12Z",
-   "location": null,
-   "area": {
-    "code": "TH24",
-    "level": "province",
-    "name": "จ.ฉะเชิงเทรา",
-    "bbox": [
-     100.848,
-     13.182,
-     101.99,
-     13.977
-    ]
-   },
-   "incident_id": "fr_rss_e83ce8ff8138193b31a9",
-   "id": "e83ce8ff8138193b"
   }
  ]
 }
