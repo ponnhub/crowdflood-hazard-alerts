@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T13:55:33Z",
+ "updated_at": "2026-11-12T14:17:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
-  "flash_flood": 19,
-  "storm": 8,
+  "flood": 38,
+  "flash_flood": 18,
+  "storm": 10,
   "landslide": 7,
   "earthquake": 15,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมาก คลื่นสูง 2-3 เมตร เดินเรือระมัดระวัง! | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cmFGdU5iWkd3MzBrMVlCa1pHMTRVZGY3U19Qa1Y5cXVudjJ5R00wT1poMnRRUngtbWV4LTFVODFmaV84WEg5a3Y1U2hQZDQxb0ZaaXh3?oc=5",
+   "time": "2026-11-12T13:50:26Z",
+   "location": null,
+   "id": "e740bfd7ec0446c3"
+  },
   {
    "title": "ปภ.แจ้งเตือน กทม. และ 10 จังหวัดภาคกลาง เฝ้าระวังระดับน้ำเจ้าพระยาเพิ่มสูง",
    "summary": "",
@@ -167,20 +181,6 @@
    "id": "1252b155438fabbd"
   },
   {
-   "title": "\"กรมอุตุฯ\" เตือนฝนถล่มภาคใต้ต่อเนื่อง 2 วัน หลายจังหวัดเสี่ยงน้ำท่วม คลื่นทะเลแรง ขณะที่ภาคเหนือยังมีฝน-อากาศเย็น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43cmFEcVprRTVETmdPaGEycGxaQ1ZqZWFrRUJUZjczX0VtV1dlSWdvQzVWeFVjMWtnRm9xX01BZG44LU9tVWFRTUlmQlpSTk0?oc=5",
-   "time": "2026-11-12T02:36:40Z",
-   "location": null,
-   "id": "acfde948bb910b75"
-  },
-  {
    "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -220,20 +220,6 @@
    "id": "37825e7f39a6736a"
   },
   {
-   "title": "ไทยตอนบนอากาศเย็น \"ภาคใต้\"ฝนหนักต่อเนื่อง กรมอุตุฯ เตือน 3 จังหวัด ระวังน้ำป่า-น้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaWJveUVSSDJUR0ZmY29WeDRrSDZSeDRCYXdPajUxdzlGMTR4VHFWQllWTFk2aWtUcHRqa3FGbWdoRjlua2EzS3VHV1FMZDUyTXpOYlh3?oc=5",
-   "time": "2026-11-12T00:12:30Z",
-   "location": null,
-   "id": "7508b3489c6cdde1"
-  },
-  {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉบับที่ 8 (306/2569) วันที่ 12 พฤศจิกายน 2569 เวลา 05.00 น. 🌧️ ภาคใต้เฝ้าระวังฝนหนักถึงหนักมาก 12–13 พ.ย. 69 ฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเลสองฝั่งแรงขึ้น อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร และสู",
    "summary": "",
    "category": "news",
@@ -246,6 +232,20 @@
    "time": "2026-11-11T23:25:51Z",
    "location": null,
    "id": "9f03560847efab7c"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
+   "time": "2026-11-11T23:02:52Z",
+   "location": null,
+   "id": "e9a5a74c6159ab01"
   },
   {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
@@ -287,6 +287,72 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-12T14:12:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
+  },
+  {
+   "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxQM242bnV1a3c3WWFfVEdjdkZmVnhCZlA1TnZlekxGV19pSGRDMDdzWjUyU1c1cmxFeWszWkdUeVhfZmlxUDQ3akcycnVJNTNHRkFyWWZzZDFiVjJlWVZDbHIzdlFIYThoc3BlTURxX0ZjRnloQnA3UVlKLTdDV1NGVXdEeGtBa1BiQ2JadUpaTGkxLUQ3d3BiSnZhdldqajdFNmhNT09CZkJMS2Zyb1l2cFR1Q25KVkJ2Y2VxMGNMNU1yZlF1NzQwaWRvRUpodTFwb2JLVE9JQ0dvWUF1T1BEU0dJTUtvai1TY0F2S2p3ZHpaZnM0MTRTazN2U0lqX1pWWWx1eUJGRUQ0cFJEOXprUzVRQnZlV21kMlkwOFVPRmJ6ZnNlOXJ6MWhNckg5OFRTZlp2dW9uUGtpeW5ud2hGRTVwYTQtemY4TU9CaHpSWGEtbFRkNHJITXJFeG5lZUpvcGRFY1VncDAtM2FTc09CbWJrbmpjWEVRUUt4eGtfcGJsdDMya2duTlBURFU5Rm82bTF1UXl2ZjJsZG1GeHp5b2kzS3BsVFBpQlBMbFd3dlVaNjVDSzBCeURTTW9fVE1TWm43dUczMTdHeEpmdTZocXRkUjRmWDRhRWFZQmJpcHBZMzVRY28zT1A4QmhXOXY3dURRa2llQ2s0VUR0RUREdFhiRE1fM3dKNVBKbkpKZTZDVFg2UFFZLThLbklBUU0xTnBwNk12THBuUGl5c1FYc0NHdm5oTVluZXo3cDF0bHJkbWpxOFE1b3otb3FGSzhWNHFTX3hBWDlDOVE4Y1czcDV6X0FhUGwxZTd6YnA3NVhCMnBXMnc0VFhjOUw4c3dRWHNPdGVFZVVsQ1pvVWhEN251dUY2Wmdud2p6RHlhS2dTb0RrbFhaMlhwalpBNHdJMl9wNWFydmk4bkFiSktWLTlSSHBDRzBZXzBPeGRxUFlTZmp2eV9sOExHSmlIcWxwd05xeHdvbFJHbmNkMEJDM2VEYlZQbnB5aG9pemhfUjVjWWlFOFJDeV9RMUlMd0xGZS1IOWVmM1BoOGFqUEtvM3hLTjJhSG5uUTBIVjlaVEUxQ2REVmF6elF1LV9aRl9GcVJWS2haOURraEY0dURVYTJPMkRvWHRHSWhzV2MtNEhRaHQzNEFFd2hnc1Mtd1BMUlhCVE9FOXlRYjJxR21RMUZFYktpb2tQWS03UWhyYmZ3WUFBMVFsVWVNR25jaURWS0RzaTVyS1BENGN5ZjhiZXYxb1B5YXpWblBzeWVLNXZmZzA0NFMtdG1mM3RRX01Ick9PaWl0emdwenJyaEx3bUpRdWk3ZHViZGFIbE1VZ1FRb25DUHktVGlGM2FfRlk?oc=5",
+   "time": "2026-11-12T14:02:57Z",
+   "location": null,
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   },
+   "incident_id": "fr_news_a427caaf9fc2dde45cc3",
+   "id": "a427caaf9fc2dde4"
+  },
+  {
+   "title": "สรุปยอดลงทะเบียน-จ่ายเงินช่วยเหลือผู้ประสบอุทกภัย \"น้ำท่วม กทม.\"",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiX2EzZzZsUXhLclZMWE9NbEhOQnllU0p6ZnlXcnFyd1dkVmN2NnNicEJhUHZIZEJ6anMwZzNPYmJqRlA1djNqZ0lMNDgtRFJCUEJkcE5tQ0FDX3NBcHBpV0pmVQ?oc=5",
+   "time": "2026-11-12T13:55:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_1bb00acfa52660e9b53e",
+   "id": "1bb00acfa52660e9"
+  },
+  {
    "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
    "summary": "",
    "category": "news",
@@ -325,20 +391,6 @@
    },
    "incident_id": "fr_news_bb35a5b31ba2de29ccfb",
    "id": "bb35a5b31ba2de29"
-  },
-  {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-12T12:42:54Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
   },
   {
    "title": "‘ทรู’ ถอดบทเรียนน้ำท่วมหาดใหญ่ ชู AI ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัย",
@@ -1314,7 +1366,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Matichon Online",
+   "source": "มติชนออนไลน์",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
    "time": "2026-11-11T12:36:41Z",
    "location": null,
