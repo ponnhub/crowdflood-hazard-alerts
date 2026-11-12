@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T02:46:52Z",
+ "updated_at": "2026-11-12T03:01:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 20,
-  "flash_flood": 12,
-  "storm": 17,
+  "flood": 22,
+  "flash_flood": 10,
+  "storm": 14,
   "landslide": 12,
   "earthquake": 15,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "\"กรมอุตุฯ\" เตือนฝนถล่มภาคใต้ต่อเนื่อง 2 วัน หลายจังหวัดเสี่ยงน้ำท่วม คลื่นทะเลแรง ขณะที่ภาคเหนือยังมีฝน-อากาศเย็น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43cmFEcVprRTVETmdPaGEycGxaQ1ZqZWFrRUJUZjczX0VtV1dlSWdvQzVWeFVjMWtnRm9xX01BZG44LU9tVWFRTUlmQlpSTk0?oc=5",
+   "time": "2026-11-12T02:36:40Z",
+   "location": null,
+   "id": "acfde948bb910b75"
+  },
   {
    "title": "ไทยตอนบนอากาศเย็น \"ภาคใต้\"ฝนหนักต่อเนื่อง กรมอุตุฯ เตือน 3 จังหวัด ระวังน้ำป่า-น้ำท่วมฉับพลัน",
    "summary": "",
@@ -84,31 +98,6 @@
    "time": "2026-11-11T22:38:05Z",
    "location": null,
    "id": "05f810f8ebe25ec6"
-  },
-  {
-   "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ROXF3V2ZIOXptbm5xX0JhLU16U0M4VkJYWGZYekFxTzdmSWRTenp6RTVobU56c3BZS0pxNmNrRkxKUHpFbkxyVU9idDhRY3Bvc0I0ckUydjVsR0lkdV9id0ROU3ZnQQ?oc=5",
-   "time": "2026-11-11T11:14:00Z",
-   "location": null,
-   "id": "e7565783cec09e02",
-   "area": {
-    "code": "TH8608",
-    "level": "amphoe",
-    "name": "อ.ทุ่งตะโก จ.ชุมพร",
-    "bbox": [
-     98.921,
-     10.019,
-     99.175,
-     10.184
-    ]
-   }
   },
   {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
@@ -167,20 +156,6 @@
    "id": "b0cf09d0b5ec8ae8"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 6 เตือนฝนตกหนักถึงหนักมากภาคใต้ 11-13 พ.ย. 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYzlhSDZLRVYtSUM4R0JyZVRvQkttYjl6SFhvSGZXUDlfVVJKbC1hZkJXMDhzMnVHX0Uxa2VYUF9MUlVjbmh5MFpqTldqMU5ISm5IcFZ3cU9JODdVSW5Yc0JvUFh3d2Uzd1NiRzR3?oc=5",
-   "time": "2026-11-10T23:59:00Z",
-   "location": null,
-   "id": "bad81c271eda6bf1"
-  },
-  {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
    "summary": "",
    "category": "news",
@@ -207,20 +182,6 @@
    "time": "2026-11-10T08:38:03Z",
    "location": null,
    "id": "d8368079e0e659d7"
-  },
-  {
-   "title": "ปักธงแดง เตือนภัย 'อ่าวมะนาว - เขาตันหยง' ฝนตกหนัก คลื่นสูงซัดฝั่ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUc09BSnFZQ3NhaFdKaXp4NTgzSGJEQy1WQkw1dXVnamZtQVZ2bnJpbjh0T0wtWEg5eFp6MHRNb2Z3M0JYSjhWMnE4UDlpbkNjVVpUc0c4LUJnX1c3Vzd6cWJfNlpSZw?oc=5",
-   "time": "2026-11-10T06:32:00Z",
-   "location": null,
-   "id": "2914b21c6d8ad260"
   },
   {
    "title": "ภูเก็ต 1 ใน 16 จังหวัด ปภ.เตือนเฝ้าระวังฝนตกหนักถึงหนักมาก 9-13 พ.ย.นี้",
@@ -287,29 +248,19 @@
    }
   },
   {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "title": "เช็กเลย! ปภ. โอนเงินเยียวยาน้ำท่วม 10 จังหวัด-กทม. วันนี้ 21,755 ครัวเรือน รับเงินรวม 136.64 ล้านบาท",
    "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
    "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWlNFcEVjcklRdFdhWnB0eVlYdHBfcEo3TGNmZUFPZDdtLWFDYnRvaFlJdS05cHVKZ3BBNm1JRTJ3OU1yTEFpdHgxZ2IzR1JiV1NwUW95UHplMWFFRmw2cldsQmZ1Y09uWXZiZDQ4eUNOU2VLemNrOU9WcHI?oc=5",
-   "time": "2026-11-10T03:00:37Z",
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93RkpJQVB4REE2WmlWTl9PakUtQ1JhdXFhU3I0bktKZWpGUmxtVDRWZEl1WkJTcWszT1NRMWFiYk1IWTlLVFlyR0Y4X0h6RE9OVnI4MjNaRTNIWEVEMG04a0xUR1VHUDlldld4RmF3?oc=5",
+   "time": "2026-11-12T02:46:00Z",
    "location": null,
-   "id": "1d39d81e21175f05",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
+   "incident_id": "fr_news_dc062c6b37e0a8cd5a76",
+   "id": "dc062c6b37e0a8cd"
   },
   {
    "title": "เตือนเฝ้าระวังน้ำป่าไหลหลาก หลังฝนตกหนักในพื้นที่ภาคใต้ฝั่งตะวันออก",
@@ -731,20 +682,6 @@
    }
   },
   {
-   "title": "เกิดดินถล่มหลายจุด ส่งผลให้การจราจรบนทางหลวงหมายเลข 40B ถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1Y0WDI1aWNHdlI5c1JFdTFHTzNUTC1BU0N0VUpVaFVMcHBNdXdfVnVraWJtek1BTHoxV01sMHpOdXU4NEl6YW5DV29SMU1TR2hSMFVSdDdWX3RjMWM5Rlc1YVRqQVRDVkFwTHowZUo0aDBPbTJEanQtNGluczl3LU5YVmE0TUVZMVdpSEM4YWU?oc=5",
-   "time": "2026-11-11T11:35:37Z",
-   "location": null,
-   "id": "00f0068dddc7e114"
-  },
-  {
    "title": "ทิ้งหมัดเข้ามุม – สีเขียวหลีกทาง? ศึกซ่อมสระแก้ว",
    "summary": "สนามเลือกตั้งซ่อม สส.สระแก้ว เขต 3 กำหนดให้มีขึ้นวันที่ 6 ธ.ค.นี้ แม้พรรคเพื่อไทยจะเป็นฝ่ายได้เปรียบ เนื่องจากพรรคกล้าธรรมเจ้าของที่นั่งเดิม ตัดสินใจไม่ส่งผู้สมัครลงแทนนายสุรศักดิ์ ชิงนวรรณ์ อดีตสส.ผู้ล่วงลับ เปิดทางให้นายสรวงศ์ เทียนทอง ลงทวงคืนพื้นที่ แต่เบื้องหลังกลับถูกมองว่ามีเกมการเมืองให้ต้องจับตา นายสรวงศ์จับสลากได้เบอร์ 1 ประกาศพร้อมลุยหาเสียงเต็มที่ ชูจุดแข็งการทำงานคลุกคลีกับพื้นที่ ลงช",
    "category": "flooding",
@@ -777,6 +714,20 @@
    "time": "2026-11-11T10:45:32Z",
    "location": null,
    "id": "cb87edfd5b817c01"
+  },
+  {
+   "title": "เกิดดินถล่ม ทำให้หินและดินไหลทะลักลงมาบนทางหลวงหมายเลข 1D ในจังหวัดเกียลาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSF85N0U5V3lGLTkxN01iOXFpa2RqdXRtVkU5UHR0SmNtR0RIRHhxa2xLSl9YMk5VZEdpMGRYNXUwZjdSMEVXSWNRbkxaZ09IOHFfT29lWGl5RVFTbnlGa3BWc2dybGdiMUhSRmNHWWxRTWc5VlZTcnpMY21GUQ?oc=5",
+   "time": "2026-11-11T10:17:41Z",
+   "location": null,
+   "id": "489613fe3ac80884"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -1737,32 +1688,6 @@
    "time": "2026-11-10T05:15:49Z",
    "location": null,
    "id": "47d89453b6f136bb"
-  },
-  {
-   "title": "เช็กสภาพอากาศ! ไทยตอนบนลมแรง กทม.จ่อเย็นลง 1-2 องศา ใต้ฝนตกหนัก",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SOUprQTRQanl0d2JrY1E2QnFfeUNsbG5HSi11Q2MtNk1ra0tyTmRhNDRFMVZjZWdFZGx1eW9jbXZUZDZJWGh1akVCV21sMEZYWVEySkdR?oc=5",
-   "time": "2026-11-10T03:00:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_acfb1353b9fda2421aa0",
-   "id": "acfb1353b9fda242"
   }
  ]
 }
