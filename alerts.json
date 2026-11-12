@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T01:31:19Z",
+ "updated_at": "2026-11-12T01:45:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 20,
+  "flood": 19,
   "flash_flood": 12,
   "storm": 19,
   "landslide": 12,
-  "earthquake": 14,
+  "earthquake": 15,
   "wildfire": 0,
   "drought": 10,
   "pm25": 6,
@@ -357,20 +357,6 @@
    "id": "12634b431a5e2537"
   },
   {
-   "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxPOUMzWkVNY203Wkh1UjMzRWZjdXF5UmVuNURrZnR6ZmhKMFlIYVNFWlk0Y1NlRm4wUnpGNjJkbTVmcDJtNUFUMThWbjJEMl81LVVUVmNxclVJZmJhMUZiT3kzdEtFelgxOU1EQ1d1WXlIWHZjZVZjUXJZeWFJQ2tkOUdIdHlLVlp1MFVKQ2lVcmxMemEtcU53Y1NUem44aVRoWFMyOGlGR2JvUFBBUkduZXJ1NlFHWE8yOGxfa1lvYmlPZWxEUFVQbGduYmYtX1RqUFdpdDNHRENpa3JhaHRjX21pbTlpRG54RHJ4OW0wZ2FjNFVNZlZNM0RIMTE0SGFkZVp0U3pyTWVlMWlZYU5nU09Qd2NwY2ZUWXB1eU5sMjdoYXgxaGo0Vi0yQXh1R2Z6YVBNbEZiNmhOanBFV3A0X2VuMWZBQU8tUWRDRzBZUEU2MVFsaXl4d0tjYVdmbkp2aUtkNDhqVW1ITWdyUGxuS2Q5SWVFQ1djSm1MLUZMTUxzM2ZIYlBuMExTek9BbHc1cXFGalpZNHI0UzUyMDZYOUdfMnJ6ZzF5Vk44Zk5HZXVmT21IaEZMTFpZblhneTJzdGdldzlidVZQY09wXzZ3Umc5MENJSjcwRDMxZGJsUGJmb2dDRE1wSmYzdmVCWk83M01XdlY1bmtaQVMtczJyc2xwd0d4ZEYwNTVReWt0YzQ2X1NmazY5Nkh5c3RpYUNnNnE5V2UwRzJmcG5TRVluNnlKWmFVTUx2UVl4RXBYQ1ZkU3oySC1jQlJETEJQN0xucURLdWJzWl83MlE3eldZMEhlNml5RG55SEhsa3U2dV9EbEN2OFNhUEN2Vkw4YlA2ZHloNzlfV3ptbllQWEJTYzRmeEdtd2dBbWw0WXRGNC1mZlNRZ0Y2aWFfa2c1UkNkQ3lqMHRQeWFQdVB6RjdnaldibUxVWFFNTE9UY2p4MkFTd3NJVEExcjN4YVVRSER2N21WMHFLMVBpS3p6dC1BWVBSdjNPZFVuV1EtbEpBYWZRVmxBalhGYXZUWThiT24tN1ItMUF0NkdON2s4NzdOVXBNQVBtTTRRMlhRTng5Y1E2UnRjLU4yQmpZbzZsQ0J1YnI0VWVtaldleDd1OGFrcUZVU2NlZEVkUWpzM2Z0T2REbmlLZWhNQzZUT01OOW9H?oc=5",
-   "time": "2026-11-10T01:45:04Z",
-   "location": null,
-   "id": "9f9a1aff207e61dd"
-  },
-  {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม ดินและหินไหลทะลักลงมาบนทางด่วนจี๋ถัน-วันฟอง ส่งผลให้การจราจรติดขัดอย่างหนัก",
    "summary": "",
    "category": "news",
@@ -383,6 +369,26 @@
    "time": "2026-11-12T01:12:49Z",
    "location": null,
    "id": "e8ea3ad7627bd33a"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.2 ต.เชียงของ อ.นาน้อย จ.น่าน (Tambon Chiang Khong, Amphoe NaNoi, Nan)",
+   "summary": "",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17422",
+   "time": "2026-11-12T01:07:22Z",
+   "magnitude": 2.2,
+   "location": {
+    "name": "ต.เชียงของ อ.นาน้อย จ.น่าน (Tambon Chiang Khong, Amphoe NaNoi, Nan)",
+    "lat": 18.25,
+    "lng": 100.922,
+    "precision": "epicentre"
+   },
+   "id": "54f7620deb419d5b"
   },
   {
    "title": "เสริมสร้างมาตรการป้องกันและควบคุมภัยแล้ง เพื่อความปลอดภัยของพืชผลข้าวในฤดูหนาว-ฤดูใบไม้ผลิ",
@@ -413,20 +419,6 @@
    "id": "503005866b09603c"
   },
   {
-   "title": "ฝนตกหนักในจังหวัดกวางตรีส่งผลให้เกิดดินถล่มและน้ำท่วมสะพานหลายแห่ง ทำให้การสัญจรถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN285OVhEZlpucWJfbWJkMExMLTdWMWJhZUhHVHFtLTRPa0hxanF4SlJSM1kxb2Y2TGZDbFF3UWlYdlNrMVdQdjlURVNtWklCNjNsV0l0VHVnVlM0d0RsamxFUkxjUXlmSkdkN0I5czRpbjRxQUpObTNtMWp1QjR5dXNnU2hBbUJKOHA2Y2JyNVprZDJqdHpjazZ3?oc=5",
-   "time": "2026-11-12T00:25:30Z",
-   "location": null,
-   "id": "72dc24266261474f"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.1 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 71 กม.",
    "category": "official",
@@ -445,6 +437,20 @@
     "precision": "epicentre"
    },
    "id": "4f6c4552da738c14"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 12 พ.ย. 2569 ไทยตอนบนยังหนาว ใต้ฝนตกหนัก คลื่นสูง 3 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SN2E4aXI2dTdHVDYzaXpGUjBvcGpVNUhfOVdycmlkcHBIejhCMzBRSEdLQmc2MUdWWC1EUkhhdnlmRjY4c3AzbHRLNTNHU2gzZ3c?oc=5",
+   "time": "2026-11-11T23:43:14Z",
+   "location": null,
+   "id": "95fde26763c4c7f1"
   },
   {
    "title": "น้ำป่าสีแดงทะลัก 3 น้ำตกเมืองคอน ปิดกรุงชิงยาวถึง 30 พ.ย.",
@@ -726,6 +732,20 @@
    "time": "2026-11-11T10:45:32Z",
    "location": null,
    "id": "cb87edfd5b817c01"
+  },
+  {
+   "title": "เกิดดินถล่ม ทำให้หินและดินไหลทะลักลงมาบนทางหลวงหมายเลข 1D ในจังหวัดเกียลาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSF85N0U5V3lGLTkxN01iOXFpa2RqdXRtVkU5UHR0SmNtR0RIRHhxa2xLSl9YMk5VZEdpMGRYNXUwZjdSMEVXSWNRbkxaZ09IOHFfT29lWGl5RVFTbnlGa3BWc2dybGdiMUhSRmNHWWxRTWc5VlZTcnpMY21GUQ?oc=5",
+   "time": "2026-11-11T10:17:41Z",
+   "location": null,
+   "id": "489613fe3ac80884"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -1752,32 +1772,6 @@
    },
    "incident_id": "fr_news_3e986d3e412913405365",
    "id": "3e986d3e41291340"
-  },
-  {
-   "title": "ฝนฟ้าอากาศเช้านี้ 10 พ.ย.69 | ไม่หวั่น แม้น้ำท่วมวัด แห่ไปทำบุญกฐินคึกคัก จ.นครศรีธรรมราช",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11ay1rdGh3Mjdwb3Z2S3lDRFJqVVhlZVdMQXd1TGg1c1ZJeEJ1UHdPSjN2UDJUOEpJU056a3JhOTlYVmRpMWF0SERLdw?oc=5",
-   "time": "2026-11-10T01:43:47Z",
-   "location": null,
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   },
-   "incident_id": "fr_news_e562afeeba1bf4eabf31",
-   "id": "e562afeeba1bf4ea"
   }
  ]
 }
