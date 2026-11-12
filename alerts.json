@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T14:17:33Z",
+ "updated_at": "2026-11-12T14:29:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
+  "flood": 37,
   "flash_flood": 18,
   "storm": 10,
-  "landslide": 7,
+  "landslide": 8,
   "earthquake": 15,
   "wildfire": 0,
-  "drought": 9,
+  "drought": 8,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -79,7 +79,7 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Matichon Online",
+   "source": "มติชนออนไลน์",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUGd4NXNjdjhhU213dnF3OEVFMFA0TnhEd01uVFhVWmMyNXZnZmhEMy1WTTB0bEZUQldvRzloM08zX29xNjdSVlJ6WWxSNDV3cnpTendWaTU?oc=5",
    "time": "2026-11-12T12:17:33Z",
    "location": null,
@@ -111,6 +111,20 @@
    }
   },
   {
+   "title": "กรมอุตุฯ ประกาศฉบับที่ 9 เตือนภาคใต้ฝนตกหนักถึงหนักมาก 12-13 พ.ย.นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPeVRFb1VleEQ5SHYwdXhPXzF0aUxSdm9wazBTakZsel94aGF3VktCMlNGSUdyTFBOWDdheGlNX2FXR0NTR3BJOVlRZXpZY2FzQm9QVkZ2b2s?oc=5",
+   "time": "2026-11-12T11:44:31Z",
+   "location": null,
+   "id": "6dd095a02881ee86"
+  },
+  {
    "title": "กรมอุตุฯเตือนภาคใต้ 12-13 พ.ย.ฝนตกหนักถึงหนักมาก เช็กพื้นที่เสี่ยงน้ำท่วม",
    "summary": "",
    "category": "news",
@@ -125,18 +139,18 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "เช็กเลย! กรมอุตุนิยมวิทยา เตือน ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับ 9",
+   "title": "พรุ่งนี้หนักกว่าเดิม กรมอุตุนิยมวิทยา เตือนฉบับที่ 9 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jdnotaFRORHlPbUI4SC1hQ283MFp4Y1o2WFI3dG44Yko5ZVBrdG53V0dXRldYVmxsMkV6YUYtQ1BhcFBmRkVyY2hUVEU0dHZhaDNmME1R?oc=5",
-   "time": "2026-11-12T11:32:00Z",
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MRTJGckd2cFJ6dnJxSGlIRDNJc0tZVWJZU1N4QWI2VG5MV2RjSmFHSHR5WHR2R3NVVWxuX0JMZHZQaHBkeWNOU3BfZURHQmpEQnVDTjNuQXZVWUxhTkNGbXRyZw?oc=5",
+   "time": "2026-11-12T10:07:00Z",
    "location": null,
-   "id": "1da49d986bb4a289"
+   "id": "e8afbb44e91b119a"
   },
   {
    "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในช่วง 6 ชั่วโมงข้างหน้าของวันที่ 12 พฤศจิกายน 2569 ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
@@ -179,6 +193,20 @@
    "time": "2026-11-12T02:58:00Z",
    "location": null,
    "id": "1252b155438fabbd"
+  },
+  {
+   "title": "กรมอุตุ เตือน 14 จว.ใต้ ฝนตกหนักถึงหนักมาก สูงสุด 70% เหนือตอนบนมีฝน กทม.สัมผัส 23 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "มติชนออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RjhCTURCem1JQmh1U2FZWG1pYmxHVm1MN0l4cWRBZWl2TWh0Rk9XODRjdngyamgzOTlwbDJ5d0ZrU2E1dThpUmFTbU9jTThvOTlQT0xYVEU?oc=5",
+   "time": "2026-11-12T00:30:58Z",
+   "location": null,
+   "id": "7a9a7a793fd1affb"
   },
   {
    "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
@@ -234,20 +262,6 @@
    "id": "9f03560847efab7c"
   },
   {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-11T23:02:52Z",
-   "location": null,
-   "id": "e9a5a74c6159ab01"
-  },
-  {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
@@ -285,6 +299,20 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "จังหวัดกวางงาย: น้ำท่วมทำให้เกิดดินถล่มใน 35 จุดตามริมฝั่งแม่น้ำ ลำธาร และเนินเขา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVRTN0gtRC1wZXZjd29vX0ZKNkRGM0F1U0JXTmVfWnRfOFd3TWFxMExqQXBFWmMtYlIyZ1Etai1IbV9mcHp5VFFaSDNIU1ZvUjJiWkNHOUY0d0doTWJycE5fSmRyNWRUN1BzdF9sTVlPOUZwNjNxVmJyem9NdlhKRllWX3pWVERqelAzWk45NA?oc=5",
+   "time": "2026-11-12T14:20:51Z",
+   "location": null,
+   "id": "42be7a4300f4d849"
   },
   {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
@@ -478,20 +506,6 @@
    },
    "incident_id": "fr_rss_2998aa7298d22fe12be6",
    "id": "2998aa7298d22fe1"
-  },
-  {
-   "title": "อุตุฯ ฉบับ 9 เตือนภาคใต้ยังคงมีฝนตกหนัก ส่วนไทยตอนบนเริ่มมีอุณหภูมิสูงขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdGo5T1JmSTd5bzZxcHR0TmZnc1JfVGdxaTFDUHk2YnhOWWN4Z2psRXZGcDZOQW9uWHNlZkliV3Mzcm1LWU1lb1NpZ1BpYWNZLUVHMGczU08?oc=5",
-   "time": "2026-11-12T10:35:00Z",
-   "location": null,
-   "id": "e73cd2f619aca692"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -699,20 +713,6 @@
    "location": null,
    "incident_id": "fr_news_b4c449967069d2e46725",
    "id": "b4c449967069d2e4"
-  },
-  {
-   "title": "น้ำท่วมพัดพาเครื่องขุดดิน 2 คันและรถจักรยานยนต์ 2 คันไปในตำบลตราตัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0l3T0Yzekltdm1PbnlLSWxwM05BV0NWeXdhTGwxRWFqMG8yUkF3ZWZyZVRaNFBXOVhCOTNRYmtEZzZYU1lwbG1YQzdDTU9PLWZ4S285blBrMDkzMUtHb3haU1RaeDhTaTFJNGVCMXplVGpQZHZ5UVVVaWRIWFZNT1BR?oc=5",
-   "time": "2026-11-12T08:38:16Z",
-   "location": null,
-   "id": "aae05acb1b7ec8cf"
   },
   {
    "title": "ภาคใต้ ฝั่งตะวันออก แนวโน้มฝนตกต่อเนื่อง \"ระวัง! น้ำท่วมฉับพลัน น้ำไหลหลาก\"",
@@ -1986,20 +1986,6 @@
    },
    "incident_id": "fr_news_cf413ac814ee5f6fcdfc",
    "id": "cf413ac814ee5f6f"
-  },
-  {
-   "title": "นายก อบต.หงษ์เจริญ ผนึกกำลังท้องถิ่น ดันฝายทับอินทนิล–ประตูคลองอธรรม เสนอประปาภูเขาแก้ภัยแล้ง 3 ตำบล",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Z2tmWVl5Szh6YkFGSjhmTWtVYlg3QUpFRHRTd2xjTWVQYVEyWFF5eE5IeHBmTDc1aVRjTm84TmRMNVVmUnhLVjN4Um5mcXM?oc=5",
-   "time": "2026-11-10T14:28:16Z",
-   "location": null,
-   "id": "672a87e7bb54999c"
   }
  ]
 }
