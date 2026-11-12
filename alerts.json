@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T22:13:32Z",
+ "updated_at": "2026-11-12T22:26:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
+  "flood": 40,
   "flash_flood": 15,
-  "storm": 15,
+  "storm": 14,
   "landslide": 8,
   "earthquake": 15,
   "wildfire": 1,
@@ -287,18 +287,18 @@
    "id": "0d164ab59321ec14"
   },
   {
-   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
+   "title": "กรมอุตุฯ ประกาศ ฝนลากยาว 3 วัน หวั่นเกิดน้ำท่วม เปิดชื่อจังหวัดฝนตกรายวัน",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
-   "time": "2026-11-11T03:26:00Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1STm1MengxejZRbHN3R2ZieDJqNHZzVVJUTW1kVU1OMjFFcjM5X3lPdjdhLWExMnMza1JNZ0R0R0NkTHdLWU1hSUJkRGpyM1gyTzhTRE54cS1tR21BcHZxOEtPZUdtdw?oc=5",
+   "time": "2026-11-11T02:02:10Z",
    "location": null,
-   "id": "85206bc60810e723"
+   "id": "847b2491232f8361"
   },
   {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
@@ -712,7 +712,7 @@
    "official": false,
    "source": "LINE TODAY",
    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVmVxbnlGS3N3NEVwNi1TSGpFYkR0NlFaQzUxSThlSGNBVjY4bHdOa25DdW5YR0VMd1BILXVfRmNHSThkSFZqemdXZDMyaUhTRFFySXF3?oc=5",
-   "time": "2026-11-12T10:22:49Z",
+   "time": "2026-11-12T11:02:43Z",
    "location": null,
    "id": "8547830a05348efe"
   },
