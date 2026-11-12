@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T07:34:16Z",
+ "updated_at": "2026-11-12T07:49:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 27,
-  "flash_flood": 15,
-  "storm": 13,
+  "flash_flood": 13,
+  "storm": 14,
   "landslide": 10,
   "earthquake": 15,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 2
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในช่วง 6 ชั่วโมงข้างหน้าของวันที่ 12 พฤศจิกายน 2569 ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTi1DOWozbW51TTZwanNvYk90SHFrczRadS1RNHZjZmlYS3BVbUR1SlFnN05zSEUtaU9ra0ljNHBaYVdrR2pZQTI4dHFYd3I2SkdTbnhwN1RWODAwSUFtdkUxZTcyYnRkdExzeC1VazNrQUlnbnR0ZG9UWG1qWmVNVlBGUFpDcWRxM09FVWlRMXd3VVVFUWtCT29kOTRlMVVocDRKSWRlVjlTcHlEYmhzSm53?oc=5",
+   "time": "2026-11-12T07:36:24Z",
+   "location": null,
+   "id": "c42b17edef919c81"
+  },
   {
    "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
    "summary": "",
@@ -673,20 +687,6 @@
    "time": "2026-11-12T02:10:26Z",
    "location": null,
    "id": "e4bb627c0052fadd"
-  },
-  {
-   "title": "ฝนตกหนักทำให้เกิดดินถล่ม ดินและหินไหลทะลักลงมาบนทางด่วนจี๋ถัน-วันฟอง ส่งผลให้การจราจรติดขัดอย่างหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR09vQ2NUaDVsSWtvZUpyZ29iU2lYMjNQd2VDWlZSUC1BYkItdkFqRHdGX3g1WVpWYzM3UmhxWS1yZGFlZnJyT3RMaEIwQk1WUWxDWnJpNTNFU1l1XzExX1RpU0dlUU9RS1lNbFotRV9JeUpVTDh2SmNYby1NUEYwNnlqQV9kd0dCZ0RBNG1VUUpWelVOTW9ickhkRl9icktTay1NanVLVGNiTnJoNFpnZW1R?oc=5",
-   "time": "2026-11-12T01:12:49Z",
-   "location": null,
-   "id": "e8ea3ad7627bd33a"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ต.เชียงของ อ.นาน้อย จ.น่าน (Tambon Chiang Khong, Amphoe NaNoi, Nan)",
@@ -1452,18 +1452,18 @@
    "id": "20b07ac1ef19c9e2"
   },
   {
-   "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
+   "title": "อุตุฯ เตือนใต้ฝนถล่ม 11-13 พ.ย. 3 จังหวัดเสี่ยงฝนหนักมาก ขณะไทยตอนบนอากาศเย็นลง-ลมแรง เตือนเรือเล็กงดออกจากฝั่ง",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
+   "hazard_type": "storm",
+   "severity": "medium",
    "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPMlF5TkJrMFVtWWcxTWZKYlZvcUF4QlRkNDNXY3YxOE9pS1JxVkxWRW4wUTlaNk5sb1Y1ZnJ5ZzRQak5nS3YzeGFfTWlzUC0tX1ZZOWVaZHRUcEROeTFQYUt4Q0J1OE9NbHdvdGxXdW1OYUJJNERLeC14bG92VWl0RDdweXlUa19DVm00ZkxxYUNPTWZVT3pIalJXN21CRXBfTjk5cEs5SFE4TEtuV0lKNTBoOTc2U042bTV0SF9weXBPMXpUMnUxRmc1LW9rNnY0WG5IZnNuaHhKQk8yQ1B1TUZlbWFOUThkY1JHLU1wM1RYUTBCMjVhdk1ULTZNOXZtMUp6Z0loRmp3MVlqbk5FQnlDS0lpWmRVWDBxbG50R2dQeGhBUUpyTW9qdE9YOS02N2VNaFFfeTBRY2F4Slp3YWJueTVEeG51TnhFRXpzRmRxVTluSjNhRFhRTmsyR19tX181NF80X0FzRnROMnFiMG00NWZac3pxVHBmaS1tQWZsNWgwaTFNWnh5bjkwYU44aDZkZVAtVE5FUnA2V1gxX0hBQ1lIS0ZKVTluY1pObE51ZUxDRzl5NVNfU2EwbmtodGp2MTBodFN6ZEhvc2QtOTdLNGhINUtmVEFJdUVXcEVqdVhWeXhCSWw4eU8xaExwMkV6aGY0UFprbzByalZ0Qy1idkxRQ3JYZnlpcFpFbUl5ZEJpX21zcDFnX1F4bURrUTNtM2oxb091VGI2RGR6RWtreE9lckFGUkRZYW1pSTdzdzJTUENtZXRIem5vT0lPNEY5bVZkSnJyb1gyeEZ4azZqcFBGR3VFRG5nZUdPNUJHaUZLV00wYTI0aHBnZmNUeHhGekU5Zmg3VlpGOFlCelM3anJtU08taXhzN2RSRDhObmVMdjdVMjdSMkw0TC02eUJXTndYV1UyZUJqTGtTb2wzTzUwRHlHY2F4VFFSeFQ2N1RnVFFRME93ZUd3VkU0WG41ejBIZThxM0Z0WXJHN1BGWkZlQ09jZFJUSGtETThhTHBNVDFCQTVZWjFkQmRPVnktOHdxd0N1bHZ2emhiZ0xqOHFnOEJ1aW14MDhXZnpVdkpFN1ROR2lyQlBPU0NIRWNNVE5fNW9RLU9UR0tJdVcwRWdrT1hJMzhKMlVoQkVEQzU0ckV4N1Znd21HLWJQTjZ3WmxBZ0h2b0lTZkhmLUdn?oc=5",
-   "time": "2026-11-11T03:08:35Z",
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MYmxBZmJnazQ4ZHhLQ01YOG9ReHBpMU54eDQ2Tzc0dWFmRFppdG95UnVZZ29wS2lqQlV5S1JWNVFnak5rQTc4ZTZ1Vi1lZGM?oc=5",
+   "time": "2026-11-11T02:43:35Z",
    "location": null,
-   "id": "e92b01f65495c5b0"
+   "id": "78d86e692a1c0d30"
   },
   {
    "title": "ชาวนาชัยภูมิอ่วม! ภัยแล้งทำข้าวผลผลิตลด ซ้ำค่ารถเกี่ยวพุ่งไร่ละ 800 บาท",
@@ -1832,32 +1832,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "🚨 แจ้งเตือนเฝ้าระวังฝนตกหนัก จังหวัดภูเก็ต ระหว่างวันที่ 9–13 พฤศจิกายน 2569 เฝ้าระวังสถานการณ์ฝนตกหนักถึงหนักมาก ระวัง 5 ภัยเสี่ยง 🌧️ ฝนตกหนักถึงหนักมาก 🌊 น้ำท่วมฉับพลัน ⛰️ น้ำป่าไหลหลากและดินโคลนถล่",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMirwdBVV95cUxQN3I3ZzlkcTNjRzVpdEFaUTItM0pzZ2RrMHdHRVJwaE5XdzhBb0pOaEhBUzYySnB0TDVjb2o4TkFYS0x1YUlSLWVJTVBhYUt5SXktNVFka2R3d0lCLV92UDFmemM4SHlUdVlkYm5MZ2ZyR3BwUWdmaW9RZjN3TmtuSTJuUW1jU21SWFhSbFg4Q3BpeHRiZGd4TXVFOHZoaEpOSm1HX1gzUERuTHZjaEc2aWdNdVNKNnQteUJTZ3l3RDlMU0d1akZocURULURKeUZGeTZrSUQ5S2pMUDFYQ0FTQUdhZ1EzNXJzT1VSeF9vVjdoQTljSkpOSkI5RzI4TDhTV0FyYlQxc1ZwUzd0c19URU9oZWpESl9pM3pXTmM3MW5HLVpucVR6TUVwZUdOaFNneUJoZWVrNnVIb3FsUkZaeDJ5SUZzamQxWXA4YV9rQmhjS3FHNXgyZDl2cnR2OTdueWI3NFR3M3lJTUxIbmQyaDN2eVZqRkhWdjUydE0xczQ5eHdVcWduSjFLM0Z6eTROX0ZGS2Q4QkgyR3dxRWZUdEhjcU9uY21XMTh0WXRWemhEY01QMmJjR0EwV0hjaHdaM1plNlM0V3ZmcThPZjZoZWV5d3JiMHJaNkpaS0xfQzBKdTZORnJsSnlQalQ4YUFwWjRlYkVGN3dzcmN1SnIwV3JsX2FGQ1VST1N6Rm9DLS1QekE5YmhUMDlCZ3hVanZ3Q1hkVElrVFNfdjltaEZ5WjhIcmJxSk9zX1lvbUw5c00zQ0x3M0RFcWhpVkVZTm1ma2NfRW4zcllFS1o1Mk82NDdpZUtoSFNlbzBUcDlBZkNRNEVLQkd5OGhNb0tUTFYxckN0YU5Bd3dQdnlBME1lemJUZjRnTUd5QjI2cjd1akRpeHplNG9ITEJjamd6WGEyR2dPUGtNU0NLN1h4LVVNM1VwZ2pFNmI1X3JjcDNJQTdpNE5YYWNFMVBKdDJyUi1UNjhVRU5Tc3hvMVpoUnh5SEpZeTZhbzlaU2JMZWc4TE42WG5NdGx1SXAwa0k5TjhBeTBPb2hkTjFhQ01iZDR1X1drS3lxRUxwaFI0VWFGT2VYRllEZDZBQUJDRUJWQWxGTUl0NVVYUlhYakxwcVlnc3RxNWxkZ3VZb21NMDVQWUxRTnMtZE01cXZjVFlpamZ5UWJaRzJOT3pVdzZvMVJyMVJkamYwby1Xb1hEZDBVblFaV00wbW16dVhXb21IbFltX3A4RXZwMGZ0aUt0eHM0?oc=5",
-   "time": "2026-11-10T07:35:17Z",
-   "location": null,
-   "area": {
-    "code": "TH83",
-    "level": "province",
-    "name": "จ.ภูเก็ต",
-    "bbox": [
-     98.262,
-     7.767,
-     98.441,
-     8.199
-    ]
-   },
-   "incident_id": "fr_news_7c0bfd250bc892e65eab",
-   "id": "7c0bfd250bc892e6"
   }
  ]
 }
