@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T01:45:41Z",
+ "updated_at": "2026-11-12T02:02:37Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -209,6 +209,20 @@
    "id": "847b2491232f8361"
   },
   {
+   "title": "สภาพอากาศวันนี้ 11 พ.ย. 69 กรมอุตุฯ เตือน 5 จังหวัดภาคใต้ ฝนตกหนัก - อากาศวันนี้ | กรมอุตุนิยมวิทยา ข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cDdSMlllVjgxaWVHRHVYRmVCUXZ1dE9zTWRPcjVfTUVOSDNyYkZDRkM5V3hob0VXYmh0RVFhcTB4czM5LW5RMXZyWTJCRF9wT3BZZGNXNy0wT2gxdXR2UFpaaEhZSUU1RUxLRmZB?oc=5",
+   "time": "2026-11-11T01:18:00Z",
+   "location": null,
+   "id": "b0cf09d0b5ec8ae8"
+  },
+  {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
    "summary": "",
    "category": "news",
@@ -329,32 +343,18 @@
    "id": "c66b8d445bce8cc7"
   },
   {
-   "title": "อุตุฯ ประกาศเตือนภาคใต้ฝนตกหนัก ฉบับที่ 4 ขณะที่ \"อีสาน-กทม\" อุณหภูมิลดอีก 2 องศา",
+   "title": "กรมอุตุฯ เตือนด่วน! 14 จังหวัดเจอฝนถล่ม น้ำท่วมฉับพลัน 10-13 พ.ย.",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEYWxSN2hLSjFWMzRsQ0dDU3FuLTRZZ3czRkpOZDVXeUlJSkZQdjJrbXpxUFlLVU9QS3cwaVNsdS1oTFpfUGJvdWdFWXg4Sm9SalQtdC1fbm0?oc=5",
-   "time": "2026-11-10T02:01:00Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kSTJkQ2d4M3RZQmFYLW0zcDcwOEhDRmRBNWpHVEprNFdmdVhRdlhWVjAxVXJmN1FyM0lyVkJrODZZMDZadjFrZWVFZ2pXZFNOWV9tN1pJSkstR3pFeEdIYXhaYVVFQQ?oc=5",
+   "time": "2026-11-10T02:22:00Z",
    "location": null,
-   "id": "b15bb5fb7b15686a"
-  },
-  {
-   "title": "กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SeFl2b1UzU1FkUUIwRG5SZnphMnZHOVNxSGZfVzlWUHJ6My1wdUZmWWZWMmd3VGR2bFpUVFZQMzhhWjBKNlNSNDhkNFlKb3hoQktUNzI1YTF0UXItSWJmaGg5Wk9nX1RLMGkzc0FB?oc=5",
-   "time": "2026-11-10T01:48:30Z",
-   "location": null,
-   "id": "12634b431a5e2537"
+   "id": "f8e2c2eecb91101e"
   },
   {
    "title": "ฝนตกหนักทำให้เกิดดินถล่ม ดินและหินไหลทะลักลงมาบนทางด่วนจี๋ถัน-วันฟอง ส่งผลให้การจราจรติดขัดอย่างหนัก",
@@ -746,6 +746,20 @@
    "time": "2026-11-11T10:17:41Z",
    "location": null,
    "id": "489613fe3ac80884"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
+   "time": "2026-11-11T10:15:46Z",
+   "location": null,
+   "id": "17cc5dcad884f35f"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
@@ -1746,32 +1760,6 @@
    "time": "2026-11-10T02:58:45Z",
    "location": null,
    "id": "e4bb627c0052fadd"
-  },
-  {
-   "title": "คพ. ลงพื้นที่ตรวจสอบแม่น้ำปราจีนบุรีเน่าเสีย-ปลาลอยคอ คาดสาเหตุน้ำหลากพัดซากพืชเน่าสะสม เผยค่าออกซิเจนจุดรับน้ำต่ำวิกฤต",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42SVJGX3psN192TFZSMHdkODBOazlmcDRoRVhITENZWlRZRTBvLXRXZEVIcTdlVjhLLW14TFdtNElEQzBwNGk3WFFRYUVVdjM2NERSWURoR3c1WF8xUmZyVzdFS2JSX0J0Ty1oV181STlLRUIt?oc=5",
-   "time": "2026-11-10T01:52:46Z",
-   "location": null,
-   "area": {
-    "code": "TH25",
-    "level": "province",
-    "name": "จ.ปราจีนบุรี",
-    "bbox": [
-     101.138,
-     13.584,
-     102.124,
-     14.462
-    ]
-   },
-   "incident_id": "fr_news_3e986d3e412913405365",
-   "id": "3e986d3e41291340"
   }
  ]
 }
