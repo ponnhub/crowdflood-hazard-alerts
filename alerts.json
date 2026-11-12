@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T05:33:56Z",
+ "updated_at": "2026-11-12T05:40:52Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 25,
-  "flash_flood": 13,
+  "flash_flood": 14,
   "storm": 14,
   "landslide": 11,
   "earthquake": 15,
@@ -42,6 +42,31 @@
    "time": "2026-11-12T04:52:13Z",
    "location": null,
    "id": "60ae39ecd676fccf"
+  },
+  {
+   "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wWmx0VWRfZFMyNG80RlZPR2lhWkNuX05ha3BsUThiYk1XU05lSXFsMDVvZ3hhUDVzUWxWTmJ6Y3QxTWdmUHNDczJFTmhpTm54cGJLODNyNkhmLVVkX0sxaXQ2NjFQdw?oc=5",
+   "time": "2026-11-12T04:47:33Z",
+   "location": null,
+   "id": "3e01546b962289c8",
+   "area": {
+    "code": "TH84",
+    "level": "province",
+    "name": "จ.สุราษฎร์ธานี",
+    "bbox": [
+     98.443,
+     8.303,
+     100.09,
+     10.125
+    ]
+   }
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -468,6 +493,20 @@
    "time": "2026-11-12T03:29:52Z",
    "location": null,
    "id": "18fdd0079fb8b979"
+  },
+  {
+   "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNmpBTUpmS2Fkc2RGUFhxakg5ODNqZEp5VjdDXzM0Z2w2aXBvekZEZ3hMNnlTYUpwMjNUb0dOR2Z4OUg1LTNUUllNYlF5VDV5UHZmVHNwcl9NandX?oc=5",
+   "time": "2026-11-12T03:20:28Z",
+   "location": null,
+   "id": "519d7da56e731678"
   },
   {
    "title": "เช็กอากาศ 12–20 พ.ย. เหนือ-อีสานเริ่มเย็น ใต้ยังต้องระวังฝนหนัก! 🌬️ 12–13 พ.ย. ประเทศไทยตอนบน จะมีอากาศเย็นในตอนเช้า ⚠️ ภาคใต้เฝ้าระวังฝนตกหนัก-หนักมาก โดยเฉพาะฝั่งตะวันออก 📍 14–17 พ.ย. ฝนเริ่มลดลง 🌧️ 18–20 พ.ย. ฝนมีแนวโน้มเพิ่มขึ้นอีกครั้ง #กรมอุตุนิยมวิทยา #พ",
@@ -1876,20 +1915,6 @@
    "time": "2026-11-10T06:30:00Z",
    "location": null,
    "id": "e7eab69ee5e59698"
-  },
-  {
-   "title": "\"earthquake\" ญี่ปุ่น วิเคราะห์ความน่ากลัว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID InTrend",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95X0loOEt4Ql83b3BDY05PNzJKOEZ3VlhoTXdITE9yTjV5TUZRcjJUOXExUjFwQ0hMZjg5ZFEyRm95cWZucnlUbjdobHhuQ0E?oc=5",
-   "time": "2026-11-10T05:38:15Z",
-   "location": null,
-   "id": "fa57a058ce648f47"
   }
  ]
 }
