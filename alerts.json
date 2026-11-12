@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T20:44:23Z",
+ "updated_at": "2026-11-12T21:02:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 8,
   "earthquake": 16,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 7,
   "heat": 2,
   "tsunami": 0,
@@ -766,20 +766,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
