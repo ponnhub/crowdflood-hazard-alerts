@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T02:28:27Z",
+ "updated_at": "2026-11-12T02:46:52Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 18,
-  "flash_flood": 11,
-  "storm": 21,
+  "flood": 20,
+  "flash_flood": 12,
+  "storm": 17,
   "landslide": 12,
   "earthquake": 15,
   "wildfire": 0,
-  "drought": 9,
+  "drought": 10,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -72,18 +72,18 @@
    "id": "9f03560847efab7c"
   },
   {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
+   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "drought",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-11T23:02:52Z",
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2xPOXF0VF81VmtCeGhFSDJxSlVxOVczdEZwRUpwV2k1ckozYlAwcmt0SzBqSWR4Sm5VanhfTlpUbk5uakZFRW01QV96Yld4WjgwR2hOMXhiWjUzOXNKd3g3ejBkUGVsTjhoczNWek1nZDN0Z3l3NTJsVmxEdzJ0enlJc2JzMTFES0E?oc=5",
+   "time": "2026-11-11T22:38:05Z",
    "location": null,
-   "id": "e9a5a74c6159ab01"
+   "id": "05f810f8ebe25ec6"
   },
   {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
@@ -109,20 +109,6 @@
      10.184
     ]
    }
-  },
-  {
-   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xY2RNblJDazdNVmdGSmlLRmRUT2ZkV0VHdlNIaV9RTmpxVTUxTGZyV3B3a1oxTGFLVnZ2cm5KZmwxUEpkMjA1VXdURGZZb243SzhSNUpR?oc=5",
-   "time": "2026-11-11T09:26:53Z",
-   "location": null,
-   "id": "416dd136d9a6e834"
   },
   {
    "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
@@ -276,6 +262,31 @@
    }
   },
   {
+   "title": "ปภ. แจ้งเตือนพื้นที่จ.พัทลุง ฝนตกสะสม ระวังน้ำท่วมฉับพลัน-ดินโคลนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zbWViMjd5QjRjWG5JV1ZtdTNTeWdvZ21GT2xWYUNZdEdHNEFPVHBBdDE0aUxqWEt5MGFhTlQ3S05lVzV6QklxeGM5ZmhtR1NYQTBjaUxR?oc=5",
+   "time": "2026-11-10T03:14:00Z",
+   "location": null,
+   "id": "38fbe071629420cb",
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   }
+  },
+  {
    "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -301,18 +312,32 @@
    }
   },
   {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
+   "title": "เตือนเฝ้าระวังน้ำป่าไหลหลาก หลังฝนตกหนักในพื้นที่ภาคใต้ฝั่งตะวันออก",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "จส. 100",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVTFxZlN0VUdJdHJLNXFDSUYxUjlJVVdsMERTbWZBMG40dXl0UXlpcXdfTlBSSU12RmFPZkZmMTloWFJLaU8wX3drRk9fT0VvLUIzSlRONHYtZw?oc=5",
+   "time": "2026-11-12T02:44:27Z",
    "location": null,
-   "id": "c66b8d445bce8cc7"
+   "id": "5d945849b7a9ad82"
+  },
+  {
+   "title": "ลมหนาวเริ่มอ่อนแรง ยังไม่มีวี่แววจะหนาวต่อ ส่วนภาคใต้ฝนหนัก-คลื่นแรง ระวังน้ำท่วม 12-13 พ.ย.นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5leWZsYVQ0aHk4SHpTcTZOc2lldTVyLTVKWU9DV3k2dnF2eHBDOFF1WnJhNzkyQnAzN25LcWtqb0d2TzRYU1VrSkE3RkMwMHpGUzcw?oc=5",
+   "time": "2026-11-12T02:30:00Z",
+   "location": null,
+   "id": "463e71a83b25c454"
   },
   {
    "title": "การตอบสนองเชิงรุกต่อฝนตกหนัก น้ำท่วม และดินถล่ม",
@@ -341,6 +366,26 @@
    "time": "2026-11-12T02:22:38Z",
    "location": null,
    "id": "2b30ac0ce5c5ed82"
+  },
+  {
+   "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
+   "summary": "นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบกรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเสี่ยงอุทกภัย เตรียมเครื่องจักร เครื่องสูบน้ำ เครื่องผลักดันน้ำ และเจ้าหน้าที่ให้พร้อมเข้าปฏิบัติงานตามแผนรับมือสถานการณ์อุทกภัย ปี 2569 เน้นย้ำให้ทุกโครงการชลประทานติดตามสภาพอากาศ ปริมาณฝน และสถานการณ์น้ำอย่างใกล้ชิด รวมทั้งบริหารจัดการน้ำและเร่งระบายน้ำในจุดที่มีความเสี่ยง เพิ่ม",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/pr-news/news_10469271",
+   "time": "2026-11-12T02:14:16Z",
+   "location": {
+    "name": "อ.พระพรหม",
+    "lat": 8.3252755,
+    "lng": 99.9290811,
+    "precision": "district"
+   },
+   "incident_id": "fr_rss_80099c30d1b8336b6a8e",
+   "id": "80099c30d1b8336b"
   },
   {
    "title": "ปภ. อัปเดตประกันภัยพิบัติ อนุมัติจ่ายแล้ว 5,635 ราย รวมกว่า 65 ล้าน | The Bangkok Insight",
@@ -620,7 +665,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "มติชนออนไลน์",
+   "source": "Matichon Online",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
    "time": "2026-11-11T12:36:41Z",
    "location": null,
@@ -732,34 +777,6 @@
    "time": "2026-11-11T10:45:32Z",
    "location": null,
    "id": "cb87edfd5b817c01"
-  },
-  {
-   "title": "เกิดดินถล่ม ทำให้หินและดินไหลทะลักลงมาบนทางหลวงหมายเลข 1D ในจังหวัดเกียลาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSF85N0U5V3lGLTkxN01iOXFpa2RqdXRtVkU5UHR0SmNtR0RIRHhxa2xLSl9YMk5VZEdpMGRYNXUwZjdSMEVXSWNRbkxaZ09IOHFfT29lWGl5RVFTbnlGa3BWc2dybGdiMUhSRmNHWWxRTWc5VlZTcnpMY21GUQ?oc=5",
-   "time": "2026-11-11T10:17:41Z",
-   "location": null,
-   "id": "489613fe3ac80884"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
-   "time": "2026-11-11T10:15:46Z",
-   "location": null,
-   "id": "17cc5dcad884f35f"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
