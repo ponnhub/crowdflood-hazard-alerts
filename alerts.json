@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T11:25:24Z",
+ "updated_at": "2026-11-12T12:04:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,58 @@
   "other"
  ],
  "counts": {
-  "flood": 35,
-  "flash_flood": 16,
-  "storm": 10,
-  "landslide": 8,
+  "flood": 34,
+  "flash_flood": 17,
+  "storm": 8,
+  "landslide": 7,
   "earthquake": 14,
   "wildfire": 0,
   "drought": 9,
   "pm25": 5,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
   "other": 2
  },
  "items": [
+  {
+   "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSGRaakRpTjhrZjZ6VnZmSHc2Vms3QXp1RUMwTWZoVHhVdWJCdjJHQnFtTDRWMmlBWEk5a0p5R1cyenNhT2doOVc1VGJJVmw1amFsMy1vQ3hxNTZvaE92bzdaYjkwZw?oc=5",
+   "time": "2026-11-12T11:51:00Z",
+   "location": null,
+   "id": "4d394b055ec52d41",
+   "area": {
+    "code": "TH8604",
+    "level": "amphoe",
+    "name": "อ.หลังสวน จ.ชุมพร",
+    "bbox": [
+     98.882,
+     9.793,
+     99.18,
+     10.072
+    ]
+   }
+  },
+  {
+   "title": "กรมอุตุฯเตือนภาคใต้ 12-13 พ.ย.ฝนตกหนักถึงหนักมาก เช็กพื้นที่เสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBWnp0Q1lfa2F6ZHAxR0ZFQ3R2NDBQeGFWVGJoUkpIQllxSnRUV3ZmMTlFdTlsLVZVY2VGRFNVWlBfRjdCSmRCQnZhZnVFZlFONjFKVG9pZ1IwckJG?oc=5",
+   "time": "2026-11-12T11:43:00Z",
+   "location": null,
+   "id": "ec418a39b297786a"
+  },
   {
    "title": "กรมอุตุฯ เตือนฉบับที่ 9 ฝนตกหนักในภาคใต้ เปิดชื่อ 15 จังหวัด เสี่ยงฝนถล่ม วันพรุ่งนี้",
    "summary": "",
@@ -56,20 +95,6 @@
    "time": "2026-11-12T10:07:00Z",
    "location": null,
    "id": "e8afbb44e91b119a"
-  },
-  {
-   "title": "มีการออกประกาศเตือนภัยดินถล่มครอบคลุมกว่า 220 ตำบลและเขตในภาคกลางของเวียดนาม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnVVS1B3UFlndHRBQTlTTmJhRG1EM01TT1NGd2h5c3I4UUpBVEpFNjNOOVU0bTZrbnpjTW1KUHRvUVJkalVKeGxHUGZ0WWk4ZGNMVnFZQVhSTERNamZFVVZYc3QzWjhEUTBQUm9SVUMyQlVsTWVqMzVwZldXdm9WN2hiTFlGMF9qa1p5ZUhmcw?oc=5",
-   "time": "2026-11-12T09:36:30Z",
-   "location": null,
-   "id": "f18a0878f90bd0c6"
   },
   {
    "title": "ประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ในช่วง 6 ชั่วโมงข้างหน้าของวันที่ 12 พฤศจิกายน 2569 ตั้งแต่เมืองเว้ถึงจังหวัดคั้ญฮวา",
@@ -215,48 +240,6 @@
      10.184
     ]
    }
-  },
-  {
-   "title": "เตือนน้ำท่วมใต้! ปภ. จับตาฝนตกหนัก 2 ระลอก พ.ย. นี้ คุมเข้ม 5 มาตรการ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hV2pXSHJvNHpEMEZvbTlHa3hQWTFmZi0wYUx4M2FqOFh1Z1h2ZXFrNDZFb3p4WTJvanhMWWZvbFdSaHgwcXlURkRfRDFfWjBiRWk2WHB4MUJNdU1jbFlMdmpNWXRIUQ?oc=5",
-   "time": "2026-11-11T09:52:00Z",
-   "location": null,
-   "id": "0d164ab59321ec14"
-  },
-  {
-   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
-   "time": "2026-11-11T03:26:00Z",
-   "location": null,
-   "id": "85206bc60810e723"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศ ฝนลากยาว 3 วัน หวั่นเกิดน้ำท่วม เปิดชื่อจังหวัดฝนตกรายวัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1STm1MengxejZRbHN3R2ZieDJqNHZzVVJUTW1kVU1OMjFFcjM5X3lPdjdhLWExMnMza1JNZ0R0R0NkTHdLWU1hSUJkRGpyM1gyTzhTRE54cS1tR21BcHZxOEtPZUdtdw?oc=5",
-   "time": "2026-11-11T02:02:10Z",
-   "location": null,
-   "id": "847b2491232f8361"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
@@ -951,6 +934,20 @@
    "time": "2026-11-12T02:24:36Z",
    "location": null,
    "id": "4a5f28918c757e52"
+  },
+  {
+   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
+   "time": "2026-11-12T02:22:38Z",
+   "location": null,
+   "id": "2b30ac0ce5c5ed82"
   },
   {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
@@ -1854,26 +1851,6 @@
    "time": "2026-11-10T14:28:16Z",
    "location": null,
    "id": "672a87e7bb54999c"
-  },
-  {
-   "title": "ครอบครัว 3 ขวบร้องไห้ระงม รถพยาบาลพาส่งรพ.พร้อมญาติชนต้นไม้เสียชีวิตคาซาก 4 ราย สลดจนท.กู้ชีพด้วย",
-   "summary": "ครอบครัว 3 ขวบร้องไห้ระงม ป่วยญาติเรียกเจ้าหน้าที่กู้ชีพรับพาส่งโรงพยาบาลท่ามกลางฝนตกหนัก ไม่ทันถึงรพ.ท่าศาลา รถตู้กู้ชีพเสียหลักลื่นหมุนฟาดต้นไม้ยับ เสียชีวิตพร้อมญาติ เจ้าหน้าที่กู้ชีพด้วยรวม 4 ราย คนขับอาการสาหัส เมื่อเวลา 14.53 น. วันที่ 10 พ.ย.2569 พ.ต.ท.สมชาย มวยดี รอง ผกก.(สอบสวน) สภ.ท่าศาลา จ.นครศรีธรรมราช รับแจ้งอุบัติเหตุรถตู้กู้ชีพเสียหลักชนต้นไม้ริมถนน ขณะนำผู้ป่วยส่ง รพ.ท่าศาลา มีผู้เ",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/around-thailand/news_10467546",
-   "time": "2026-11-10T11:42:17Z",
-   "location": {
-    "name": "อ.ท่าศาลา",
-    "lat": 8.7060315,
-    "lng": 99.8956014,
-    "precision": "district"
-   },
-   "incident_id": "fr_rss_14757629bcdb835289dc",
-   "id": "14757629bcdb8352"
   }
  ]
 }
