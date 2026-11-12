@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T10:32:15Z",
+ "updated_at": "2026-11-12T10:41:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -24,7 +24,7 @@
   "wildfire": 0,
   "drought": 9,
   "pm25": 5,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
   "other": 2
  },
@@ -37,11 +37,11 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RV1czTjN0ci0xSm1GX1NGYWkxaWMyVVdQcl9Od1MyalBYYTlQdWt0VWh1X2ZScnVhT2d6dGtqMWVxempybkVmOTRpZllwZnUzVnJ0MGln?oc=5",
-   "time": "2026-11-12T10:24:16Z",
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MRTJGckd2cFJ6dnJxSGlIRDNJc0tZVWJZU1N4QWI2VG5MV2RjSmFHSHR5WHR2R3NVVWxuX0JMZHZQaHBkeWNOU3BfZURHQmpEQnVDTjNuQXZVWUxhTkNGbXRyZw?oc=5",
+   "time": "2026-11-12T10:07:00Z",
    "location": null,
-   "id": "24305690e84255d5"
+   "id": "e8afbb44e91b119a"
   },
   {
    "title": "มีการออกประกาศเตือนภัยดินถล่มครอบคลุมกว่า 220 ตำบลและเขตในภาคกลางของเวียดนาม",
@@ -164,20 +164,6 @@
    }
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhYXJqcnF2Z3ZGRUY3NV90a0R2anNBSnZSV3NyTHJLRWpHb29UUTFNQk92VElKN0p5a1hKYi0tT2hzdllNNDZ4RUVUTnk4RndhRFZFWDZ3RERSZ1JvQUthVDVsVQ?oc=5",
-   "time": "2026-11-11T23:46:00Z",
-   "location": null,
-   "id": "ba03cdfef40fe484"
-  },
-  {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉบับที่ 8 (306/2569) วันที่ 12 พฤศจิกายน 2569 เวลา 05.00 น. 🌧️ ภาคใต้เฝ้าระวังฝนหนักถึงหนักมาก 12–13 พ.ย. 69 ฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเลสองฝั่งแรงขึ้น อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร และสู",
    "summary": "",
    "category": "news",
@@ -257,6 +243,20 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
+  },
+  {
+   "title": "กรมอุตุฯ ประกาศ ฉ.5 เตือนภาคใต้ฝนตกหนักมาก 10-13 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSUxRdE82c0pDRV9PX2dHbGVGa0dCWl8yZ0QtbXV6WUw4VXVaT1lqMkFzWE82Q1Z2S3lLOXRYOVFFdGk0MFpRdUNNR3dPaDRLQmlZUloxSEQ?oc=5",
+   "time": "2026-11-10T12:43:58Z",
+   "location": null,
+   "id": "bef368caf3a5ff92"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -891,6 +891,20 @@
    "time": "2026-11-12T02:24:36Z",
    "location": null,
    "id": "4a5f28918c757e52"
+  },
+  {
+   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
+   "time": "2026-11-12T02:22:38Z",
+   "location": null,
+   "id": "2b30ac0ce5c5ed82"
   },
   {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
