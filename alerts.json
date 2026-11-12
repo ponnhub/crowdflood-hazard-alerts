@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T10:59:58Z",
+ "updated_at": "2026-11-12T11:25:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
+  "flood": 35,
   "flash_flood": 16,
-  "storm": 9,
+  "storm": 10,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 2
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือนฉบับที่ 9 ฝนตกหนักในภาคใต้ เปิดชื่อ 15 จังหวัด เสี่ยงฝนถล่ม วันพรุ่งนี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzdW5jSTgwWjc1LVpLRjNPaEw5WWo5c3RNV19KNVMyaThST1N3X0RhSUFJOTVUbFFvdEsxb2dWS3ZSV01rRmU3Y0NSNA?oc=5",
+   "time": "2026-11-12T11:04:28Z",
+   "location": null,
+   "id": "51725fcd8f3ab543"
+  },
   {
    "title": "พรุ่งนี้หนักกว่าเดิม กรมอุตุนิยมวิทยา เตือนฉบับที่ 9 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
    "summary": "",
@@ -257,6 +271,26 @@
    "time": "2026-11-10T12:43:58Z",
    "location": null,
    "id": "bef368caf3a5ff92"
+  },
+  {
+   "title": "ฝนถล่มหนัก ชุมพร น้ำไหลทะลักท่วม ถนนสายหลัก ‘วังตะกอ’ จมผิวจราจร100เมตร สูง30ซม. รถเล็กเสี่ยงติดหล่ม",
+   "summary": "ชุมพร ฝนถล่มหนัก น้ำไหลสะสมเอ่อล้นทะลักท่วม ถนนสายหลัก “วังตะกอ” จมผิวจราจรยาว 100 เมตร สูง 30 ซม. รถเล็กเสี่ยงติดหล่ม อีกจุดใกล้วิกฤต หน้า รพ.หลังสวน สัญจรต้องเพิ่มความระวัง 12 พ.ย. 69 – ผู้สื่อข่าวรายงานว่า สถานการณ์ฝนตกต่อเนื่องตลอดทั้งวันทั้งคืน ในพื้นที่จังหวัดชุมพร ส่งผลให้มีน้ำไหลสะสมและเอ่อล้นเข้าท่วมผิวจราจรหลายจุด โดยเฉพาะบริเวณสามแยกวังตะกอ บนถนนสายหลังสวน-พะโต๊ะ อำเภอหลังสวน พบมวลน้ำไห",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/around-thailand/news_10470195",
+   "time": "2026-11-12T11:04:03Z",
+   "location": {
+    "name": "แยกวังตะกอ",
+    "lat": 9.9430292,
+    "lng": 99.0804762,
+    "precision": "place"
+   },
+   "incident_id": "fr_rss_2998aa7298d22fe12be6",
+   "id": "2998aa7298d22fe1"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
