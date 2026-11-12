@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T09:59:48Z",
+ "updated_at": "2026-11-12T10:10:29Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 33,
+  "flood": 32,
   "flash_flood": 16,
   "storm": 9,
   "landslide": 8,
@@ -243,6 +243,26 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 59 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17424",
+   "time": "2026-11-12T10:00:37Z",
+   "magnitude": 2.2,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.974,
+    "lng": 97.954,
+    "precision": "epicentre"
+   },
+   "id": "a8891e55861ad354"
   },
   {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง อ่านข่าวเพิ่มเติมในคอมเมนต์ #กรุงเทพมหานคร #กทม #ฝุ่นPM25 #มาตรการลดฝุ่น #ภัยแล้ง #ข่าวสวพFM91",
@@ -1698,26 +1718,6 @@
    "id": "276009029e6d91de"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 1.8 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 66 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17414",
-   "time": "2026-11-10T20:26:32Z",
-   "magnitude": 1.8,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.057,
-    "lng": 97.972,
-    "precision": "epicentre"
-   },
-   "id": "62f4f30923035607"
-  },
-  {
    "title": "เนื่องจากทราบว่าอ่างเก็บน้ำหลายแห่งจะปล่อยน้ำในวันพรุ่งนี้ ชาวเมืองญาตรังจึงนำรถยนต์ของตนขึ้นไปบนสะพานในคืนนี้เพื่อหลีกเลี่ยงน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -1802,32 +1802,6 @@
    },
    "incident_id": "fr_news_26b37764e309d0b23c9e",
    "id": "26b37764e309d0b2"
-  },
-  {
-   "title": "ผู้ว่าฯ สงขลา ถอดบทเรียนน้ำท่วม ดันนวัตกรรม “Hat Yai ROD” ลดความสูญเสีย",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ประชาชาติธุรกิจ",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53TFFKcWJHcV9JNW9rRHBBbExsNEhHZnBQU25PS0lucGc3ejVjdFhmS1owUEtXbHJzSXdSNGxxZ1hRY1hxdk90MnQ0dXBtYkRMcVZuQ0VvZ2hMYUppRlpNSDZ0em5IaW9KMXdTckM3NA?oc=5",
-   "time": "2026-11-10T10:04:29Z",
-   "location": null,
-   "area": {
-    "code": "TH90",
-    "level": "province",
-    "name": "จ.สงขลา",
-    "bbox": [
-     100.057,
-     6.296,
-     101.104,
-     7.936
-    ]
-   },
-   "incident_id": "fr_news_b7f4a41a1c7839ba6512",
-   "id": "b7f4a41a1c7839ba"
   }
  ]
 }
