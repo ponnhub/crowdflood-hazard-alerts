@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T00:02:37Z",
+ "updated_at": "2026-11-12T00:18:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 20,
-  "flash_flood": 10,
+  "flash_flood": 11,
   "storm": 16,
   "landslide": 12,
   "earthquake": 13,
@@ -30,6 +30,20 @@
  },
  "items": [
   {
+   "title": "ไทยตอนบนอากาศเย็น \"ภาคใต้\"ฝนหนักต่อเนื่อง กรมอุตุฯ เตือน 3 จังหวัด ระวังน้ำป่า-น้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaWJveUVSSDJUR0ZmY29WeDRrSDZSeDRCYXdPajUxdzlGMTR4VHFWQllWTFk2aWtUcHRqa3FGbWdoRjlua2EzS3VHV1FMZDUyTXpOYlh3?oc=5",
+   "time": "2026-11-12T00:12:23Z",
+   "location": null,
+   "id": "7508b3489c6cdde1"
+  },
+  {
    "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -37,25 +51,11 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZ0tuMTZNN1VnS2pDaEpvSlI2WWJNSDNlckJNYVNUVjQtdzB4ak4zV3lZenFUSDU4OUlRNWZQMEVKUzlXOHpia1dVSXZFcFFiZ2ZtelNn?oc=5",
-   "time": "2026-11-11T23:57:33Z",
-   "location": null,
-   "id": "708391296d894419"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 22 จังหวัด ภาคเหนือ-ภาคใต้ ฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
    "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLbVRPcS1STy1MSzhmSHJTUFNCR0F1bjVjeUZNOGNub2FuakdVV0RDSkhhaTFybEdIVHF0R0xoTXlOVS1OU3Q2c2RMSGpKb2lPOXZNUHlFVmZ0eEpnQ1N1NFpraw?oc=5",
-   "time": "2026-11-11T23:30:00Z",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhYXJqcnF2Z3ZGRUY3NV90a0R2anNBSnZSV3NyTHJLRWpHb29UUTFNQk92VElKN0p5a1hKYi0tT2hzdllNNDZ4RUVUTnk4RndhRFZFWDZ3RERSZ1JvQUthVDVsVQ?oc=5",
+   "time": "2026-11-11T23:46:00Z",
    "location": null,
-   "id": "25bf86978412c604"
+   "id": "ba03cdfef40fe484"
   },
   {
    "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
@@ -301,20 +301,6 @@
    }
   },
   {
-   "title": "กรมอุตุฯเตือน 8 จว.ภาคใต้ วันนี้ 10 พ.ย.69 ฝนตกหนัก เช็กพื้นที่เสี่ยงด่วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CejhEbk9NX1JqcVk4RWhWMjBDMmhNZThsQ0o2OGhmc0x3dUJjVmxldks5MDd5NHFJaWYtRFRJZHdfOXRfNDdxMnY3c2dPSmtjY1VhUU9ZQi1PNGNa?oc=5",
-   "time": "2026-11-10T02:33:00Z",
-   "location": null,
-   "id": "c66b8d445bce8cc7"
-  },
-  {
    "title": "UPDATE :​ กรมอุตุฯ เตือน 10-13 พ.ย. ภาคใต้รับมือฝนตกหนัก-เสี่ยงน้ำท่วมฉับพลัน ขณะที่ไทยตอนบนรับมวลอากาศเย็น กทม. อุณหภูมิลด 1-2 องศาเซลเซียส วันนี้ (10 พฤศจิกายน) กรมอุตุนิยมวิทยา ออกประกาศเรื่อง ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับที่ 4 (302/2569) แจ้งเตือนประช",
    "summary": "",
    "category": "news",
@@ -327,6 +313,20 @@
    "time": "2026-11-10T01:45:04Z",
    "location": null,
    "id": "9f9a1aff207e61dd"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 12 พ.ย. 2569 ไทยตอนบนยังหนาว ใต้ฝนตกหนัก คลื่นสูง 3 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uS3c1RkJ4aFV4blBGZFptRUhSMHh6Sm5HZXN3OGFHUXFIQnkyeFVXc0IzSk4yMDhZRGJpNDJWekxyOXR6Q3AwOWlPVWpZOGp4WFdB?oc=5",
+   "time": "2026-11-11T23:43:14Z",
+   "location": null,
+   "id": "ab4245274b6303d0"
   },
   {
    "title": "ขนเครื่องสูบน้ำลงใต้ ปักหลักสงขลา รับมือ ฝนแช่สะสม 13 จว. เสี่ยงน้ำท่วม",
@@ -906,6 +906,20 @@
    "id": "926050b30bbf0d9e"
   },
   {
+   "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0dRUVgwaVlqM2VSTlI0NkJLc2dkVkgxdzNhZjREeFpRcHlTRFZxcWMtXzFyOVdUeHZZeThFRlhsbnQ0dXpHdGxZdFRGR3M3Rlg3TV80SHZrQTIwYVA4LWtKdXdmS3luSzFVcnFBRWtNX0VHdHdHYmNrQllEZk8zbWFybVh0b3gtM1E?oc=5",
+   "time": "2026-11-11T07:09:23Z",
+   "location": null,
+   "id": "3456974aa13fa880"
+  },
+  {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1124,6 +1138,20 @@
     "precision": "epicentre"
    },
    "id": "0d8516ec188b1fd5"
+  },
+  {
+   "title": "อุตุฯ เตือนฉบับ 6 ภาคใต้มีฝนตกหนักบางแห่ง เผยประเทศไทย อากาศเย็นลงกับมีลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56U0o4T1cxckdpekM1NkxNTmNYLV85UWxSVzZVLVBUWTNUSDRHaDg4TnUyXzZ5b2xpSjl0a0dDS000MzdpS1hOdnVKVW1hX3FxZC1YUkVqUUE?oc=5",
+   "time": "2026-11-11T01:15:54Z",
+   "location": null,
+   "id": "cf68c2158581980f"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.5 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -1582,34 +1610,6 @@
    "id": "acfb1353b9fda242"
   },
   {
-   "title": "WMO เตือนวิกฤตหนัก มหาสมุทรเดือด คลื่นความร้อนทะเลพุ่ง 3 เท่า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWF82bWNMTW5hTmVUX2JtQVlVclExc3JvYl9iRGd0ajFpZTlVNjhLTW05VmNsYndxM1FNa3JsU3ktWk5rWmFnOEE4TWNSQUlVVVFteFl3?oc=5",
-   "time": "2026-11-10T03:00:00Z",
-   "location": null,
-   "id": "0852ea7b1d81cacb"
-  },
-  {
-   "title": "เตือน 14 จังหวัดภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน-น้ำป่า-น้ำล้นตลิ่ง ช่วงวันที่ 9 – 13 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51MVkwU2tTTnRodWkwSmJPQnZ4QWR5cjhyalFQcFl4UmhXOTdNR3g2SnNqSUc1Z3Z3ZHJZcDItcXo1dUtJR2hrUFVVSWp5MWVNV0xJWmdOQQ?oc=5",
-   "time": "2026-11-10T02:30:50Z",
-   "location": null,
-   "id": "c6433e3bbc1e7056"
-  },
-  {
    "title": "Aquatech Asia 2026 บุกไทยครั้งแรก รวมเทคโนโลยีน้ำโลก รับมือวิกฤตน้ำท่วม–ภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1674,6 +1674,20 @@
    },
    "incident_id": "fr_news_e562afeeba1bf4eabf31",
    "id": "e562afeeba1bf4ea"
+  },
+  {
+   "title": "📣🚨 ศบภ.มทบ.41 พร้อมเคียงข้างประชาชนในทุกภัยพิบัติ ⛈️ เนื่องด้วยสถานการณ์ในพื้นที่ภาคใต้โดยเฉพาะพื้นที่ จ.นครศรีธรรมราชมีฝนตกหนักขอให้พี่น้องประชาชนเฝ้าระวังน้ำป่าไหลหลาก น้ำท่วมเฉียบพลัน ☎️ หากพี่น้องประชาชนเดือดร้อนหรือต้องการความช่วยเหลือสามารถติดต่อหน่วยท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNWFdTZGdLdS1oeGVrUEp5ZWhMbXBYZldxYlc0dTRwdEMzSEF3RVRJOHdoVUVJSnZnQVZLSVhHZ2F1RTh5OFJDNGhNWHZVYUFGQ3NabE5KckptVG9oZzROd0lpQkNRMFY4WFpyWUlHUVNXS2pCRHNXRzFYX0Uyekx5eDhZQVh1RjQ3U1MtU3FibnZQdlhGNUxMTVJkb1c4V1BxbUlhZkdfSjVMS3A5dFVoRUFmVTlvdlBtTzk3TGp1NmNIT2NPSXBaaElwU3ZNejB2eDc4dnBPeXZ6VG16T09FSVhpa2EtNHJabmw0ZTloMHlOZG9JVHB1dF8yOWNhQXFzOExSVVNLM0g2UjBXWVdhTDRMQUFTSnNxcVZlcVUxbHkyVU5wQ2VOa3NZcHdYZHh3TGJacVlBNzFmMl9vUHpmN0NxN2JWdDFhMDhQc3BZNzZpbWxyZ2JIVTc5N0UwZ2RINEh1MURpbjlIS2FYdjFxUWl3LTRHWmVJRlJsZWR2cW9LVmFPSTdEbmd2MUFja0ZTaHBrYW11SmdBRnpnQ3N2N0RkYjBLV3hlRktFVEV6LVM2T2k1NXpqcERObWdYZm5ieHphTVhOWXU0SUs2eVR0TFRpcmZ0Z09EZGcxZTE0VTAwWGhINWh0ZDQ5a0dPUjczV2VmY211My1sR0EtLW5jNDFjQTZOVmJmVkNuMkt5YkRveTNRYnE3bVMxTjhuaXhDTDc2d2VCcXcwNVBWZVI5bFppakdzUnVWVjFIblpMVHVjUmlYUm5NZ3JHeExkQmNUTjBwWno4OHM5QmhiS3JxM25RNkxUWXRkQTBBUm9QTzQ0c09MY21fVHNtOXhac3dORl93WkxBUHQ3OHJScUdCLWhXMlNXYmRwXzlKVVBrVlEtd3lvcjBMRE05czB3bllsbldxZHhQMjByZC1ZSmZ1R09WbzJfaFRmSDJvY2k5MlkzV25FSVJqNFVheVJhU1dleGkzUDczQ2F0WGVTekZwZEdCS2U3ZmpZV2RjVmxXenJLNTZJNjVtU3NfcEVqSGsxNXQ2RTJqT2pUTndNUDdpM3E5Wk9LbTNyYVh3NmlKOTkyYUpsSjExdVNVVGtzUEI5WU9oX0JqUEF1OEdhYlJzYjVpMVhGOXJTemdBUGtNYVlvR0k4ZlE5ejZQYXZqcXI3Sl9nYzlTQWhVWUZ0dHhLNlRiWWgyb3E3LTdDOTIxYk95YTEwQVE1bENFU1BaSVUtb09xYU1lQzdfazRUVkVxbWQyV3FQNkxLRk9MVGRscDBEYmFBYnI3VVhKdE5vYTdCcDNkMWtKWnRFUjEyTW5DbFhzdzR1Y0FiUllQZ2tKQzY0alNWcXltM2MzV3J4bzQ?oc=5",
+   "time": "2026-11-10T01:00:00Z",
+   "location": null,
+   "id": "0570a12b2cde0727"
   }
  ]
 }
