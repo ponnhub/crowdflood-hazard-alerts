@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T19:16:56Z",
+ "updated_at": "2026-11-12T19:31:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 16,
   "storm": 14,
   "landslide": 8,
-  "earthquake": 15,
+  "earthquake": 16,
   "wildfire": 1,
   "drought": 7,
   "pm25": 7,
@@ -56,20 +56,6 @@
    "time": "2026-11-12T13:06:23Z",
    "location": null,
    "id": "a1fbd7e75c5ec0a2"
-  },
-  {
-   "title": "ภูเก็ต 3 อำเภอฝนตกหนักแล้ว กรมอุตุฯเตือนภาคใต้ฝนหนักถึงหนักมาก 12-13 พ.ย.นี้ เฝ้าระวังน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56MDAzenRhdy1mbUhjZ1BRQTlLdi1RMzhzSkRHQXNnSkVvZFpzb2R4bUdsN1VWTjF6YlRONVg2aGJtTDlRcXU3MlFBdkxZSURXZ0V5YzM5dUNBb0xEZDNaOXBtR0M1dw?oc=5",
-   "time": "2026-11-12T12:28:00Z",
-   "location": null,
-   "id": "cdab0d809946ff84"
   },
   {
    "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
@@ -681,6 +667,20 @@
    },
    "incident_id": "fr_rss_2998aa7298d22fe12be6",
    "id": "2998aa7298d22fe1"
+  },
+  {
+   "title": "อุตุฯ เปิดรายชื่อจังหวัด ภาคใต้ รับมือฝนตกหนักถึงหนักมาก 12-13 พ.ย. เตือนเสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVmVxbnlGS3N3NEVwNi1TSGpFYkR0NlFaQzUxSThlSGNBVjY4bHdOa25DdW5YR0VMd1BILXVfRmNHSThkSFZqemdXZDMyaUhTRFFySXF3?oc=5",
+   "time": "2026-11-12T10:22:49Z",
+   "location": null,
+   "id": "8547830a05348efe"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -1489,6 +1489,20 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
+  },
+  {
+   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
+   "time": "2026-11-11T13:15:00Z",
+   "location": null,
+   "id": "82ffe788907662f1"
   },
   {
    "title": "กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ | The Reporters",
