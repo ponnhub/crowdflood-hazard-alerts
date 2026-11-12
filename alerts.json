@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T08:15:24Z",
+ "updated_at": "2026-11-12T08:30:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 28,
+  "flood": 29,
   "flash_flood": 14,
   "storm": 12,
   "landslide": 10,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 9,
-  "pm25": 7,
+  "pm25": 6,
   "heat": 2,
   "tsunami": 0,
   "other": 2
@@ -42,6 +42,20 @@
    "time": "2026-11-12T07:36:24Z",
    "location": null,
    "id": "c42b17edef919c81"
+  },
+  {
+   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
+   "time": "2026-11-12T06:40:20Z",
+   "location": null,
+   "id": "a7700dea3bbe558b"
   },
   {
    "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
@@ -123,20 +137,6 @@
    "time": "2026-11-11T23:25:51Z",
    "location": null,
    "id": "9f03560847efab7c"
-  },
-  {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2xPOXF0VF81VmtCeGhFSDJxSlVxOVczdEZwRUpwV2k1ckozYlAwcmt0SzBqSWR4Sm5VanhfTlpUbk5uakZFRW01QV96Yld4WjgwR2hOMXhiWjUzOXNKd3g3ejBkUGVsTjhoczNWek1nZDN0Z3l3NTJsVmxEdzJ0enlJc2JzMTFES0E?oc=5",
-   "time": "2026-11-11T22:38:05Z",
-   "location": null,
-   "id": "05f810f8ebe25ec6"
   },
   {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
@@ -269,11 +269,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRjlDS21aQ3liNTdHTWlFT0pGR2JrNTFhbEEtX1hqa1JKZllZOWJvLXVGVlB5RENqeFVhdmdaLVMyMUNrNm5Ob3VOVGUzXzdTNGpzTTRB?oc=5",
-   "time": "2026-11-12T08:12:27Z",
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUFF6enJXS2pNbzFrRTdZN1ZyajUwRjFpZzlpQ0tPNkdJbjVqbTlqV0lUYTVnUWx5LWlnSC0zV3FqZnREZXFkOUY3a2NGdw?oc=5",
+   "time": "2026-11-12T08:16:04Z",
    "location": null,
-   "id": "8f84ece54ce85158"
+   "id": "4e70bdcde1500748"
   },
   {
    "title": "เตือนด่วน อ.เกาะสมุย จ.สุราษฎร์ฯ - อ.ท่าศาลา จ.นครศรีฯ ฝนตกหนัก เสี่ยงน้ำท่วม ดินถล่ม",
@@ -322,20 +322,6 @@
    "time": "2026-11-12T07:25:14Z",
    "location": null,
    "id": "cb210843725235cc"
-  },
-  {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-12T06:59:05Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "ปภ. แจ้งเตือนด่วน เกาะสมุย เตรียมยกของขึ้นที่สูง หลังฝนถล่ม-น้ำทะเลหนุนสูง เสี่ยงน้ำท่วมฉับพลัน",
@@ -511,6 +497,20 @@
    "location": null,
    "incident_id": "fr_news_3cb40f5ea121bff793fd",
    "id": "3cb40f5ea121bff7"
+  },
+  {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-12T04:25:44Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "จำเป็นต้องเร่งดำเนินการซ่อมแซมดินถล่มบนถนนในพื้นที่ทางตะวันตกเฉียงใต้ของเมืองดานัง",
@@ -1310,6 +1310,20 @@
    "id": "4e23b6c722a72b87"
   },
   {
+   "title": "ปภ. ประสาน 10 จังหวัดภาคกลาง และ กทม. เตรียมรับมือ ระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcE1JQmdyNExRYUhrbFlhX2hLdXp4NDlOZVZtdkQzQzlNZmVndlREQ1FXcFJYamdPYjlvMWlVMnFqR3FyTDFSc2cyajVfNEVZUnl6bzdYMnM?oc=5",
+   "time": "2026-11-11T06:45:39Z",
+   "location": null,
+   "id": "89494292ce896196"
+  },
+  {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1821,31 +1835,6 @@
    },
    "incident_id": "fr_rss_37ad8776040d98cb809d",
    "id": "37ad8776040d98cb"
-  },
-  {
-   "title": "กรุงเทพมหานคร. . 🌫️ สู้ฝุ่น PM2.5 ต้องทำต่อเนื่อง เพราะปัญหานี้ไม่จบในวันเดียว! ฝุ่น PM2.5 เป็นปัญหาที่ต้องอาศัยความร่วมมือจากทุกภาคส่วน กรุงเทพมหานครจึงเดินหน้ามาตรการเชิงรุก เพื่อลดฝุ่นจากแหล่งกำเนิดอย่างเป็นระบบ ทั้ง 4 ด้าน ได้แก่ 🚛 คุมเข้มรถบรรทุกในเขตมลพิษต่ำ (Low E",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxOVUhmaWxKV3lYQVFwVGNoU3daaENLNWRTelk0TmxlMVY3bElRZzlTQVNaS21oeHJ3MnVmR1M0RmEyNjJZWDROQUlTY3ZWR3ZOUkVUako1X0E0YTN5S28xOG1sejZmR1N1NFBRY0Rob2hSbjJVeFBBTnROU1VJUUI5bVZQTE5OdVhQX25IWDI1aXBnbWNtcmFnZm0xQWEyRVBpSEVIYjhPVkdiSC1WaXVPYVVSTFh5RWpOY1BqNVZLaV9Sa1RJcXpBWTVCZ19QN3JCOWMtYlB0bkJRRGFEZzhEaE5sTTkxa25IUDAyV1o5eUx6UDN6eHVXbC1md3RFQ01tal9peEJ4WVF4WnpOZWVSMVlfblY4S3dNTHJXMmt4U1pSU1ZiTlVwOEIxRFh6WXZsaC1lOXFzV1otQmdUdENRUzkxSFp1a0t5ZnpmOUlOMzhJdFE2bWVrOG5lZEM3cnJCU0FFOVliREwzSGtwaUdJdHVtTC1laTBLVzBHTG9IVDRKQ25DRFVTOEVkaVJ4ZkpUb2dmTW5zVFBjRml2OS0tZG5FclJUNFFxY2I5VWpWWW9GTnB1bWdyWlV6bDZOWkRieFJQQ2JYTG0wRmVYbXdaREtNem8yMWR0b3VRQnRwaVFTeGxjbVhvQk1uQnVXZ1MyWGpoSnZjRjh4WWw3RjRYMWF4MTFWU3lHM0c5ak5YRWFCRV9fekN1R0Rvd2ZLSjdVTzhqSGF0UVZxTDkzMHlvS0NINDJuQ0VNM0tmSHBhMnpjWmxLNXJ5LUdDQ2dHTGhWZU1IWDB0b1ZKeEdKTUdjc1dOQkxnbEZrc1Q5a3J5UHc0a0xrejdEdmhxRGhIQ01oM3VuN3c4d01hT1RGdkZlQlBpSE5Eb2Jta29qaC1zOF9MV2pGR2xUb3A4OWk4a2ViN3h1b1lUVG5RVWtKRlREVDVrQXR5cXJjUHFWNDBwVE9BS0k2dlJzZXdqNzU3UDdlSjJFODdRT2Iyall2dWZaUE1EMy1rNklWRFY3dkRlVFo4TkhuaDR6WU9iaG1EMkhzSG95NTF0cEdXOU9abzNHRFY5Y1NUM042Q0xsZjFvWnBqaUVkUU9kNkV1eWtNMU9DZEdzVVIxaTZyOFV2RllFZW5YWTVBcnJwVDlHZ2hWa1k1eUJ4djUwTXJlbnpjNldYdktrdWRHRFdfYkN2OTFFMEZMWk4wbzBqd0pNX0NjUlRKeldoYkNVNg?oc=5",
-   "time": "2026-11-10T08:28:13Z",
-   "location": null,
-   "id": "83569fe47e4e9cc9",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   }
  ]
 }
