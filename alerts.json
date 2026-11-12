@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T12:58:01Z",
+ "updated_at": "2026-11-12T13:10:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
-  "flash_flood": 19,
+  "flood": 36,
+  "flash_flood": 18,
   "storm": 8,
   "landslide": 7,
   "earthquake": 14,
@@ -26,7 +26,7 @@
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
-  "other": 1
+  "other": 2
  },
  "items": [
   {
@@ -137,31 +137,6 @@
    "time": "2026-11-12T06:40:20Z",
    "location": null,
    "id": "a7700dea3bbe558b"
-  },
-  {
-   "title": "แจ้งเตือนเกาะพะงัน จ.สุราษฎร์ธานี ฝนตกหนักน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wWmx0VWRfZFMyNG80RlZPR2lhWkNuX05ha3BsUThiYk1XU05lSXFsMDVvZ3hhUDVzUWxWTmJ6Y3QxTWdmUHNDczJFTmhpTm54cGJLODNyNkhmLVVkX0sxaXQ2NjFQdw?oc=5",
-   "time": "2026-11-12T04:47:33Z",
-   "location": null,
-   "id": "3e01546b962289c8",
-   "area": {
-    "code": "TH84",
-    "level": "province",
-    "name": "จ.สุราษฎร์ธานี",
-    "bbox": [
-     98.443,
-     8.303,
-     100.09,
-     10.125
-    ]
-   }
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -325,6 +300,58 @@
    "location": null,
    "incident_id": "fr_news_763f3904fecb3bc7f59b",
    "id": "763f3904fecb3bc7"
+  },
+  {
+   "title": "ทรู ถอดบทเรียนน้ำท่วมหาดใหญ่ ใช้ AI เสริมแกร่งโครงข่ายรับมือภัยใต้",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "posttoday",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUb1R2WDE0Ujk3RGRqWWQ5UmlKbjJncmpubXROa3I1anB1WHdVU2pXU2FWUml6RTd0WG9YU2p6MDh2VkhUSktuNjZwZW93b3I5Mnc?oc=5",
+   "time": "2026-11-12T11:48:00Z",
+   "location": null,
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   },
+   "incident_id": "fr_news_d87b5c677c94fb0fd7e8",
+   "id": "d87b5c677c94fb0f"
+  },
+  {
+   "title": "ฝนถล่มชุมพร น้ำท่วมถนนสายหลักวังตะกอและหน้า รพ.ลางสวน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOEpvMDdiRzl6dTFaY0xKQUMxNGc4QTVoQnZLdWl1VmRrak5nanBPc0VjX1ZxS3p1aDFIVWNWWkpYSDZNNTFkUnM5VGl0ZzdIVGZ6UzVqTFhjZlJwSEVhaUJHbloxV3NSTzZWbWFn?oc=5",
+   "time": "2026-11-12T11:17:00Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_0b44d7733ca14f8f3e84",
+   "id": "0b44d7733ca14f8f"
   },
   {
    "title": "ฝนถล่มหนัก ชุมพร น้ำไหลทะลักท่วม ถนนสายหลัก ‘วังตะกอ’ จมผิวจราจร100เมตร สูง30ซม. รถเล็กเสี่ยงติดหล่ม",
@@ -749,16 +776,15 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:58:10Z",
+   "time": "2026-11-12T04:57:39Z",
    "location": null,
-   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -769,7 +795,9 @@
      100.09,
      10.125
     ]
-   }
+   },
+   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
+   "id": "a61e89fb8f5ff977"
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
@@ -1707,6 +1735,20 @@
    "location": null,
    "incident_id": "fr_news_e21d4ff8ef1eb840a255",
    "id": "e21d4ff8ef1eb840"
+  },
+  {
+   "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QSDRIQ19tRjd3M3VMcXR0cjVBenktRHhKZWVBckVBWHB5TS1fLU9tV0JWMzI1VnNEX0syNlQ3ZnVqQkNTVzE4M0F4Q3I3azE0VjFGWjNlN3pFd1dBMUo0SU5aaUxvcDQ2UG9sN1ZR?oc=5",
+   "time": "2026-11-11T03:15:00Z",
+   "location": null,
+   "id": "20b07ac1ef19c9e2"
   },
   {
    "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
