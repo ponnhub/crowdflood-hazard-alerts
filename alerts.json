@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T15:14:45Z",
+ "updated_at": "2026-11-12T15:30:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
-  "flash_flood": 17,
-  "storm": 11,
-  "landslide": 8,
+  "flood": 39,
+  "flash_flood": 16,
+  "storm": 14,
+  "landslide": 9,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 8,
@@ -234,6 +234,34 @@
    }
   },
   {
+   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
+   "time": "2026-11-12T00:23:59Z",
+   "location": null,
+   "id": "37825e7f39a6736a"
+  },
+  {
+   "title": "กรมอุตุฯ ประกาศฉบับที่ 8 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhYXJqcnF2Z3ZGRUY3NV90a0R2anNBSnZSV3NyTHJLRWpHb29UUTFNQk92VElKN0p5a1hKYi0tT2hzdllNNDZ4RUVUTnk4RndhRFZFWDZ3RERSZ1JvQUthVDVsVQ?oc=5",
+   "time": "2026-11-11T23:46:00Z",
+   "location": null,
+   "id": "ba03cdfef40fe484"
+  },
+  {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉบับที่ 8 (306/2569) วันที่ 12 พฤศจิกายน 2569 เวลา 05.00 น. 🌧️ ภาคใต้เฝ้าระวังฝนหนักถึงหนักมาก 12–13 พ.ย. 69 ฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเลสองฝั่งแรงขึ้น อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร และสู",
    "summary": "",
    "category": "news",
@@ -285,6 +313,35 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "ภาคใต้ฝนตกหนัก! น้ำท่วมฉับพลัน กองทัพภาคที่ 4 ผนึกกำลังทุกภาคส่วน ลุยพื้นที่ช่วยเหลือประชาชน บรรเทาความเดือดร้อนอย่างเร่งด่วน 📍วันที่ 12 พฤศจิกายน 2569 เวลา 19.00 น. ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 44 เดินหน้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxNTHhVUXFVazAxSTNtOEI4dDh0YTE0UnJQTWRBVlZIVGd0Z0MyQTZ3ckhRX3c3aGNXWnFVMENxdjhXeTFLY1pOeS1FbGx0WXNlY1F2MmtCYUhDdXlaeWdCRVNfOWViT3p6ZWhpVVUzVDcxbzFGcEFSb3VEZFkweDhwVzlwNzFYTmNOUkFFeGpxUVpvYURMUkhzNERoZURPOG1HWGgyYzVZZUhpZ1dycW96S1hneGpLdWNVcnVveVZwRWp3dy1kVW1pVDdqMkdwN2dWSEdFeVJJUlZBNUJrYzdPZzBCbGdhQnlwTS10d0tjMzBhMVQ4RlQ1T2xKWU1ZY3dLbGNBd1ZEaHJQVkFKR00zZXRBeklFM1NSVW1OX29QbWVxY3N5WWZMRFUyYk5zM2FkbUhMdEMwWHBqNjdaUHMwTlJwaXI2a1BLRkd6cDhDdVRTRWlKZmJOcjZlSmdHTl9FOW1NQnNMMlVCWHRqalctNThleTVSVU9XRFJpSWZ1OWh4VGdYdVZUZ18zbnpiMnpCckFBbDh0clhPMUVlNFhOSXVBQlg0WWFEOUJLb0taMnFKRzE1SEdkdk8xT1d5UExYczZ6YXZCc1huT25zTURsMU9ib0MzQXROc29uUVdadWxwNTlsSmpCVDBaeU5BekYzZF9jc3ZQVzlVRE5MbFNBZk5SYnpDTVp4cWdvWGxJTVowWXVmUDItMlMxNW50SU1SRWJlbnVNcC1RSEV2c0xENWtrY2g2NTBTdUhnd0JHejJuNVVSc0E4TmpqRms2WGhRdXJ0U1dSVDNjUUhnNkxhSno1bFJIM3ZHNnJBZHpHVWhoajR6WnRLbVBJak82Snl2YjlxWGFGOEJIR3ZwcUNQeUJuRVJPaVo5NVcza1NpM3FLQ3dQeGJMUlhueWh3NDVyVlpURF9ibloxamxvRmZsZ1lSMFJMaHM1cnBKVlZOWHB1OU5NMGlyUmtEVnFJazk0Uzd1dXVDeWdlN0M3YWdJbjRCTEJDMTZjX00wWmZ2Z0JreDlCUnlLZ2VtWVFjendRcUNuM2pPWWRkanFuMkh1MFNSU2VpaHVfTUNySi11QWlYWmxmZHFuWXM2YktxU09pUUJMZ2NqZzdCRDB4WXpqRFZMbHBkUlpBREVKNGFiRHpPczJOay1YYWdFZXFtRndvLXpiUzdVdS12NXhNU25OelhnM3NQdS1TNW1LRkozc05lTnEweTdJdUtGbDVXcWdPQUdSbFloRW1jQ1N1UWlNazFLcnVoYTdmR2t1MkhVMTZEclM5TVZrSThDRWcwQUJaeDFuYnlLVlE5UEcyblZCTERMWS1oalF5QTU1NExfQ0dUWUZq?oc=5",
+   "time": "2026-11-12T15:24:22Z",
+   "location": null,
+   "id": "420b4cfa6cc65e3b"
+  },
+  {
+   "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 10 จังหวัด-กทม. รวม 21,755 ครัวเรือน 136.64 ล้านบาท",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbFNUbV92MU1naHJzSDE5Y2V0aWxEdEFMeVlYNHpRcWsyaHIyRG1zNHpGTWtCTHVxN2NJYWdpY3VnXzBGaGJ1dGVIY09hRmtwQjk3VVBkeTE?oc=5",
+   "time": "2026-11-12T14:55:00Z",
+   "location": null,
+   "incident_id": "fr_news_9c7a80d807b682162f7e",
+   "id": "9c7a80d807b68216"
   },
   {
    "title": "จังหวัดกวางงาย: น้ำท่วมทำให้เกิดดินถล่มใน 35 จุดตามริมฝั่งแม่น้ำ ลำธาร และเนินเขา",
@@ -656,6 +713,20 @@
    "id": "4c4d94199b3db7dc"
   },
   {
+   "title": "จำเป็นต้องดำเนินการอย่างเร่งด่วนเพื่อซ่อมแซมดินถล่มบนถนนสาย 650 ของจังหวัด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbWJ4WGl5Mm5TemhwQ1ptbmlEcmxUVEtBUU1vNV95M1dNUFR2SEJVLTZmVDJNT09WcWZfTjJuQy1LaEV2d09XWU9jdDdONTBMZUNjbng1NEF6UE1NZHhtZ2E3TTVuVWlaVi1rY1o5NnVWYV9vZThkd1dTaVY?oc=5",
+   "time": "2026-11-12T09:28:25Z",
+   "location": null,
+   "id": "53be2660c23c6505"
+  },
+  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -706,20 +777,6 @@
    },
    "incident_id": "fr_news_68c34ab860c2b208f0c5",
    "id": "68c34ab860c2b208"
-  },
-  {
-   "title": "เตือน 8 จังหวัดภาคใต้ ฝนตกหนัก 11-21 พ.ย.นี้ เสี่ยงน้ำป่า- ดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmSTZDOGFXT2dMMnFWYmtzZGZJNEZHZDR1RTNFalN1VlZhemhtMmpLUnJVX0hBUElrMEttZjhIb09LNVB4OHVmMWFsSGYzd3Y0RHl4Sko1aTRJUGg5LVpBZHpyTmNrZw?oc=5",
-   "time": "2026-11-12T08:50:20Z",
-   "location": null,
-   "id": "32396b5390a32a9d"
   },
   {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก “HATYAI GASTRONOMY REBORN”",
@@ -1894,18 +1951,18 @@
    "id": "e21d4ff8ef1eb840"
   },
   {
-   "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
+   "title": "ภาคใต้ไทยเผชิญฝนฟ้าคะนองหนัก น้ำท่วมและคลื่นลมแรง",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
+   "hazard_type": "storm",
+   "severity": "medium",
    "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPMlF5TkJrMFVtWWcxTWZKYlZvcUF4QlRkNDNXY3YxOE9pS1JxVkxWRW4wUTlaNk5sb1Y1ZnJ5ZzRQak5nS3YzeGFfTWlzUC0tX1ZZOWVaZHRUcEROeTFQYUt4Q0J1OE9NbHdvdGxXdW1OYUJJNERLeC14bG92VWl0RDdweXlUa19DVm00ZkxxYUNPTWZVT3pIalJXN21CRXBfTjk5cEs5SFE4TEtuV0lKNTBoOTc2U042bTV0SF9weXBPMXpUMnUxRmc1LW9rNnY0WG5IZnNuaHhKQk8yQ1B1TUZlbWFOUThkY1JHLU1wM1RYUTBCMjVhdk1ULTZNOXZtMUp6Z0loRmp3MVlqbk5FQnlDS0lpWmRVWDBxbG50R2dQeGhBUUpyTW9qdE9YOS02N2VNaFFfeTBRY2F4Slp3YWJueTVEeG51TnhFRXpzRmRxVTluSjNhRFhRTmsyR19tX181NF80X0FzRnROMnFiMG00NWZac3pxVHBmaS1tQWZsNWgwaTFNWnh5bjkwYU44aDZkZVAtVE5FUnA2V1gxX0hBQ1lIS0ZKVTluY1pObE51ZUxDRzl5NVNfU2EwbmtodGp2MTBodFN6ZEhvc2QtOTdLNGhINUtmVEFJdUVXcEVqdVhWeXhCSWw4eU8xaExwMkV6aGY0UFprbzByalZ0Qy1idkxRQ3JYZnlpcFpFbUl5ZEJpX21zcDFnX1F4bURrUTNtM2oxb091VGI2RGR6RWtreE9lckFGUkRZYW1pSTdzdzJTUENtZXRIem5vT0lPNEY5bVZkSnJyb1gyeEZ4azZqcFBGR3VFRG5nZUdPNUJHaUZLV00wYTI0aHBnZmNUeHhGekU5Zmg3VlpGOFlCelM3anJtU08taXhzN2RSRDhObmVMdjdVMjdSMkw0TC02eUJXTndYV1UyZUJqTGtTb2wzTzUwRHlHY2F4VFFSeFQ2N1RnVFFRME93ZUd3VkU0WG41ejBIZThxM0Z0WXJHN1BGWkZlQ09jZFJUSGtETThhTHBNVDFCQTVZWjFkQmRPVnktOHdxd0N1bHZ2emhiZ0xqOHFnOEJ1aW14MDhXZnpVdkpFN1ROR2lyQlBPU0NIRWNNVE5fNW9RLU9UR0tJdVcwRWdrT1hJMzhKMlVoQkVEQzU0ckV4N1Znd21HLWJQTjZ3WmxBZ0h2b0lTZkhmLUdn?oc=5",
-   "time": "2026-11-11T03:08:35Z",
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma3pPR2djRFpJck5oNkIyNmtjcF96VVFvdWpWVjFtMG95N2cyb3BxWGEwTlNEalhJNEU2Z3ZzV3JFUmd5aWNaZ2lPZVczOU9VOHJ5eDIyaFVpLWFwWHJFVGhyb1dudmRnMjVfUXZ3?oc=5",
+   "time": "2026-11-11T03:55:00Z",
    "location": null,
-   "id": "e92b01f65495c5b0"
+   "id": "e1ddf779ad3b25c3"
   },
   {
    "title": "ชาวนาชัยภูมิอ่วม! ภัยแล้งทำข้าวผลผลิตลด ซ้ำค่ารถเกี่ยวพุ่งไร่ละ 800 บาท",
