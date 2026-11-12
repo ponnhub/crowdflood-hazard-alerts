@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T22:26:51Z",
+ "updated_at": "2026-11-12T22:43:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 40,
-  "flash_flood": 15,
+  "flash_flood": 14,
   "storm": 14,
   "landslide": 8,
   "earthquake": 15,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว เมื่อวันที่ 13 พฤศจิกายน 2569 ในจังหวัดไลเจา เดียนเบียน ซอนลา และลาวกาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVZwaThhN29rc21td0FySl9GOGsyMlJvNnNmTHBvV3k4dWdGVDh0Qjl4T2tnbnFUTlhWS19NbXpfNFExYm1jYVRFTU5FVmNNQkI3YnFVVndMVkJneTNiN29FamdXTlJBbWdod3FLUEE0QmZ6eGV3QzFUdm5YeTBoNVZhRXp4VlJDdF80YlFqMzlSNFhyYjFfWXg4TVA4dkZIakNBNC1YWTdHWENCNzhndlJ3QjI5OFFBWHNv?oc=5",
+   "time": "2026-11-12T22:30:45Z",
+   "location": null,
+   "id": "666c54c81f4e5dc9"
+  },
   {
    "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมาก คลื่นสูง 2-3 เมตร เดินเรือระมัดระวัง! | The Bangkok Insight",
    "summary": "",
@@ -551,20 +565,6 @@
    "id": "1bb00acfa52660e9"
   },
   {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
-  },
-  {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
    "summary": "",
    "category": "news",
@@ -786,6 +786,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -1187,20 +1201,6 @@
    "id": "3cb40f5ea121bff7"
   },
   {
-   "title": "เพื่อป้องกันดินถล่ม ควรให้ความสำคัญกับการซ่อมแซมโครงสร้างพื้นฐานด้านการขนส่ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlpvMFhqal9WVVJOWnBuOFpxVDFKWXl6WkRIWjV6YVdDcFZUZUxDRDlxd2M3aUxXakdudXZZeFlXcUVTNkxYeFZQTzFOYS1fZmNmYnc2cXI2OTd4UEc1NU1JR250dnl0dGd2U3g2Wng4Q2dib1Y3clRJamhzMFppRGtrS2VTWGc?oc=5",
-   "time": "2026-11-12T03:54:27Z",
-   "location": null,
-   "id": "c3d9ae5c77ed0f20"
-  },
-  {
    "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
    "summary": "",
    "category": "news",
@@ -1461,20 +1461,6 @@
     "precision": "epicentre"
    },
    "id": "4f6c4552da738c14"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82bGd4b3FQODhZblJhaExqN3kzV0dfS29vVEVFQzJ6YUZKcklNMVJxSE96cXJIX2diaDNLekMzdS03OVFlY3VmZWh1dGJNUEo0WWNMWlRNVmw?oc=5",
-   "time": "2026-11-11T23:13:52Z",
-   "location": null,
-   "id": "d34246ea37987210"
   },
   {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
