@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T09:32:18Z",
+ "updated_at": "2026-11-12T09:44:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 15,
   "wildfire": 0,
   "drought": 9,
-  "pm25": 6,
+  "pm25": 5,
   "heat": 1,
   "tsunami": 0,
   "other": 2
@@ -203,6 +203,34 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมากฉบับที่ 2 อุณหภูมิลดลง ลมแรง | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xY2RNblJDazdNVmdGSmlLRmRUT2ZkV0VHdlNIaV9RTmpxVTUxTGZyV3B3a1oxTGFLVnZ2cm5KZmwxUEpkMjA1VXdURGZZb243SzhSNUpR?oc=5",
+   "time": "2026-11-11T09:26:53Z",
+   "location": null,
+   "id": "416dd136d9a6e834"
+  },
+  {
+   "title": "อากาศแปรปรวนขั้นสุด! กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนัก-คลื่นสูง 3 เมตร“ไทยตอนบน” อากาศเย็น ลมกระโชกแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OdEp3YlcwRUdtNURnSFczbDh1RGpOeFkzWWNCSXRfOUxHbzlkdFNfcGZzbFFLNUFsWnQyWEF0ejZZQnVGejU2RkpKNXQ?oc=5",
+   "time": "2026-11-11T08:05:00Z",
+   "location": null,
+   "id": "a802062f67713488"
+  },
+  {
    "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
    "summary": "",
    "category": "news",
@@ -229,20 +257,6 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
-  },
-  {
-   "title": "เตือนจากกรมอุตุ ฉบับที่ 2 ฝนตกหนักถึงหนักมาก อากาศหนาวเย็นลงและลมแรง | มุมข่าว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdjJUWVVfeWJQVjNMdG9YYlBKM25jcWhhb25seTVJcWdoVmU1b2YzaGFFd3Z3T3lLX3JaZkNXMW5EZnRoNWRCdDRjYktxV1JueFFWNzh3?oc=5",
-   "time": "2026-11-10T20:30:39Z",
-   "location": null,
-   "id": "5f2522573ec3bdb5"
   },
   {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
@@ -1854,46 +1868,6 @@
    },
    "incident_id": "fr_rss_e83ce8ff8138193b31a9",
    "id": "e83ce8ff8138193b"
-  },
-  {
-   "title": "ไทยตอนบนอากาศเย็น ใต้ฝนตกหนัก กทม.อุณหภูมิจะลดลง 1-2 องศา",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "komchadluek",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUY01LWGI1NnFJaHRHODJKM0FPZHBGZmg1czUzdjdDaDUxcEhFUWFUOEJ3UURDckgycDFRcm5SMkNrTU5DejFiY1FIWWVFUFF3Q2phaWkxVHBIeXM?oc=5",
-   "time": "2026-11-10T09:43:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_61a537b052c5226c3a44",
-   "id": "61a537b052c5226c"
-  },
-  {
-   "title": "เชียงรายผนึกกำลัง 3 จังหวัดภาคเหนือ ขับเคลื่อนงานวิจัย PM2.5 ใช้นวัตกรรมแก้ปัญหาฝุ่นควัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDTDltSkNCaWM1QkJhZ3BtUEUxQ2dpQjVMQm12UndEa1VqVGg3a1hhZjdLbVROSmdoZVAwaE1zTkdWdFlVNElWd1hQU0tSNklGVHU1N005cUNUUQ?oc=5",
-   "time": "2026-11-10T09:33:58Z",
-   "location": null,
-   "id": "567b18c3577e23c2"
   }
  ]
 }
