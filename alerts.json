@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T06:43:39Z",
+ "updated_at": "2026-11-12T06:58:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 27,
-  "flash_flood": 14,
-  "storm": 15,
+  "flash_flood": 15,
+  "storm": 14,
   "landslide": 11,
   "earthquake": 15,
   "wildfire": 0,
@@ -26,7 +26,7 @@
   "pm25": 7,
   "heat": 1,
   "tsunami": 0,
-  "other": 3
+  "other": 2
  },
  "items": [
   {
@@ -243,6 +243,20 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
+  },
+  {
+   "title": "เตือนจากกรมอุตุ ฉบับที่ 2 ฝนตกหนักถึงหนักมาก อากาศหนาวเย็นลงและลมแรง | มุมข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdjJUWVVfeWJQVjNMdG9YYlBKM25jcWhhb25seTVJcWdoVmU1b2YzaGFFd3Z3T3lLX3JaZkNXMW5EZnRoNWRCdDRjYktxV1JueFFWNzh3?oc=5",
+   "time": "2026-11-10T20:30:39Z",
+   "location": null,
+   "id": "5f2522573ec3bdb5"
   },
   {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
@@ -1227,20 +1241,6 @@
    "id": "6574f12a15d9aea4"
   },
   {
-   "title": "ปภ. ชวนประชาชนตระหนัก แต่ไม่ตระหนก กางเช็กลิสต์จัด ‘กระเป๋าฉุกเฉิน 72 ชั่วโมง’ รับมือภัยพิบัติ-เหตุฉุกเฉินตามมาตรฐานสากล",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVNnF3Y2lJWTJiMGw3bnhzamhpMl9TRmxUUDlmczhfNHlja2NLMEFJUEZRYUJfSzk2MXp4N3BLMFZGQlBuNlpvNjlMdG5vZmdUWU5xTDRjMkRMS2dHbVhGSHpJNDRHVjdkYWV4WQ?oc=5",
-   "time": "2026-11-11T07:51:33Z",
-   "location": null,
-   "id": "868bd7c9b634591f"
-  },
-  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -1485,18 +1485,18 @@
    "id": "20b07ac1ef19c9e2"
   },
   {
-   "title": "อุตุฯ เตือนใต้ฝนถล่ม 11-13 พ.ย. 3 จังหวัดเสี่ยงฝนหนักมาก ขณะไทยตอนบนอากาศเย็นลง-ลมแรง เตือนเรือเล็กงดออกจากฝั่ง",
+   "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
+   "hazard_type": "flash_flood",
+   "severity": "high",
    "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MYmxBZmJnazQ4ZHhLQ01YOG9ReHBpMU54eDQ2Tzc0dWFmRFppdG95UnVZZ29wS2lqQlV5S1JWNVFnak5rQTc4ZTZ1Vi1lZGM?oc=5",
-   "time": "2026-11-11T02:43:35Z",
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPMlF5TkJrMFVtWWcxTWZKYlZvcUF4QlRkNDNXY3YxOE9pS1JxVkxWRW4wUTlaNk5sb1Y1ZnJ5ZzRQak5nS3YzeGFfTWlzUC0tX1ZZOWVaZHRUcEROeTFQYUt4Q0J1OE9NbHdvdGxXdW1OYUJJNERLeC14bG92VWl0RDdweXlUa19DVm00ZkxxYUNPTWZVT3pIalJXN21CRXBfTjk5cEs5SFE4TEtuV0lKNTBoOTc2U042bTV0SF9weXBPMXpUMnUxRmc1LW9rNnY0WG5IZnNuaHhKQk8yQ1B1TUZlbWFOUThkY1JHLU1wM1RYUTBCMjVhdk1ULTZNOXZtMUp6Z0loRmp3MVlqbk5FQnlDS0lpWmRVWDBxbG50R2dQeGhBUUpyTW9qdE9YOS02N2VNaFFfeTBRY2F4Slp3YWJueTVEeG51TnhFRXpzRmRxVTluSjNhRFhRTmsyR19tX181NF80X0FzRnROMnFiMG00NWZac3pxVHBmaS1tQWZsNWgwaTFNWnh5bjkwYU44aDZkZVAtVE5FUnA2V1gxX0hBQ1lIS0ZKVTluY1pObE51ZUxDRzl5NVNfU2EwbmtodGp2MTBodFN6ZEhvc2QtOTdLNGhINUtmVEFJdUVXcEVqdVhWeXhCSWw4eU8xaExwMkV6aGY0UFprbzByalZ0Qy1idkxRQ3JYZnlpcFpFbUl5ZEJpX21zcDFnX1F4bURrUTNtM2oxb091VGI2RGR6RWtreE9lckFGUkRZYW1pSTdzdzJTUENtZXRIem5vT0lPNEY5bVZkSnJyb1gyeEZ4azZqcFBGR3VFRG5nZUdPNUJHaUZLV00wYTI0aHBnZmNUeHhGekU5Zmg3VlpGOFlCelM3anJtU08taXhzN2RSRDhObmVMdjdVMjdSMkw0TC02eUJXTndYV1UyZUJqTGtTb2wzTzUwRHlHY2F4VFFSeFQ2N1RnVFFRME93ZUd3VkU0WG41ejBIZThxM0Z0WXJHN1BGWkZlQ09jZFJUSGtETThhTHBNVDFCQTVZWjFkQmRPVnktOHdxd0N1bHZ2emhiZ0xqOHFnOEJ1aW14MDhXZnpVdkpFN1ROR2lyQlBPU0NIRWNNVE5fNW9RLU9UR0tJdVcwRWdrT1hJMzhKMlVoQkVEQzU0ckV4N1Znd21HLWJQTjZ3WmxBZ0h2b0lTZkhmLUdn?oc=5",
+   "time": "2026-11-11T03:08:35Z",
    "location": null,
-   "id": "78d86e692a1c0d30"
+   "id": "e92b01f65495c5b0"
   },
   {
    "title": "ชาวนาชัยภูมิอ่วม! ภัยแล้งทำข้าวผลผลิตลด ซ้ำค่ารถเกี่ยวพุ่งไร่ละ 800 บาท",
@@ -1728,20 +1728,6 @@
    },
    "incident_id": "fr_news_26b37764e309d0b23c9e",
    "id": "26b37764e309d0b2"
-  },
-  {
-   "title": "อากาศแปรปรวน “ไทยตอนบน-ใต้” ฝนตกหนัก กรมชลฯ เตือน 11 จังหวัดลุ่มเจ้าพระยา เฝ้าระวังระดับน้ำสูงขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "spacebar.th",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFh1QzVraFEtM2xIbFJ1V0k2OWh5ZTBOVDlBWjJQUFBwelAyUG9JTXg2YU9UdlY3RTZlaUc3YVV3QkF6RzFUNGlUdE80TDRGa3NVSHRxWUZrUGM2Z19fbWdYY09CV0VMZG1WeXBlZURBUmpETTdOOEZVeFdXNjJIb0tjWlluRUx2bkFnenFIenVlelFUdDBmdnpBOUV0UkF1M3VpajBkcmNJcWVDWUotRw?oc=5",
-   "time": "2026-11-10T10:15:00Z",
-   "location": null,
-   "id": "d1c3429c00ad6aca"
   },
   {
    "title": "ผู้ว่าฯ สงขลา ถอดบทเรียนน้ำท่วม ดันนวัตกรรม “Hat Yai ROD” ลดความสูญเสีย",
