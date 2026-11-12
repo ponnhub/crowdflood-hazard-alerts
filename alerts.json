@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-12T03:59:56Z",
+ "updated_at": "2026-11-12T04:12:05Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,14 +17,14 @@
  ],
  "counts": {
   "flood": 22,
-  "flash_flood": 13,
-  "storm": 13,
+  "flash_flood": 14,
+  "storm": 12,
   "landslide": 11,
   "earthquake": 15,
   "wildfire": 0,
   "drought": 11,
   "pm25": 6,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
   "other": 3
  },
@@ -204,20 +204,6 @@
    "time": "2026-11-11T02:02:10Z",
    "location": null,
    "id": "847b2491232f8361"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 11 พ.ย. 69 กรมอุตุฯ เตือน 5 จังหวัดภาคใต้ ฝนตกหนัก - อากาศวันนี้ | กรมอุตุนิยมวิทยา ข่าว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cDdSMlllVjgxaWVHRHVYRmVCUXZ1dE9zTWRPcjVfTUVOSDNyYkZDRkM5V3hob0VXYmh0RVFhcTB4czM5LW5RMXZyWTJCRF9wT3BZZGNXNy0wT2gxdXR2UFpaaEhZSUU1RUxLRmZB?oc=5",
-   "time": "2026-11-11T01:18:00Z",
-   "location": null,
-   "id": "b0cf09d0b5ec8ae8"
   },
   {
    "title": "ด่วน! แผ่นดินไหวเขย่าสุมาตรา อินโดนีเซีย ขนาด 3.4 “กรมอุตุฯ” เฝ้าระวังใกล้ชิด",
@@ -1078,6 +1064,20 @@
    "id": "4e23b6c722a72b87"
   },
   {
+   "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0dRUVgwaVlqM2VSTlI0NkJLc2dkVkgxdzNhZjREeFpRcHlTRFZxcWMtXzFyOVdUeHZZeThFRlhsbnQ0dXpHdGxZdFRGR3M3Rlg3TV80SHZrQTIwYVA4LWtKdXdmS3luSzFVcnFBRWtNX0VHdHdHYmNrQllEZk8zbWFybVh0b3gtM1E?oc=5",
+   "time": "2026-11-11T07:09:23Z",
+   "location": null,
+   "id": "3456974aa13fa880"
+  },
+  {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -1225,6 +1225,20 @@
    "id": "e21d4ff8ef1eb840"
   },
   {
+   "title": "ภาคใต้ไทยเผชิญฝนฟ้าคะนองหนัก น้ำท่วมและคลื่นลมแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ma3pPR2djRFpJck5oNkIyNmtjcF96VVFvdWpWVjFtMG95N2cyb3BxWGEwTlNEalhJNEU2Z3ZzV3JFUmd5aWNaZ2lPZVczOU9VOHJ5eDIyaFVpLWFwWHJFVGhyb1dudmRnMjVfUXZ3?oc=5",
+   "time": "2026-11-11T03:55:00Z",
+   "location": null,
+   "id": "e1ddf779ad3b25c3"
+  },
+  {
    "title": "ปภ. แนะ 3 ช่องทางหลัก ติดตามสถานการณ์-แจ้งเหตุภัยพิบัติ ขอความช่วยเหลือฟรี 24 ชม.",
    "summary": "",
    "category": "news",
@@ -1237,6 +1251,20 @@
    "time": "2026-11-11T03:15:00Z",
    "location": null,
    "id": "20b07ac1ef19c9e2"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา. . 🌬️ อัปเดตสภาพอากาศ 11–13 พ.ย. 69 ❄️ ประเทศไทยตอนบน ภาคเหนือ อีสาน กลาง ตะวันออก รวมถึง กทม.และปริมณฑล อากาศเย็นลง อุณหภูมิลดลงได้อีก 🌧️ ภาคใต้ ยังคงมีฝนตกหนักต่อเนื่อง ต้องเฝ้าระวังฝนสะสม น้ำท่วมฉับพลัน และน้ำป่าไหลหลาก 📌 ติดตามสถาน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPMlF5TkJrMFVtWWcxTWZKYlZvcUF4QlRkNDNXY3YxOE9pS1JxVkxWRW4wUTlaNk5sb1Y1ZnJ5ZzRQak5nS3YzeGFfTWlzUC0tX1ZZOWVaZHRUcEROeTFQYUt4Q0J1OE9NbHdvdGxXdW1OYUJJNERLeC14bG92VWl0RDdweXlUa19DVm00ZkxxYUNPTWZVT3pIalJXN21CRXBfTjk5cEs5SFE4TEtuV0lKNTBoOTc2U042bTV0SF9weXBPMXpUMnUxRmc1LW9rNnY0WG5IZnNuaHhKQk8yQ1B1TUZlbWFOUThkY1JHLU1wM1RYUTBCMjVhdk1ULTZNOXZtMUp6Z0loRmp3MVlqbk5FQnlDS0lpWmRVWDBxbG50R2dQeGhBUUpyTW9qdE9YOS02N2VNaFFfeTBRY2F4Slp3YWJueTVEeG51TnhFRXpzRmRxVTluSjNhRFhRTmsyR19tX181NF80X0FzRnROMnFiMG00NWZac3pxVHBmaS1tQWZsNWgwaTFNWnh5bjkwYU44aDZkZVAtVE5FUnA2V1gxX0hBQ1lIS0ZKVTluY1pObE51ZUxDRzl5NVNfU2EwbmtodGp2MTBodFN6ZEhvc2QtOTdLNGhINUtmVEFJdUVXcEVqdVhWeXhCSWw4eU8xaExwMkV6aGY0UFprbzByalZ0Qy1idkxRQ3JYZnlpcFpFbUl5ZEJpX21zcDFnX1F4bURrUTNtM2oxb091VGI2RGR6RWtreE9lckFGUkRZYW1pSTdzdzJTUENtZXRIem5vT0lPNEY5bVZkSnJyb1gyeEZ4azZqcFBGR3VFRG5nZUdPNUJHaUZLV00wYTI0aHBnZmNUeHhGekU5Zmg3VlpGOFlCelM3anJtU08taXhzN2RSRDhObmVMdjdVMjdSMkw0TC02eUJXTndYV1UyZUJqTGtTb2wzTzUwRHlHY2F4VFFSeFQ2N1RnVFFRME93ZUd3VkU0WG41ejBIZThxM0Z0WXJHN1BGWkZlQ09jZFJUSGtETThhTHBNVDFCQTVZWjFkQmRPVnktOHdxd0N1bHZ2emhiZ0xqOHFnOEJ1aW14MDhXZnpVdkpFN1ROR2lyQlBPU0NIRWNNVE5fNW9RLU9UR0tJdVcwRWdrT1hJMzhKMlVoQkVEQzU0ckV4N1Znd21HLWJQTjZ3WmxBZ0h2b0lTZkhmLUdn?oc=5",
+   "time": "2026-11-11T03:08:35Z",
+   "location": null,
+   "id": "e92b01f65495c5b0"
   },
   {
    "title": "อุตุฯ เตือนใต้ฝนถล่ม 11-13 พ.ย. 3 จังหวัดเสี่ยงฝนหนักมาก ขณะไทยตอนบนอากาศเย็นลง-ลมแรง เตือนเรือเล็กงดออกจากฝั่ง",
@@ -1482,20 +1510,6 @@
    },
    "incident_id": "fr_news_26b37764e309d0b23c9e",
    "id": "26b37764e309d0b2"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 11 พ.ย. เตือนภาคใต้ฝนตกหนัก ทั่วไทยอากาศเย็น ลมแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZFJxTUtqMmRLcUdvQUdRSUI0MWZkcGZtMTNDekllVDNLV0N0cmtnaVFheVcyODA2cWhua19qd2Z5aHRXN2lsV1ZrdmN5VzdCQVY2eDVpVUNPckI4TW5TMUthdFctWl9qZ3o5dzhDZ1kxU0FZNlI4d0YzTzg?oc=5",
-   "time": "2026-11-10T10:16:42Z",
-   "location": null,
-   "id": "d070bbac01f4444f"
   },
   {
    "title": "อากาศแปรปรวน “ไทยตอนบน-ใต้” ฝนตกหนัก กรมชลฯ เตือน 11 จังหวัดลุ่มเจ้าพระยา เฝ้าระวังระดับน้ำสูงขึ้น",
