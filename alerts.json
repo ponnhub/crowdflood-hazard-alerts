@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T13:10:35Z",
+ "updated_at": "2026-11-13T13:32:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 52,
+  "flood": 51,
   "flash_flood": 15,
   "storm": 22,
   "landslide": 8,
-  "earthquake": 15,
+  "earthquake": 14,
   "wildfire": 1,
   "drought": 8,
   "pm25": 6,
@@ -70,20 +70,6 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
-  },
-  {
-   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 39 ตำบลและเขตในจังหวัดลาวกาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEtGYS1QZDdURXdYeTFvV3JGai1VYVc3STF2YTEyOEZYVHBSRDBpYzRlQVFsbTNudFViRzk1STFLVHBpYzJoWnVhRlp5cEVqOW9aZXFKRzF1SS1OUHp2U1Zja19obDhmN3pqTlRGaDA0RkpHS0RyaHhwcVBUY3ZvVzlLakpTLTFDaVlEbEtGWm1Idw?oc=5",
-   "time": "2026-11-13T02:26:10Z",
-   "location": null,
-   "id": "37b97b6c3e595a7d"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -341,6 +327,20 @@
      7.902
     ]
    }
+  },
+  {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
@@ -1246,20 +1246,6 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
-  },
-  {
-   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
-   "time": "2026-11-13T01:01:00Z",
-   "location": null,
-   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
@@ -2487,20 +2473,6 @@
    },
    "incident_id": "fr_news_24736c2a684bef56aa7b",
    "id": "24736c2a684bef56"
-  },
-  {
-   "title": "ปภ. อัปเดตยอดเคลมประกันภัยพิบัติ ปี 2569 จ่ายสินไหมแล้วกว่า 73 ล้านบาท",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94WF9SRnIzWTQydXQ4dktHZWNpRUpNMEZoSTVIUWhzcU1FdTc4SnVyTUZXZnJuNkY4S0wwRnFLR0U2VExrZGpmQ2N3enJ2ZXREcExRYXhIYXZzdkE?oc=5",
-   "time": "2026-11-11T13:15:00Z",
-   "location": null,
-   "id": "82ffe788907662f1"
   }
  ]
 }
