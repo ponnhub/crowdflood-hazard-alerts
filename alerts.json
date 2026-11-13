@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T11:31:48Z",
+ "updated_at": "2026-11-13T11:47:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 51,
   "flash_flood": 18,
-  "storm": 20,
-  "landslide": 8,
+  "storm": 19,
+  "landslide": 7,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 9,
+  "drought": 8,
   "pm25": 6,
   "heat": 2,
   "tsunami": 0,
@@ -1373,20 +1373,6 @@
    "id": "e87cc3e0e039eb36"
   },
   {
-   "title": "ภาคใต้ฝนตกหนัก! น้ำท่วมฉับพลัน กองทัพภาคที่ 4 ผนึกกำลังทุกภาคส่วน ลุยพื้นที่ช่วยเหลือประชาชน บรรเทาความเดือดร้อนอย่างเร่งด่วน 📍วันที่ 12 พฤศจิกายน 2569 เวลา 19.00 น. ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 44 เดินหน้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxNTHhVUXFVazAxSTNtOEI4dDh0YTE0UnJQTWRBVlZIVGd0Z0MyQTZ3ckhRX3c3aGNXWnFVMENxdjhXeTFLY1pOeS1FbGx0WXNlY1F2MmtCYUhDdXlaeWdCRVNfOWViT3p6ZWhpVVUzVDcxbzFGcEFSb3VEZFkweDhwVzlwNzFYTmNOUkFFeGpxUVpvYURMUkhzNERoZURPOG1HWGgyYzVZZUhpZ1dycW96S1hneGpLdWNVcnVveVZwRWp3dy1kVW1pVDdqMkdwN2dWSEdFeVJJUlZBNUJrYzdPZzBCbGdhQnlwTS10d0tjMzBhMVQ4RlQ1T2xKWU1ZY3dLbGNBd1ZEaHJQVkFKR00zZXRBeklFM1NSVW1OX29QbWVxY3N5WWZMRFUyYk5zM2FkbUhMdEMwWHBqNjdaUHMwTlJwaXI2a1BLRkd6cDhDdVRTRWlKZmJOcjZlSmdHTl9FOW1NQnNMMlVCWHRqalctNThleTVSVU9XRFJpSWZ1OWh4VGdYdVZUZ18zbnpiMnpCckFBbDh0clhPMUVlNFhOSXVBQlg0WWFEOUJLb0taMnFKRzE1SEdkdk8xT1d5UExYczZ6YXZCc1huT25zTURsMU9ib0MzQXROc29uUVdadWxwNTlsSmpCVDBaeU5BekYzZF9jc3ZQVzlVRE5MbFNBZk5SYnpDTVp4cWdvWGxJTVowWXVmUDItMlMxNW50SU1SRWJlbnVNcC1RSEV2c0xENWtrY2g2NTBTdUhnd0JHejJuNVVSc0E4TmpqRms2WGhRdXJ0U1dSVDNjUUhnNkxhSno1bFJIM3ZHNnJBZHpHVWhoajR6WnRLbVBJak82Snl2YjlxWGFGOEJIR3ZwcUNQeUJuRVJPaVo5NVcza1NpM3FLQ3dQeGJMUlhueWh3NDVyVlpURF9ibloxamxvRmZsZ1lSMFJMaHM1cnBKVlZOWHB1OU5NMGlyUmtEVnFJazk0Uzd1dXVDeWdlN0M3YWdJbjRCTEJDMTZjX00wWmZ2Z0JreDlCUnlLZ2VtWVFjendRcUNuM2pPWWRkanFuMkh1MFNSU2VpaHVfTUNySi11QWlYWmxmZHFuWXM2YktxU09pUUJMZ2NqZzdCRDB4WXpqRFZMbHBkUlpBREVKNGFiRHpPczJOay1YYWdFZXFtRndvLXpiUzdVdS12NXhNU25OelhnM3NQdS1TNW1LRkozc05lTnEweTdJdUtGbDVXcWdPQUdSbFloRW1jQ1N1UWlNazFLcnVoYTdmR2t1MkhVMTZEclM5TVZrSThDRWcwQUJaeDFuYnlLVlE5UEcyblZCTERMWS1oalF5QTU1NExfQ0dUWUZq?oc=5",
-   "time": "2026-11-12T15:24:22Z",
-   "location": null,
-   "id": "420b4cfa6cc65e3b"
-  },
-  {
    "title": "แม่ฮ่องสอนเดินหน้าสู้ฝุ่น! ติดตั้งเครื่องวัดค่า PM 2.5 รับมือสถานการณ์ไฟป่าหมอกควัน",
    "summary": "",
    "category": "news",
@@ -1707,20 +1693,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -2465,31 +2437,6 @@
    "time": "2026-11-11T12:16:31Z",
    "location": null,
    "id": "fc44c3a166cc7812"
-  },
-  {
-   "title": "เตือนด่วน! อ.เกาะสมุย - อ.เกาะพะงัน สุราษฎร์ธานี ฝนตกหนัก เสี่ยงน้ำท่วม ดินสไลด์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fU1pXSDJWWkdEUnlKV2dwbm8zbU9yYzcxYkdKQnR0bDdBdzB0d3c1UlgxQVdFdEJ3VW83dFBBcmxOekdoU1cyaF81NHM2UnB4ZVFwSXlPY1pMWllfNkZXQ1lEOVlfdw?oc=5",
-   "time": "2026-11-11T11:43:00Z",
-   "location": null,
-   "id": "2905be6419bcd80a",
-   "area": {
-    "code": "TH8405",
-    "level": "amphoe",
-    "name": "อ.เกาะพะงัน จ.สุราษฎร์ธานี",
-    "bbox": [
-     99.815,
-     9.679,
-     100.081,
-     10.126
-    ]
-   }
   }
  ]
 }
