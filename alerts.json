@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T09:10:34Z",
+ "updated_at": "2026-11-13T09:28:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
-  "flash_flood": 19,
+  "flood": 51,
+  "flash_flood": 20,
   "storm": 18,
   "landslide": 8,
   "earthquake": 13,
@@ -329,6 +329,20 @@
    }
   },
   {
+   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
+   "time": "2026-11-12T00:23:59Z",
+   "location": null,
+   "id": "37825e7f39a6736a"
+  },
+  {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
@@ -366,6 +380,21 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1relZ6YWRHUmMwMHF4YXhWWC11dnBUdF9UYkdsaGhvTWQwSnRuZ1YyM0MzM2dJNWZOTDFyY0s4RHVMZWtLYXl2d0Vfdm9DUUZ0N1VBT1ZFcHBDaURSLXktVlJ4cm9MUQ?oc=5",
+   "time": "2026-11-13T09:04:00Z",
+   "location": null,
+   "incident_id": "fr_news_0e4ef0a892e33c95ee40",
+   "id": "0e4ef0a892e33c95"
   },
   {
    "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
@@ -849,6 +878,31 @@
    },
    "incident_id": "fr_news_61ca5cf051d35d58e743",
    "id": "61ca5cf051d35d58"
+  },
+  {
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pT0M4N1N3SDROZ0dtQWc0bG9VSFpTekxjcENraVRnUGl4Y3NvemJEOEVwaFgzbnJXcGR2dXFxQ3VoUXprc3l6YW1IenhtTkt2N0dlLTB3?oc=5",
+   "time": "2026-11-13T02:22:05Z",
+   "location": null,
+   "id": "054c59c075750dd1",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ชุมพรอ่วม! น้ำท่วมหลังสวน 3 จุดรวด วิกฤตหนักรถเล็กผ่านไม่ได้ - Tnews",
@@ -2419,31 +2473,6 @@
    },
    "incident_id": "fr_news_f8f552554715a917893d",
    "id": "f8f552554715a917"
-  },
-  {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lblVlalBWZ3NYRU1oU2ZPUmxlX2pzWUsyZDdMYkJ5em9VMXNmT2lOdlo0ZXJfVVFFdlh5cm1ITnlDMFd0ZFJsel9mUlptOTJYaWc4?oc=5",
-   "time": "2026-11-11T09:12:33Z",
-   "location": null,
-   "id": "e0d09df32afb81d1",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   }
  ]
 }
