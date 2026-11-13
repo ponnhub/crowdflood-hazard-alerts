@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T07:15:46Z",
+ "updated_at": "2026-11-13T07:26:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,12 +23,26 @@
   "earthquake": 14,
   "wildfire": 1,
   "drought": 7,
-  "pm25": 6,
+  "pm25": 7,
   "heat": 1,
   "tsunami": 0,
   "other": 1
  },
  "items": [
+  {
+   "title": "KEY MESSAGES: ฤดูหนาวที่มาพร้อม ‘ฤดูฝุ่น’ โรคทางเดินหายใจและ PM2.5 ความเสี่ยงที่ไม่ควรมองข้าม กรมอุตุนิยมวิทยาออกประกาศอย่างเป็นทางการว่า ประเทศไทยเริ่มเข้าสู่ฤดูหนาวในบางพื้นที่ตั้งแต่วันที่ 9 พฤศจิกายน 2569 เป็นต้นไป และคาดว่าจะสิ้นสุดประมาณปลายเดือนกุมภาพันธ์ 2",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AZBVV95cUxOcE1rdUF2Z1Z1U2FOTW1jcmFpOXl3SGlTSkVrQjZ4OHBaTnRTWms0bk9UamVvQVlMcUsyN1BCNVBLeVp3X2hkZWZsR3VOUE83VURxZWlaSTZSdHFmNTFYdHB0eXo5NGFMS3hRZmhKaXhFdENtYkI2MXNmMTE1b0F4S0p0N2w4dnRoSEU5WkJxR1hiM2FoMEhQVFlYUEhkWVZYVldwX09TMnNOUHNURGFKZFMwN0huMlhORXJRSXVDMkpVQmo5VW9rT1BUN0ZiOExHMDMxV0kxLVJfNmRyZTNUOWpYZEhvclk2dmF6T24tdENxX3pQb0Vtdk9zZU9pdS1JTlZ4WWZQZzdrQ2k5Ump6RlB6LUlHTVFYZXRJTS0yS1dWTVE0dWpOWFYycUtQWEVwQU16TU40QUJCX0lLVHdxeHoxRldDQWJEZDQtWnJaS0Uydk1wc2NyOUM2eUJSZDlrQnI1TXN6UkF1ZzN1R0pJcjRTM3pyZEdFT0RuTmZfRU5lb2c1XzVaSFZUbWlxYUlRNWk5VmNDNzE5M1FBMUlyQ0FNU1UyVGV2RXAzel93M2dPeTdyMlozaGFJLVZLeVNtbG51NS1jbVFmeFlDYW9DeXN2d2p1d3NCRVZYVk5BQ0thNG9mbS0xRDhoaDVpWTNlQU8tVW5Qa1JPcUFlYXZVQzR6ZVczOHUyNGlRMVpKQWZlTDR2NlBfeGhDRDlEMkZYVzhNTFZtUUFTb2Q4amJucHhkc1dpVmlUX0hyQmJwUDB5WWpLM1F0YjV1Z1gwNXZSYUl3T1NBTG0zZ0hYeFJrZ1Y5Ym9vbXA5U0JOemtvZF9ONHZsUWlOejRtT2RxMzBEQ3ZEWVFqUkxkRjFuLV9zMGk3WldCeXNEZjF2UTNfM1BJYVp2cllnbTJzbWJmZ25fdEV5VW5weHQyYlNLQXcyeHRxaU1Fbl85VEVKSXloRFVkNURHY1JyNnhlUnZjajlxLWtrNnRNZXdURGc0U0p4amw4MmQzYUtfbm9pQnJqcUozWEo5bF9rZ2V1N0hyaHREZTJyNHZkdE81dkNPQWMyclp4NUIwenVwMUREQXpVaHlYNmR1V0xYZl80akNGYmVhTXZNSTBVOXdrQ1YtUEpBUA?oc=5",
+   "time": "2026-11-13T07:18:33Z",
+   "location": null,
+   "id": "c8abb7329848c087"
+  },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 10 เตือนฝนถล่มภาคใต้ เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
@@ -413,20 +427,6 @@
    },
    "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
    "id": "aa8fe6f7ed37628c"
-  },
-  {
-   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
-   "time": "2026-11-13T06:14:54Z",
-   "location": null,
-   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
@@ -1301,6 +1301,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -2178,6 +2192,31 @@
    "id": "f8f552554715a917"
   },
   {
+   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lblVlalBWZ3NYRU1oU2ZPUmxlX2pzWUsyZDdMYkJ5em9VMXNmT2lOdlo0ZXJfVVFFdlh5cm1ITnlDMFd0ZFJsel9mUlptOTJYaWc4?oc=5",
+   "time": "2026-11-11T09:12:33Z",
+   "location": null,
+   "id": "e0d09df32afb81d1",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
    "summary": "",
    "category": "news",
@@ -2256,6 +2295,20 @@
    "id": "519d7da56e731678"
   },
   {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
+   "time": "2026-11-11T07:55:21Z",
+   "location": null,
+   "id": "eff1f7fe34bbc4a2"
+  },
+  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -2269,45 +2322,6 @@
    "location": null,
    "incident_id": "fr_news_7d0176f5913c8081dccd",
    "id": "7d0176f5913c8081"
-  },
-  {
-   "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jblBpWENRbzhDWTNIM0dLa0xNaGoyTUpsVlhiWWNQTlpNMG10WV9ab3FGUHNLTXdkTnZhd1d3SjNRWDBvWWdhZWw2ZXloS2tROWg1REpKQndxQjJIYWcwOUhEdGMtTHdxVUxIVGd2Y2Q5eDdtZ2Y4NFpEZlg?oc=5",
-   "time": "2026-11-11T07:25:20Z",
-   "location": null,
-   "id": "7246551cd5f9c2af",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID InTrend",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
-   "time": "2026-11-11T07:19:46Z",
-   "location": null,
-   "id": "4e23b6c722a72b87"
   }
  ]
 }
