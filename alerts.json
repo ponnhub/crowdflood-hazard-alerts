@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T17:25:59Z",
+ "updated_at": "2026-11-13T17:46:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -98,20 +98,6 @@
    "time": "2026-11-13T04:30:00Z",
    "location": null,
    "id": "c48ec9b0c8b66e7a"
-  },
-  {
-   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 39 ตำบลและเขตในจังหวัดลาวกาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEtGYS1QZDdURXdYeTFvV3JGai1VYVc3STF2YTEyOEZYVHBSRDBpYzRlQVFsbTNudFViRzk1STFLVHBpYzJoWnVhRlp5cEVqOW9aZXFKRzF1SS1OUHp2U1Zja19obDhmN3pqTlRGaDA0RkpHS0RyaHhwcVBUY3ZvVzlLakpTLTFDaVlEbEtGWm1Idw?oc=5",
-   "time": "2026-11-13T02:26:10Z",
-   "location": null,
-   "id": "37b97b6c3e595a7d"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -290,20 +276,6 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
-   "time": "2026-11-12T06:40:20Z",
-   "location": null,
-   "id": "a7700dea3bbe558b"
-  },
-  {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
    "category": "news",
@@ -343,6 +315,20 @@
    }
   },
   {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
    "category": "official",
@@ -361,6 +347,20 @@
     "precision": "epicentre"
    },
    "id": "4473bfee4f3f555d"
+  },
+  {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T17:12:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
   },
   {
    "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
@@ -745,6 +745,20 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
+   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
+   "time": "2026-11-13T09:37:04Z",
+   "location": null,
+   "id": "634a912daa31f0a0"
+  },
+  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -772,20 +786,6 @@
    "time": "2026-11-13T08:45:58Z",
    "location": null,
    "id": "99bdc19318ac773a"
-  },
-  {
-   "title": "อย่าเพิ่งวางใจ อุตุฯ เตือน 16 จังหวัดภาคใต้ ยังต้องรับมือกับฝนตกหนักถึงหนักมาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRFRoYXFvdWtzV1B3ZEJjTFBXV3NQcC16NUg3LVBXOFQ5Nm5DdktSMnRzbWUwaGRLZ2F3WmtQYWhDUWNGYVd2LUNERWUwTkRidmRnQThDa3I?oc=5",
-   "time": "2026-11-13T08:27:40Z",
-   "location": null,
-   "id": "2aa308b6ca057755"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -1023,20 +1023,6 @@
    "time": "2026-11-13T06:14:54Z",
    "location": null,
    "id": "f58d646f6ef29ee3"
-  },
-  {
-   "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHBKWnpuMGc1TE9PODdPTUtfTFBya21xSVRmcEpySldlNWk0V0dqSTc0bjdQcmVxc3JKS281dkRiZlpPMFpwRDg4WjBUam9wbXlHUHpnRUJrdVk3UkN5NUtxbEpURDMwS2tkdHJ2MkFHajBSQVBjVlVPN25kVDBQS0pHMWFQa01GZzk2VjA3ZGxNNWx4MjUwbw?oc=5",
-   "time": "2026-11-13T06:14:51Z",
-   "location": null,
-   "id": "aa9e8f16a88c7513"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
@@ -1565,6 +1551,20 @@
    "time": "2026-11-12T17:19:22Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
+  },
+  {
+   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
+   "time": "2026-11-12T16:35:37Z",
+   "location": null,
+   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
