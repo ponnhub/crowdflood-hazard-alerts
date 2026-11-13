@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T18:26:49Z",
+ "updated_at": "2026-11-13T18:49:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 53,
+  "flood": 54,
   "flash_flood": 15,
   "storm": 23,
   "landslide": 8,
@@ -42,6 +42,20 @@
    "time": "2026-11-13T17:11:26Z",
    "location": null,
    "id": "e9a5a74c6159ab01"
+  },
+  {
+   "title": "จังหวัดกวางงายออกประกาศเตือนถึงความเสี่ยงจากน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัวใน 16 พื้นที่ ในวันที่ 13 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUMxdG5QUW1PSmc5dUhVVl9jbGt0V3ZTdG5Kdm50UkZpc0JzYnBTeWdIMGlMQVJrNjNpdzROVHF2NktsN0lhSkRRQ0JkWG9KaVA2Y3Z0VFhUckktcW1IeXdCaEp6Y1B2Z1A2MFJjRnBBRGctN1V5ZXRWYlk0bWVYTWlaWkxjSnM3bFVkQ1BDTFFQOXhYVjhVeTJ3d2FIWXI2QVZqMHY3M0VYSHRBdWFxMElnZWw0UQ?oc=5",
+   "time": "2026-11-13T13:18:48Z",
+   "location": null,
+   "id": "78c77d793b7e8978"
   },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
@@ -829,20 +843,6 @@
    "id": "8c6319ad465778cf"
   },
   {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
-  },
-  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -1023,6 +1023,32 @@
     "precision": "epicentre"
    },
    "id": "882e0b33eb030dc7"
+  },
+  {
+   "title": "กทม. มีฝนบางพื้นที่ หลัง กรมอุตุฯ แจ้ง ลมหนาวจะห่างกันสักพัก ช่วงนี้ ฝนกลับมากวนใจ ไทยรอรับอากาศเย็นระลอกใหม่ 19 พ.ย. 69 13 พ.ย.69 ศูนย์ป้องกันน้ำท่วม กรุงเทพมหานคร รายงาน เวลา 13.00 น. พื้นที่ กทม. ฝ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxPazhiYkZ5VV82elFwWUZQTHJkVE9YdDdMakY2MUctblFIYzdndTZ3TU5kR2RES0xRLXZlQzNMSzFXLWZoLTJ5cF8zcXhZTVZFNHNaVXZtdHJIc2pCUnI3YjFGdlcxeUVycDRMOEtLWDB2aFBwS0tNcjRCbGQ0TXhCR2ZFT096dkNtQTN5NUxrdGxQQUdfTmZEYkM3aDNlQ01ZUk5jUW50akhQYzJ5Q002RjhOdG55YjhHZmpYZGEwdDBBcy0tSlE4TWRuNTc2djdmeUxsbG56NDVBdUZWNjFyYktNa1NWaFA1NzFsSGkzQjZxblNwN0lXNGFxSDNhTGhmdXJqYTFGNVQ2YkxJLW1ITHRjaWg2a3hIMl9rTUxfRWdnTEN4ZHlIZVJSRlVKX0puc3lnYU1lNnkwcjd1eWxLRDQ3Wmw2QW9XcDZldVZWYzBkb3dSNTc2LVl1NEZjTXdTdHljc3lwR2FjNk9vV3h2Ylh3ZG5rd3Zfcm0zaDlfUzV0cmJwbW1QY2xkQ3Rsd0lXb05iTm1LTUY5MFJjWldiSTd4SzZMWFJIbHJaVDJuSlV2N2ZxcW11dERVSktGcVhTbzVwelBoNVcycXdURm0xQXNnS0tfbmNoVjVfeWo4T2t6STFIMWt3SThkbEdrWW9VZ25ja0c2eDQ4QXlBcUxoM19lcVo2dlpRdXdSRmxIZGVVYS1MMVd1ZTZVVVhHMDZTdVpTLWFpMVhFUk94X1N2SFdmRkxVQUFyTnNUY2ZXVXQ1cFJhMGFyQ2JKNjVtSUlENENzRTNxMGlrZnBwM0hxTlJiU3JnS1lSSkZONVMwaV81TTJnMDI3SEVEMFp6S1BqT2ZGcDBUenlkUjgtdTEwcEthMWl1YU5vdElEQWJOdXFuQ2VBYUhBLVRzc3Z1R1VxaXlGNFFGZzZZMDl4bDNIMjR1RDN5MFNjUENiNmNJTkxkU1ZQUDl3MWF3RDZ6QXIyLTh0YzRIenBjbHRiMDZaUGRwZU43XzZzUEJFWWZYT3V1VjZDZF9FeGdjUkJqMHc5QjB6WmRkLUd1MVQ3Q2RKRjgwcWpRRGVEQ2F3X1JCdnJvajhMbjZ1QTJ0NEp1LURKOFZib0dwZ1F0bnZ1LXZYbGxEMWRHdml0c2ExZHIwSlJGWjZwekhHM29sa05TTm1TUlZ3QkRaQ01DZVRIbXZkaV9LeUxYMWlyclNsYTRZT1Q5SEpIbjhzY2JLdVIyblFFcUlIaVU3cEZuNW5wUUM5RC1sVUMxNU5jZW5tMGUxX21MWXRXVGxqM0QzMFA1SnVrSXVweVpRRUdQZFoxd2t0RzJUSGI5N1U?oc=5",
+   "time": "2026-11-13T06:15:00Z",
+   "location": null,
+   "area": {
+    "code": "TH1027",
+    "level": "amphoe",
+    "name": "เขตบึงกุ่ม กรุงเทพมหานคร",
+    "bbox": [
+     100.624,
+     13.771,
+     100.675,
+     13.848
+    ]
+   },
+   "incident_id": "fr_news_f07feb07a1990212b3f9",
+   "id": "f07feb07a1990212"
   },
   {
    "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
