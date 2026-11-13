@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T06:17:54Z",
+ "updated_at": "2026-11-13T07:00:19Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 44,
+  "flood": 47,
   "flash_flood": 17,
   "storm": 17,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 6,
-  "pm25": 7,
+  "drought": 7,
+  "pm25": 6,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -340,6 +340,81 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "นครศรีธรรมราช ยังอ่วม! ฝนถล่มหนักตลอดคืน เฝ้าระวังน้ำท่วมบ้านเรือนประชาชนในพื้นที่ อ.ท่าศาลา",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lb0RZb3BDZ3FHZmlhUk02eVZSZzZIY2Via3RnTjFhZ3EwaGRFQTJjd0tSQ3pidlFqS25wcnFDRW5zbnpIZkRadjBRQkhSOVRkUE80?oc=5",
+   "time": "2026-11-13T06:54:06Z",
+   "location": {
+    "name": "อ.ท่าศาลา",
+    "lat": 8.7060315,
+    "lng": 99.8956014,
+    "precision": "district"
+   },
+   "incident_id": "fr_news_58188b2bee7aa57ef367",
+   "id": "58188b2bee7aa57e"
+  },
+  {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T06:42:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
+  },
+  {
+   "title": "ปภ. โอนเงินเยียวยาน้ำท่วมวันนี้เพิ่ม 11 จังหวัด และ กทม. กว่า 145.73 ล้านบาท",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "จส. 100",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IVGZxVW84TFpFUVl0bkhTaHJqMzNRSFFEZV9ndUg0NzBERTZWQ25wSHczc1NzbjhYSVVMYlpnV0t2NlB5ZUpPdWlJdXpYQ1BwM3FqRFJkcER2dw?oc=5",
+   "time": "2026-11-13T06:34:41Z",
+   "location": null,
+   "incident_id": "fr_news_3acf8241654ece4ff3da",
+   "id": "3acf8241654ece4f"
+  },
+  {
+   "title": "อัปเดต น้ำท่วมชุมพร ล่าสุด 13 พ.ย.69 ทะลัก 3 จุดหลักกลางเมือง สูง 40 ซม.",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jTVc0Zl96LXBuenJNUEdGR0tqUTR6dmNFRkhJR3VMOEduYmlXd3BaSlVEOW1hamVCRVNVVWs0eUs4MHRDbVV0akRvVWx4Qnd4OTdYdWdQT2lGMHFkUWc5cnpKN2toQQ?oc=5",
+   "time": "2026-11-13T06:26:00Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
+   "id": "aa8fe6f7ed37628c"
+  },
+  {
    "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
    "summary": "",
    "category": "news",
@@ -352,20 +427,6 @@
    "time": "2026-11-13T06:14:51Z",
    "location": null,
    "id": "aa9e8f16a88c7513"
-  },
-  {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-13T05:37:03Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
   },
   {
    "title": "เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 15D ส่งผลให้ถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์ถูกตัดขาด",
@@ -780,10 +841,24 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HeXhHU2dNaHN0Vm1US1hjaUpMUkczNFNUeEFpdVhrOExsVDFqVC14TDlYaVZ1X0NYbm54R2hMUDVvWDlrV2JTT0x2LU5yRWFDRGc?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcl9IdGlLYVJQNlIwenB2aTNpM1pXd244bkp5dFpCZWZHRjRKWTIyYzhJZE1pZnRQN2FFWFR3TGFKek5RYzJTNUlyQ2tySVhUVUJz?oc=5",
    "time": "2026-11-12T23:49:57Z",
    "location": null,
-   "id": "89793c16fd21461f"
+   "id": "0dea43223c72cffe"
+  },
+  {
+   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
+   "time": "2026-11-12T23:34:57Z",
+   "location": null,
+   "id": "5dfeb57eba5f54d1"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
@@ -1005,6 +1080,20 @@
    "id": "1bb00acfa52660e9"
   },
   {
+   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
+   "time": "2026-11-12T13:26:18Z",
+   "location": null,
+   "id": "ff7a537b785e1a0e"
+  },
+  {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
    "summary": "",
    "category": "news",
@@ -1212,20 +1301,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -2233,31 +2308,6 @@
    "time": "2026-11-11T07:19:46Z",
    "location": null,
    "id": "4e23b6c722a72b87"
-  },
-  {
-   "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ททบ. 5",
-   "source_url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPYnJzc014bnR0QmxDMmZLUHZOYmxHcGxXWmotUV9UZUxidy02Y2dNM09oOHMxYnlGQ3FhSElzaGZkYWliN0xHSlV2ekVXeGtCYjdMZ1o5SnZQMng0WmlIT2Q2V04xcl90ODJKM2Y0eU1UX0l5dUJyWGViZG9qbEh3Zm5ha3VGS2F2WjBFRTgzM2dWMDgzREI2dmpBYmNHb092bXQ3SllZUWFjUmlfckpqZHQ5YkxrRXFyNGhmR3R3cFFVLXVqMHJlR0ZyeDI2OV9GX1pHY2x5N0JCMHJQc09YT1prVUVpaE1zZDJOVGx1am5GdTJNRkNHTXdTQm9TLVVETTR2ZGVKbEVnVTNBNk56bUl3TFFNSHhjV0NUNWxpUHR2Z05HOEI2QUJDdk91RktJdDdnV2xzNHFBOU9MSjVqMm9xXzVYaDRzbXdRbWxJaDBKYnFId19NQTN2dVR6aUVUN0N4THRRZWlFU2p3a0Q1eDZhNVJCVXRQdFdjNzUzQkdaRWFuVlNVQzRYR2xLaHZZT0hMUm9sVTJrUzRjclJpUlE1M1RUbHA5d3gyNEdhUkcyb1VzT2lEZDgwek1FU3FDaXN4UjJyTFZNcmU5ZUtTQmZIOVhNeGFYQndkeUhLdktETFQ5ZnNoeWhqX2stMWxLYTlYajdFS0xEbm5QWElTZnZDdjRKaWthSUpkdWE0cWRFUXJWNC01emVRSUpURWs2SDYyTktrV083cnJSVUh6dDVBczNkSndGSTg4NFNtenZBSlhJa0R4VWJRU204ek5FS3g4WEpCdDJFdDQtWEd5UzBINzhaM0w0d29ISThnbGsxTC1vdl9qeEpFLUNrUUVBUXBTX1dR?oc=5",
-   "time": "2026-11-11T06:43:00Z",
-   "location": null,
-   "id": "87b81afc814d770d",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   }
  ]
 }
