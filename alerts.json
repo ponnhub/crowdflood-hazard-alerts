@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T10:16:51Z",
+ "updated_at": "2026-11-13T10:32:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 49,
-  "flash_flood": 20,
-  "storm": 19,
+  "flood": 51,
+  "flash_flood": 19,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 9,
   "pm25": 6,
   "heat": 2,
   "tsunami": 0,
@@ -195,6 +195,20 @@
    "id": "a1fbd7e75c5ec0a2"
   },
   {
+   "title": "กรมป้องกันฯ เตือน 10 จังหวัดปภ.ระดับน้ำเจ้าพระยาสูงขึ้นช่วงกลางเดือนพฤศจิกายน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzVlhocEpKaXgyX2E0R2tjODhWdXJfMXc3NnA2VUxrRjVmdXFvY2lRamRTUG41ODYtUVNwcXkyWGhBRFpiWFBCRUFXR3VObWFHcFdzUnZld1NIWklYamFITFpaOFRYZG5TUWtsOA?oc=5",
+   "time": "2026-11-12T12:49:00Z",
+   "location": null,
+   "id": "46d20dbd1132f1ce"
+  },
+  {
    "title": "กรมปภ.เตือนภัยน้ำท่วมภาคใต้ ฝนตกหนักหลายจังหวัดสุราษฎร์ฯ ชุมพร นครศรีฯ",
    "summary": "",
    "category": "news",
@@ -329,20 +343,6 @@
    }
   },
   {
-   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
-   "time": "2026-11-12T00:23:59Z",
-   "location": null,
-   "id": "37825e7f39a6736a"
-  },
-  {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
@@ -366,6 +366,60 @@
      10.184
     ]
    }
+  },
+  {
+   "title": "เฝ้าระวังฝนตกหนักภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2RkFIMEp2c2xKXzhCSzJKRmFZRDJRbUNyR0tKcEdib0hwOVQ1cVNveEdCTnlrQk8yWFVlT3VTZnpHUld5enRKZVVSVQ?oc=5",
+   "time": "2026-11-13T10:22:45Z",
+   "location": null,
+   "id": "51e42977a9476ecd"
+  },
+  {
+   "title": "อุตุฯ เผย ภาคใต้ยังมีฝนตกหนัก 3 จว.เสี่ยงน้ำท่วม เหนือ-อีสานมีหมอกเช้า ยอดดอย 10 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nMmNZblMwbzJrbjBiZmZTYW9QdGhVTUk5Y05QVU1EMXRlMG91TnpNa1BJS0g4N0l0QjdKbkd6VWlQT2ZkOHZUZFNjNjVBVmtWQktsX3VIeFI1X0FKTXNyWFhORDlyZw?oc=5",
+   "time": "2026-11-13T10:17:00Z",
+   "location": null,
+   "id": "d6c6650d919689c8"
+  },
+  {
+   "title": "ชุมพรอ่วม! ฝนถล่มข้ามคืน น้ำท่วม 5 อำเภอ โรงพยาบาลจม 40 ซม. หลังสวนยังวิกฤต!",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54dTBLcmN0SFJUT3ZCLXhtR1ZqcE4wdkJuZFo4Smx2TjNrUHN1aW53c205NWJUbm5WMzVfMjV4MGFWRlFlLWozUVBSMDVPX2xWTHhGQTAtT2tqb1hq?oc=5",
+   "time": "2026-11-13T10:11:00Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_2ce403f66788a3aa6afd",
+   "id": "2ce403f66788a3aa"
   },
   {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
@@ -1648,6 +1702,20 @@
    }
   },
   {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
+  },
+  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -1909,16 +1977,15 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:58:10Z",
+   "time": "2026-11-12T04:57:39Z",
    "location": null,
-   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -1929,7 +1996,9 @@
      100.09,
      10.125
     ]
-   }
+   },
+   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
+   "id": "a61e89fb8f5ff977"
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
