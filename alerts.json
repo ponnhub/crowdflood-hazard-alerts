@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T14:31:57Z",
+ "updated_at": "2026-11-13T14:42:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
-  "flash_flood": 15,
+  "flood": 51,
+  "flash_flood": 16,
   "storm": 23,
   "landslide": 8,
   "earthquake": 14,
@@ -1276,6 +1276,20 @@
    "id": "66890bd9255c8829"
   },
   {
+   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
+   "time": "2026-11-13T01:01:00Z",
+   "location": null,
+   "id": "099b05e7b0a41366"
+  },
+  {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -1380,6 +1394,20 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 13 พ.ย.2569 เตือน 3 จังหวัดภาคใต้ฝนตกหนัก ระวังน้ำป่า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcl9IdGlLYVJQNlIwenB2aTNpM1pXd244bkp5dFpCZWZHRjRKWTIyYzhJZE1pZnRQN2FFWFR3TGFKek5RYzJTNUlyQ2tySVhUVUJz?oc=5",
+   "time": "2026-11-12T23:49:57Z",
+   "location": null,
+   "id": "0dea43223c72cffe"
   },
   {
    "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
