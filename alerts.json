@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T15:32:16Z",
+ "updated_at": "2026-11-13T15:40:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -783,6 +783,20 @@
    "id": "8c6319ad465778cf"
   },
   {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
+  },
+  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -1003,20 +1017,6 @@
    },
    "incident_id": "fr_news_492d9e8cb446de2495c6",
    "id": "492d9e8cb446de24"
-  },
-  {
-   "title": "เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 15D ส่งผลให้ถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์ถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpCWnBrVmc3SF9QRW80bDhnVVhXRWJncXZpbWt5YWd1UDhDNFUydnBXMVRMakxkUlFCRWNPODNXNjJFZThLeFQ5UVdZelliQmNZc24yaW16OEREaURidmdhLWlhUDU2dnJiZ1g5MGNIc1A1M0ktMGl1allKQnhySndCRk1mUGpiRTBMSFFDenlPRng4?oc=5",
-   "time": "2026-11-13T04:33:24Z",
-   "location": null,
-   "id": "9b38813df35970b9"
   },
   {
    "title": "ฝนถล่มนครศรีธรรมราช! น้ำท่วม 4 อำเภอ น้ำป่าหลากท่วมบ้าน-ถนนหลายจุด สิชลหนักสุด",
