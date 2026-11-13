@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T10:42:20Z",
+ "updated_at": "2026-11-13T11:03:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
+  "flood": 51,
   "flash_flood": 19,
   "storm": 21,
   "landslide": 8,
@@ -368,6 +368,52 @@
    }
   },
   {
+   "title": "ชุมพรอ่วม 5 อำเภอ ฝนถล่มต่อเนื่อง น้ำท่วมหลายจุด เขตเทศบาลเมืองน้ำขังสูง 20-40 ซม.",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hbWFXM0Q4V2NPQTlYVno3YXNWMzU3STNVX1ZkWnIxVExPeEJKLXZkMmFTT2prdndVUlV1NVM4TkxWZ2dZRDhjZjFHcHJiNzdfTEJFRE1LWm9rN0Nmd1gwTg?oc=5",
+   "time": "2026-11-13T10:48:47Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_a3c297fb41379a97f356",
+   "id": "a3c297fb41379a97"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 66 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17428",
+   "time": "2026-11-13T10:45:00Z",
+   "magnitude": 2.2,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.048,
+    "lng": 97.944,
+    "precision": "epicentre"
+   },
+   "id": "225b5ceffac5c53f"
+  },
+  {
    "title": "เฝ้าระวังฝนตกหนักภาคใต้",
    "summary": "",
    "category": "news",
@@ -377,7 +423,7 @@
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2RkFIMEp2c2xKXzhCSzJKRmFZRDJRbUNyR0tKcEdib0hwOVQ1cVNveEdCTnlrQk8yWFVlT3VTZnpHUld5enRKZVVSVQ?oc=5",
-   "time": "2026-11-13T10:22:45Z",
+   "time": "2026-11-13T10:24:28Z",
    "location": null,
    "id": "51e42977a9476ecd"
   },
@@ -1615,26 +1661,6 @@
    },
    "incident_id": "fr_rss_2998aa7298d22fe12be6",
    "id": "2998aa7298d22fe1"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 59 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17424",
-   "time": "2026-11-12T10:00:37Z",
-   "magnitude": 2.2,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.974,
-    "lng": 97.954,
-    "precision": "epicentre"
-   },
-   "id": "a8891e55861ad354"
   },
   {
    "title": "เช็กอากาศ! ใต้รับมือฝนถล่มหนัก เหนือ-อีสาน-กทม. อุณหภูมิเริ่มขยับสูงขึ้น",
