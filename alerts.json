@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T08:45:12Z",
+ "updated_at": "2026-11-13T09:03:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,13 +18,13 @@
  "counts": {
   "flood": 50,
   "flash_flood": 19,
-  "storm": 21,
+  "storm": 18,
   "landslide": 8,
   "earthquake": 13,
   "wildfire": 1,
   "drought": 9,
   "pm25": 6,
-  "heat": 1,
+  "heat": 2,
   "tsunami": 0,
   "other": 0
  },
@@ -181,20 +181,6 @@
    "id": "5a3f68ffdccfcc50"
   },
   {
-   "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมาก คลื่นสูง 2-3 เมตร เดินเรือระมัดระวัง! | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cmFGdU5iWkd3MzBrMVlCa1pHMTRVZGY3U19Qa1Y5cXVudjJ5R00wT1poMnRRUngtbWV4LTFVODFmaV84WEg5a3Y1U2hQZDQxb0ZaaXh3?oc=5",
-   "time": "2026-11-12T13:50:26Z",
-   "location": null,
-   "id": "e740bfd7ec0446c3"
-  },
-  {
    "title": "ปภ.แจ้งเตือน กทม. และ 10 จังหวัดภาคกลาง เฝ้าระวังระดับน้ำเจ้าพระยาเพิ่มสูง",
    "summary": "",
    "category": "news",
@@ -290,20 +276,6 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "เช็กเลย! กรมอุตุนิยมวิทยา เตือน ฝนตกหนักถึงหนักมากบริเวณภาคใต้ ฉบับ 9",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jdnotaFRORHlPbUI4SC1hQ283MFp4Y1o2WFI3dG44Yko5ZVBrdG53V0dXRldYVmxsMkV6YUYtQ1BhcFBmRkVyY2hUVEU0dHZhaDNmME1R?oc=5",
-   "time": "2026-11-12T11:32:00Z",
-   "location": null,
-   "id": "1da49d986bb4a289"
-  },
-  {
    "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
    "summary": "",
    "category": "news",
@@ -330,20 +302,6 @@
    "time": "2026-11-12T02:58:00Z",
    "location": null,
    "id": "1252b155438fabbd"
-  },
-  {
-   "title": "กรมอุตุ เตือน 14 จว.ใต้ ฝนตกหนักถึงหนักมาก สูงสุด 70% เหนือตอนบนมีฝน กทม.สัมผัส 23 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "มติชนออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RjhCTURCem1JQmh1U2FZWG1pYmxHVm1MN0l4cWRBZWl2TWh0Rk9XODRjdngyamgzOTlwbDJ5d0ZrU2E1dThpUmFTbU9jTThvOTlQT0xYVEU?oc=5",
-   "time": "2026-11-12T00:30:58Z",
-   "location": null,
-   "id": "7a9a7a793fd1affb"
   },
   {
    "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
@@ -408,6 +366,34 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZmdmUVNNNklIN0hBZlRwcXRnRWlHWDNBbHMwR1c4RERGa1c1aWxBVWRKdjFrcktpdFF3eW03V0NHZkUtU0prbGs5MkJPV09mS0xwWV9KQ0FfN0UzOV9qbkZDazZYQQ?oc=5",
+   "time": "2026-11-13T08:45:58Z",
+   "location": null,
+   "id": "99bdc19318ac773a"
+  },
+  {
+   "title": "อย่าเพิ่งวางใจ อุตุฯ เตือน 16 จังหวัดภาคใต้ ยังต้องรับมือกับฝนตกหนักถึงหนักมาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRFRoYXFvdWtzV1B3ZEJjTFBXV3NQcC16NUg3LVBXOFQ5Nm5DdktSMnRzbWUwaGRLZ2F3WmtQYWhDUWNGYVd2LUNERWUwTkRidmRnQThDa3I?oc=5",
+   "time": "2026-11-13T08:27:40Z",
+   "location": null,
+   "id": "2aa308b6ca057755"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -789,20 +775,6 @@
    },
    "incident_id": "fr_rss_ef80ef3c6d1d109ff6bf",
    "id": "ef80ef3c6d1d109f"
-  },
-  {
-   "title": "🌧️ ฝนบอกยังไม่จบ... ส่วนลมหนาวก็บอกกำลังมา! ใครคิดว่าฝนจะหมดแล้ว อาจต้องรอติดตามกันอีกนิด 👀 📌 13 พ.ย. ภาคใต้ยังต้องเฝ้าระวัง 🌦️ 14 พ.ย. ฝนเริ่มลดลง ⚠️ 18–22 พ.ย. จับตาฝนตกหนักถึงหนักมากอีกระลอก ❄️ 19–20 พ.ย. ลมหนาวเตรียมมาอีกระลอก แล้วทุกคนล่ะคะ... ทีมไหน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwhBVV95cUxOMk9fQy1xU3NQNVZsZUZQazFNVEVjdU13LTJUaS1rTVZDU0RLaHdzbk5zUm9yZ1NYSjdRRUg4T01rLTBwcTR1c1BHQUFPTmIwV2gxYTFmanFHaVJtZ2dQb2dsUGZlN0lVMVAyUjhQZmxaX01Qbl9yY2RXQkpsX2JxLVRGbmc5UlJULUs3SkxMbmx6bThfTlNBUDdwbVpsRUNNUWJXazRlTTc1RzlyNWNKR0N4R0F2T3hBSl9aZW4zcGdSUFBrbkdnUWlqUDI4Q2dFODVQNHhNNTlpTjd5dVd4bFhFNXktSGJzX3F4LWhfdmhNOWVXMjRWMnA2V3lOSTlsbzFydS1KWTV1cUl6dlMyU2ExYXRVdlN2ckhSYm5FTm9JaHRjUWJqWlRsaTFzQ3cyZ0RnSllkbVdhOC1meGozV3lPMkdjYmw0X3FTN3ZZZ2ZadWEteUlsOERCNFY5ellBTERZa3c2bHR4MC1tVkVfQ3dnME9uWnZtWk1vYklWNGpiR2RFcndHeVJZM0FOQTVNVG1WTk9TTXNWRlEtWGthcFlTZFZGTDRpRTRJNWNRUXdqMXBvdVpWYXhpdDA2aGt5OFpaSFplU1FJWVFvYXp1QUg4ZHdDT21TRjJoeXowc3R2VkE2eGc5Qkh4c2FHLTg2ckIzblZrYzdzSGRpeXVJT2NLbGZ5bXVrQ2hrNUtqN2NDdkJmTjVaS2JHQklMT0RVc3J2RUxYckNiLUhnSmJ6Y0hBNExPQndPaWwtZzhEaWNlaTlySzFSRkhveFUyS2xSeG14T0w2SDd6bXJHb3UzS3NmcDBLdlpLRzBCR3lQNWRVZDQ1ZmVLMHhseGdoUGpocDd0N2hldUxpQnNObUx4RUJoTUM1Qkxla2h3MnVIQTFTM2NzbHZXN2pqTWZZV0JQZlRzRy1RRHBXN0JLR3ZYSXF2OVNyME5JV1haNlR4aEJfTmE3dHUyRjZxUFRjOTZodS00SXZ0REJyTUdJNVVVV0haN1FjZ1p0b05XSjlWXzdlbEdrSWJpZE1fMlBLZHdCb0VPU2lNRV9qWUVtRXV2d2Nud3lpb2F6UXptcWFsdVdEX0dQSmxEeWdpTVd2bW5DX3NnZDI0VE5EMkFEdERETWlnZG03clRzdS10aTJuTmdIN3BmZVZjTkViXzZoakQ1c05sVmx2Sk12cVI5SkJsOVB5MlZNUFZTOUxXMVpaY29vLXd4dm1ITUhMS21RTk5xUlY3czlWX25LaGphVlliUW9VWVE1cUcyRVo0Mk44UGJXdEo3emZRczRrNVZ4UllxUTczNXcxMUdrVExLYU9MSnlfNEF6TTc2NHdSb3VMb0ZQNGZhVHYySldnSGhjaG5KeHZnVUNySlFFZkk?oc=5",
-   "time": "2026-11-13T03:18:41Z",
-   "location": null,
-   "id": "3d93e5905900f1bb"
   },
   {
    "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
@@ -2080,6 +2052,20 @@
    "id": "5d945849b7a9ad82"
   },
   {
+   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
+   "time": "2026-11-12T02:22:38Z",
+   "location": null,
+   "id": "2b30ac0ce5c5ed82"
+  },
+  {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
    "summary": "นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบกรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเสี่ยงอุทกภัย เตรียมเครื่องจักร เครื่องสูบน้ำ เครื่องผลักดันน้ำ และเจ้าหน้าที่ให้พร้อมเข้าปฏิบัติงานตามแผนรับมือสถานการณ์อุทกภัย ปี 2569 เน้นย้ำให้ทุกโครงการชลประทานติดตามสภาพอากาศ ปริมาณฝน และสถานการณ์น้ำอย่างใกล้ชิด รวมทั้งบริหารจัดการน้ำและเร่งระบายน้ำในจุดที่มีความเสี่ยง เพิ่ม",
    "category": "flooding",
@@ -2347,20 +2333,6 @@
    },
    "incident_id": "fr_rss_5cd6221ae6e4d87509bd",
    "id": "5cd6221ae6e4d875"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 12 พ.ย. ภาคใต้ฝนตกหนัก ไทยตอนบนอากาศเย็น ลมแรง!",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KenVLX1ZBdWoyNlgxMVZ6eV9XSzhyS2tMSGVjZFVGSkVVNk16S0hNMFFTc2RtNWh2NUx5RFJBRmZKM3lWS2J2amhpT0lORXVlT1I0S0h6c0FsWkl0Z0h0TFd6VmxQM3RiVDZ2TVpDZldIdlN3dmhoeGFLazY?oc=5",
-   "time": "2026-11-11T10:15:46Z",
-   "location": null,
-   "id": "17cc5dcad884f35f"
   },
   {
    "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
