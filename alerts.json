@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T18:49:56Z",
+ "updated_at": "2026-11-13T19:01:12Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -42,20 +42,6 @@
    "time": "2026-11-13T17:11:26Z",
    "location": null,
    "id": "e9a5a74c6159ab01"
-  },
-  {
-   "title": "จังหวัดกวางงายออกประกาศเตือนถึงความเสี่ยงจากน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัวใน 16 พื้นที่ ในวันที่ 13 พฤศจิกายน 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUMxdG5QUW1PSmc5dUhVVl9jbGt0V3ZTdG5Kdm50UkZpc0JzYnBTeWdIMGlMQVJrNjNpdzROVHF2NktsN0lhSkRRQ0JkWG9KaVA2Y3Z0VFhUckktcW1IeXdCaEp6Y1B2Z1A2MFJjRnBBRGctN1V5ZXRWYlk0bWVYTWlaWkxjSnM3bFVkQ1BDTFFQOXhYVjhVeTJ3d2FIWXI2QVZqMHY3M0VYSHRBdWFxMElnZWw0UQ?oc=5",
-   "time": "2026-11-13T13:18:48Z",
-   "location": null,
-   "id": "78c77d793b7e8978"
   },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
@@ -841,6 +827,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
