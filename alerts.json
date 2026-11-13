@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T16:11:04Z",
+ "updated_at": "2026-11-13T16:28:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 52,
+  "flood": 53,
   "flash_flood": 15,
-  "storm": 23,
+  "storm": 22,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 5,
   "heat": 1,
   "tsunami": 0,
@@ -600,20 +600,6 @@
    "id": "58dee563db737085"
   },
   {
-   "title": "อุตุฯ เผย ภาคใต้ยังมีฝนตกหนัก 3 จว.เสี่ยงน้ำท่วม เหนือ-อีสานมีหมอกเช้า ยอดดอย 10 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nMmNZblMwbzJrbjBiZmZTYW9QdGhVTUk5Y05QVU1EMXRlMG91TnpNa1BJS0g4N0l0QjdKbkd6VWlQT2ZkOHZUZFNjNjVBVmtWQktsX3VIeFI1X0FKTXNyWFhORDlyZw?oc=5",
-   "time": "2026-11-13T10:17:00Z",
-   "location": null,
-   "id": "d6c6650d919689c8"
-  },
-  {
    "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
    "summary": "",
    "category": "news",
@@ -781,6 +767,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -977,20 +977,6 @@
    "time": "2026-11-13T06:14:54Z",
    "location": null,
    "id": "f58d646f6ef29ee3"
-  },
-  {
-   "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHBKWnpuMGc1TE9PODdPTUtfTFBya21xSVRmcEpySldlNWk0V0dqSTc0bjdQcmVxc3JKS281dkRiZlpPMFpwRDg4WjBUam9wbXlHUHpnRUJrdVk3UkN5NUtxbEpURDMwS2tkdHJ2MkFHajBSQVBjVlVPN25kVDBQS0pHMWFQa01GZzk2VjA3ZGxNNWx4MjUwbw?oc=5",
-   "time": "2026-11-13T06:14:51Z",
-   "location": null,
-   "id": "aa9e8f16a88c7513"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
@@ -1326,6 +1312,20 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
+  },
+  {
+   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
+   "time": "2026-11-13T01:01:00Z",
+   "location": null,
+   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
@@ -1677,6 +1677,20 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
+  },
+  {
+   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
+   "time": "2026-11-12T13:26:18Z",
+   "location": null,
+   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
