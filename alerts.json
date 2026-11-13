@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T04:14:40Z",
+ "updated_at": "2026-11-13T04:26:55Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 45,
-  "flash_flood": 17,
+  "flood": 46,
+  "flash_flood": 16,
   "storm": 18,
   "landslide": 8,
   "earthquake": 14,
@@ -151,20 +151,6 @@
    "time": "2026-11-13T00:23:45Z",
    "location": null,
    "id": "43f8a14769112e28"
-  },
-  {
-   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว เมื่อวันที่ 13 พฤศจิกายน 2569 ในจังหวัดไลเจา เดียนเบียน ซอนลา และลาวกาย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVZwaThhN29rc21td0FySl9GOGsyMlJvNnNmTHBvV3k4dWdGVDh0Qjl4T2tnbnFUTlhWS19NbXpfNFExYm1jYVRFTU5FVmNNQkI3YnFVVndMVkJneTNiN29FamdXTlJBbWdod3FLUEE0QmZ6eGV3QzFUdm5YeTBoNVZhRXp4VlJDdF80YlFqMzlSNFhyYjFfWXg4TVA4dkZIakNBNC1YWTdHWENCNzhndlJ3QjI5OFFBWHNv?oc=5",
-   "time": "2026-11-12T22:30:45Z",
-   "location": null,
-   "id": "666c54c81f4e5dc9"
   },
   {
    "title": "ประกาศเตือนภาคใต้ฝนตกหนักถึงหนักมาก คลื่นสูง 2-3 เมตร เดินเรือระมัดระวัง! | The Bangkok Insight",
@@ -366,6 +352,45 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
+  },
+  {
+   "title": "ฝนถล่มนครศรีธรรมราช! น้ำท่วม 4 อำเภอ น้ำป่าหลากท่วมบ้าน-ถนนหลายจุด สิชลหนักสุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uUDl2QThSUVVQMkNJUDlYcDNSNzlSSUpyb0owd1paVS1EdGdPV0pHd3lpcklpMDlCZk9HZ2Ryd1JEemFQY0dRNEZDV2QxU3dGb1ltVUExbXc?oc=5",
+   "time": "2026-11-13T04:16:00Z",
+   "location": null,
+   "id": "89554343ab8edb4c",
+   "area": {
+    "code": "TH80",
+    "level": "province",
+    "name": "จ.นครศรีธรรมราช",
+    "bbox": [
+     99.234,
+     7.838,
+     100.337,
+     9.323
+    ]
+   }
+  },
+  {
+   "title": "เน้นการซ่อมแซมพื้นที่ดินถล่มและดูแลความปลอดภัยด้านการจราจร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR29DQkw3WDZrTWlTbEY0QXl6VHJLU1M4dkl0eG93U3lNTjF3T1F2RW9iVzMtUkVCQ25DYVJXWDRFWkRtWWtpaXMxcUNqQk9PQ3ZtelhOR0diXzVmSUlkTmFkYU80SjZSYlAzdm1Qdmt2UzJTcGVwb3ZTd05IZTBjVnk5dkhQSmpBa19yTlhZZDJTQQ?oc=5",
+   "time": "2026-11-13T04:14:23Z",
+   "location": null,
+   "id": "20ca4eff0e91b364"
   },
   {
    "title": "เมืองคอน น้ำหลากท่วมหลายจุด 4 อำเภอ โซนเทือกเขาฝนถล่ม งานศพเจอน้ำท่วม ยกโลงขึ้นที่สูง",
@@ -594,6 +619,26 @@
    "id": "e741900e8e5d1ab1"
   },
   {
+   "title": "กาญจนบุรี : ก.ช.ภ.อ.ทองผาภูมิ เคาะจ่ายเงินช่วยน้ำท่วม ความเสียหายด้านพืช 1.44 ล้านบาท จำนวน 89 ราย",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ทอล์คนิวส์ ออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRXVvUFVnM2U3Mm9XcEc3SllwNXh5WHF0Q2NwX2pVY1BYVzFod3lTOUh1WGY1U2dfMFZoa0kxczdvamU3VXMyWU9hTkFKMlRFdzViTw?oc=5",
+   "time": "2026-11-13T01:15:00Z",
+   "location": {
+    "name": "อ.ทองผาภูมิ",
+    "lat": 14.8590952,
+    "lng": 98.4405074,
+    "precision": "district"
+   },
+   "incident_id": "fr_news_66890bd9255c882949fd",
+   "id": "66890bd9255c8829"
+  },
+  {
    "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
    "summary": "",
    "category": "news",
@@ -751,20 +796,6 @@
      11.034
     ]
    }
-  },
-  {
-   "title": "อุตุฯ เตือน 15 จังหวัดใต้รับมือฝนหนักถึงหนักมาก ระวังน้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "banmuang.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3UGRLdkI2d1NIUGpIWk9yRjIwVzQwTmdheFdvZ0drUTNtSTAyS3BHcTB6TFNFaEQtbUxCMFRMUGFlTUdtS1UyQXVKLVBCZWFnZncwOE90Y18?oc=5",
-   "time": "2026-11-12T23:00:00Z",
-   "location": null,
-   "id": "97662f46c8e371ee"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -2310,32 +2341,6 @@
    },
    "incident_id": "fr_news_255e2fa09448be4b17cd",
    "id": "255e2fa09448be4b"
-  },
-  {
-   "title": "นครศรีธรรมราชฝนตกหนัก ทำน้ำป่าทะลักน้ำตกเทือกเขาหลวง เตือนเฝ้าระวังน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOdHFpRDB4cXR3WnFkUXZXS1B0Rk05N0FGMTh2a0NBVGxPT2hEbXVmVjJIdDVZNmJWbFZ2QWdlLXdOZWpHS091UWY0Mi1uS2tCeGFzNUF3UnB5X3ViZzAwNw?oc=5",
-   "time": "2026-11-11T04:17:37Z",
-   "location": null,
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   },
-   "incident_id": "fr_news_52eca5812047102dad34",
-   "id": "52eca5812047102d"
   }
  ]
 }
