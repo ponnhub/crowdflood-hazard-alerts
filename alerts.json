@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T17:46:27Z",
+ "updated_at": "2026-11-13T18:02:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 54,
-  "flash_flood": 15,
-  "storm": 22,
+  "flood": 53,
+  "flash_flood": 14,
+  "storm": 23,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
@@ -84,20 +84,6 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
-  },
-  {
-   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
-   "time": "2026-11-13T04:30:00Z",
-   "location": null,
-   "id": "c48ec9b0c8b66e7a"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -644,6 +630,20 @@
    },
    "incident_id": "fr_news_58dee563db7370859d2a",
    "id": "58dee563db737085"
+  },
+  {
+   "title": "อุตุฯ เผย ภาคใต้ยังมีฝนตกหนัก 3 จว.เสี่ยงน้ำท่วม เหนือ-อีสานมีหมอกเช้า ยอดดอย 10 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nMmNZblMwbzJrbjBiZmZTYW9QdGhVTUk5Y05QVU1EMXRlMG91TnpNa1BJS0g4N0l0QjdKbkd6VWlQT2ZkOHZUZFNjNjVBVmtWQktsX3VIeFI1X0FKTXNyWFhORDlyZw?oc=5",
+   "time": "2026-11-13T10:17:00Z",
+   "location": null,
+   "id": "d6c6650d919689c8"
   },
   {
    "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
@@ -1358,20 +1358,6 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
-  },
-  {
-   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
-   "time": "2026-11-13T01:01:00Z",
-   "location": null,
-   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
