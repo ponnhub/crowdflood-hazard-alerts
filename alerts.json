@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T13:32:54Z",
+ "updated_at": "2026-11-13T13:41:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 51,
-  "flash_flood": 15,
+  "flash_flood": 16,
   "storm": 22,
   "landslide": 8,
   "earthquake": 14,
@@ -70,6 +70,34 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
+   "time": "2026-11-13T04:30:00Z",
+   "location": null,
+   "id": "c48ec9b0c8b66e7a"
+  },
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 39 ตำบลและเขตในจังหวัดลาวกาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEtGYS1QZDdURXdYeTFvV3JGai1VYVc3STF2YTEyOEZYVHBSRDBpYzRlQVFsbTNudFViRzk1STFLVHBpYzJoWnVhRlp5cEVqOW9aZXFKRzF1SS1OUHp2U1Zja19obDhmN3pqTlRGaDA0RkpHS0RyaHhwcVBUY3ZvVzlLakpTLTFDaVlEbEtGWm1Idw?oc=5",
+   "time": "2026-11-13T02:26:10Z",
+   "location": null,
+   "id": "37b97b6c3e595a7d"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -717,20 +745,6 @@
    "id": "8c6319ad465778cf"
   },
   {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
-  },
-  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -1246,6 +1260,20 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
+  },
+  {
+   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
+   "time": "2026-11-13T01:01:00Z",
+   "location": null,
+   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
@@ -2436,7 +2464,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:48:35Z",
+   "time": "2026-11-11T15:47:50Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
@@ -2453,26 +2481,6 @@
    "time": "2026-11-11T14:19:00Z",
    "location": null,
    "id": "d8d2403fbad42ac0"
-  },
-  {
-   "title": "UPDATE: ชาวแม่สาย สุดอัดอั้น จำทนผวาน้ำท่วม-กลัวสารพิษ เผยเดือดร้อนสาหัส-ห่วงอนาคตลูกหลานไม่มีแม่น้ำใช้-ยื่น 9 ข้อเสนอถึง นายกฯ เร่งแก้ปัญหา วันนี้ (11 พ.ย. 69) ที่ศาลาวัดเกาะทรายคำ อ.แม่สาย จ.เชียงรา",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMisgdBVV95cUxONjRoelBQOFZnSG0yaFhpRmlDQXgwZWhkRFd0bndGQlhIMnZwSW1HUmE4bXRVZ3hTVmxKcG1rRkRYS2VZVFBrc0xwdzFWSlJjazltazZvMjd0Z19ZbC15ZTYxbU1sTmFURXVYaG0yeDBVX3hIZWIwU1plZmVuZTBOMTUyZVBDRnpWUHg2VGZCSDFOUk4zSWdiYVJPZmlfVUVFQ2RVdXBIcnk0QWo0aFhFazFzT0Y2QktLcW5oci1fcnJId3N0N0syWVFZVXRSc3dmc0xjYU02ZFpfM1BVRGVTMjFUbWhiMmE1WVBocEJRX01uNzF4ckF0ZWVKUHdGS1M2WGZlcVFtT2gyQVFTM2tyLWtETmtSTFhzWjhzSUNZR0xzQ2gtSzdUby1fUmw2ZlJfVFhDMVRTa0pMNTJhVC1xMHBETzlnekdQVnRNQXBqQ3hscS1sWEluQ2VQY1JiSHFIeW9qb0Fuc3ZEQjM3WFl0RU8zTEpZQlptOFQxcVdKNUZnUWtTeGFNdHNWUHFlZ3lRSE5icjdKU1Z0TmlrNUkzTnNuTjBqaURQMzN3OHFidmU0XzhZNVJoSWpRaElFSWotS2J2TlpQUGt5VWVENmJKel9mNEtfbWlzcHF3R3JYSU5lZFY1U3FsVzQzWnByZE9UZXdSSGgxMFZuSENTWDZlRU15ZS1TZnVJT3dzLWZuSnp6UTMyV0MwbWwxc19oeVNzUkVXZHpIUzl3Q1pmaXNqWmNNcy05QXdfVWxVSExIRjBSN1g0eWZkeGphekNLRWZWZVJVeHdEeVI3Qm1qdkwzQnhMQkVQN25rV0ZoTGR3SHlVYWV5MENGd2UybERXZXMza194NlJqX0RKUHN0cHQwcHdnUXVDZE15a2hDcmhjYWpkVHVnSFZTczN2LXlCMzlNb1lsVW5jYWVQazByZ0xuR0pkaWstNDBrNXpEa0Zmd2Rsa0QybHZlZlFLTF8wLTdQT3VIMUpKYU93ZThPRFBWYWpCelMwUFNUQUVyMFBteWxxQ3FwM3F3NzdZY0hLSWppcHVROFhZZUdsOHhScC1fTG5meFh2QWlYS3VNXzYwTjNuV0hiQl9yRk5JY3hWclV3UHFsaGViNXpUVWJlOUZldVU4V3QxWkdpTjVQNVBLUmhDTEpwdkRsTjQ5SUJZVW90V05BcXdLTUhILWRkOXNFRV9XbUtMNmpRMklXb3FSX3FuNUVNNzVzTFVDeGhkVG9LU3V0Njc1UG8zam4xNC1NWFhB?oc=5",
-   "time": "2026-11-11T13:38:39Z",
-   "location": {
-    "name": "อ.แม่สาย",
-    "lat": 20.4397711,
-    "lng": 99.8829694,
-    "precision": "district"
-   },
-   "incident_id": "fr_news_24736c2a684bef56aa7b",
-   "id": "24736c2a684bef56"
   }
  ]
 }
