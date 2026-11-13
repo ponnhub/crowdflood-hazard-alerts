@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T08:04:57Z",
+ "updated_at": "2026-11-13T08:14:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 47,
   "flash_flood": 19,
-  "storm": 19,
+  "storm": 18,
   "landslide": 8,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 7,
   "heat": 1,
   "tsunami": 0,
@@ -368,6 +368,20 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T08:12:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
+  },
+  {
    "title": "จังหวัดชุมพร ฝนตกหนักต่อเนื่อง เกิดน้ำท่วมขังในเขตเทศบาลเมืองชุมพร ระดับน้ำ 30-40 ซม. ไหลเข้าท่วมร้านค้า โรงเรียนหลายแห่งประกาศให้ผู้ปกครองมารับกลับเพื่อความปลอดภัย | สวพ.FM91",
    "summary": "",
    "category": "flooding",
@@ -449,20 +463,6 @@
    "id": "58188b2bee7aa57e"
   },
   {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-13T06:42:54Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
-  },
-  {
    "title": "ปภ. โอนเงินเยียวยาน้ำท่วมวันนี้เพิ่ม 11 จังหวัด และ กทม. กว่า 145.73 ล้านบาท",
    "summary": "",
    "category": "flooding",
@@ -522,20 +522,6 @@
     "precision": "epicentre"
    },
    "id": "882e0b33eb030dc7"
-  },
-  {
-   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
-   "time": "2026-11-13T06:14:54Z",
-   "location": null,
-   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
@@ -742,20 +728,6 @@
    },
    "incident_id": "fr_news_61ca5cf051d35d58e743",
    "id": "61ca5cf051d35d58"
-  },
-  {
-   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
-   "time": "2026-11-13T02:26:00Z",
-   "location": null,
-   "id": "caceb1f792f24fbc"
   },
   {
    "title": "ชุมพรอ่วม! น้ำท่วมหลังสวน 3 จุดรวด วิกฤตหนักรถเล็กผ่านไม่ได้ - Tnews",
