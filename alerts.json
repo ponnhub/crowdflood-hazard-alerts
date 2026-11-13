@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T10:03:08Z",
+ "updated_at": "2026-11-13T10:16:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 13,
   "wildfire": 1,
   "drought": 8,
-  "pm25": 5,
+  "pm25": 6,
   "heat": 2,
   "tsunami": 0,
   "other": 0
@@ -368,6 +368,34 @@
    }
   },
   {
+   "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "จส. 100",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaDAtOFdjTllUSkJpY1BFX3R6TVZpYWgtbDBDbTNGbUlwWkZWczJ2NDRId1JaMTVERE1OV3djc1M3RTE3Z3lGbUlNY3RGMlJkTFNZQnRUekZUdw?oc=5",
+   "time": "2026-11-13T10:07:14Z",
+   "location": null,
+   "id": "3c1c67e686fcc83e"
+  },
+  {
+   "title": "ฝุ่น PM2.5 ป้องกันให้ถูกวิธี! 8 ทริกหน้ากาก ฟอกอากาศ จัดบ้าน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xb2tSc0ZWZ29LVkwtbUhRZkQ2ZkdULUxVY3FIUlJ6alh5LXhhQUxqMm9MWmI4WExHczhDdWl4WjBUUXFKZEpaYWlWZEplVFdXa00wak5R?oc=5",
+   "time": "2026-11-13T10:05:53Z",
+   "location": null,
+   "id": "0066238bd557a92d"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
    "summary": "",
    "category": "official",
@@ -386,6 +414,20 @@
     "precision": "epicentre"
    },
    "id": "1ebeccd846cf2cb8"
+  },
+  {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T09:42:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
   },
   {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
@@ -415,20 +457,6 @@
    "time": "2026-11-13T08:45:58Z",
    "location": null,
    "id": "99bdc19318ac773a"
-  },
-  {
-   "title": "อย่าเพิ่งวางใจ อุตุฯ เตือน 16 จังหวัดภาคใต้ ยังต้องรับมือกับฝนตกหนักถึงหนักมาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jRFRoYXFvdWtzV1B3ZEJjTFBXV3NQcC16NUg3LVBXOFQ5Nm5DdktSMnRzbWUwaGRLZ2F3WmtQYWhDUWNGYVd2LUNERWUwTkRidmRnQThDa3I?oc=5",
-   "time": "2026-11-13T08:27:40Z",
-   "location": null,
-   "id": "2aa308b6ca057755"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -532,8 +560,8 @@
    "urgent": false,
    "official": false,
    "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UWWtwNkkxWndzSmxrc1U0MVFqSTVCRnFoR3djWi1VbmpoWkVHcGpTOEV1NW5ldWRJTVJqYnZIWkNYajRDYU9HakNveTZlbzJQakpkZHFn?oc=5",
-   "time": "2026-11-13T07:43:52Z",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BMjREaDlWV3k3R3pCVnVBUG5NRDdVUklmZzZYMUJnUWxQSTNXME5ZT0JZSlg2ZGNXcHVkeGFnZnlXUFJORmZkQlJsb0cxNXZTNmNmaEdrUXlteVhPcklQWkg1a2djdFdUelExNnZXc1FRXzgtRVFGUWhIWk5oZw?oc=5",
+   "time": "2026-11-13T07:57:42Z",
    "location": null,
    "area": {
     "code": "TH86",
@@ -546,8 +574,8 @@
      11.034
     ]
    },
-   "incident_id": "fr_news_909307565390bf7356d9",
-   "id": "909307565390bf73"
+   "incident_id": "fr_news_ede77e01ec1688b9e330",
+   "id": "ede77e01ec1688b9"
   },
   {
    "title": "ชวนกันมา พากันมู(เตลู) – เยือนวัดสะตือ-บ้านท่างาม ไหว้‘พระพุทธไสยาสน์’",
@@ -1620,20 +1648,6 @@
    }
   },
   {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
-  },
-  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -1895,15 +1909,16 @@
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "flooding",
+   "category": "news",
    "hazard_type": "flash_flood",
-   "severity": "low",
+   "severity": "medium",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:57:39Z",
+   "time": "2026-11-12T04:58:10Z",
    "location": null,
+   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -1914,9 +1929,7 @@
      100.09,
      10.125
     ]
-   },
-   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
-   "id": "a61e89fb8f5ff977"
+   }
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
