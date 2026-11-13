@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T11:11:02Z",
+ "updated_at": "2026-11-13T11:31:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
-  "flash_flood": 19,
-  "storm": 21,
+  "flood": 51,
+  "flash_flood": 18,
+  "storm": 20,
   "landslide": 8,
-  "earthquake": 13,
+  "earthquake": 14,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 9,
   "pm25": 6,
   "heat": 2,
   "tsunami": 0,
@@ -179,6 +179,20 @@
    "time": "2026-11-12T23:16:33Z",
    "location": null,
    "id": "5a3f68ffdccfcc50"
+  },
+  {
+   "title": "กรมอุตุฯ เตือนใต้ฝนหนัก 11-13 พ.ย.9 จังหวัดรับมือ \"ไทยตอนบน\" อากาศเย็นลง 1-2 องศาฯ ลมแรง | The Better",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMmd6b0hJNnBQbC0za0hvMkswWDdTNklDVzVYUndsRjBRZ05TYVBWVzZGaTRwNEpTdi10N18yLWNPcXZ3S1k2cGNsV0R2RjRaVEZYUm5n?oc=5",
+   "time": "2026-11-12T22:20:40Z",
+   "location": null,
+   "id": "71baeaac0d8306af"
   },
   {
    "title": "ปภ.แจ้งเตือน กทม. และ 10 จังหวัดภาคกลาง เฝ้าระวังระดับน้ำเจ้าพระยาเพิ่มสูง",
@@ -343,29 +357,50 @@
    }
   },
   {
-   "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
+   "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 73 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
    "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ROXF3V2ZIOXptbm5xX0JhLU16U0M4VkJYWGZYekFxTzdmSWRTenp6RTVobU56c3BZS0pxNmNrRkxKUHpFbkxyVU9idDhRY3Bvc0I0ckUydjVsR0lkdV9id0ROU3ZnQQ?oc=5",
-   "time": "2026-11-11T11:14:00Z",
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17429",
+   "time": "2026-11-13T11:15:09Z",
+   "magnitude": 1.5,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.107,
+    "lng": 97.936,
+    "precision": "epicentre"
+   },
+   "id": "5fd381ffee412675"
+  },
+  {
+   "title": "ฝนตกน้ำหลากท่วมหลายอำเภอ เร่งช่วยชาวบ้าน จ.นครศรีธรรมราช",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pNEdHTi1WbW8ySTZucXpwdDJ1UUlBZFpqQkJwNGJ0RVZZN1hQbnNKRVVJYjJoLXA5d0ZzUVFvdEo5NEp2bFhz?oc=5",
+   "time": "2026-11-13T11:13:07Z",
    "location": null,
-   "id": "e7565783cec09e02",
    "area": {
-    "code": "TH8608",
-    "level": "amphoe",
-    "name": "อ.ทุ่งตะโก จ.ชุมพร",
+    "code": "TH80",
+    "level": "province",
+    "name": "จ.นครศรีธรรมราช",
     "bbox": [
-     98.921,
-     10.019,
-     99.175,
-     10.184
+     99.234,
+     7.838,
+     100.337,
+     9.323
     ]
-   }
+   },
+   "incident_id": "fr_news_ff9ae6bd377c692b9191",
+   "id": "ff9ae6bd377c692b"
   },
   {
    "title": "ชุมพรอ่วม 5 อำเภอ ฝนถล่มต่อเนื่อง น้ำท่วมหลายจุด เขตเทศบาลเมืองน้ำขังสูง 20-40 ซม.",
@@ -516,20 +551,6 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-13T09:42:54Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
-  },
-  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -624,32 +645,6 @@
    },
    "incident_id": "fr_news_51b222609f1dcc9d820c",
    "id": "51b222609f1dcc9d"
-  },
-  {
-   "title": "ฝนตกน้ำหลากท่วมหลายอำเภอ เร่งช่วยชาวบ้าน จ.นครศรีธรรมราช",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01b0QtcEZBLTV2akVPT0hqU2lhQml0ODN1UktsTU54UXpqbmtRRU5FUEFSTGhZLTdpMk1aLUFtWkluZ3FWTktDNkZnWQ?oc=5",
-   "time": "2026-11-13T08:11:06Z",
-   "location": null,
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   },
-   "incident_id": "fr_news_31ae9f2a5b5a50ce5702",
-   "id": "31ae9f2a5b5a50ce"
   },
   {
    "title": "จังหวัดชุมพร ฝนตกหนักต่อเนื่อง เกิดน้ำท่วมขังในเขตเทศบาลเมืองชุมพร ระดับน้ำ 30-40 ซม. ไหลเข้าท่วมร้านค้า โรงเรียนหลายแห่งประกาศให้ผู้ปกครองมารับกลับเพื่อความปลอดภัย | สวพ.FM91",
@@ -1000,20 +995,6 @@
    "id": "61ca5cf051d35d58"
   },
   {
-   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
-   "time": "2026-11-13T02:26:00Z",
-   "location": null,
-   "id": "caceb1f792f24fbc"
-  },
-  {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1155,6 +1136,20 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
+  },
+  {
+   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
+   "time": "2026-11-13T01:01:00Z",
+   "location": null,
+   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
@@ -1712,6 +1707,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
