@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T09:45:49Z",
+ "updated_at": "2026-11-13T10:03:08Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
+  "flood": 49,
   "flash_flood": 20,
   "storm": 19,
   "landslide": 8,
-  "earthquake": 12,
+  "earthquake": 13,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -368,18 +368,24 @@
    }
   },
   {
-   "title": "เตือนน้ำท่วมใต้! ปภ. จับตาฝนตกหนัก 2 ระลอก พ.ย. นี้ คุมเข้ม 5 มาตรการ",
+   "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
    "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
    "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hV2pXSHJvNHpEMEZvbTlHa3hQWTFmZi0wYUx4M2FqOFh1Z1h2ZXFrNDZFb3p4WTJvanhMWWZvbFdSaHgwcXlURkRfRDFfWjBiRWk2WHB4MUJNdU1jbFlMdmpNWXRIUQ?oc=5",
-   "time": "2026-11-11T09:52:00Z",
-   "location": null,
-   "id": "0d164ab59321ec14"
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17427",
+   "time": "2026-11-13T09:43:29Z",
+   "magnitude": 1.9,
+   "location": {
+    "name": "ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
+    "lat": 19.673,
+    "lng": 99.006,
+    "precision": "epicentre"
+   },
+   "id": "1ebeccd846cf2cb8"
   },
   {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
@@ -866,6 +872,20 @@
    "id": "61ca5cf051d35d58"
   },
   {
+   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
+   "time": "2026-11-13T02:26:00Z",
+   "location": null,
+   "id": "caceb1f792f24fbc"
+  },
+  {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1155,6 +1175,31 @@
    "time": "2026-11-12T23:34:57Z",
    "location": null,
    "id": "5dfeb57eba5f54d1"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
+   "time": "2026-11-12T23:00:43Z",
+   "location": null,
+   "id": "c679bf599d2f6f98",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1573,6 +1618,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -2362,46 +2421,6 @@
    },
    "incident_id": "fr_rss_5cd6221ae6e4d87509bd",
    "id": "5cd6221ae6e4d875"
-  },
-  {
-   "title": "UPDATE: กรมชลประทาน เตรียมความพร้อมรับมืออุทกภัยภาคใต้ เร่งเคลียร์ทางน้ำ ระดมเครื่องสูบ-เครื่องจักร พร้อมจัดเจ้าหน้าที่พร้อมปฏิบัติงาน 24 ชม. นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบหมายให้กรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxORHM5d09DNnZMZ1BpcWtTVzdJWUI4VkllaFdrWlZnV0hVZGY0MUpncnl1UUlSY2NaMlR1XzJScDJwZk5oTFZxOTNvTVRwX0l0eDBLSUJsR3BNZTJUOVdERTZtT3Z2QW12QlNnZWd6cjJkZThkY3JfUDZTVzdxVVNDSlNaMmtlLTdqZmJac0NPdmFQbENpdk5tdzVyMzViLWpSMWpwZjFuZ3hVeVUxcktmRjlYd2UteUEyN3BaYlV6aGo5QkNxMEtBOUFOalJfWjI1dHJVSlRtWFFaVUxTX0s5LTZfZnpQTk53VHRYLXVwYUZsV19uSlVIT0M0clQ1SVFuUncwc0Q5cFJUWG1FMmVNcHhlc2RIQXp5cW9hZkktTmZVOUxDelVUSml2cHNaWGVDX2VXSWVSQ2I4MkZMekxBLVF4ZVdfLUNXaWlrWm5Zcm5FMTIyTjk0UGtIUlRiZ21FMWVZNUFQdkZuSjhZelVpdTczcWwzQXBwbmJETW9TbGdTWXN0RzJPVXNCRzlFX1RjNEVOY0ZGcE1QMGpCUmhQTGl4Zm5XWUpiUzJGRUlrSUk0TGVPbjlPaDk2amhPSUJIRFJrT0NwaVk2WkotRUVpQ2t4b2hzcEZ4RkZMTDF4WTdkZHlkbGJKNk9iQ0hGSVdfRlIxanVMSVh6NHNqb2FPTUZBWDh6clZvdDV0bURfZ0xTdmgxSE0wRkdvVy1GR2JlbHN5SG9DLUJLUm9hS3Y3WmwzcHJXN2x5NmJHX0dtQnpLajNZd2tZVVNHS0ZUTko1NWZ1VF9uM0k4OTRaSVQ5TkU2ZDRZQ1NzdmtEMXVrdkdtTzhSY3lRQjB5MmlZNlFNQXEzUnRzREpEdGZIZEpNS0pnd0xUTUd6TENBQzV6VWlPMzdrOG9QSUdhZ212RXdTUnhJNFhvc0pzaVoxMmtiVXlFWnZMVHZyM1RqVlpRcUQ3OEVsMEZNem94QUlBZjJkU3dtYU1rQm1FNHJ5ZlU1OXZFYmpBM3dzZXc0cHR3d1g1eUdGQXVqZTRVZERKYS1ldUh3VFpVdDV3QTZmdmFBREs4ZzBSMmRYekJNZ2NmM3NTR0xuakIyaVNSYmxwTmVoMkx4cnNUenh0enZLMXJkOXhxTDBUbmg3dkhLS2FvOV85aUxKaHNiRmgwcDJoTHBMUHJoYkdmUzVwcDRvd0hOaGpMQXotNE5ELVFRVnVoNHFycHRLakV3ZlBSOFdMdnRkOWVVYllxdjJkRWNUYUtVUFlGNHI1OVppM2FhaHp3Qm1ZX3hyejNr?oc=5",
-   "time": "2026-11-11T09:58:00Z",
-   "location": null,
-   "id": "ae39c306e19596c6"
-  },
-  {
-   "title": "นครศรีธรรมราช เร่งเปิดทางระบายน้ำคลองพระราชดำริ หลังน้ำหลากท่วมชุมชนบ้านหนองเข้ 2 จุด เร่งลดระดับน้ำต่อเนื่อง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "banmuang.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92WElyTEpWelA2RjdHWXQ4V1lHTzBlbE9ocDVhZHk3dUZfVjByVG8wNU13dXlkSGhuS0R4WUNkZzJsaFNTZ2w1RnZKbldYVHhpZVJSM25sYjg?oc=5",
-   "time": "2026-11-11T09:46:00Z",
-   "location": null,
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   },
-   "incident_id": "fr_news_6aec26e2ca0f8b76acdf",
-   "id": "6aec26e2ca0f8b76"
   }
  ]
 }
