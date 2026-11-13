@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T20:13:46Z",
+ "updated_at": "2026-11-13T20:45:28Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,11 +20,11 @@
   "flash_flood": 16,
   "storm": 22,
   "landslide": 8,
-  "earthquake": 14,
+  "earthquake": 13,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 5,
-  "heat": 1,
+  "heat": 0,
   "tsunami": 0,
   "other": 0
  },
@@ -329,6 +329,26 @@
    }
   },
   {
+   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17432",
+   "time": "2026-11-13T20:27:14Z",
+   "magnitude": 2.2,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.063,
+    "lng": 97.952,
+    "precision": "epicentre"
+   },
+   "id": "ebdbfe3c2534d7c4"
+  },
+  {
    "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
    "summary": "",
    "category": "news",
@@ -598,26 +618,6 @@
    },
    "incident_id": "fr_news_a3c297fb41379a97f356",
    "id": "a3c297fb41379a97"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 66 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17428",
-   "time": "2026-11-13T10:45:00Z",
-   "magnitude": 2.2,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.048,
-    "lng": 97.944,
-    "precision": "epicentre"
-   },
-   "id": "225b5ceffac5c53f"
   },
   {
    "title": "ฝนถล่มชุมพร 5 อำเภอ น้ำท่วมเทศบาลเมือง โรงพยาบาลจม 40 ซม. เร่งป้องกันน้ำทะลักห้อง CT-SCAN",
@@ -1532,20 +1532,6 @@
    "id": "6f084989051d030b"
   },
   {
-   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
-   "time": "2026-11-12T23:34:57Z",
-   "location": null,
-   "id": "5dfeb57eba5f54d1"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -2178,20 +2164,6 @@
    "id": "1594d984eeaf9c3f"
   },
   {
-   "title": "ปีหน้าอากาศร้อนจัด คนไทยเสี่ยงเป็นฮีทสโตรก 5,000 คน | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTAyMnJ0bG9NYnlRamppa0JtN0R2NEQ1VXUxVnZLT19jZjdsZGotNFdWdUVSc3hnWTBOc0xMNXg4TnkxSU16cUJ3YmJGTDZPWTVLWWVnTjcySDdDRDZWR1NfLUEyV3Z2RTZycEh2alhWLUloaWNGRkZMWVBYSEphcjBIaVo2QQ?oc=5",
-   "time": "2026-11-12T06:40:18Z",
-   "location": null,
-   "id": "2a79a2cc05f39c55"
-  },
-  {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก เมืองหาดใหญ่ Gastronomy พร้อมสู้ภัยน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -2484,26 +2456,6 @@
    "time": "2026-11-12T02:10:26Z",
    "location": null,
    "id": "e4bb627c0052fadd"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.2 ต.เชียงของ อ.นาน้อย จ.น่าน (Tambon Chiang Khong, Amphoe NaNoi, Nan)",
-   "summary": "",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17422",
-   "time": "2026-11-12T01:07:22Z",
-   "magnitude": 2.2,
-   "location": {
-    "name": "ต.เชียงของ อ.นาน้อย จ.น่าน (Tambon Chiang Khong, Amphoe NaNoi, Nan)",
-    "lat": 18.25,
-    "lng": 100.922,
-    "precision": "epicentre"
-   },
-   "id": "54f7620deb419d5b"
   },
   {
    "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
