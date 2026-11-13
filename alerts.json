@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T19:45:28Z",
+ "updated_at": "2026-11-13T20:13:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 53,
+  "flood": 54,
   "flash_flood": 16,
   "storm": 22,
   "landslide": 8,
@@ -907,6 +907,32 @@
    },
    "incident_id": "fr_news_ede77e01ec1688b9e330",
    "id": "ede77e01ec1688b9"
+  },
+  {
+   "title": "กทม.เปิดแผนป้องกันน้ำท่วมฝั่งตะวันออก หนุนระบบคลอง-แก้มลิง-คันกั้นน้ำ เต็มประสิทธิภาพ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "จส. 100",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQkd3OUxTd0NqRVNHS2pWVzBYMVY2Umx4VXM3T1ZuUXRnQ1AxREVvZlVicFcycmFlbHJHYjY3eXdiaFFkOTdnTWozLUJNMnhSTWw2Z0xQN3g4QQ?oc=5",
+   "time": "2026-11-13T07:51:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_7e46dcc5132915a0e929",
+   "id": "7e46dcc5132915a0"
   },
   {
    "title": "ชวนกันมา พากันมู(เตลู) – เยือนวัดสะตือ-บ้านท่างาม ไหว้‘พระพุทธไสยาสน์’",
