@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T12:00:50Z",
+ "updated_at": "2026-11-13T12:10:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,9 +20,9 @@
   "flash_flood": 17,
   "storm": 20,
   "landslide": 7,
-  "earthquake": 15,
+  "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 6,
   "heat": 2,
   "tsunami": 0,
@@ -447,31 +447,6 @@
    "time": "2026-11-13T10:17:00Z",
    "location": null,
    "id": "d6c6650d919689c8"
-  },
-  {
-   "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.cm108.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JTDl5MjFtVEtiTDBzU3NGcW04ZnIycEQ5dHg1ZlpSVkM4UXpmYThxSC1uWGk3U2p5MnoyU2gtSG1WWXQ1djlxYw?oc=5",
-   "time": "2026-11-13T10:17:00Z",
-   "location": null,
-   "id": "714efca87be5134d",
-   "area": {
-    "code": "TH500402",
-    "level": "tambon",
-    "name": "ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่",
-    "bbox": [
-     98.704,
-     19.567,
-     99.078,
-     19.811
-    ]
-   }
   },
   {
    "title": "ชุมพรอ่วม! ฝนถล่มข้ามคืน น้ำท่วม 5 อำเภอ โรงพยาบาลจม 40 ซม. หลังสวนยังวิกฤต!",
@@ -1281,6 +1256,20 @@
    "time": "2026-11-12T23:49:57Z",
    "location": null,
    "id": "0dea43223c72cffe"
+  },
+  {
+   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
+   "time": "2026-11-12T23:34:57Z",
+   "location": null,
+   "id": "5dfeb57eba5f54d1"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
