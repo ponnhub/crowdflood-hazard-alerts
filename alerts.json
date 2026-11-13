@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T05:20:00Z",
+ "updated_at": "2026-11-13T05:34:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 47,
-  "flash_flood": 17,
+  "flood": 46,
+  "flash_flood": 18,
   "storm": 18,
   "landslide": 8,
   "earthquake": 14,
@@ -460,20 +460,6 @@
    "id": "ef80ef3c6d1d109f"
   },
   {
-   "title": "ขณะนี้กำลังเร่งดำเนินการเพื่อเปิดเส้นทางคมนาคมหลักที่ถูกปิดกั้นเนื่องจากดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdlFaUG9tUnowbXZVei1iRy13ajZSaTJoTjB1dTJBbGxGMlc2OXJIM1piMlZxeXlTeDFyQ3FUanpIMnBfTWZsZ0JrV3JvVF9YMThKVERrcEh5enEyeXFQREhhelZNYjViOUM1cmZ1Ti1UMm4tV1lhTWR5cFhQRDZRSFlOY3gyemRLbDR2R0pMZw?oc=5",
-   "time": "2026-11-13T03:28:18Z",
-   "location": null,
-   "id": "f95515da9bea597e"
-  },
-  {
    "title": "🌧️ ฝนบอกยังไม่จบ... ส่วนลมหนาวก็บอกกำลังมา! ใครคิดว่าฝนจะหมดแล้ว อาจต้องรอติดตามกันอีกนิด 👀 📌 13 พ.ย. ภาคใต้ยังต้องเฝ้าระวัง 🌦️ 14 พ.ย. ฝนเริ่มลดลง ⚠️ 18–22 พ.ย. จับตาฝนตกหนักถึงหนักมากอีกระลอก ❄️ 19–20 พ.ย. ลมหนาวเตรียมมาอีกระลอก แล้วทุกคนล่ะคะ... ทีมไหน",
    "summary": "",
    "category": "news",
@@ -486,6 +472,20 @@
    "time": "2026-11-13T03:18:41Z",
    "location": null,
    "id": "3d93e5905900f1bb"
+  },
+  {
+   "title": "ดินถล่มได้ปิดกั้นถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHJUWWR2c0c5LTFIRU9RQzhINzJBeDh4ZHF5MGkyWWpNX1A5T1BfWE1icTI1U2UtNEFSU1FCS2t1aS1lR2Fma1hhLVFVcWpiZ0RSWjhfZHFtQWNzbktUTDhGcGJkbXlPdkQ3ck4tTjRWalZEc2Qwc3llR013RlY4aHFiT0tWdFIwVHc?oc=5",
+   "time": "2026-11-13T03:04:15Z",
+   "location": null,
+   "id": "a8fb9ce42dc49019"
   },
   {
    "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
@@ -1862,6 +1862,20 @@
    "id": "4f6c4552da738c14"
   },
   {
+   "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82bGd4b3FQODhZblJhaExqN3kzV0dfS29vVEVFQzJ6YUZKcklNMVJxSE96cXJIX2diaDNLekMzdS03OVFlY3VmZWh1dGJNUEo0WWNMWlRNVmw?oc=5",
+   "time": "2026-11-11T23:13:52Z",
+   "location": null,
+   "id": "d34246ea37987210"
+  },
+  {
    "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -2209,6 +2223,20 @@
    "id": "519d7da56e731678"
   },
   {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
+   "time": "2026-11-11T07:55:21Z",
+   "location": null,
+   "id": "eff1f7fe34bbc4a2"
+  },
+  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -2247,20 +2275,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID InTrend",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
-   "time": "2026-11-11T07:19:46Z",
-   "location": null,
-   "id": "4e23b6c722a72b87"
   },
   {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
@@ -2316,32 +2330,6 @@
    "location": null,
    "incident_id": "fr_rss_2cf04943732ea54fec42",
    "id": "2cf04943732ea54f"
-  },
-  {
-   "title": "# รัฐบาลไม่มีวันเข้าใจ? คนจันทบุรีเล่าความจริงสุดช้ำ สวนทุเรียนจมน้ำหมดตัว เผยเพื่อนชาวสวนจบชีวิตแล้ว 2 ราย! เสียงสะท้อนสุดสะเทือนใจจากชาวสวนทุเรียนจังหวัดจันทบุรี ที่เดินทางมาร่วมชุมนุมกับกำนันมะโน เ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxNclhOejVRT0FPSERRblFWQVBBd292YVJNZENJZmFBVFp5eWhuUlBHZi0taTRMMlRtR1FuMm0ta1duM0wydjIwZEFyUUpITkpzM2dOQzdPOXVHM0o0LWVwTzZYTE9XaFZCVlI1QUI3VEg1QmRwNVhHVE0wXzRYaDVkd2kyWkdWbDN4SGVFTmYxS1J3WWRJeFFPcldXcmotTVVBUHZvNGc2eUgyVTI4amVRQkRyY2RkaXBpb2xONlF2ZGpReU5HQWw0aTdMa0ktT1V2Z252XzY5X2hxN05SN2hGd0ZOd010SllDLUFnNWlNT0xidFgtYWVULXdycmlwZGFXQUtubEcxRVNhSHdBbzZkdkFpNTlvX1U1bGJVVmZzZGxCWVZXR3lDZ0FrQ3AzSTZQOHZwSHFhTk5vN3QzSVoyb1RKeHpJWnFrQlZndWNjLTBXcFJxR3hKYzJDY2pJRUwyNG9UX1JrclVSY19LSWNVbV9XTjFVM0xRUXNKTjR0WWZwRWJMWEdFU1Uzc1ZFMHgxeXlQQ0JySGk0OGsxZTJQQlFLVFpEd1lZT1VFaDllS1lwQzhLdzBMbmdDRUhjeWhFekZhd0NCNXdybFhJWVpiY185U254RDJmbVV4RTZKajNTQnRRZnFsR0NJbjF3ZUEwZzQ1Y21QbUt0ZnlrWHl4N2s3RW5pZ3NzZ1dQMTFDTndaZ0o1SURVLXhSdVM4WWxPc0MtZmZHZ3p2b0U2UDVMU0lzY3dleE9FYzlRSVF3ZmRXRm12eWhyX0VFYXZ4T3NweUZpVUg4Y1R2NFhQV2M1QXRENnBURjhQendYaUR4U1RGTmdVVEQxUmcwM3RsSWF1bU9ZNHNOQ1VTQ1JCejkyVjBqOWttS3E3VVZfdnpzOGdtY1BvclZBX1Qwc21nQks0VEFORmg3NldNb2NYb29wSzFKZWFuTFBhODRISUhEc2M4SVhNcWxxM2l2eXJuTlVZdEh1U0lXZFlvSC0wdndsdXBJME9HamliRmM3THBYS3hFckVqZTF5cjZnY0RiSVU2YWhGRG9LazVMbmtNQkRTMnQwNlpuWUFsdHBEYjNmRU9EUzlkdjFDaE5sODNPZUM3TzhXQTRTOE9WMnZQakxmZ2lkUmJjeVcxM3NCcUFhTEo1SkZHM01qdWVwY29rakVuS0p3azJrVjI4VWxnRDhTdkYyQ2hYRkpzVTlTRWw1QjNOaURnN1ZkOHRmRmVjU2FvQkNZelpEblFZRzRyUnAzaDZlNFkzVjRuS3J1YzVQVGNjQXVYVk5OeWg3dmVDT3BzaThMMVJfY3U5dWw0cjlRZV9xUDdNVjhqLUVZMVR2RmhCbDY1NVpDVTY4eExqNEU?oc=5",
-   "time": "2026-11-11T05:30:03Z",
-   "location": null,
-   "area": {
-    "code": "TH22",
-    "level": "province",
-    "name": "จ.จันทบุรี",
-    "bbox": [
-     101.685,
-     12.293,
-     102.532,
-     13.335
-    ]
-   },
-   "incident_id": "fr_news_e65b21b9fdcc6321aadc",
-   "id": "e65b21b9fdcc6321"
   }
  ]
 }
