@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T15:40:20Z",
+ "updated_at": "2026-11-13T16:03:26Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 5,
   "heat": 1,
   "tsunami": 0,
@@ -290,6 +290,20 @@
    "id": "ec418a39b297786a"
   },
   {
+   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
+   "time": "2026-11-12T06:40:20Z",
+   "location": null,
+   "id": "a7700dea3bbe558b"
+  },
+  {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
    "category": "news",
@@ -329,6 +343,20 @@
    }
   },
   {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T15:42:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
+  },
+  {
    "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
    "summary": "",
    "category": "flooding",
@@ -353,20 +381,6 @@
    },
    "incident_id": "fr_news_b899ff4cc62e3b0313f9",
    "id": "b899ff4cc62e3b03"
-  },
-  {
-   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
-   "time": "2026-11-13T14:12:54Z",
-   "location": null,
-   "id": "e92639afb66d0c2f"
   },
   {
    "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
@@ -783,20 +797,6 @@
    "id": "8c6319ad465778cf"
   },
   {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
-  },
-  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -993,6 +993,20 @@
    "id": "f58d646f6ef29ee3"
   },
   {
+   "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHBKWnpuMGc1TE9PODdPTUtfTFBya21xSVRmcEpySldlNWk0V0dqSTc0bjdQcmVxc3JKS281dkRiZlpPMFpwRDg4WjBUam9wbXlHUHpnRUJrdVk3UkN5NUtxbEpURDMwS2tkdHJ2MkFHajBSQVBjVlVPN25kVDBQS0pHMWFQa01GZzk2VjA3ZGxNNWx4MjUwbw?oc=5",
+   "time": "2026-11-13T06:14:51Z",
+   "location": null,
+   "id": "aa9e8f16a88c7513"
+  },
+  {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
    "summary": "",
    "category": "flooding",
@@ -1017,6 +1031,20 @@
    },
    "incident_id": "fr_news_492d9e8cb446de2495c6",
    "id": "492d9e8cb446de24"
+  },
+  {
+   "title": "เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 15D ส่งผลให้ถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์ถูกตัดขาด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpCWnBrVmc3SF9QRW80bDhnVVhXRWJncXZpbWt5YWd1UDhDNFUydnBXMVRMakxkUlFCRWNPODNXNjJFZThLeFQ5UVdZelliQmNZc24yaW16OEREaURidmdhLWlhUDU2dnJiZ1g5MGNIc1A1M0ktMGl1allKQnhySndCRk1mUGpiRTBMSFFDenlPRng4?oc=5",
+   "time": "2026-11-13T04:33:24Z",
+   "location": null,
+   "id": "9b38813df35970b9"
   },
   {
    "title": "ฝนถล่มนครศรีธรรมราช! น้ำท่วม 4 อำเภอ น้ำป่าหลากท่วมบ้าน-ถนนหลายจุด สิชลหนักสุด",
@@ -2477,20 +2505,6 @@
    "time": "2026-11-11T23:13:52Z",
    "location": null,
    "id": "d34246ea37987210"
-  },
-  {
-   "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:50Z",
-   "location": null,
-   "id": "7a02869e9e955657"
   }
  ]
 }
