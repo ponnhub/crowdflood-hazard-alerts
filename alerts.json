@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T14:14:19Z",
+ "updated_at": "2026-11-13T14:31:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 14,
   "wildfire": 1,
   "drought": 8,
-  "pm25": 6,
+  "pm25": 5,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -745,6 +745,20 @@
    "id": "8c6319ad465778cf"
   },
   {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
+  },
+  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -939,20 +953,6 @@
    "time": "2026-11-13T06:14:54Z",
    "location": null,
    "id": "f58d646f6ef29ee3"
-  },
-  {
-   "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHBKWnpuMGc1TE9PODdPTUtfTFBya21xSVRmcEpySldlNWk0V0dqSTc0bjdQcmVxc3JKS281dkRiZlpPMFpwRDg4WjBUam9wbXlHUHpnRUJrdVk3UkN5NUtxbEpURDMwS2tkdHJ2MkFHajBSQVBjVlVPN25kVDBQS0pHMWFQa01GZzk2VjA3ZGxNNWx4MjUwbw?oc=5",
-   "time": "2026-11-13T06:14:51Z",
-   "location": null,
-   "id": "aa9e8f16a88c7513"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
@@ -2453,20 +2453,6 @@
    "time": "2026-11-11T15:47:50Z",
    "location": null,
    "id": "7a02869e9e955657"
-  },
-  {
-   "title": "ส่อวิกฤต! 'ซูเปอร์เอลนีโญ' ทำฝุ่น PM2.5 รุนแรงยาวนานถึง พ.ค.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OcmF3M0Zqeko0TmdLZHlEOXJ4YVlEZVFqeVlWdjRoRUxjc3plbEpvOXVyUjZQY016Wng5bkpJTlBYMTVraWczSVZGQU5GLXZkNG9VOFBVa0V5ZGlfcnphdTRDNEJnQQ?oc=5",
-   "time": "2026-11-11T14:19:00Z",
-   "location": null,
-   "id": "d8d2403fbad42ac0"
   }
  ]
 }
