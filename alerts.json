@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T17:14:20Z",
+ "updated_at": "2026-11-13T17:25:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 53,
+  "flood": 54,
   "flash_flood": 15,
   "storm": 22,
   "landslide": 8,
@@ -290,6 +290,20 @@
    "id": "ec418a39b297786a"
   },
   {
+   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
+   "time": "2026-11-12T06:40:20Z",
+   "location": null,
+   "id": "a7700dea3bbe558b"
+  },
+  {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
    "summary": "",
    "category": "news",
@@ -329,6 +343,26 @@
    }
   },
   {
+   "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17431",
+   "time": "2026-11-13T17:17:04Z",
+   "magnitude": 2.4,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.004,
+    "lng": 97.856,
+    "precision": "epicentre"
+   },
+   "id": "4473bfee4f3f555d"
+  },
+  {
    "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
    "summary": "",
    "category": "flooding",
@@ -353,6 +387,32 @@
    },
    "incident_id": "fr_news_b899ff4cc62e3b0313f9",
    "id": "b899ff4cc62e3b03"
+  },
+  {
+   "title": "อัปเดตล่าสุด 13 พ.ย. 2569 ยอดจ่ายเงินช่วยเหลือผู้ประสบอุทกภัย \"น้ำท่วม กทม.\"",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xR2VsMEJvYVE3d1Uzdl9WN2JXd3JLRHNjTWtPZkU5TFBIbk5IUVpYN1F3Y1pjQ1RpRHRKUXZDM2FVR3VyYk95djVReUYwN3ptT1RBSlBKNWV3ZjJCeG9vbXNIOA?oc=5",
+   "time": "2026-11-13T13:59:05Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_07bd0e1314740e229eb0",
+   "id": "07bd0e1314740e22"
   },
   {
    "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
@@ -769,20 +829,6 @@
    "id": "8c6319ad465778cf"
   },
   {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
-  },
-  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -977,6 +1023,20 @@
    "time": "2026-11-13T06:14:54Z",
    "location": null,
    "id": "f58d646f6ef29ee3"
+  },
+  {
+   "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZHBKWnpuMGc1TE9PODdPTUtfTFBya21xSVRmcEpySldlNWk0V0dqSTc0bjdQcmVxc3JKS281dkRiZlpPMFpwRDg4WjBUam9wbXlHUHpnRUJrdVk3UkN5NUtxbEpURDMwS2tkdHJ2MkFHajBSQVBjVlVPN25kVDBQS0pHMWFQa01GZzk2VjA3ZGxNNWx4MjUwbw?oc=5",
+   "time": "2026-11-13T06:14:51Z",
+   "location": null,
+   "id": "aa9e8f16a88c7513"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
@@ -1505,20 +1565,6 @@
    "time": "2026-11-12T17:19:22Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
-  },
-  {
-   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
-   "time": "2026-11-12T16:35:37Z",
-   "location": null,
-   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
@@ -2457,26 +2503,6 @@
    },
    "incident_id": "fr_news_384753fbb2a17c666ee4",
    "id": "384753fbb2a17c66"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.1 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 71 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17421",
-   "time": "2026-11-12T00:17:58Z",
-   "magnitude": 2.1,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.107,
-    "lng": 97.968,
-    "precision": "epicentre"
-   },
-   "id": "4f6c4552da738c14"
   },
   {
    "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
