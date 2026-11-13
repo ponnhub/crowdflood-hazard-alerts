@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T02:15:08Z",
+ "updated_at": "2026-11-13T02:29:25Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 39 ตำบลและเขตในจังหวัดลาวกาย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEtGYS1QZDdURXdYeTFvV3JGai1VYVc3STF2YTEyOEZYVHBSRDBpYzRlQVFsbTNudFViRzk1STFLVHBpYzJoWnVhRlp5cEVqOW9aZXFKRzF1SS1OUHp2U1Zja19obDhmN3pqTlRGaDA0RkpHS0RyaHhwcVBUY3ZvVzlLakpTLTFDaVlEbEtGWm1Idw?oc=5",
+   "time": "2026-11-13T02:26:10Z",
+   "location": null,
+   "id": "37b97b6c3e595a7d"
+  },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
    "summary": "",
@@ -69,20 +83,6 @@
    "id": "e9a5a74c6159ab01"
   },
   {
-   "title": "📌อัปเดตข้อมูล ณ วันที่ 13 พ.ย. 69 เวลา 06.06 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก วันที่ 13 พ.ย. 69 ⛈️ 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.10 | 13 พ.ย. 2569 เวลา 05.00 น. ภาคใต้ยังเสี่ยงฝนหนักถึงหนักมาก! ประจวบคีรีขันธ์ ชุมพร และสุราษฎร์ธานี ต้องเฝ้าระวังเป็นพิเศษ 🌊 อ่าวไทยตอนล่างคลื่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxQdWtzZTVVdkVYMVZyOXMwR3JjOFYzRXVkdnVKbnNjRFRtbDBwUzh4azYwYkxaR29yVDlFSFgwUE54Zzg1VkhVUzhrQlVxMmJmY1VXWjQ0N0UwOXZVeUh4bUVLcU1seUZjdE9DVW1fZFltOVFtVURWTTRCUHRyYXB6MWMwbm5oMU91d0Z5ZVhQWTlnS1lGMGtSckEtSlF1bU5icndON2pDWFE1NHp3Nk9SMmZSUElGR2lURF9pbFRSbUxKUXhfNnhCTFp0bVhhRlUza2poeUx3c3VMUHJHWlBHdXBKZFNoM0RPSjlPall0RHZvZDgyZXotbnFHcFdOSjluZ2hjbUpzc3hqd2dZcjJxNmNNdXpTb3U1NFBjSkdvYUJDdmI5TjNXd01MRDlMYUJiTjBmcS1ZTWJVQzJnUDhWa0xFRUE0VW9hcldueVpUb0tWMmw4YU1qdUxoSkRQNnF3b3V0Z0RGTm02R082Z05YRmN2ZnV1LU41T0pMSVFBZWpZcHRUVXFhZmp4bnhGbWlYaWNQOE92TmxZYWd0d2tkYUM2d2pBNnZoajhxY2lwNk1FVXdCdTNKRVY5NjM0OGFGcmtQaUFNTzNndEVQNUF1WUlvT0pBa0prWnN6Q01KTE95LXJ5M3lUMHNfMGNURllUVGtQUlB6NV96aHRQMWpFalZwOFVfRVhoRERFcWRXYzdRdWFqWnpObnRaQ0t1RVhwbWVSZF84Ynp4Z0NCeWVjb0pjQ1ZZeF9EUHlab2pBd0pIYktkVHJUUHFZa0l6RVlUbkhSS1NsOGJ2aHdxUzNUT1UxZ29aZzZPR0FNNkRXdXJPR0JqNzRzdlF1b2FQNVBfcVZIOWZnenJCQi1vZjBPUmMwY0k3TzBWLUZRR3BhTFlzNmRwaW55TjFKYWhubHRnOWdaYkRlblNCaDFrWDJUdnAwZEFuYmFmMGJiNURHYXNKbHpYenhtQnY1azlTMzF1TTlrd2FGb3g0bW9DSlI4UFVFTFVSTU43dlU1dFBJZWlLZGM4eDZJMHdHaWQxVENhUFRvNFNsX3B0ZEZXY1AtbTVEZWc1NUhlZThlR1NiUjBYS3BmempmYjMxNW5TNXA1MkJ0d3hhVTZ4LWNBa0R5ZXdtS2I5UQ?oc=5",
-   "time": "2026-11-13T01:03:43Z",
-   "location": null,
-   "id": "87354500a452dc67"
-  },
-  {
    "title": "ประกาศเตือนฉบับสุดท้าย 15 จังหวัดฝนตกหนัก – ทั่วไทยร้อนขึ้น",
    "summary": "",
    "category": "news",
@@ -109,20 +109,6 @@
    "time": "2026-11-13T00:36:00Z",
    "location": null,
    "id": "412fb8addd0fe645"
-  },
-  {
-   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มสำหรับจังหวัดซอนลา ตวนกวาง ไทยเหงียน กาวบ๋าง และลังเซิน ในวันที่ 13 พฤศจิกายน 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSENacWtZV0FybWtDdDlKTTBBcDVwNVRYQldwalVETUZCWTlMSE9QRTJLUFhKX1hCVWlNbmRnU2V6Nl9GUmdHUDNEY0FtbXhHMTgyODlQVjV5RDZoUEFtWjZMZUdqQ1MyZU96ajlLVGliUTVYajRlUkdWbGk2V0Z6LW9XWXc0NjFBbE9XWFhZRTBuQ0EycEl6bUFieWNGdTVUa3QtMFJCci13VzNzVEZZS1dLQy1pOEdQMkE?oc=5",
-   "time": "2026-11-13T00:33:37Z",
-   "location": null,
-   "id": "3b04c89276643b5b"
   },
   {
    "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
@@ -394,6 +380,20 @@
    "time": "2026-11-13T02:12:00Z",
    "location": null,
    "id": "871c6f735f55dd20"
+  },
+  {
+   "title": "ประกาศฉบับล่าสุด อุตุฯ เตือน ภาคใต้ฝนตกหนัก ไทยตอนบนอุณหภูมิสูงขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wV2JPLUoyWkJMeXVLamwtdmgxOHNJTXA1OUtrZmowWTFkS0phNkQ3Qy1LRFNRR2dBamxIVkk2MWxfQXlQdk9rWUV2WHVBZk1fbVkzMHVYTDA?oc=5",
+   "time": "2026-11-13T02:08:00Z",
+   "location": null,
+   "id": "6f53c88bf0bcc2cf"
   },
   {
    "title": "เอาไม่อยู่แล้ว! ชุมพรอ่วมฝนถล่มต่อเนื่อง นํ้าท่วม 3 จุด เปิดพื้นที่วิกฤติสั่งรถเล็กห้ามผ่านเด็ดขาด",
