@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T12:32:51Z",
+ "updated_at": "2026-11-13T12:45:39Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,15 +16,15 @@
   "other"
  ],
  "counts": {
-  "flood": 51,
-  "flash_flood": 16,
+  "flood": 50,
+  "flash_flood": 15,
   "storm": 21,
-  "landslide": 7,
+  "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
   "drought": 8,
   "pm25": 6,
-  "heat": 2,
+  "heat": 1,
   "tsunami": 0,
   "other": 0
  },
@@ -181,20 +181,6 @@
    "id": "5a3f68ffdccfcc50"
   },
   {
-   "title": "กรมอุตุฯ เตือนใต้ฝนหนัก 11-13 พ.ย.9 จังหวัดรับมือ \"ไทยตอนบน\" อากาศเย็นลง 1-2 องศาฯ ลมแรง | The Better",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMmd6b0hJNnBQbC0za0hvMkswWDdTNklDVzVYUndsRjBRZ05TYVBWVzZGaTRwNEpTdi10N18yLWNPcXZ3S1k2cGNsV0R2RjRaVEZYUm5n?oc=5",
-   "time": "2026-11-12T22:20:40Z",
-   "location": null,
-   "id": "71baeaac0d8306af"
-  },
-  {
    "title": "ปภ.แจ้งเตือน กทม. และ 10 จังหวัดภาคกลาง เฝ้าระวังระดับน้ำเจ้าพระยาเพิ่มสูง",
    "summary": "",
    "category": "news",
@@ -341,6 +327,20 @@
      7.902
     ]
    }
+  },
+  {
+   "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
+   "time": "2026-11-13T12:42:54Z",
+   "location": null,
+   "id": "e92639afb66d0c2f"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
@@ -535,11 +535,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xb2tSc0ZWZ29LVkwtbUhRZkQ2ZkdULUxVY3FIUlJ6alh5LXhhQUxqMm9MWmI4WExHczhDdWl4WjBUUXFKZEpaYWlWZEplVFdXa00wak5R?oc=5",
-   "time": "2026-11-13T10:05:53Z",
+   "source": "TrueID InTrend",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeFVCQlNPeW5ZdTkybW5ucDFrQW9TVVF6bm9kOWg1M0l4Sk9FTnFGdmQ4ZEpOTHBkMkFXSTlzbmtHMVYzTHdUaE9Td3VWZTA?oc=5",
+   "time": "2026-11-13T10:07:05Z",
    "location": null,
-   "id": "0066238bd557a92d"
+   "id": "4fc2490c81d8d7bf"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
@@ -946,6 +946,20 @@
    "id": "ef80ef3c6d1d109f"
   },
   {
+   "title": "ดินถล่มได้ปิดกั้นถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHJUWWR2c0c5LTFIRU9RQzhINzJBeDh4ZHF5MGkyWWpNX1A5T1BfWE1icTI1U2UtNEFSU1FCS2t1aS1lR2Fma1hhLVFVcWpiZ0RSWjhfZHFtQWNzbktUTDhGcGJkbXlPdkQ3ck4tTjRWalZEc2Qwc3llR013RlY4aHFiT0tWdFIwVHc?oc=5",
+   "time": "2026-11-13T03:04:15Z",
+   "location": null,
+   "id": "a8fb9ce42dc49019"
+  },
+  {
    "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
    "summary": "",
    "category": "news",
@@ -1147,20 +1161,6 @@
    },
    "incident_id": "fr_news_66890bd9255c882949fd",
    "id": "66890bd9255c8829"
-  },
-  {
-   "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WOWUybTdkbGpwQXRLN2NFb2RFcE4yTE8zY01xcTNSY0pvSkxNMkU5cFNvcU5uRi11QzhzTHdNb1NTem5iVDlDUkNjQjJITXF6bnR5a0o3SW5zT3Qxa3oydFJjNE5HZw?oc=5",
-   "time": "2026-11-13T01:01:00Z",
-   "location": null,
-   "id": "099b05e7b0a41366"
   },
   {
    "title": "บอย-เจี๊ยบ ยกเชฟเสิร์ฟอาหารฝรั่งให้นักเรียน จ.นครนายก มอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม",
@@ -2202,20 +2202,6 @@
    "id": "5d945849b7a9ad82"
   },
   {
-   "title": "เมืองเว้เตือนถึงความเสี่ยงต่อการขาดแคลนน้ำและคลื่นความร้อนรุนแรงในปี 2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzViZTVsMHFubWk4X3c2d3ByRDVWVGVKaG5ZSzdSTWZodmxVWHlGRnFKaHZOVzBLdDh4b2ZTRUk1UFNfVm8xYmEzTzRhenlFdXV1ZVUxbW1VbTJRMnhseFlyMnJQZWJBc2ZYSHFHeE9iVWgxTzZfaU1WQmVhZHJLWmxSYlkzZ0k5QkV0VQ?oc=5",
-   "time": "2026-11-12T02:22:38Z",
-   "location": null,
-   "id": "2b30ac0ce5c5ed82"
-  },
-  {
    "title": "ปฏิบัติการรับมือฝนใต้! “วิทยา” สั่งลุย 24 ชม. ระดมเครื่องสูบ-เครื่องจักร เร่งเคลียร์ทางน้ำ รับมือฝน",
    "summary": "นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ มอบกรมชลประทาน รับมือฝนในพื้นที่ภาคใต้ เดินหน้าตรวจสอบจุดเสี่ยงอุทกภัย เตรียมเครื่องจักร เครื่องสูบน้ำ เครื่องผลักดันน้ำ และเจ้าหน้าที่ให้พร้อมเข้าปฏิบัติงานตามแผนรับมือสถานการณ์อุทกภัย ปี 2569 เน้นย้ำให้ทุกโครงการชลประทานติดตามสภาพอากาศ ปริมาณฝน และสถานการณ์น้ำอย่างใกล้ชิด รวมทั้งบริหารจัดการน้ำและเร่งระบายน้ำในจุดที่มีความเสี่ยง เพิ่ม",
    "category": "flooding",
@@ -2418,20 +2404,6 @@
    "time": "2026-11-11T12:55:04Z",
    "location": null,
    "id": "f0b7f56630f0aa2d"
-  },
-  {
-   "title": "กรมธรณีแจ้ง 11จว.ภาคใต้ ระวังแผ่นดินถล่ม-น้ำป่าไหลหลาก 11-13 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "มติชนออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HYXNfODRGLUVwRDNKdFBEajd0dWNjcS1FZl8zY1Q4WlZEZE05UU83ZWtxWWNsOFFYWHJZWVZEN1BoUGFmSnVFcl9BU3REMWIzR3d6SFNvWk8?oc=5",
-   "time": "2026-11-11T12:36:41Z",
-   "location": null,
-   "id": "e645fecb49879186"
   }
  ]
 }
