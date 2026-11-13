@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T09:03:51Z",
+ "updated_at": "2026-11-13T09:10:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 13,
   "wildfire": 1,
   "drought": 9,
-  "pm25": 6,
+  "pm25": 5,
   "heat": 2,
   "tsunami": 0,
   "other": 0
@@ -380,6 +380,20 @@
    "time": "2026-11-13T08:45:58Z",
    "location": null,
    "id": "99bdc19318ac773a"
+  },
+  {
+   "title": "‘เอกนิติ’ ถกแผนรับมือภัยพิบัติ 17 จว.ภาคกลาง - กทม. ยกระดับรับมือครอบคลุมทุกภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VY3V3Q3dNMjlFemd1R0pxVE90OU1nSXdtcHdEY2JyZzU2dlJyblFxLU44TkZoNWtkZ1FsUlpuR083LXNzdU16eEdCYTJpamNYVFJ0bkpoNGd1VjBxbzNqSjVEeHJsUQ?oc=5",
+   "time": "2026-11-13T08:29:00Z",
+   "location": null,
+   "id": "c7e96d47004308e6"
   },
   {
    "title": "อย่าเพิ่งวางใจ อุตุฯ เตือน 16 จังหวัดภาคใต้ ยังต้องรับมือกับฝนตกหนักถึงหนักมาก",
@@ -1320,20 +1334,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
@@ -2433,31 +2433,6 @@
    "time": "2026-11-11T09:12:33Z",
    "location": null,
    "id": "e0d09df32afb81d1",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
-   "title": "กทม. เข้มมาตรการรับมือฝุ่น PM2.5 ในโรงเรียนสังกัด กทม. เฝ้าระวังคุณภาพอากาศ ปรับการเรียนการสอนตามสถานการณ์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "newswit",
-   "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYZHdaVXl3ZUR0VUVHQ25VOEJNM1UtUVluZzRoUzF6WTh1ampyR011OC0wdFVtZDJIWl9LUkFPWnlkNnpPM3k4SWVTZVhYeUt6S3Y5bTdVQWhVZmpmYmhEMGVxSHhHT0l5WUhr?oc=5",
-   "time": "2026-11-11T09:04:02Z",
-   "location": null,
-   "id": "d86352a78a39e09b",
    "area": {
     "code": "TH10",
     "level": "province",
