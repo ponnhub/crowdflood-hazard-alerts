@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T04:26:55Z",
+ "updated_at": "2026-11-13T04:44:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 46,
+  "flood": 47,
   "flash_flood": 16,
   "storm": 18,
   "landslide": 8,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
+   "time": "2026-11-13T04:30:00Z",
+   "location": null,
+   "id": "c48ec9b0c8b66e7a"
+  },
   {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.10 | 13 พ.ย. 2569 เวลา 05.00 น. ภาคใต้ยังเสี่ยงฝนหนักถึงหนักมาก! ประจวบคีรีขันธ์ ชุมพร และสุราษฎร์ธานี ต้องเฝ้าระวังเป็นพิเศษ 🌊 อ่าวไทยตอนล่างคลื่นลมเริ่มอ่อนกำลังลง คลื่นสูงประมาณ 2 เมตร บริเวณฝนฟ้าคะนองสูงกว่า 2 เมตร ชาวเรือทั้งสองฝั่งตรวจสอบเ",
    "summary": "",
@@ -179,20 +193,6 @@
    "time": "2026-11-12T13:06:23Z",
    "location": null,
    "id": "a1fbd7e75c5ec0a2"
-  },
-  {
-   "title": "กรมอุตุ เตือนฉบับที่ 9 ภาคใต้ตกหนัก ระวังฝนสะสม ท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "มติชนออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUGd4NXNjdjhhU213dnF3OEVFMFA0TnhEd01uVFhVWmMyNXZnZmhEMy1WTTB0bEZUQldvRzloM08zX29xNjdSVlJ6WWxSNDV3cnpTendWaTU?oc=5",
-   "time": "2026-11-12T12:17:33Z",
-   "location": null,
-   "id": "58717083571cf337"
   },
   {
    "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
@@ -356,16 +356,15 @@
   {
    "title": "ฝนถล่มนครศรีธรรมราช! น้ำท่วม 4 อำเภอ น้ำป่าหลากท่วมบ้าน-ถนนหลายจุด สิชลหนักสุด",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
    "source": "banmuang.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uUDl2QThSUVVQMkNJUDlYcDNSNzlSSUpyb0owd1paVS1EdGdPV0pHd3lpcklpMDlCZk9HZ2Ryd1JEemFQY0dRNEZDV2QxU3dGb1ltVUExbXc?oc=5",
    "time": "2026-11-13T04:16:00Z",
    "location": null,
-   "id": "89554343ab8edb4c",
    "area": {
     "code": "TH80",
     "level": "province",
@@ -376,7 +375,9 @@
      100.337,
      9.323
     ]
-   }
+   },
+   "incident_id": "fr_news_89554343ab8edb4cc44c",
+   "id": "89554343ab8edb4c"
   },
   {
    "title": "เน้นการซ่อมแซมพื้นที่ดินถล่มและดูแลความปลอดภัยด้านการจราจร",
@@ -391,6 +392,32 @@
    "time": "2026-11-13T04:14:23Z",
    "location": null,
    "id": "20ca4eff0e91b364"
+  },
+  {
+   "title": "‘ชัชชาติ’ ชี้ ‘น้ำท่วมกทม.’ แก้เองไม่ได้ หลังพื้นที่รับน้ำกลายเป็นหมู่บ้าน เจอฝนตกสุดขั้วกระหน่ำ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jNEZTM2x5bTNlanJBRXNjYlRUSWhjMmYwMmlhZDFiaS1PcEw4VmNnVVQ1Yjg0cTVkM0FZRzB4WHp0S3VXMldOSlQzckd5MElkcGhGU1lwRW9YbVBQQTUzXzg3dw?oc=5",
+   "time": "2026-11-13T04:11:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_5393282f0a97301e7efb",
+   "id": "5393282f0a97301e"
   },
   {
    "title": "เมืองคอน น้ำหลากท่วมหลายจุด 4 อำเภอ โซนเทือกเขาฝนถล่ม งานศพเจอน้ำท่วม ยกโลงขึ้นที่สูง",
@@ -731,6 +758,20 @@
    "id": "dd0248dcf9fada9f"
   },
   {
+   "title": "ประกาศฉบับสุดท้าย เตือนภาคใต้ยังมีฝนตกหนัก ไทยตอนบนอุณหภูมิสูงขึ้น-มีฝนบางพื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUHB2Smx1bTdkZVlVUExWaWlzbE1SNV94X29aQWVNLVFFUjZCTXNZOWJreW5KWDgtcFJFNjZIa0xfVmxTYmpoYUVNd1RRQ3NEYUQ0c0QzSXY?oc=5",
+   "time": "2026-11-13T00:46:29Z",
+   "location": null,
+   "id": "ab0ff7ba7b92764a"
+  },
+  {
    "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
    "summary": "",
    "category": "news",
@@ -767,10 +808,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HeXhHU2dNaHN0Vm1US1hjaUpMUkczNFNUeEFpdVhrOExsVDFqVC14TDlYaVZ1X0NYbm54R2hMUDVvWDlrV2JTT0x2LU5yRWFDRGc?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcl9IdGlLYVJQNlIwenB2aTNpM1pXd244bkp5dFpCZWZHRjRKWTIyYzhJZE1pZnRQN2FFWFR3TGFKek5RYzJTNUlyQ2tySVhUVUJz?oc=5",
    "time": "2026-11-12T23:49:57Z",
    "location": null,
-   "id": "89793c16fd21461f"
+   "id": "0dea43223c72cffe"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
@@ -1773,20 +1814,6 @@
     "precision": "epicentre"
    },
    "id": "54f7620deb419d5b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MS3Rnc3otXzFEUVc1Y1Mya3FPWW1UOFNVNUlQU3l2VURuSVRteGRXRnVYSFQ1dHdTbUJnT0o2Wmhud2w5UXZTUFdHRDUxdnF1ejBWVVd2Y1ZVYWhNSTJySHJLQ01tc0RPOHJySkhTek92R2Q0Q19sbFNsTWM?oc=5",
-   "time": "2026-11-12T00:46:01Z",
-   "location": null,
-   "id": "503005866b09603c"
   },
   {
    "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
