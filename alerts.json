@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T04:44:42Z",
+ "updated_at": "2026-11-13T04:56:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -446,7 +446,7 @@
    "id": "ef80ef3c6d1d109f"
   },
   {
-   "title": "ขณะนี้กำลังเร่งดำเนินการเพื่อเปิดเส้นทางคมนาคมหลักที่ถูกปิดกั้นเนื่องจากดินถล่ม",
+   "title": "ดินถล่มได้ปิดกั้นถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -454,10 +454,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdlFaUG9tUnowbXZVei1iRy13ajZSaTJoTjB1dTJBbGxGMlc2OXJIM1piMlZxeXlTeDFyQ3FUanpIMnBfTWZsZ0JrV3JvVF9YMThKVERrcEh5enEyeXFQREhhelZNYjViOUM1cmZ1Ti1UMm4tV1lhTWR5cFhQRDZRSFlOY3gyemRLbDR2R0pMZw?oc=5",
-   "time": "2026-11-13T03:28:18Z",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHJUWWR2c0c5LTFIRU9RQzhINzJBeDh4ZHF5MGkyWWpNX1A5T1BfWE1icTI1U2UtNEFSU1FCS2t1aS1lR2Fma1hhLVFVcWpiZ0RSWjhfZHFtQWNzbktUTDhGcGJkbXlPdkQ3ck4tTjRWalZEc2Qwc3llR013RlY4aHFiT0tWdFIwVHc?oc=5",
+   "time": "2026-11-13T03:04:15Z",
    "location": null,
-   "id": "f95515da9bea597e"
+   "id": "a8fb9ce42dc49019"
   },
   {
    "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
@@ -808,10 +808,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcl9IdGlLYVJQNlIwenB2aTNpM1pXd244bkp5dFpCZWZHRjRKWTIyYzhJZE1pZnRQN2FFWFR3TGFKek5RYzJTNUlyQ2tySVhUVUJz?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HeXhHU2dNaHN0Vm1US1hjaUpMUkczNFNUeEFpdVhrOExsVDFqVC14TDlYaVZ1X0NYbm54R2hMUDVvWDlrV2JTT0x2LU5yRWFDRGc?oc=5",
    "time": "2026-11-12T23:49:57Z",
    "location": null,
-   "id": "0dea43223c72cffe"
+   "id": "89793c16fd21461f"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
@@ -2195,6 +2195,20 @@
    "id": "519d7da56e731678"
   },
   {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
+   "time": "2026-11-11T07:55:21Z",
+   "location": null,
+   "id": "eff1f7fe34bbc4a2"
+  },
+  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -2233,20 +2247,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID InTrend",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
-   "time": "2026-11-11T07:19:46Z",
-   "location": null,
-   "id": "4e23b6c722a72b87"
   },
   {
    "title": "การพยากรณ์ต้องมีความเฉพาะเจาะจงสำหรับแต่ละพื้นที่ที่มีความเสี่ยงต่อภัยพิบัติทางธรรมชาติ",
