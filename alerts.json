@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T21:30:33Z",
+ "updated_at": "2026-11-13T21:49:36Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -24,7 +24,7 @@
   "wildfire": 1,
   "drought": 8,
   "pm25": 5,
-  "heat": 2,
+  "heat": 1,
   "tsunami": 0,
   "other": 0
  },
@@ -288,20 +288,6 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
-  },
-  {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
-   "time": "2026-11-12T06:40:20Z",
-   "location": null,
-   "id": "a7700dea3bbe558b"
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -2192,20 +2178,6 @@
    "id": "1594d984eeaf9c3f"
   },
   {
-   "title": "ปีหน้าอากาศร้อนจัด คนไทยเสี่ยงเป็นฮีทสโตรก 5,000 คน | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTAyMnJ0bG9NYnlRamppa0JtN0R2NEQ1VXUxVnZLT19jZjdsZGotNFdWdUVSc3hnWTBOc0xMNXg4TnkxSU16cUJ3YmJGTDZPWTVLWWVnTjcySDdDRDZWR1NfLUEyV3Z2RTZycEh2alhWLUloaWNGRkZMWVBYSEphcjBIaVo2QQ?oc=5",
-   "time": "2026-11-12T06:40:18Z",
-   "location": null,
-   "id": "2a79a2cc05f39c55"
-  },
-  {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก เมืองหาดใหญ่ Gastronomy พร้อมสู้ภัยน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -2245,6 +2217,20 @@
    "location": null,
    "incident_id": "fr_rss_9969b1493ea869fe7029",
    "id": "9969b1493ea869fe"
+  },
+  {
+   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
+   "time": "2026-11-12T05:35:45Z",
+   "location": null,
+   "id": "bbceedf3f093e6da"
   },
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
