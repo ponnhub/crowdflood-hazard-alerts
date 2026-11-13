@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T03:25:47Z",
+ "updated_at": "2026-11-13T03:46:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 45,
-  "flash_flood": 16,
+  "flash_flood": 17,
   "storm": 19,
   "landslide": 8,
   "earthquake": 14,
@@ -368,6 +368,32 @@
    "id": "0d164ab59321ec14"
   },
   {
+   "title": "เมืองคอน น้ำหลากท่วมหลายจุด 4 อำเภอ โซนเทือกเขาฝนถล่ม งานศพเจอน้ำท่วม ยกโลงขึ้นที่สูง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/around-thailand/news_10470710",
+   "time": "2026-11-13T03:28:59Z",
+   "location": null,
+   "area": {
+    "code": "TH800804",
+    "level": "tambon",
+    "name": "ต.หัวตะพาน อ.ท่าศาลา จ.นครศรีธรรมราช",
+    "bbox": [
+     99.832,
+     8.599,
+     99.903,
+     8.643
+    ]
+   },
+   "incident_id": "fr_rss_ef80ef3c6d1d109ff6bf",
+   "id": "ef80ef3c6d1d109f"
+  },
+  {
    "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
    "summary": "",
    "category": "news",
@@ -674,20 +700,6 @@
    "time": "2026-11-12T23:49:57Z",
    "location": null,
    "id": "0dea43223c72cffe"
-  },
-  {
-   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
-   "time": "2026-11-12T23:34:57Z",
-   "location": null,
-   "id": "5dfeb57eba5f54d1"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
@@ -1146,6 +1158,20 @@
    }
   },
   {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
+  },
+  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -1515,20 +1541,6 @@
    "location": null,
    "incident_id": "fr_news_3cb40f5ea121bff793fd",
    "id": "3cb40f5ea121bff7"
-  },
-  {
-   "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNmpBTUpmS2Fkc2RGUFhxakg5ODNqZEp5VjdDXzM0Z2w2aXBvekZEZ3hMNnlTYUpwMjNUb0dOR2Z4OUg1LTNUUllNYlF5VDV5UHZmVHNwcl9NandX?oc=5",
-   "time": "2026-11-12T03:20:28Z",
-   "location": null,
-   "id": "519d7da56e731678"
   },
   {
    "title": "สภากทม. ไฟเขียวตั้งวิสามัญฯ ศึกษาแผน BCP 120 วัน ถอดบทเรียนน้ำท่วม-ระบบล่ม หวังอุดช่องโหว่การจัดการทรัพยากรรับมือวิกฤต",
@@ -2082,6 +2094,20 @@
    "time": "2026-11-11T08:23:00Z",
    "location": null,
    "id": "6574f12a15d9aea4"
+  },
+  {
+   "title": "ญี่ปุ่นแผ่นดินไหว 2 วันติด เตรียมรับมือไต้ฝุ่นลูกใหม่ 11 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNmpBTUpmS2Fkc2RGUFhxakg5ODNqZEp5VjdDXzM0Z2w2aXBvekZEZ3hMNnlTYUpwMjNUb0dOR2Z4OUg1LTNUUllNYlF5VDV5UHZmVHNwcl9NandX?oc=5",
+   "time": "2026-11-11T08:00:00Z",
+   "location": null,
+   "id": "519d7da56e731678"
   },
   {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
