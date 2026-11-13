@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T16:03:26Z",
+ "updated_at": "2026-11-13T16:11:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 5,
   "heat": 1,
   "tsunami": 0,
@@ -288,20 +288,6 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
-  },
-  {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
-   "time": "2026-11-12T06:40:20Z",
-   "location": null,
-   "id": "a7700dea3bbe558b"
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -700,11 +686,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xb2tSc0ZWZ29LVkwtbUhRZkQ2ZkdULUxVY3FIUlJ6alh5LXhhQUxqMm9MWmI4WExHczhDdWl4WjBUUXFKZEpaYWlWZEplVFdXa00wak5R?oc=5",
+   "source": "TrueID InTrend",
+   "source_url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxPQ2FuVG9FR3ZJcGljZGd4ZGdoWHIwb0U5U29sUzZMM3U0cGpxOGpWTXhYTzdmR0ZDVWh2NG41Z3NoV3kxN2pOVHZJRU9WS1ZLVWpFbjlkN1FfYmdNYWZrNFhzY0wxbmt4cmZfNFFTZVRSRjNIUjdTeWV6Y0RYRGFmWU9aQ3VxZGhKTnNzSDAyNFktV2VoUEM1amZ2VlNCTTJMeUxlV1B5WWZsSUYxR0lCVHR0UlVXWmRqdmNMWE5ncUZDTXY1elFvenktRi1YWS1EaW9fZUMtTUdUeTZjSzNOdUQ5d3hFTXVNYnJ1WUhpWktLRW5KbjZwbmhHNTFkbmNURlFxc2VXaEpSNzFYQ0dmb3U4cU5XSGVXNTk1Yng5Njk1TWhBOW5WRG83aWFJYW5vNEZqWGNzSmFibnJ2NEUwdnA0VTFUenVwdC1YVDVibHdId0w0SjljR2YtT29SQ0xWZjRtdzdWa1JtdjVQYlJWOElVWkpPSXRTaWFtZHRUNm9tNXRFcG90eHl3MXZZdm12QmNjWTBoNmFWQjNRUFNrcl9sT19RYmZxSFQzSEdlZUhpalJwTFdEUW85VFlhUVJqWk5aQ1Jyc3NrN3ZleHV5WVAwaGJCRnBpcTRzTWVMeFRoUHZLRkMwMWstZVltUmlPcXJkSzFqNkpXdzJNcXl0WGpWNGhIZm50VXhDWFpOb0JEQXFQSVd0amlHc3FTNUFlclBaQ3lZeGdpSm9pWmNlSUI0Z2hxZ2szal9YMnhxMnBfRDhMRE1jX0R4YWdnQXg0TGVPcml5cXFrN3NvZHBQZm9SR3lhQmgzZjNTM3dMV3I0MWZzR0plQXR6dEQ5MWdPQnV2cVZ5TmlCbFYydFBPVDlkZXcwR05nSnl0amF3MkZ1VDB0SjNHQ2NLbnE?oc=5",
    "time": "2026-11-13T10:05:53Z",
    "location": null,
-   "id": "0066238bd557a92d"
+   "id": "c7aea6e2b2ee0e22"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
