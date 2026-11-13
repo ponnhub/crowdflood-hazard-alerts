@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T07:00:19Z",
+ "updated_at": "2026-11-13T07:15:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -413,6 +413,20 @@
    },
    "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
    "id": "aa8fe6f7ed37628c"
+  },
+  {
+   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
+   "time": "2026-11-13T06:14:54Z",
+   "location": null,
+   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ถนนไปยังด่านชายแดนระหว่างประเทศลาเลย์ถูกตัดขาดเนื่องจากดินถล่มบนทางหลวงหมายเลข 15D",
@@ -845,20 +859,6 @@
    "time": "2026-11-12T23:49:57Z",
    "location": null,
    "id": "0dea43223c72cffe"
-  },
-  {
-   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
-   "time": "2026-11-12T23:34:57Z",
-   "location": null,
-   "id": "5dfeb57eba5f54d1"
   },
   {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
@@ -2185,11 +2185,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "ThaiPR.NET",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TX256QXg5RzEyZ0xGOGw0bkpjQWVLeXAzZ3JxWXBQMHVKb0hUcTA1dEIwUWE3cE8wSV9Tc01KZmpnSmEzdVR4UWd6T1AySGNhWVE?oc=5",
-   "time": "2026-11-11T09:04:00Z",
+   "source": "newswit",
+   "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYZHdaVXl3ZUR0VUVHQ25VOEJNM1UtUVluZzRoUzF6WTh1ampyR011OC0wdFVtZDJIWl9LUkFPWnlkNnpPM3k4SWVTZVhYeUt6S3Y5bTdVQWhVZmpmYmhEMGVxSHhHT0l5WUhr?oc=5",
+   "time": "2026-11-11T09:04:02Z",
    "location": null,
-   "id": "b64ee5742700a269",
+   "id": "d86352a78a39e09b",
    "area": {
     "code": "TH10",
     "level": "province",
