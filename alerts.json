@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T22:45:58Z",
+ "updated_at": "2026-11-13T22:56:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,9 +20,9 @@
   "flash_flood": 16,
   "storm": 23,
   "landslide": 8,
-  "earthquake": 13,
+  "earthquake": 12,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 5,
   "heat": 1,
   "tsunami": 0,
@@ -2219,6 +2219,20 @@
    "id": "9969b1493ea869fe"
   },
   {
+   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
+   "time": "2026-11-12T05:35:45Z",
+   "location": null,
+   "id": "bbceedf3f093e6da"
+  },
+  {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
    "category": "flooding",
@@ -2470,20 +2484,6 @@
    },
    "incident_id": "fr_rss_80099c30d1b8336b6a8e",
    "id": "80099c30d1b8336b"
-  },
-  {
-   "title": "ปภ. อัปเดตประกันภัยพิบัติ อนุมัติจ่ายแล้ว 5,635 ราย รวมกว่า 65 ล้าน | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5emFZZzFydkNpaVpKbnVVc1hGaGt3SjFlZnFILWJ2d0s3UlRvTWNfbnAwZElSSWJ5UlhKXzdEX2dMSnFqMVEwcUdxczdlMGw4bXVncnFB?oc=5",
-   "time": "2026-11-12T02:10:26Z",
-   "location": null,
-   "id": "e4bb627c0052fadd"
   },
   {
    "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
