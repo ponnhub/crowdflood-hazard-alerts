@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T01:34:37Z",
+ "updated_at": "2026-11-13T01:42:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,12 +17,12 @@
  ],
  "counts": {
   "flood": 41,
-  "flash_flood": 16,
+  "flash_flood": 18,
   "storm": 17,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 7,
   "heat": 3,
   "tsunami": 0,
@@ -276,6 +276,20 @@
    }
   },
   {
+   "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉบับที่ 8 (306/2569) วันที่ 12 พฤศจิกายน 2569 เวลา 05.00 น. 🌧️ ภาคใต้เฝ้าระวังฝนหนักถึงหนักมาก 12–13 พ.ย. 69 ฝนตกสะสมต่อเนื่อง ซึ่งอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเลสองฝั่งแรงขึ้น อ่าวไทยตอนล่างคลื่นสูง 2–3 เมตร และสู",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxOeDkwb29ram9UbTZuWWkxal9BSURhNGxhWlZteGl5dXY1U0pHRl9yZlZCREZHVWRKR1JOdExQd0xLVWxfQ1pCLTJFWi0zb05QQ1o2S0l4UmRkcUZET1Z6NGFxQkVnZ24zd0RrcE1GRjBld21OdlRPU0lpeVVobGFpNGhUYUZLSE1PQ21GdHI0WWRETmt6WlhpcXlWTHVWekpUX3owdGxSSENNYnhMTlB0OVhMOXpSSGZBV3huVXA2MnEydHFqWG05cFkxSnhsM2ZSR3ZqTTBwWEo4YlVlbE5KR2IxeE5Dd1hsRXZMVWhvRU1fSzJzbjVwUjdPeHJ1ZXdHSEo4Y1d6ZnQ2Nzlnd2RFNGs4R2t6akxrSFdrSHIzeS1jLWVITDBJWHFfcVJ2dVF2M19uc0FIQ2dJVTFHeDhXdU83V3E3cm9MUWtyeFRQRnJla2dIMzhZMTYxc2lzQVVvODFEZXZpcTh2dGtMZ1UyQUpubmZGQ1hVVXhsNUNrNWxJUjB2ZjZrTkp1dFY2TnJ3NHhpeTNJX2MxMXpoRmhabk1xa290OUozOGRHUHlfOXpGQ3JoZmtPdnh0Mm5OaUp4cUpSV3hiOHZkM0pLRjdIWW4wclZxREctMG45NUs4V3p1cHZsemJYcXdfa1hPODdybE5tZFptSEQyZEx3MTFYUGhuMDlVX1VKUTdFNklJc0d3Y1o5OGRtWWpfZ3dDa2M2N0s2b2lxNkQzZUVzem54NVJwdmtINzA2WjJSQ0NzNFU3YkpRa0NjeE93azZpeEFaSVZtV1F0T2w5NDRrLVBjUjlPN0N1QjRxNDdIM3ZnNHFPcTNkUlZUWVRLLWFuV2lXOHhGWlNHSFQxUmtUOEdFSGM4VS1KZjIwUDNzRXdLUmxfQUdnWTdFQjlaOUtwVWhrXzZGMzVYNGVjM3E0Zk1Wa25GLVdIeGdOajhCQUVQNVZEbnh3S1VFNUhwNllxakhsMmxoQkFCcloyczA?oc=5",
+   "time": "2026-11-11T23:25:51Z",
+   "location": null,
+   "id": "9f03560847efab7c"
+  },
+  {
    "title": "ปภ. เตือนด่วน อ.ทุ่งตะโก จ.ชุมพร เสี่ยงน้ำป่า-น้ำท่วมฉับพลัน รีบยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
@@ -313,20 +327,6 @@
    "time": "2026-11-11T09:52:00Z",
    "location": null,
    "id": "0d164ab59321ec14"
-  },
-  {
-   "title": "กรมอุตุฯ เตือนฉบับ 6 ภาคใต้ฝนตกหนัก 11-13 พ.ย.เช็กรายชื่อพื้นที่เสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQWYyWmpZQmFFYVFyNm42dEx3cGN3MklWTFNCbEIxYnBYNXZXVDlaVVcyWk1wR1RVOXdnR1FoZTBJWkN1ZWNlclVqODdEQlRZVnJ4ZFQ5bExCeldu?oc=5",
-   "time": "2026-11-11T03:26:00Z",
-   "location": null,
-   "id": "85206bc60810e723"
   },
   {
    "title": "เตือนฝนตก 70% ภาคใต้ เสี่ยงน้ำท่วม ไทยตอนบน อากาศเปลี่ยนฉับพลัน",
@@ -590,6 +590,20 @@
    "time": "2026-11-12T15:57:00Z",
    "location": null,
    "id": "e87cc3e0e039eb36"
+  },
+  {
+   "title": "สทนช. เตรียมรับมือฝนภาคใต้หนัก 2 ระลอก เฝ้าระวังน้ำป่า–ดินถล่ม จับตาเจ้าพระยาและปัญหามลพิษทางน้ำ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Online Newstime",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWtxTV9RbE43YVRxblZ3cUV5cmw2UDI0ME5fd2lZVTRoR01OMnFoc2h1NHhsOFY0NkhId0FINktrd2t1V2Y1UGhKRWU3ajExNkRyU0pHOC1UVkVrUVBqRnVFR1c0RUxnSHF1Ujh4YmJaWDhIRTVudWhDOUdlOXcya1B3ZDJVMzNEV3lnX0tEdHVBT1pjZnRSa21qWGg2RjJzd0HSAaIBQVVfeXFMTllrcU1fUWxON2FUcW5Wd3FFeXJsNlAyNDBOX3dpWVU0aEdNTjJxaHNodTR4bDhWNDZISHdBSDZLa3drdVdmNVBoSkVlN2oxMTZEclNKRzgtVFZFa1FQakZ1RUdXNEVMZ0hxdVI4eGJiWlg4SEU1bnVoQzlHZTl3MmtQd2QyVTMzRFd5Z19LRHR1QU9aY2Z0UmttalhoNkYyc3dB?oc=5",
+   "time": "2026-11-12T15:33:26Z",
+   "location": null,
+   "id": "a801831222f7d1b2"
   },
   {
    "title": "ภาคใต้ฝนตกหนัก! น้ำท่วมฉับพลัน กองทัพภาคที่ 4 ผนึกกำลังทุกภาคส่วน ลุยพื้นที่ช่วยเหลือประชาชน บรรเทาความเดือดร้อนอย่างเร่งด่วน 📍วันที่ 12 พฤศจิกายน 2569 เวลา 19.00 น. ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 44 เดินหน้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝน",
@@ -959,6 +973,20 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
@@ -1372,6 +1400,20 @@
    "time": "2026-11-12T03:20:28Z",
    "location": null,
    "id": "519d7da56e731678"
+  },
+  {
+   "title": "เช็กอากาศ 12–20 พ.ย. เหนือ-อีสานเริ่มเย็น ใต้ยังต้องระวังฝนหนัก! 🌬️ 12–13 พ.ย. ประเทศไทยตอนบน จะมีอากาศเย็นในตอนเช้า ⚠️ ภาคใต้เฝ้าระวังฝนตกหนัก-หนักมาก โดยเฉพาะฝั่งตะวันออก 📍 14–17 พ.ย. ฝนเริ่มลดลง 🌧️ 18–20 พ.ย. ฝนมีแนวโน้มเพิ่มขึ้นอีกครั้ง #กรมอุตุนิยมวิทยา #พ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAdBVV95cUxPSS1vTngtRjUtX3hidjd5Znl3aEd3bEZUcERnZEVhTnhvVW5yOVNjazY0cmlqMVpCd2JHRno4QTdPRmM4bG5feWE5bG9uTDk0NXlqOF9xdjhoRVNOSHNhTE0tV3ZrUmY4UzFZVHpHSWotODNOZ3RFU2JJWmhDaUpjeTFKVURGVkNYWEhmOHA0M05KZ1VhQzFaVHpvM0MzMldPaVlQcUNCSi1SMUlRRnFKS2tRcGdLNG5EdC0xS1dwNjNaZlZvT3dYVGFjZFVVZjM4TDlqYUFwaldIMVdVazF1RlFiN1pjUG4yT2ZWRm10SG9BNlJDZFZFRDZ5ZUxhSEw1emw3SFA1VXdERDZpcWxuNzZhYkJvckFXMUQ5UkVaT0V4RTZ4blNyMkdDeHBoLUJwd19ENWlTQWcza1F0ZXVObFdYWjBscFQ2ZGRJSTN4T1RLVExuMGwwcV83bVRZeXhtUkxEWmdMd0VkazFsaUZOWXlNbDdwd2w4N2NpSkMzTC10U2FJYUo2UFJabEFKNE5EUUtKdm03d1VQZjEzX0VqRWR5WEdUY2tLcmVmd0xYNzBTTllua3ZjTmFfMGoydDJVWGNIQ1Y5UHUzYUJ3NW9yektTcDBlbkM2alJ5cXhJNThFNVBRVUJPY1FudTdMUEd3bDFZSFBkS3EwYWxWcWt2ZklZT0NpU190WDdYRVhQQVNBNDhqNHRrUUtpWU5kMzZSZ0ZEeTk0aXlYRlY1dlk5bGpVc3JjYWNGaWl1SEszWUpUT0QyRUpjb0NjUzRKdHR6V0Vwb3J0MDMxeGhoWXdvNDhEVEh2N1VqYjFSTHlnTDNPTFZpX1Y1dG40aWxWRjducFNCMlYwYkxqQ3c4TG5LekNlTVRkTEt3bThaOEE4VW1uekRseXNlMVFLWklDOEJPY2htMU5tdGVLMDBNbEhzNDMxRnVncmFLbmNDTDZVLVpZd2dsYTA2Q1BGT0M3MUVxVEw5QTM3U0I0djRSbW5aWUZHWEdMcFZxMDRGU1FMSDV1UkxmZHVvckJaZEZ3QzRjZ29pNWFkaVBodENwT1VCRk00NWJ5Q0g4U24xei1iN19acnBDWGlyeTlCMTk0REZJYnhmTUdRWTZpQlpMVkJQZnJORGtsOUNYMmtsb1hYZXdjLTFTR0RIZjFUWWxjWUFaR1lCYnl2c05wczhQZUdFUA?oc=5",
+   "time": "2026-11-12T03:10:09Z",
+   "location": null,
+   "id": "bab711103709e5c6"
   },
   {
    "title": "สภากทม. ไฟเขียวตั้งวิสามัญฯ ศึกษาแผน BCP 120 วัน ถอดบทเรียนน้ำท่วม-ระบบล่ม หวังอุดช่องโหว่การจัดการทรัพยากรรับมือวิกฤต",
