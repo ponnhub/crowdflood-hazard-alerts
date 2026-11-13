@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T05:34:34Z",
+ "updated_at": "2026-11-13T05:47:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 46,
+  "flood": 45,
   "flash_flood": 18,
   "storm": 18,
   "landslide": 8,
   "earthquake": 14,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 5,
   "pm25": 7,
   "heat": 1,
   "tsunami": 0,
@@ -274,20 +274,6 @@
    "time": "2026-11-12T11:32:00Z",
    "location": null,
    "id": "1da49d986bb4a289"
-  },
-  {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
-   "time": "2026-11-12T06:40:20Z",
-   "location": null,
-   "id": "a7700dea3bbe558b"
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -1256,20 +1242,6 @@
    }
   },
   {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
-  },
-  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -2223,20 +2195,6 @@
    "id": "519d7da56e731678"
   },
   {
-   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWEs0MXRTUndJYWVxZ1J1QXprVnZSYW5ZX2NtdDhVNUtScEpIV2xKUGxfN3I0c3RUTURPY1B5WGIzNXJMQkZ1Z0Qzd0tWVFJWYmxESmxn?oc=5",
-   "time": "2026-11-11T07:55:21Z",
-   "location": null,
-   "id": "eff1f7fe34bbc4a2"
-  },
-  {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 14,440 ครัวเรือน ในพื้นที่ กทม. - 12 จว.",
    "summary": "",
    "category": "flooding",
@@ -2277,6 +2235,20 @@
    }
   },
   {
+   "title": "วิเคราะห์สถานการณ์ญี่ปุ่น earthquake ที่ไม่มีใครอยากเจอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID InTrend",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTVl5WklCdzF3Y0hmZkdGN1hBOEZWRHR6ZjJpTm91ZVNwd3J1NzJhRnlvSlFjT3J6d2dMcDY0aDRlZUtNZFota0tsZ0ZIcTg?oc=5",
+   "time": "2026-11-11T07:19:46Z",
+   "location": null,
+   "id": "4e23b6c722a72b87"
+  },
+  {
    "title": "“ชัชชาติ” เปิด 3 มาตรการสู้ฝุ่น PM2.5 กทม. พร้อมรับมือภัยแล้ง",
    "summary": "",
    "category": "news",
@@ -2315,21 +2287,6 @@
    "location": null,
    "incident_id": "fr_news_58f3975f76f6ce949004",
    "id": "58f3975f76f6ce94"
-  },
-  {
-   "title": "เงินเยียวยาน้ำท่วม 2569 ธนาคารออมสิน โอนให้อีก 12 จังหวัด กทม.ด้วย",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/breaking-news/news_10468121",
-   "time": "2026-11-11T05:41:34Z",
-   "location": null,
-   "incident_id": "fr_rss_2cf04943732ea54fec42",
-   "id": "2cf04943732ea54f"
   }
  ]
 }
