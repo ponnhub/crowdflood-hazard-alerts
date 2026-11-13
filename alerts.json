@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T20:45:28Z",
+ "updated_at": "2026-11-13T20:59:41Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,14 +17,14 @@
  ],
  "counts": {
   "flood": 54,
-  "flash_flood": 16,
-  "storm": 22,
+  "flash_flood": 17,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 13,
   "wildfire": 1,
   "drought": 7,
   "pm25": 5,
-  "heat": 0,
+  "heat": 1,
   "tsunami": 0,
   "other": 0
  },
@@ -327,6 +327,20 @@
      7.902
     ]
    }
+  },
+  {
+   "title": "เมืองคอนวิกฤต! น้ำป่าทะลักน้ำตก 3 แห่ง สั่งปิด 'กรุงชิง' ปภ. เตือนภัยระดับสูง 4 อำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JR2xVYllwOWYwY1lEbVVxTjFZZG5MY3ZqbnQtbUlQWTloaGNXb04yVFVWV0lMQThYTGxhOEJBTDhHV1lVUnp2NXF1U3l0Ykpha3R1dVlWMEJnSXM?oc=5",
+   "time": "2026-11-12T00:23:59Z",
+   "location": null,
+   "id": "37825e7f39a6736a"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -644,20 +658,6 @@
    },
    "incident_id": "fr_news_58dee563db7370859d2a",
    "id": "58dee563db737085"
-  },
-  {
-   "title": "อุตุฯ เผย ภาคใต้ยังมีฝนตกหนัก 3 จว.เสี่ยงน้ำท่วม เหนือ-อีสานมีหมอกเช้า ยอดดอย 10 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nMmNZblMwbzJrbjBiZmZTYW9QdGhVTUk5Y05QVU1EMXRlMG91TnpNa1BJS0g4N0l0QjdKbkd6VWlQT2ZkOHZUZFNjNjVBVmtWQktsX3VIeFI1X0FKTXNyWFhORDlyZw?oc=5",
-   "time": "2026-11-13T10:17:00Z",
-   "location": null,
-   "id": "d6c6650d919689c8"
   },
   {
    "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
@@ -2162,6 +2162,20 @@
    },
    "incident_id": "fr_rss_1594d984eeaf9c3f9afb",
    "id": "1594d984eeaf9c3f"
+  },
+  {
+   "title": "ปีหน้าอากาศร้อนจัด คนไทยเสี่ยงเป็นฮีทสโตรก 5,000 คน | มีเรื่องต้องคุย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTAyMnJ0bG9NYnlRamppa0JtN0R2NEQ1VXUxVnZLT19jZjdsZGotNFdWdUVSc3hnWTBOc0xMNXg4TnkxSU16cUJ3YmJGTDZPWTVLWWVnTjcySDdDRDZWR1NfLUEyV3Z2RTZycEh2alhWLUloaWNGRkZMWVBYSEphcjBIaVo2QQ?oc=5",
+   "time": "2026-11-12T06:40:18Z",
+   "location": null,
+   "id": "2a79a2cc05f39c55"
   },
   {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก เมืองหาดใหญ่ Gastronomy พร้อมสู้ภัยน้ำท่วม",
