@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T22:56:18Z",
+ "updated_at": "2026-11-13T23:14:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 54,
-  "flash_flood": 16,
+  "flood": 55,
+  "flash_flood": 15,
   "storm": 23,
   "landslide": 8,
   "earthquake": 12,
@@ -288,6 +288,20 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
+  },
+  {
+   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
+   "time": "2026-11-12T06:40:20Z",
+   "location": null,
+   "id": "a7700dea3bbe558b"
   },
   {
    "title": "สทนช. เตือนภัยด่วน! ภาคใต้จ่อรับฝนหนัก 2 ระลอก เสี่ยงน้ำป่า-ดินถล่ม 8 จังหวัด",
@@ -1546,6 +1560,31 @@
    "id": "6f084989051d030b"
   },
   {
+   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
+   "time": "2026-11-12T23:00:43Z",
+   "location": null,
+   "id": "c679bf599d2f6f98",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -1750,20 +1789,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
@@ -2524,20 +2549,6 @@
    },
    "incident_id": "fr_news_384753fbb2a17c666ee4",
    "id": "384753fbb2a17c66"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ภาคใต้ฝนถล่ม 2 ฝั่ง เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82bGd4b3FQODhZblJhaExqN3kzV0dfS29vVEVFQzJ6YUZKcklNMVJxSE96cXJIX2diaDNLekMzdS03OVFlY3VmZWh1dGJNUEo0WWNMWlRNVmw?oc=5",
-   "time": "2026-11-11T23:13:52Z",
-   "location": null,
-   "id": "d34246ea37987210"
   }
  ]
 }
