@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T12:57:29Z",
+ "updated_at": "2026-11-13T13:10:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 51,
+  "flood": 52,
   "flash_flood": 15,
-  "storm": 21,
+  "storm": 22,
   "landslide": 8,
-  "earthquake": 14,
+  "earthquake": 15,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 8,
   "pm25": 6,
   "heat": 1,
   "tsunami": 0,
@@ -343,6 +343,26 @@
    }
   },
   {
+   "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 182 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17430",
+   "time": "2026-11-13T12:48:08Z",
+   "magnitude": 3.2,
+   "location": {
+    "name": "พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
+    "lat": 21.884,
+    "lng": 99.06,
+    "precision": "epicentre"
+   },
+   "id": "dc5a8d7dcacf5429"
+  },
+  {
    "title": "UPDATE: กรมชลประทาน เร่งระบายน้ำเมืองคอน รับมือฝนหนัก ลดเสี่ยงน้ำท่วมสนามบิน–เขตเมือง วันนี้ (13 พ.ย. 69) นายวิทยา แก้วมี อธิบดีกรมชลประทาน ติดตามการบริหารจัดการน้ำในพื้นที่จังหวัดนครศรีธรรมราชอย่างใกล้ชิด โดยเฉพาะบริเวณสนามบินนครศรีธรรมราชและเขตเทศบาลนครนคร",
    "summary": "",
    "category": "news",
@@ -366,6 +386,32 @@
      9.323
     ]
    }
+  },
+  {
+   "title": "ชุมพรอ่วมฝนถล่มข้ามคืน น้ำท่วมถนนหลายสาย โรงพยาบาลเร่งป้องกันน้ำเข้า CT-SCAN",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFT29UY1BnUkRvM3Zqb1k1TE4yNE9OeUo0azgxekxOc25XNC1DRjNHUmY5TUVUYS1FNWxRME9GYndTR000Tnl5ckdmSDJNNjg?oc=5",
+   "time": "2026-11-13T12:34:39Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_7b2c1985526d9fbb8750",
+   "id": "7b2c1985526d9fbb"
   },
   {
    "title": "[ภาพ] กว๋างหงาย: ดินถล่มร้ายแรงในพื้นที่เกื่อหล่อ",
@@ -671,6 +717,20 @@
    "id": "8c6319ad465778cf"
   },
   {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
+  },
+  {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -893,20 +953,6 @@
    "id": "492d9e8cb446de24"
   },
   {
-   "title": "เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 15D ส่งผลให้ถนนที่มุ่งหน้าไปยังด่านชายแดนนานาชาติลาเลย์ถูกตัดขาด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpCWnBrVmc3SF9QRW80bDhnVVhXRWJncXZpbWt5YWd1UDhDNFUydnBXMVRMakxkUlFCRWNPODNXNjJFZThLeFQ5UVdZelliQmNZc24yaW16OEREaURidmdhLWlhUDU2dnJiZ1g5MGNIc1A1M0ktMGl1allKQnhySndCRk1mUGpiRTBMSFFDenlPRng4?oc=5",
-   "time": "2026-11-13T04:33:24Z",
-   "location": null,
-   "id": "9b38813df35970b9"
-  },
-  {
    "title": "ฝนถล่มนครศรีธรรมราช! น้ำท่วม 4 อำเภอ น้ำป่าหลากท่วมบ้าน-ถนนหลายจุด สิชลหนักสุด",
    "summary": "",
    "category": "flooding",
@@ -1043,6 +1089,20 @@
    },
    "incident_id": "fr_news_61ca5cf051d35d58e743",
    "id": "61ca5cf051d35d58"
+  },
+  {
+   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
+   "time": "2026-11-13T02:26:00Z",
+   "location": null,
+   "id": "caceb1f792f24fbc"
   },
   {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
@@ -1322,6 +1382,20 @@
    "id": "0dea43223c72cffe"
   },
   {
+   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
+   "time": "2026-11-12T23:34:57Z",
+   "location": null,
+   "id": "5dfeb57eba5f54d1"
+  },
+  {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -1409,20 +1483,6 @@
    "id": "e87cc3e0e039eb36"
   },
   {
-   "title": "ภาคใต้ฝนตกหนัก! น้ำท่วมฉับพลัน กองทัพภาคที่ 4 ผนึกกำลังทุกภาคส่วน ลุยพื้นที่ช่วยเหลือประชาชน บรรเทาความเดือดร้อนอย่างเร่งด่วน 📍วันที่ 12 พฤศจิกายน 2569 เวลา 19.00 น. ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 44 เดินหน้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxNTHhVUXFVazAxSTNtOEI4dDh0YTE0UnJQTWRBVlZIVGd0Z0MyQTZ3ckhRX3c3aGNXWnFVMENxdjhXeTFLY1pOeS1FbGx0WXNlY1F2MmtCYUhDdXlaeWdCRVNfOWViT3p6ZWhpVVUzVDcxbzFGcEFSb3VEZFkweDhwVzlwNzFYTmNOUkFFeGpxUVpvYURMUkhzNERoZURPOG1HWGgyYzVZZUhpZ1dycW96S1hneGpLdWNVcnVveVZwRWp3dy1kVW1pVDdqMkdwN2dWSEdFeVJJUlZBNUJrYzdPZzBCbGdhQnlwTS10d0tjMzBhMVQ4RlQ1T2xKWU1ZY3dLbGNBd1ZEaHJQVkFKR00zZXRBeklFM1NSVW1OX29QbWVxY3N5WWZMRFUyYk5zM2FkbUhMdEMwWHBqNjdaUHMwTlJwaXI2a1BLRkd6cDhDdVRTRWlKZmJOcjZlSmdHTl9FOW1NQnNMMlVCWHRqalctNThleTVSVU9XRFJpSWZ1OWh4VGdYdVZUZ18zbnpiMnpCckFBbDh0clhPMUVlNFhOSXVBQlg0WWFEOUJLb0taMnFKRzE1SEdkdk8xT1d5UExYczZ6YXZCc1huT25zTURsMU9ib0MzQXROc29uUVdadWxwNTlsSmpCVDBaeU5BekYzZF9jc3ZQVzlVRE5MbFNBZk5SYnpDTVp4cWdvWGxJTVowWXVmUDItMlMxNW50SU1SRWJlbnVNcC1RSEV2c0xENWtrY2g2NTBTdUhnd0JHejJuNVVSc0E4TmpqRms2WGhRdXJ0U1dSVDNjUUhnNkxhSno1bFJIM3ZHNnJBZHpHVWhoajR6WnRLbVBJak82Snl2YjlxWGFGOEJIR3ZwcUNQeUJuRVJPaVo5NVcza1NpM3FLQ3dQeGJMUlhueWh3NDVyVlpURF9ibloxamxvRmZsZ1lSMFJMaHM1cnBKVlZOWHB1OU5NMGlyUmtEVnFJazk0Uzd1dXVDeWdlN0M3YWdJbjRCTEJDMTZjX00wWmZ2Z0JreDlCUnlLZ2VtWVFjendRcUNuM2pPWWRkanFuMkh1MFNSU2VpaHVfTUNySi11QWlYWmxmZHFuWXM2YktxU09pUUJMZ2NqZzdCRDB4WXpqRFZMbHBkUlpBREVKNGFiRHpPczJOay1YYWdFZXFtRndvLXpiUzdVdS12NXhNU25OelhnM3NQdS1TNW1LRkozc05lTnEweTdJdUtGbDVXcWdPQUdSbFloRW1jQ1N1UWlNazFLcnVoYTdmR2t1MkhVMTZEclM5TVZrSThDRWcwQUJaeDFuYnlLVlE5UEcyblZCTERMWS1oalF5QTU1NExfQ0dUWUZq?oc=5",
-   "time": "2026-11-12T15:24:22Z",
-   "location": null,
-   "id": "420b4cfa6cc65e3b"
-  },
-  {
    "title": "แม่ฮ่องสอนเดินหน้าสู้ฝุ่น! ติดตั้งเครื่องวัดค่า PM 2.5 รับมือสถานการณ์ไฟป่าหมอกควัน",
    "summary": "",
    "category": "news",
@@ -1461,6 +1521,32 @@
    "location": null,
    "incident_id": "fr_news_9c7a80d807b682162f7e",
    "id": "9c7a80d807b68216"
+  },
+  {
+   "title": "เทศบาลนครสงขลา - Songkhla City 💦 เดินหน้าเต็มกำลัง! สถานีสูบน้ำเทศบาลนครสงขลา เร่งระบายน้ำ รับมือฝนตกต่อเนื่อง 🌧️พร้อมจัดเจ้าหน้าที่ปฏิบัติงานและเฝ้าระวังสถานการณ์น้ำอย่างใกล้ชิด เพื่อเร่งระบายน้ำ ลดค",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxNc2FLOUFaMVhNR0pJUlVSa1FVZjlra1BpUXZCeElYVGtGSFdsdjMtd19VUjF5bS1QYUthTVpmQVRicFR2N0k4dndDZ1pXVF9BZ3hCcm5pcWZjX2R0TXBKZXpsTjJDb3c1MGp3dkpiaU1yRjJUUTBfMUN1NGJWeklrSy1oWHJ6dklvVUhJcFdJRElJWHVSVVgyTG1NY0wzelNTRDBBMXVhZTh2bnVRMDh2LUJkUHg3OUFFdGtCSGIxSzJwMW5yWVhnYmFjZWxKNndkY1NlNnhWZUdvSDdPSmdEQmJFUXBJLU1VUWFSR0FzelBYSGloTTBKbFZVRTJBWEFYRzJGQ1R0ckF2SF9UV1hsNWtHU2F3N2EzMjhuYnhiQVFBN0tyLWJlSVQ2dWZfUkNoWDR5YmFvQWpJdHZhd0Y2MDMtUDJnMF94dkx6OUJJa2RfSWFnNHByYzJ5emVMbDY2b1JrS0dBZkotX3NMdjkzVDhiUnZEby0wQ2RfU3pweXZyQUU5RGkySWJxSjRKVXJueS10TW5WVTFFaHpqc2hoQUpGUDl5R25hS3c3Y0tNTURvS1dFT0JUaW9mNl8xWXlQQWt0UG1uRmpFbkNuR2lUdkd1TGRvS0JPWDJaSXVQbzFjT0FYLTRkMVpYMFF1YkZJZVF5aG9sWWRNRGs2WVN2cUV3MHoxaGs3TWRnTElhNUJvd3BrOUJCWTJvb2hLVElHN2h1MXJXQUk0NHBYVkR4a3h1aFlxTm9oemtLSnJoRmVESUtZNllKaUZndjhjRHB0YmRaVDA3Z251UnZaczA5MUFLbUYxdWxOZDIzY2tXSjdXSkVtZmt3dVBzTWc3R0xLd1ZXWTVjY2M0Tm02RHdmOEpIcndYNUdpTHBjaEpSNmtScVZpM3NLamNHMlZ3VkJhLU5NT2dCdmtDQUJyVU9KOTIxX0M0aHhWcHFhcm5DaGxMSXY5ZUhzX3BLWjV0NzBMU2Q0SWJoWkpKVGxFWFo2S051NkJaX2tGUFhrb0t4T1FZMTVFZ2VLWFhWOV95dnRCX1NhOEVLWHQyMm5fZmw3QUJlbHZJdVpiQklpZzlsNTBsTDZaYWIxMHZyYmlIUHdHcHQtcEFTY0d1bG5NcjJFVXhIMGN0N3VORHJ2UjFyVUE4dS1aNC1vTVZNczkwU1c2bG4zeERUaUk3YjRJNFE?oc=5",
+   "time": "2026-11-12T14:35:45Z",
+   "location": null,
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   },
+   "incident_id": "fr_news_de1d1140899b1a7b59d7",
+   "id": "de1d1140899b1a7b"
   },
   {
    "title": "กทม. กางแผนป้องกันน้ำท่วมฝั่งตะวันออก ชูแบ่งพื้นที่ย่อย-ทางด่วนน้ำ-อุโมงค์บึงหนองบอน",
@@ -2364,7 +2450,7 @@
    "official": false,
    "source": "เดลินิวส์",
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hU3NxTVhVb3VVVDEtV2w1c1F2MmNLYXBPc3ZzTlBRMURweFM5THVGUXR3VFRld1FwSFZWY0dPSWlPREVaSk5hV055TDA5aC16VU44?oc=5",
-   "time": "2026-11-11T15:47:50Z",
+   "time": "2026-11-11T15:48:35Z",
    "location": null,
    "id": "7a02869e9e955657"
   },
