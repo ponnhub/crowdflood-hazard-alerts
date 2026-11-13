@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T12:10:57Z",
+ "updated_at": "2026-11-13T12:32:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 52,
-  "flash_flood": 17,
-  "storm": 20,
+  "flood": 51,
+  "flash_flood": 16,
+  "storm": 21,
   "landslide": 7,
   "earthquake": 14,
   "wildfire": 1,
@@ -29,6 +29,20 @@
   "other": 0
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbUdtbTNLWEU3cDNQbXprTmNTdjRiMFFDTVVCUUhQTV9KMGxOcEtUOFI1dnNlOGw0UndzcWd4WnFCcHlYNWQzZDIyYXdpWWxtT1k4VA?oc=5",
+   "time": "2026-11-13T12:15:00Z",
+   "location": null,
+   "id": "0f2b48a70aeae5b2"
+  },
   {
    "title": "KEY MESSAGES: ฤดูหนาวที่มาพร้อม ‘ฤดูฝุ่น’ โรคทางเดินหายใจและ PM2.5 ความเสี่ยงที่ไม่ควรมองข้าม กรมอุตุนิยมวิทยาออกประกาศอย่างเป็นทางการว่า ประเทศไทยเริ่มเข้าสู่ฤดูหนาวในบางพื้นที่ตั้งแต่วันที่ 9 พฤศจิกายน 2569 เป็นต้นไป และคาดว่าจะสิ้นสุดประมาณปลายเดือนกุมภาพันธ์ 2",
    "summary": "",
@@ -58,18 +72,18 @@
    "id": "33492b7c7b89b9ef"
   },
   {
-   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
+   "title": "ประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 39 ตำบลและเขตในจังหวัดลาวกาย",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
+   "hazard_type": "landslide",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
-   "time": "2026-11-13T04:30:00Z",
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEtGYS1QZDdURXdYeTFvV3JGai1VYVc3STF2YTEyOEZYVHBSRDBpYzRlQVFsbTNudFViRzk1STFLVHBpYzJoWnVhRlp5cEVqOW9aZXFKRzF1SS1OUHp2U1Zja19obDhmN3pqTlRGaDA0RkpHS0RyaHhwcVBUY3ZvVzlLakpTLTFDaVlEbEtGWm1Idw?oc=5",
+   "time": "2026-11-13T02:26:10Z",
    "location": null,
-   "id": "c48ec9b0c8b66e7a"
+   "id": "37b97b6c3e595a7d"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -146,7 +160,7 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "มติชนออนไลน์",
+   "source": "Matichon Online",
    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RN0h3UlNlXzBnNE5xdjBIOXhwdEdlWkg2dGFsQ3VnVnJtSmZlRFdnWlhBbFY4ZTBSSGxLWm1lZk9aTlBrRDBUUk1VcUt4bllXbjRJeERWYkw5YU9vZ3Y0TkEzeVl2MGE3blE?oc=5",
    "time": "2026-11-13T00:23:45Z",
    "location": null,
@@ -449,6 +463,31 @@
    "id": "d6c6650d919689c8"
   },
   {
+   "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.cm108.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JTDl5MjFtVEtiTDBzU3NGcW04ZnIycEQ5dHg1ZlpSVkM4UXpmYThxSC1uWGk3U2p5MnoyU2gtSG1WWXQ1djlxYw?oc=5",
+   "time": "2026-11-13T10:17:00Z",
+   "location": null,
+   "id": "714efca87be5134d",
+   "area": {
+    "code": "TH500402",
+    "level": "tambon",
+    "name": "ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่",
+    "bbox": [
+     98.704,
+     19.567,
+     99.078,
+     19.811
+    ]
+   }
+  },
+  {
    "title": "ชุมพรอ่วม! ฝนถล่มข้ามคืน น้ำท่วม 5 อำเภอ โรงพยาบาลจม 40 ซม. หลังสวนยังวิกฤต!",
    "summary": "",
    "category": "flooding",
@@ -591,20 +630,6 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
-  },
-  {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -2407,40 +2432,6 @@
    "time": "2026-11-11T12:36:41Z",
    "location": null,
    "id": "e645fecb49879186"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 162 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17420",
-   "time": "2026-11-11T12:24:28Z",
-   "magnitude": 2.8,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 18.858,
-    "lng": 96.407,
-    "precision": "epicentre"
-   },
-   "id": "a09b9888c16c66d1"
-  },
-  {
-   "title": "รวม 3 ช่องทางแจ้งเหตุ ปภ. แชร์พิกัดน้ำท่วม-ขอช่วยเหลือ 24 ชม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16ZHVVbjFMcjl5cTJxckplSm00UFBpdm9qQTZ4d0ZxWDctcVNvQnVuWl9ma0RjZFAzNmhZWmpEVHY0dExSQUJJcXVhWlJrdjZVN1NuakxSNGJEN1gwdEpEQzlib0ZPZw?oc=5",
-   "time": "2026-11-11T12:16:31Z",
-   "location": null,
-   "id": "fc44c3a166cc7812"
   }
  ]
 }
