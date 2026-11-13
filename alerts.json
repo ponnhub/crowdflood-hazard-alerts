@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T08:32:27Z",
+ "updated_at": "2026-11-13T08:45:12Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 49,
+  "flood": 50,
   "flash_flood": 19,
   "storm": 21,
   "landslide": 8,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 8,
-  "pm25": 7,
+  "drought": 9,
+  "pm25": 6,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -1117,6 +1117,20 @@
    "id": "0dea43223c72cffe"
   },
   {
+   "title": "ติดตามสถานการณ์ทรัพยากรน้ำอย่างใกล้ชิด และตอบสนองต่อภัยแล้งและความเค็มของดินอย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFFwbF91QVVKWkM4TkJ4Rl9OZ0MyTUFzaFFWZXNtWTdMVGllVW52cHQ0ekNsYUVPbHMtczNkaHpwaVBHY3ZGXzFLZXEwRUhwVG5pMnBjUXA3S0NoZHhacVdRLWtpbGtfX0pfLUdQY3BVR1NXV2w0eldiVVNTckhxanBVUFlobkE?oc=5",
+   "time": "2026-11-12T23:34:57Z",
+   "location": null,
+   "id": "5dfeb57eba5f54d1"
+  },
+  {
    "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -1399,6 +1413,21 @@
    },
    "incident_id": "fr_news_bb35a5b31ba2de29ccfb",
    "id": "bb35a5b31ba2de29"
+  },
+  {
+   "title": "\"ทรู\" ถอดบทเรียนน้ำท่วมหาดใหญ่ ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัยช่วงปลายปีด้วย AI",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Hoonsmart",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5maXZ3bzVuckcwWE9rby04TFpraTJ1MURNU1NmczRpTERHNE1BbTRIU2JYR0FqNy02VTg0azZIVFY0MEkyN3RDdnVnTHF3QQ?oc=5",
+   "time": "2026-11-12T11:52:52Z",
+   "location": null,
+   "incident_id": "fr_news_dc607d2cac964550f104",
+   "id": "dc607d2cac964550"
   },
   {
    "title": "‘ทรู’ ถอดบทเรียนน้ำท่วมหาดใหญ่ ชู AI ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัย",
@@ -2457,31 +2486,6 @@
    "time": "2026-11-11T09:04:02Z",
    "location": null,
    "id": "d86352a78a39e09b",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
-   "title": "กทม. กาง 3 มาตรการรับมือฝุ่น PM2.5 คุมเข้มรถ 4 ล้อ- เฝ้าระวังภัยแล้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oU0N3Y0xSRjlIOHdTVGxzU3lrMjNOSUZ1RmFPbllkc2NERXJlQlF0NWY4ZF9JaVdQWEdoTFJPN0hWNEJWM2t6VXZweVZxYmxsZkF6aFNzVXZ0WGNsNF9aUkV1ZXVZQQ?oc=5",
-   "time": "2026-11-11T08:40:00Z",
-   "location": null,
-   "id": "ecb77f8dc555123d",
    "area": {
     "code": "TH10",
     "level": "province",
