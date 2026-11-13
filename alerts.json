@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-13T17:01:36Z",
+ "updated_at": "2026-11-13T17:14:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -29,6 +29,20 @@
   "other": 0
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
+   "time": "2026-11-13T17:11:26Z",
+   "location": null,
+   "id": "e9a5a74c6159ab01"
+  },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
@@ -123,20 +137,6 @@
      7.936
     ]
    }
-  },
-  {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-13T01:53:58Z",
-   "location": null,
-   "id": "e9a5a74c6159ab01"
   },
   {
    "title": "ประกาศเตือนฉบับสุดท้าย 15 จังหวัดฝนตกหนัก – ทั่วไทยร้อนขึ้น",
@@ -685,20 +685,6 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
-   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
-   "time": "2026-11-13T09:37:04Z",
-   "location": null,
-   "id": "634a912daa31f0a0"
-  },
-  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -781,6 +767,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
