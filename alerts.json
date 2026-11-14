@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T21:22:32Z",
+ "updated_at": "2026-11-14T21:35:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -53,7 +53,7 @@
    "official": true,
    "source": "LINE TODAY",
    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
-   "time": "2026-11-14T03:14:56Z",
+   "time": "2026-11-14T03:10:45Z",
    "location": null,
    "id": "857a909dfb60d9d8"
   },
