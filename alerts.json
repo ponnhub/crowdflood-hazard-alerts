@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T05:02:49Z",
+ "updated_at": "2026-11-14T05:16:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -118,20 +118,6 @@
    "time": "2026-11-13T17:11:26Z",
    "location": null,
    "id": "e9a5a74c6159ab01"
-  },
-  {
-   "title": "จังหวัดกวางงายออกประกาศเตือนถึงความเสี่ยงจากน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัวใน 16 พื้นที่ ในวันที่ 13 พฤศจิกายน 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUMxdG5QUW1PSmc5dUhVVl9jbGt0V3ZTdG5Kdm50UkZpc0JzYnBTeWdIMGlMQVJrNjNpdzROVHF2NktsN0lhSkRRQ0JkWG9KaVA2Y3Z0VFhUckktcW1IeXdCaEp6Y1B2Z1A2MFJjRnBBRGctN1V5ZXRWYlk0bWVYTWlaWkxjSnM3bFVkQ1BDTFFQOXhYVjhVeTJ3d2FIWXI2QVZqMHY3M0VYSHRBdWFxMElnZWw0UQ?oc=5",
-   "time": "2026-11-13T13:18:48Z",
-   "location": null,
-   "id": "78c77d793b7e8978"
   },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
@@ -364,6 +350,20 @@
    "time": "2026-11-12T06:40:20Z",
    "location": null,
    "id": "a7700dea3bbe558b"
+  },
+  {
+   "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlEzanV3OTFNQzQ3NEFlNG1OLWZaSS1yVDI5dzRJdndKSE5SRHlCS1lUb0NTS1hPc1pXQ2JTRmtOT21PbWdtVVhjTWItNGlUTEFlNmdKenhEVkRmMDVaR0VQWFZfbDFOYzVoODBQSnlreHZtR2JXVzQwMkl0S05Kejl6YlJHanJP?oc=5",
+   "time": "2026-11-14T03:29:37Z",
+   "location": null,
+   "id": "da519d64c98691c4"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -697,20 +697,6 @@
    "id": "07bd0e1314740e22"
   },
   {
-   "title": "ทหารและตำรวจในจังหวัดกวางงายร่วมมือกันกำจัดโคลนและเศษซากจากโรงเรียนหลังเกิดดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1oyZm9YQ3VvSlJ3ZFN2b29GOEVZRFdCc2U4MXlMQ2JRYkJEUVZucm5naG80Wk1NRWFqblNKZXBLbENVamxTcG1CSjFEUkd3YjE0RDE2c3lITUt2NE55VUphdlJNenhHNmtTZWlNcUZLLXNXWXVYdzZBSV9wTEFlRzhiMmdEMWlUODdDQUwyWV9PT2xiS1lsVFFuOUtqQ3Rk?oc=5",
-   "time": "2026-11-13T13:40:57Z",
-   "location": null,
-   "id": "83b3d420bf3d61bc"
-  },
-  {
    "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
    "summary": "",
    "category": "news",
@@ -1021,20 +1007,6 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
-   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
-   "time": "2026-11-13T09:37:04Z",
-   "location": null,
-   "id": "634a912daa31f0a0"
-  },
-  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -1089,6 +1061,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -1722,6 +1708,20 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
+  },
+  {
+   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
+   "time": "2026-11-13T00:33:35Z",
+   "location": null,
+   "id": "f1d1efede7bba816"
   },
   {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
