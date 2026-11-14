@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T09:04:24Z",
+ "updated_at": "2026-11-14T09:17:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,18 +17,32 @@
  ],
  "counts": {
   "flood": 45,
-  "flash_flood": 10,
+  "flash_flood": 9,
   "storm": 22,
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
   "drought": 6,
   "pm25": 9,
-  "heat": 0,
+  "heat": 1,
   "tsunami": 0,
   "other": 1
  },
  "items": [
+  {
+   "title": "เตือนภัยรองเท้าคู่โปรด! เก็บไว้นานไม่ได้ใส่ เสี่ยงกลิ่นอับ-เชื้อราขึ้น เผย 5 สาเหตุ พร้อม 6 วิธีเก็บรักษาให้รองเท้าสะอาดเหมือนใหม่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ขอนแก่นลิงก์ Khon Kaen Link",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EczlwaThzdDh2TlNrQnJfVnp1eVJveGRjMzRMLW9pNmREeHQyYVY0UHFxUVA0SU1iTjZsRVFJSXJrLXI4TEpya1J6OEVUUnp4QzBzRg?oc=5",
+   "time": "2026-11-14T03:26:04Z",
+   "location": null,
+   "id": "82588281e3551dda"
+  },
   {
    "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
    "summary": "",
@@ -160,20 +174,6 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
-  },
-  {
-   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
-   "time": "2026-11-13T04:30:00Z",
-   "location": null,
-   "id": "c48ec9b0c8b66e7a"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -350,6 +350,34 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
+  },
+  {
+   "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGptMUhmeE9QbTV0cU1uY2JvRGxJQmE4YnhTdDJ0b3RWX1dwS3hKdU9PdEJCeHFPcUl1RUlGWjVPcWVfalRuSi1TcDRxLTl4eWRLa2phSTNvdjlGR3ZJOExET0U3UU04YmZzdUZtVlI3UXZqMk9zT3p2Vm0zMWhEenNvX2xVejhlTThn?oc=5",
+   "time": "2026-11-14T09:12:52Z",
+   "location": null,
+   "id": "077cba84bf0edfc4"
+  },
+  {
+   "title": "MIT เตือนไทยฝนสุดขั้วถี่ขึ้น 5–10 เท่า ฝน 100 ปีอาจเกิดทุก 5–20 ปี ชี้เหลือเวลา 10–15 ปี เร่งปรับโครงสร้างพื้นฐานรับมือน้ำท่วม . โลกร้อนไม่ได้แค่ทำให้อุณหภูมิสูงขึ้น แต่กำลังเปลี่ยนรูปแบบฝนและยกระดับความเสี่ยงน้ำท่วมของประเทศไทย เมื่อผลการศึกษาจากนักวิจัยสถาบันเทคโนโลยีแม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMisgZBVV95cUxQYW9EOERWdmVWVTBXcEV6aWxmaGlGRzYtUG9vSHpZcnZSRWJqaE9zbWFlcjVsd3NWV2pQVlgxX0xKWnA0aW02anJzVDI3OTNmNVNQTXAybWNvSjh1VHFTV19hb0txTTdObnk2dHVrWmxFUG5QUjlHbjhDNjVfWDcwRmlyMzFCVkdkaEZyVG5JTmF5bW1kbWxZa2ZsWDNTcVNGVWktXzNVZWpOUmtrdmdVOVBqVDBuX2ctU3BtZ2tUWldUcmQtVEFwQXJGSkR5OWtFVjFpVDBrRXJfclNDZmp6Tm5COWFfYkw1TWEtbmxJZkJkUVZ0WW9ZZ3JUem5oRm43VlpMRnhZUDUyX0xWNGRCX1JpNUs2QnU2bDZxOWJXLTk5c3NmVjR5aTV0VTlKY3BjUnkyWXJTYTM3SnNZNHhvNmJDRk9qdFBEVUZiX2xSeF9OZW81MlVSVFJjSHBKVkZNaUJUcnhLY2pqam50QWw1ZDZZNHc3Y0VvcDhxMTRYbkVBbl91WnJMc3JlbFFDOFh1N29ZMUxmQlZaSUNZTEJ0Smh2enhOUUJJelQwdzRBNGQ5Nmh5elotX3hBTkhDSkFaRzgxX3k5SW5TT1R6V3hIcmlQeWpYTElZUDE3VlZpcWpNWE5OOUx5TDlBbDNUbWg1cHI4LWg0OURFSXBSa0h0aVJTQmxZTmZzSTl5Yzl1bV9PMFktWmpCX0dhQkp1YTBUZU10NF9GUHhGN1NINkNaOW43QnBhZGxyTk8tY0Y1UXItSG9qVGZxbGxhZU5RN2RFM3ZwSVdiY0RVM0JuWlB5T1RUVFQ0WXA0MEppTUFDSVZEUGxFemNZdUI3SFNmdHVJbE9qRUU4ckV2Y1lnMjZYcGlyUFBBazRGQTA5T1pDbjA1ZkI1RkVmcWNhRndRM19TbWdmbFRHQ2F3Nk53WUljUDlmby1mU2U2Ykw1ejJsSW5zZUZSYy02NGVXNEJ1M1lMZWNGR2V1Vm8xckRxa0FhZDBJMmVXRE5EVnByOVlIUVVNWl9LRVZIS3U2cGMzZjR6dmVQSjZYWVFqMXVvbkVKQVp1QjFlazZfYVZod2lSUWFZdw?oc=5",
+   "time": "2026-11-14T09:06:03Z",
+   "location": null,
+   "id": "d9b6cb84ed4c2550"
   },
   {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
@@ -791,20 +819,6 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
-  },
-  {
-   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
-   "time": "2026-11-13T17:35:23Z",
-   "location": null,
-   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -2292,32 +2306,6 @@
    },
    "incident_id": "fr_news_ea169b5e970372b9203a",
    "id": "ea169b5e970372b9"
-  },
-  {
-   "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "The Active",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16NWZZZHN5RUxxX2syQkI3dUljQ3V2OU9hSTBSdW1JNUdveHUxR0s0cVNQdXl3eGUzbnAtUWRpa0lvQi1QbkZuMkhfMHNLSEdnaWRRc3BRbXloUjVEdmdSUXc5Tl9yRm8?oc=5",
-   "time": "2026-11-12T09:07:00Z",
-   "location": null,
-   "area": {
-    "code": "TH25",
-    "level": "province",
-    "name": "จ.ปราจีนบุรี",
-    "bbox": [
-     101.138,
-     13.584,
-     102.124,
-     14.462
-    ]
-   },
-   "incident_id": "fr_news_8d8f56c7ea3ef232494b",
-   "id": "8d8f56c7ea3ef232"
   }
  ]
 }
