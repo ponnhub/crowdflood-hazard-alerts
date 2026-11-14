@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T10:43:44Z",
+ "updated_at": "2026-11-14T10:58:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 5,
+  "drought": 6,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
@@ -352,6 +352,20 @@
    "id": "ec418a39b297786a"
   },
   {
+   "title": "Ca Mau ตอบสนองต่อภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญ โดยให้ความสำคัญกับการรักษาความเป็นอยู่ที่ดีของประชาชนเป็นอันดับแรก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNiMlZ1d2pqZ2M0NTRhRnJEMXYzWlRrV1F3LUJMR1ZxQjVwSWRpNlNUaldiQkxyWTdnc2hNMmFHRDBLZm9NWXp6VE9vUXpmeDBiZG4xeXFJZXZrMFU3TXVvMkpfbFFBa1RIbVlLRHFLTE41OG9OYjUzT0VmS212Vm9JQWVQaEdna2cwQWhaWDE0MjM5ellfaGRPM1BIR0xL?oc=5",
+   "time": "2026-11-14T10:21:50Z",
+   "location": null,
+   "id": "01faa820f88e284e"
+  },
+  {
    "title": "‘กรมควบคุมมลพิษ’ เตือนฝุ่น PM2.5 กทม.-ปริมณฑลขยับสูงขึ้น พบเกินมาตรฐาน 9 พื้นที่",
    "summary": "",
    "category": "news",
@@ -619,6 +633,20 @@
    "id": "da519d64c98691c4"
   },
   {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
+  },
+  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -626,11 +654,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4THBxc3dIbTF1YmhjLVJXT1hlRWdaQmFWVkEyczh6dHRyaVdaQzdEb0EtSEVzSFRNMlFlbi1LcndQeWJEWFZidk1zUk5wTWp6ZXZPQ01oZDVaWGw3NllmQ2VIc1dKSHhISmItb01B?oc=5",
-   "time": "2026-11-14T02:58:00Z",
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-14T02:50:06Z",
    "location": null,
-   "id": "42a3f3bad591bade",
+   "id": "2f86748662fb0155",
    "area": {
     "code": "TH10",
     "level": "province",
@@ -989,6 +1017,32 @@
    "id": "07bd0e1314740e22"
   },
   {
+   "title": "ชุมพรอ่วม! ฝนถล่มข้ามคืน น้ำท่วม 5 อำเภอ โรงพยาบาลจม 40 ซม. หลังสวนยังวิกฤต!",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "News1Live",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaclA3QWtQQ3BMVkI2Wm1NbDZXdzI3NWo4anhZb1ZQLXlrYzdEZG55ZGtLOEtpeG9neDBuM1g1U0k3d0xmVEdmMzI2NGxUNlF4MlRTQg?oc=5",
+   "time": "2026-11-13T13:41:20Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_56181279b3131ff63234",
+   "id": "56181279b3131ff6"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 182 กม.",
    "category": "official",
@@ -1181,32 +1235,6 @@
      19.811
     ]
    }
-  },
-  {
-   "title": "ชุมพรอ่วม! ฝนถล่มข้ามคืน น้ำท่วม 5 อำเภอ โรงพยาบาลจม 40 ซม. หลังสวนยังวิกฤต!",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54dTBLcmN0SFJUT3ZCLXhtR1ZqcE4wdkJuZFo4Smx2TjNrUHN1aW53c205NWJUbm5WMzVfMjV4MGFWRlFlLWozUVBSMDVPX2xWTHhGQTAtT2tqb1hq?oc=5",
-   "time": "2026-11-13T10:11:00Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_2ce403f66788a3aa6afd",
-   "id": "2ce403f66788a3aa"
   },
   {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
@@ -1970,20 +1998,6 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
-  },
-  {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
   },
   {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
