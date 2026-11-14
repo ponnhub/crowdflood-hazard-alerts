@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T14:14:09Z",
+ "updated_at": "2026-11-14T14:35:09Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 10,
   "storm": 21,
   "landslide": 11,
-  "earthquake": 14,
+  "earthquake": 13,
   "wildfire": 3,
   "drought": 6,
   "pm25": 11,
@@ -255,6 +255,32 @@
    "time": "2026-11-12T23:16:33Z",
    "location": null,
    "id": "5a3f68ffdccfcc50"
+  },
+  {
+   "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLU9sNXFjVTlmVkxaOTJiM2V6dU9DODZGUkJtTmVReTNmeE5mNWhXUjdBQjRidmtKSFQycVlDemltZkNZYVl1N1dTTG1wS2NCSkpOeFNR?oc=5",
+   "time": "2026-11-14T13:55:31Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_4e1eff5b93924fff9b75",
+   "id": "4e1eff5b93924fff"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม",
@@ -504,7 +530,7 @@
    "official": false,
    "source": "HATYAI FOCUS",
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uV00wcXFnTVlDakJXQ0tFMnR1WGdkandTcUFUV0QyUEVORFB6U1NBU3V0emFBVXp4OEZYTXViNWpvWlNEU0JieWloQ3lyaVliY2ptSkNQUW9UZw?oc=5",
-   "time": "2026-11-14T09:22:52Z",
+   "time": "2026-11-14T09:25:15Z",
    "location": null,
    "id": "445e115c25da9ef4",
    "area": {
@@ -676,20 +702,6 @@
    "id": "6c5a65374171fc59"
   },
   {
-   "title": "หญิงเล่าสุดช้ำ ตัดสินใจหย่าขาด หลังเกิดแผ่นดินไหว สามีหนีเอาตัวรอด คนเดียว | Khaosod",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMzItSWtESTNLcWkyTGlOV0ZTQlp6dDlCMkh2Wm5jRjZzQk4zclRTbTFrLUVybHBiYmp5aGY4bjBMTUJFc21wejR6aDlJMDN0VXpRdlp3?oc=5",
-   "time": "2026-11-14T06:14:57Z",
-   "location": null,
-   "id": "23e422a4a8c090d7"
-  },
-  {
    "title": "ลาวไค: เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 4D ทับครูหญิงที่กำลังขี่มอเตอร์ไซค์",
    "summary": "",
    "category": "news",
@@ -781,11 +793,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4THBxc3dIbTF1YmhjLVJXT1hlRWdaQmFWVkEyczh6dHRyaVdaQzdEb0EtSEVzSFRNMlFlbi1LcndQeWJEWFZidk1zUk5wTWp6ZXZPQ01oZDVaWGw3NllmQ2VIc1dKSHhISmItb01B?oc=5",
-   "time": "2026-11-14T02:58:00Z",
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-14T02:50:06Z",
    "location": null,
-   "id": "42a3f3bad591bade",
+   "id": "2f86748662fb0155",
    "area": {
     "code": "TH10",
     "level": "province",
@@ -2356,32 +2368,6 @@
    },
    "incident_id": "fr_news_de1d1140899b1a7b59d7",
    "id": "de1d1140899b1a7b"
-  },
-  {
-   "title": "กทม. กางแผนป้องกันน้ำท่วมฝั่งตะวันออก ชูแบ่งพื้นที่ย่อย-ทางด่วนน้ำ-อุโมงค์บึงหนองบอน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xWmdZbkJLRHFXUTNtUlRUQU9Mc1RiWXUtVTIwSlRaR25JWWhZRGF3UTl5MFJrbTBRbVdQb3FoZFJDaUF4Tm9BeXNnbWUwdkVkTkY0eV9n?oc=5",
-   "time": "2026-11-12T14:15:22Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_489471514f3a355b6a89",
-   "id": "489471514f3a355b"
   }
  ]
 }
