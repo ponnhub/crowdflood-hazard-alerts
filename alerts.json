@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T17:37:38Z",
+ "updated_at": "2026-11-14T17:53:30Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -26,7 +26,7 @@
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 4
+  "other": 3
  },
  "items": [
   {
@@ -854,6 +854,20 @@
    "id": "11e9a975d4c1d423"
   },
   {
+   "title": "ลาวไค: ดินถล่มบนทางหลวงหมายเลข 4D ทำให้ครูได้รับบาดเจ็บ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU52a1JhS3liN3hfU1JYdFNtM0ZiSXotcW9ESHhDVHgzdS1ETldkbTlnckNTTEJkcXJUb1lqNEUtQVEzN180YjRUWFcxOUc2VlZtM25CbHhKbldFOFpWMEFCMjFUQXdmRmJyMlR3LWRxTlFIaTdyeW0wT1NfNmV5bnBPT3draHFRWWtabDNSbkE4cVNOTDNYRA?oc=5",
+   "time": "2026-11-14T04:31:10Z",
+   "location": null,
+   "id": "b5fd34187ad1144d"
+  },
+  {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
@@ -866,20 +880,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -1347,20 +1347,6 @@
    },
    "incident_id": "fr_news_7b2c1985526d9fbb8750",
    "id": "7b2c1985526d9fbb"
-  },
-  {
-   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
-   "time": "2026-11-13T11:22:00Z",
-   "location": null,
-   "id": "6ed64063d51b313e"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
