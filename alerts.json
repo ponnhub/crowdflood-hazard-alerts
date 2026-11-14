@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T16:21:18Z",
+ "updated_at": "2026-11-14T16:37:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -243,6 +243,20 @@
    "id": "5a3f68ffdccfcc50"
   },
   {
+   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "สวพ.FM91",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMM3pMdGhCN3JEXzhHRGluc0x4MDhrTG1CODR3Q3JQcHJDQWpLS0tqWi1zcnFvUWIwb1VGMjJzOS1PVDBtMDdPZjRoZzdkdw?oc=5",
+   "time": "2026-11-14T16:25:33Z",
+   "location": null,
+   "id": "5af62b8d16c176b8"
+  },
+  {
    "title": "MIT เตือนไทยฝนสุดขั้วถี่ขึ้น 5–10 เท่า ฝน 100 ปีอาจเกิดทุก 5–20 ปี ชี้เหลือเวลา 10–15 ปี เร่งปรับโครงสร้างพื้นฐานรับมือน้ำท่วม . โลกร้อนไม่ได้แค่ทำให้อุณหภูมิสูงขึ้น แต่กำลังเปลี่ยนรูปแบบฝนและยกระดับความเสี่ยงน้ำท่วมของประเทศไทย เมื่อผลการศึกษาจากนักวิจัยสถาบันเทคโนโลยีแม",
    "summary": "",
    "category": "news",
@@ -255,6 +269,20 @@
    "time": "2026-11-14T15:07:28Z",
    "location": null,
    "id": "d9b6cb84ed4c2550"
+  },
+  {
+   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
+   "time": "2026-11-14T14:47:37Z",
+   "location": null,
+   "id": "b94500e7135f6e20"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
@@ -826,20 +854,6 @@
    "id": "da519d64c98691c4"
   },
   {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
-  },
-  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -847,11 +861,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4THBxc3dIbTF1YmhjLVJXT1hlRWdaQmFWVkEyczh6dHRyaVdaQzdEb0EtSEVzSFRNMlFlbi1LcndQeWJEWFZidk1zUk5wTWp6ZXZPQ01oZDVaWGw3NllmQ2VIc1dKSHhISmItb01B?oc=5",
-   "time": "2026-11-14T02:58:00Z",
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-14T02:50:06Z",
    "location": null,
-   "id": "42a3f3bad591bade",
+   "id": "2f86748662fb0155",
    "area": {
     "code": "TH10",
     "level": "province",
@@ -1319,20 +1333,6 @@
    },
    "incident_id": "fr_news_7b2c1985526d9fbb8750",
    "id": "7b2c1985526d9fbb"
-  },
-  {
-   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
-   "time": "2026-11-13T11:22:00Z",
-   "location": null,
-   "id": "6ed64063d51b313e"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
