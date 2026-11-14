@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T02:40:57Z",
+ "updated_at": "2026-11-14T02:57:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 56,
-  "flash_flood": 16,
-  "storm": 23,
+  "flood": 54,
+  "flash_flood": 15,
+  "storm": 22,
   "landslide": 8,
   "earthquake": 4,
-  "wildfire": 1,
-  "drought": 7,
-  "pm25": 7,
+  "wildfire": 0,
+  "drought": 8,
+  "pm25": 9,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -360,6 +360,56 @@
    "id": "1252b155438fabbd"
   },
   {
+   "title": "ค่าฝุ่น PM 2.5 กทม. มีแนวโน้มเพิ่มขึ้น พบเกินมาตรฐาน 1 พื้นที่ \"เขตลาดกระบัง\"",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bkNwZXBfbEtZMkVFTi1zQktheENuS3hKeGtNWGkzNEZYRUdHSFpCSFIydTktSzlHX2NpbTFoUGctZ292VHZ2ZTluV0VkU3pFNVRHblBmd3BqaHU4N3hFcGs4VQ?oc=5",
+   "time": "2026-11-14T02:51:44Z",
+   "location": null,
+   "id": "a3febde7e4db1fa0",
+   "area": {
+    "code": "TH1011",
+    "level": "amphoe",
+    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
+    "bbox": [
+     100.709,
+     13.69,
+     100.879,
+     13.794
+    ]
+   }
+  },
+  {
+   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-14T02:48:45Z",
+   "location": null,
+   "id": "2f86748662fb0155",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
    "summary": "",
    "category": "news",
@@ -505,6 +555,20 @@
    "time": "2026-11-13T23:56:00Z",
    "location": null,
    "id": "7e43ac11cd310847"
+  },
+  {
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
   },
   {
    "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
@@ -837,6 +901,20 @@
    "id": "3c1c67e686fcc83e"
   },
   {
+   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
+   "time": "2026-11-13T09:37:04Z",
+   "location": null,
+   "id": "634a912daa31f0a0"
+  },
+  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -850,20 +928,6 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
-  },
-  {
-   "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZmdmUVNNNklIN0hBZlRwcXRnRWlHWDNBbHMwR1c4RERGa1c1aWxBVWRKdjFrcktpdFF3eW03V0NHZkUtU0prbGs5MkJPV09mS0xwWV9KQ0FfN0UzOV9qbkZDazZYQQ?oc=5",
-   "time": "2026-11-13T08:45:58Z",
-   "location": null,
-   "id": "99bdc19318ac773a"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -1534,20 +1598,6 @@
    "id": "dd0248dcf9fada9f"
   },
   {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
-  },
-  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -1613,31 +1663,6 @@
    "time": "2026-11-12T15:57:00Z",
    "location": null,
    "id": "e87cc3e0e039eb36"
-  },
-  {
-   "title": "แม่ฮ่องสอนเดินหน้าสู้ฝุ่น! ติดตั้งเครื่องวัดค่า PM 2.5 รับมือสถานการณ์ไฟป่าหมอกควัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuci1UdzVRaFhjTGV1U1ZJUUJ6NVRtUHRXenBOZEFDdUtmUlV4eFZBaGZsUm9HeV9nOEpKWVFkYVZHeFZYM3l1ZFNhNkxITTBJUWtlTVFmZDVfdw?oc=5",
-   "time": "2026-11-12T15:21:18Z",
-   "location": null,
-   "id": "a6c50ba11c0b28a9",
-   "area": {
-    "code": "TH58",
-    "level": "province",
-    "name": "จ.แม่ฮ่องสอน",
-    "bbox": [
-     97.344,
-     17.637,
-     98.652,
-     19.81
-    ]
-   }
   },
   {
    "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 10 จังหวัด-กทม. รวม 21,755 ครัวเรือน 136.64 ล้านบาท",
@@ -1757,20 +1782,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
@@ -2220,17 +2231,32 @@
    "id": "9969b1493ea869fe"
   },
   {
+   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
+   "time": "2026-11-12T05:35:45Z",
+   "location": null,
+   "id": "bbceedf3f093e6da"
+  },
+  {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "flooding",
+   "category": "news",
    "hazard_type": "flash_flood",
-   "severity": "low",
+   "severity": "medium",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:57:39Z",
+   "time": "2026-11-12T04:58:10Z",
    "location": null,
+   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -2241,9 +2267,7 @@
      100.09,
      10.125
     ]
-   },
-   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
-   "id": "a61e89fb8f5ff977"
+   }
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
@@ -2382,61 +2406,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "UPDATE :​ สภากทม. ไฟเขียวตั้งวิสามัญฯ ศึกษาแผน BCP 120 วัน ถอดบทเรียนน้ำท่วม-ระบบล่ม หวังอุดช่องโหว่การจัดการทรัพยากรรับมือวิกฤต วานนี้ (11 พฤศจิกายน) ที่ห้องประชุมสภากรุงเทพมหานคร อาคารไอราวัตพัฒนา ศ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wZBVV95cUxNdlBxTFhYR3h3OXcwTG9SZ1Z2aFRRQlZNYXlSMTZCR0h4TnpWeFhKN1h2YWdwZ1JVNGlSYmlqY21zXzZsM1k1R0dlM3FJVzlpc3V2SENTcnJCRWNJdGlzR2JKQW1fOWlZdUlXSTdDeVFwV1VmbWRQN0R5UjdIMVV4bmJ3UHJRT2V3NUNVdU9XQnJWck9tX0p3QVI2bHRmaHhyaEttSVlyU2Q1ZzNRRUFtMjhxLTB2Q1Jkc0R0ZllNSkNRYk1fci1BSGwydnVCUFhOTEYxVlBxMGV5aHllellqVXhtV1Z0VjlubEtlczlJb0NLZGhUTHdUeDc2T1RxU0pDTUFjM05aSDBoWGxiaHlUaEZiTndaWDBMekM2X0ZDeW95dGlQMnJ1NzFxc2R2MjludlhDNnhLMmhHNFFVNFhWVl9fT1VtN2p1R0NrNVZseXBZaWRMM3lYaDY3dDZwS2wxbG4zSGw2S0wyb1Y2Qm9rX0tSWE81aDlCdkc2dlZ4bEhudlBEN2NSS0hDVmExdjhaT0w0cHU5cl84MmJIQzdsdUQ0RkN0U1hHV0RZRXZCR0xwVWE3TjVvTTJyY1VGTGhyTjZsay05ajZhWDVOcEVkWkp1MXhCTHU5Q0lJbzJkcl9NSEhuYnhCMGtCbzVCSGVtamV3bFJ6elJtUm5hcEl3aUxCU2VzdlNsbzBkR1RZVjc0NjBVZWlBTEwtVHdmMzVYenVPdkxkV2xhWlpVZVpmMWtGR21wYmI0RWtsSVdrd2ZZVFNaYmFRNHlSWFktZEpXZm1qd0I2WjJQaUlhakhESmRtbXZHODNEZFY5SUx4V1dQU1FHMC1BendCUHo5TGh6OTloemViQXhUSVdIeUJJaFlKTXJyV29TMDBzWUJXaUhuRTVTNXdaSjZMcU9ONnVKVEhwMWJBUkU0czhLQWtlWldRZUpIdkRrT2RhVjA4VGhWelgyUTR1eGcyajJHZ3V3eFZ5bTgyblBwSU1PcDg3b2dJU0x5TmYyNGpQcHN6Szl5RlVRdVJhMkhxWi1EZWZPaXZxREI1V3NyazV5OWcxc0ZaTDdycmN3MDFhT0RUQlNsMjNlY09SU3JIM3Fob2RsSW8xR1gwLVJhanJRWmlvdFdxa2JTYlFaVjNz?oc=5",
-   "time": "2026-11-12T02:46:18Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_33260062b5ec2fe24ddc",
-   "id": "33260062b5ec2fe2"
-  },
-  {
-   "title": "เช็กเลย! ปภ. โอนเงินเยียวยาน้ำท่วม 10 จังหวัด-กทม. วันนี้ 21,755 ครัวเรือน รับเงินรวม 136.64 ล้านบาท",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93RkpJQVB4REE2WmlWTl9PakUtQ1JhdXFhU3I0bktKZWpGUmxtVDRWZEl1WkJTcWszT1NRMWFiYk1IWTlLVFlyR0Y4X0h6RE9OVnI4MjNaRTNIWEVEMG04a0xUR1VHUDlldld4RmF3?oc=5",
-   "time": "2026-11-12T02:46:00Z",
-   "location": null,
-   "incident_id": "fr_news_dc062c6b37e0a8cd5a76",
-   "id": "dc062c6b37e0a8cd"
-  },
-  {
-   "title": "เตือนเฝ้าระวังน้ำป่าไหลหลาก หลังฝนตกหนักในพื้นที่ภาคใต้ฝั่งตะวันออก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "จส. 100",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVTFxZlN0VUdJdHJLNXFDSUYxUjlJVVdsMERTbWZBMG40dXl0UXlpcXdfTlBSSU12RmFPZkZmMTloWFJLaU8wX3drRk9fT0VvLUIzSlRONHYtZw?oc=5",
-   "time": "2026-11-12T02:44:27Z",
-   "location": null,
-   "id": "5d945849b7a9ad82"
   }
  ]
 }
