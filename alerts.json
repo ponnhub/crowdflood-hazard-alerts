@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T17:27:23Z",
+ "updated_at": "2026-11-14T17:37:38Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -26,7 +26,7 @@
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 3
+  "other": 4
  },
  "items": [
   {
@@ -1347,6 +1347,20 @@
    },
    "incident_id": "fr_news_7b2c1985526d9fbb8750",
    "id": "7b2c1985526d9fbb"
+  },
+  {
+   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
+   "time": "2026-11-13T11:22:00Z",
+   "location": null,
+   "id": "6ed64063d51b313e"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
