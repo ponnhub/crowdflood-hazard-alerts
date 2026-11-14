@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T01:33:27Z",
+ "updated_at": "2026-11-14T01:41:30Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 8,
   "earthquake": 4,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 6,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -193,20 +193,6 @@
    "time": "2026-11-13T00:45:00Z",
    "location": null,
    "id": "46e323a175d11b99"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UHlIQnVCMVJUWW85aEZvdUdIOHJZV3A1Ni1LcnE1QzVxRkxfVllPMjZmR04tTnRDZjdWZl9zbUNMMEJROWJxTmpSRXJvZjBsVENUdzBoeWE2OEdvcjFKTXhsYw?oc=5",
-   "time": "2026-11-13T00:36:00Z",
-   "location": null,
-   "id": "412fb8addd0fe645"
   },
   {
    "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
@@ -398,6 +384,20 @@
    },
    "incident_id": "fr_news_ecde071f78e790071ead",
    "id": "ecde071f78e79007"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RX0pzdXJGekJSX1A1RUYyLVhxSUZuYVo2cERiRVpib3NTNW9HY19qX2ROR0s0NmFuTVI0THBZTU04M3JlVGl5N0h0UjUyNGJ1SVE?oc=5",
+   "time": "2026-11-14T01:12:42Z",
+   "location": null,
+   "id": "21bd8e4702209eeb"
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
@@ -1650,20 +1650,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
