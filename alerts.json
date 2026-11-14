@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T18:13:19Z",
+ "updated_at": "2026-11-14T18:22:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
+  "flood": 42,
   "flash_flood": 10,
   "storm": 19,
   "landslide": 11,
-  "earthquake": 13,
+  "earthquake": 12,
   "wildfire": 3,
   "drought": 6,
   "pm25": 11,
@@ -323,6 +323,26 @@
    },
    "incident_id": "fr_news_4e1eff5b93924fff9b75",
    "id": "4e1eff5b93924fff"
+  },
+  {
+   "title": "สกลธี นำทีม ปชป. ลุย ร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม พร้อมจับมือชาวบ้านฟ้องศาลปกครอง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "มติชน",
+   "source_url": "https://www.matichon.co.th/politics/news_5975982",
+   "time": "2026-11-14T13:44:19Z",
+   "location": {
+    "name": "ถนนร่มเกล้า",
+    "lat": 13.77,
+    "lng": 100.74,
+    "precision": "road"
+   },
+   "incident_id": "fr_rss_1506d15aa2347f99149c",
+   "id": "1506d15aa2347f99"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม",
@@ -768,20 +788,6 @@
    },
    "incident_id": "fr_news_6c5a65374171fc591550",
    "id": "6c5a65374171fc59"
-  },
-  {
-   "title": "หญิงเล่าสุดช้ำ ตัดสินใจหย่าขาด หลังเกิดแผ่นดินไหว สามีหนีเอาตัวรอด คนเดียว | Khaosod",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMzItSWtESTNLcWkyTGlOV0ZTQlp6dDlCMkh2Wm5jRjZzQk4zclRTbTFrLUVybHBiYmp5aGY4bjBMTUJFc21wejR6aDlJMDN0VXpRdlp3?oc=5",
-   "time": "2026-11-14T06:14:57Z",
-   "location": null,
-   "id": "23e422a4a8c090d7"
   },
   {
    "title": "ลาวไค: เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 4D ทับครูหญิงที่กำลังขี่มอเตอร์ไซค์",
