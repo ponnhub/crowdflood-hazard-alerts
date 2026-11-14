@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T12:46:43Z",
+ "updated_at": "2026-11-14T13:02:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 43,
+  "flood": 41,
   "flash_flood": 9,
   "storm": 21,
   "landslide": 11,
@@ -26,7 +26,7 @@
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 2
+  "other": 3
  },
  "items": [
   {
@@ -269,20 +269,6 @@
    "time": "2026-11-12T13:06:23Z",
    "location": null,
    "id": "a1fbd7e75c5ec0a2"
-  },
-  {
-   "title": "กรมป้องกันฯ เตือน 10 จังหวัดปภ.ระดับน้ำเจ้าพระยาสูงขึ้นช่วงกลางเดือนพฤศจิกายน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzVlhocEpKaXgyX2E0R2tjODhWdXJfMXc3NnA2VUxrRjVmdXFvY2lRamRTUG41ODYtUVNwcXkyWGhBRFpiWFBCRUFXR3VObWFHcFdzUnZld1NIWklYamFITFpaOFRYZG5TUWtsOA?oc=5",
-   "time": "2026-11-12T12:49:00Z",
-   "location": null,
-   "id": "46d20dbd1132f1ce"
   },
   {
    "title": "“สกลธี” ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม จ่อพาชาวบ้านฟ้องศาลปกครองสิ้นเดือนนี้",
@@ -698,20 +684,6 @@
    "id": "da519d64c98691c4"
   },
   {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
-  },
-  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -996,6 +968,20 @@
    "id": "ebdbfe3c2534d7c4"
   },
   {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
    "category": "official",
@@ -1191,6 +1177,20 @@
    },
    "incident_id": "fr_news_7b2c1985526d9fbb8750",
    "id": "7b2c1985526d9fbb"
+  },
+  {
+   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
+   "time": "2026-11-13T11:22:00Z",
+   "location": null,
+   "id": "6ed64063d51b313e"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
@@ -2358,32 +2358,6 @@
    "time": "2026-11-12T13:26:18Z",
    "location": null,
    "id": "ff7a537b785e1a0e"
-  },
-  {
-   "title": "ฝนถล่มชุมพร น้ำทะลักท่วมถนนหลายจุด ต้องเฝ้าระวังสถานการณ์อย่างต่อเนื่อง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TdE9yak5XUnczSnhjSENLWWU2WDk5VDEzazZXVVNObWdheHJKbEJrVGhsZFlBVmN2RWpIbEl0ODFzRENzaHRpYmNFSWZ0MTBNb3Q3TlpNNENWQzJZVDJDaA?oc=5",
-   "time": "2026-11-12T12:58:00Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_bb35a5b31ba2de29ccfb",
-   "id": "bb35a5b31ba2de29"
   }
  ]
 }
