@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T16:59:06Z",
+ "updated_at": "2026-11-14T17:06:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 41,
   "flash_flood": 10,
-  "storm": 20,
+  "storm": 19,
   "landslide": 11,
   "earthquake": 13,
   "wildfire": 3,
-  "drought": 5,
+  "drought": 6,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
@@ -489,20 +489,6 @@
    "id": "80a823f7d9e6a924"
   },
   {
-   "title": "เช็กชื่อ 10 จังหวัดภาคใต้ ฝนตกหนัก-คลื่นสูง จับตา 18-22 พ.ย. ถล่มซ้ำ - ฝนตก | กรมอุตุนิยมวิทยา ข่าว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xb0ZwbkVLT1JyWGZ1Zm5KdEJaUHF6Rmw0VVlIbGplU21iajQ5bm1EanVhazk2ck9MLWx4OHF4akJsQmxiZkFxMlhfNnFRRVNXLWVreGRSczFTZzVYVkdsTzlER1REZzU5V1NOV01R?oc=5",
-   "time": "2026-11-14T12:08:00Z",
-   "location": null,
-   "id": "31eb78d3c1d2b580"
-  },
-  {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
    "summary": "",
    "category": "flooding",
@@ -810,6 +796,20 @@
    "time": "2026-11-14T05:52:16Z",
    "location": null,
    "id": "4765f5eaf5f21bd0"
+  },
+  {
+   "title": "14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestatestimes",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VZG1PY3BnZXQ1enFnUkk2MnF3T3BlRFhKRXBTV3NZN2tiV1hRQ29lVnNpM3o0LS04UGQ1cUxRRUN0RThlbmk2NGNCNWx0UkRCbk9GZw?oc=5",
+   "time": "2026-11-14T05:46:39Z",
+   "location": null,
+   "id": "8ae2bd01300fa6c4"
   },
   {
    "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
