@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T16:37:11Z",
+ "updated_at": "2026-11-14T16:59:06Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 41,
   "flash_flood": 10,
-  "storm": 19,
+  "storm": 20,
   "landslide": 11,
   "earthquake": 13,
   "wildfire": 3,
@@ -229,6 +229,20 @@
    "id": "412fb8addd0fe645"
   },
   {
+   "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RN0h3UlNlXzBnNE5xdjBIOXhwdEdlWkg2dGFsQ3VnVnJtSmZlRFdnWlhBbFY4ZTBSSGxLWm1lZk9aTlBrRDBUUk1VcUt4bllXbjRJeERWYkw5YU9vZ3Y0TkEzeVl2MGE3blE?oc=5",
+   "time": "2026-11-13T00:23:45Z",
+   "location": null,
+   "id": "43f8a14769112e28"
+  },
+  {
    "title": "📢 ประกาศกรมอุตุนิยมวิทยา ฉ.10 | 13 พ.ย. 2569 เวลา 05.00 น. ภาคใต้ยังเสี่ยงฝนหนักถึงหนักมาก! ประจวบคีรีขันธ์ ชุมพร และสุราษฎร์ธานี ต้องเฝ้าระวังเป็นพิเศษ 🌊 อ่าวไทยตอนล่างคลื่นลมเริ่มอ่อนกำลังลง คลื่นสูงประมาณ 2 เมตร บริเวณฝนฟ้าคะนองสูงกว่า 2 เมตร ชาวเรือทั้งสองฝั่งตรวจสอบเ",
    "summary": "",
    "category": "news",
@@ -269,20 +283,6 @@
    "time": "2026-11-14T15:07:28Z",
    "location": null,
    "id": "d9b6cb84ed4c2550"
-  },
-  {
-   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
-   "time": "2026-11-14T14:47:37Z",
-   "location": null,
-   "id": "b94500e7135f6e20"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
@@ -487,6 +487,20 @@
    "time": "2026-11-14T12:11:27Z",
    "location": null,
    "id": "80a823f7d9e6a924"
+  },
+  {
+   "title": "เช็กชื่อ 10 จังหวัดภาคใต้ ฝนตกหนัก-คลื่นสูง จับตา 18-22 พ.ย. ถล่มซ้ำ - ฝนตก | กรมอุตุนิยมวิทยา ข่าว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xb0ZwbkVLT1JyWGZ1Zm5KdEJaUHF6Rmw0VVlIbGplU21iajQ5bm1EanVhazk2ck9MLWx4OHF4akJsQmxiZkFxMlhfNnFRRVNXLWVreGRSczFTZzVYVkdsTzlER1REZzU5V1NOV01R?oc=5",
+   "time": "2026-11-14T12:08:00Z",
+   "location": null,
+   "id": "31eb78d3c1d2b580"
   },
   {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
@@ -854,6 +868,20 @@
    "id": "da519d64c98691c4"
   },
   {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
+  },
+  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -991,20 +1019,6 @@
    "time": "2026-11-14T01:38:00Z",
    "location": null,
    "id": "06fecd57eb4c424f"
-  },
-  {
-   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย. เตือนภาคใต้ฝนตกหนักถึงหนักมาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45SWQ3YjZMeGpReGZJOWFMSlRHSGVieUlTT0h6ZnVYS3FRRnFEZW00MHN4NGhRTnpnZjRrWGRRcURlbV90OWhBcldqc25mUmpkTHJCUzRn?oc=5",
-   "time": "2026-11-14T01:34:56Z",
-   "location": null,
-   "id": "bdb615cc01654ee5"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
