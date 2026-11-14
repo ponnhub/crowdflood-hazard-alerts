@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T19:26:09Z",
+ "updated_at": "2026-11-14T19:44:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -1144,6 +1144,20 @@
    "id": "7e43ac11cd310847"
   },
   {
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
    "category": "official",
@@ -1865,20 +1879,6 @@
    },
    "incident_id": "fr_news_f07feb07a1990212b3f9",
    "id": "f07feb07a1990212"
-  },
-  {
-   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
-   "time": "2026-11-13T06:14:54Z",
-   "location": null,
-   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
