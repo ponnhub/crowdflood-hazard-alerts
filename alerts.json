@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T09:17:53Z",
+ "updated_at": "2026-11-14T09:33:29Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 45,
+  "flood": 46,
   "flash_flood": 9,
-  "storm": 22,
+  "storm": 23,
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 6,
-  "pm25": 9,
+  "drought": 5,
+  "pm25": 10,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -350,6 +350,60 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
+  },
+  {
+   "title": "ฝุ่น PM2.5 กทม.-ปริมณฑลเริ่มพุ่ง เกินมาตรฐาน 9 พื้นที่ เตือน 19-20 พ.ย. จ่อสูงขึ้นอีก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNlhzYlBWcGJvQlRYUGVVWkVxMDhVVXY4dWtTcVVxRWd6b2hjOVA3TjlPOHpoS0NJZm1rRktlN1d2b1MxX0s4U0RFdW52S1dzNnN6OTMzSQ?oc=5",
+   "time": "2026-11-14T09:28:05Z",
+   "location": null,
+   "id": "850ce22bba08574c"
+  },
+  {
+   "title": "สงขลา | อุตุฯ พยากรณ์ล่วงหน้า สงขลาจับตาฝนเพิ่มในช่วง 18–19 พ.ย. คาดฝนตกหนักมากบางแห่ง เตรียมรับมือ!",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "HATYAI FOCUS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uV00wcXFnTVlDakJXQ0tFMnR1WGdkandTcUFUV0QyUEVORFB6U1NBU3V0emFBVXp4OEZYTXViNWpvWlNEU0JieWloQ3lyaVliY2ptSkNQUW9UZw?oc=5",
+   "time": "2026-11-14T09:22:52Z",
+   "location": null,
+   "id": "445e115c25da9ef4",
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   }
+  },
+  {
+   "title": "อุโมงค์ระบายน้ำคลองทวีวัฒนา 2 กม. แก้น้ำท่วมฝั่งธนบุรี เปิดใช้ เม.ย.2570",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQlYwMHZRaDl3QURESnFKYXBMd0RjVVc1dTBtbGtHVTVtRmw1Z1lwNE1mY2JQd0s1aGIwQ2dMdENPUEEzNGJBQXViU1ZtTmtvV0p4Q19SV3p4anhC?oc=5",
+   "time": "2026-11-14T09:15:00Z",
+   "location": null,
+   "incident_id": "fr_news_ba52b1961dbfdea216ec",
+   "id": "ba52b1961dbfdea2"
   },
   {
    "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
@@ -821,6 +875,20 @@
    "id": "ebdbfe3c2534d7c4"
   },
   {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
    "category": "official",
@@ -905,20 +973,6 @@
    },
    "incident_id": "fr_news_07bd0e1314740e229eb0",
    "id": "07bd0e1314740e22"
-  },
-  {
-   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
-   "time": "2026-11-13T13:24:46Z",
-   "location": null,
-   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
@@ -2266,20 +2320,6 @@
    },
    "incident_id": "fr_news_3954e4dffd93871f460a",
    "id": "3954e4dffd93871f"
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
   },
   {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
