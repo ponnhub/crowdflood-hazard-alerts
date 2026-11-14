@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T05:16:48Z",
+ "updated_at": "2026-11-14T05:30:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 12,
   "wildfire": 0,
   "drought": 8,
-  "pm25": 8,
+  "pm25": 9,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -412,6 +412,31 @@
      13.69,
      100.879,
      13.794
+    ]
+   }
+  },
+  {
+   "title": "UPDATE :​ กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ วันนี้ (14 พฤศจิกายน) ศูนย์ข้อมูลคุณภาพอากาศกรุงเทพมหานคร รายงานสถานการณ์ฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน (PM2.5) ในพื้นที่กรุงเทพมหานคร ประจำช่วงเช้าเวลา 05.00",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi-wZBVV95cUxNRGV5RUtMMHB5MTNGUElrNFlNQXJJNE40TzZLdVRFcEZpR1p4UjcyTFJkdUp4LTlKR0Vsekd5T3NwbTFnZk5HZkVLdFFaTHRCU1UxU2xQVVFLX2l3TVBsT2pmV2w3ZlNRZk4zZE96UEs3akNveDdieU9uWUFsU3kwSm1IQUU4WnVrdVhlbWVCZ1BReWF4NDBHVnNheDFQQjRNTlBHUnJxbVZMcVJRSG8zWDZIdWFUcmJaNU9MZ2hPdUN4TWJxWjlUdHBuanBJQ0lxNzVYUTFBcDhiYVc1VWt6dWJaczVNN0o2a25GZGtMaEpsbjlEd0VJUzYzdTd4dFhMV2EwSlNYYjAxLVF2X1g3UUVNQVFBODlMSnltbVFmZWZzaV9tNXlxcnZPRHJJVU1qTVBPOEI1SzAyejlRUGRHdGl1WEhWN0JqNW1JMkxscndVQTdGZDBiNHlEb0EtdTV0T054SzJkSGtXcEdlRDd0NVZHeXFweHZPSW13YXRtMURpZlhIRzgzWUtlMkNJNDZJS0R0VklvaXZYbFFsOVh0TkRCR25NaUdGS3BJdjd6T3h2TExPU05zWWs1THAyMWx5YmZLUzFLbFU2WFV1OGk2VTZpUno4N3lvRXJPQ2pmQnR3Y2Q0ZHRyQnJrdmRNQTRnaDY0Qzk1OVlfWmI2ZE9CN19MR2xYbmUtdjVQN2I2b1NjUjJ0bUdIbmtGaHJ0eXczdmFpMjhoZWhHM3h1OGtPSmNCc195SWxSSU81M19tWnNzandtOWJsRTBUT1JWS3M1MVN5SUE5WXVYTFVWaTl4alI4SmtJMDJaZEwwVUZ1MWo3Ym1mZjMtQVU3R2duWHRTS1oxYVlkSGI5dnVZczFiWmY0c0p6ZUhXS0sxQzNxblhCTlVRTVdMNEYySXhEc2d3M2tnX3oxR18tTUp4VV9nc3JIRy1pUU1xVHdPNHc3VGlVV1JEZVFab2ZYOHFhTGFlMkVUYm1abmtsTTRKNmxGM004N3FOeHJ3bzY3akU4RUZmUkk2S1ZfVU5UeG5wdFd1Q1AwRy1ObDBvaWNhSmJrQ0xMMTlvOGJuMG80Si1EOTBOWEIyQTZMcHJSQjhKMnY4cFh0UlVRM2pGc0otdU5fV3NkYThfaHVXZTBDVW83cmprRGJXb2VtUXR0ek1EbWxtakgzSVZPTWpzUG8?oc=5",
+   "time": "2026-11-14T02:35:35Z",
+   "location": null,
+   "id": "50f70c5f329c9d6b",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
     ]
    }
   },
