@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T05:42:16Z",
+ "updated_at": "2026-11-14T05:58:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 50,
+  "flood": 49,
   "flash_flood": 12,
   "storm": 21,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
   "drought": 8,
-  "pm25": 8,
+  "pm25": 10,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -366,6 +366,34 @@
    "id": "a7700dea3bbe558b"
   },
   {
+   "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Rkltelc4U0lLVThOallvN1V4U0NySzJTLVN2WlhJa2ZESEhfTEx3MEtyMEltS29BODNYdlZDNUY0QjVSb2RpTlh5UlhXQlVLd0Z4ZEdBcXpTUQ?oc=5",
+   "time": "2026-11-14T05:52:16Z",
+   "location": null,
+   "id": "4765f5eaf5f21bd0"
+  },
+  {
+   "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlEzanV3OTFNQzQ3NEFlNG1OLWZaSS1yVDI5dzRJdndKSE5SRHlCS1lUb0NTS1hPc1pXQ2JTRmtOT21PbWdtVVhjTWItNGlUTEFlNmdKenhEVkRmMDVaR0VQWFZfbDFOYzVoODBQSnlreHZtR2JXVzQwMkl0S05Kejl6YlJHanJP?oc=5",
+   "time": "2026-11-14T03:29:37Z",
+   "location": null,
+   "id": "da519d64c98691c4"
+  },
+  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -400,7 +428,7 @@
    "official": false,
    "source": "www.thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bkNwZXBfbEtZMkVFTi1zQktheENuS3hKeGtNWGkzNEZYRUdHSFpCSFIydTktSzlHX2NpbTFoUGctZ292VHZ2ZTluV0VkU3pFNVRHblBmd3BqaHU4N3hFcGs4VQ?oc=5",
-   "time": "2026-11-14T02:51:44Z",
+   "time": "2026-11-14T02:48:54Z",
    "location": null,
    "id": "a3febde7e4db1fa0",
    "area": {
@@ -412,6 +440,31 @@
      13.69,
      100.879,
      13.794
+    ]
+   }
+  },
+  {
+   "title": "UPDATE :​ กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ วันนี้ (14 พฤศจิกายน) ศูนย์ข้อมูลคุณภาพอากาศกรุงเทพมหานคร รายงานสถานการณ์ฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน (PM2.5) ในพื้นที่กรุงเทพมหานคร ประจำช่วงเช้าเวลา 05.00",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi-wZBVV95cUxNRGV5RUtMMHB5MTNGUElrNFlNQXJJNE40TzZLdVRFcEZpR1p4UjcyTFJkdUp4LTlKR0Vsekd5T3NwbTFnZk5HZkVLdFFaTHRCU1UxU2xQVVFLX2l3TVBsT2pmV2w3ZlNRZk4zZE96UEs3akNveDdieU9uWUFsU3kwSm1IQUU4WnVrdVhlbWVCZ1BReWF4NDBHVnNheDFQQjRNTlBHUnJxbVZMcVJRSG8zWDZIdWFUcmJaNU9MZ2hPdUN4TWJxWjlUdHBuanBJQ0lxNzVYUTFBcDhiYVc1VWt6dWJaczVNN0o2a25GZGtMaEpsbjlEd0VJUzYzdTd4dFhMV2EwSlNYYjAxLVF2X1g3UUVNQVFBODlMSnltbVFmZWZzaV9tNXlxcnZPRHJJVU1qTVBPOEI1SzAyejlRUGRHdGl1WEhWN0JqNW1JMkxscndVQTdGZDBiNHlEb0EtdTV0T054SzJkSGtXcEdlRDd0NVZHeXFweHZPSW13YXRtMURpZlhIRzgzWUtlMkNJNDZJS0R0VklvaXZYbFFsOVh0TkRCR25NaUdGS3BJdjd6T3h2TExPU05zWWs1THAyMWx5YmZLUzFLbFU2WFV1OGk2VTZpUno4N3lvRXJPQ2pmQnR3Y2Q0ZHRyQnJrdmRNQTRnaDY0Qzk1OVlfWmI2ZE9CN19MR2xYbmUtdjVQN2I2b1NjUjJ0bUdIbmtGaHJ0eXczdmFpMjhoZWhHM3h1OGtPSmNCc195SWxSSU81M19tWnNzandtOWJsRTBUT1JWS3M1MVN5SUE5WXVYTFVWaTl4alI4SmtJMDJaZEwwVUZ1MWo3Ym1mZjMtQVU3R2duWHRTS1oxYVlkSGI5dnVZczFiWmY0c0p6ZUhXS0sxQzNxblhCTlVRTVdMNEYySXhEc2d3M2tnX3oxR18tTUp4VV9nc3JIRy1pUU1xVHdPNHc3VGlVV1JEZVFab2ZYOHFhTGFlMkVUYm1abmtsTTRKNmxGM004N3FOeHJ3bzY3akU4RUZmUkk2S1ZfVU5UeG5wdFd1Q1AwRy1ObDBvaWNhSmJrQ0xMMTlvOGJuMG80Si1EOTBOWEIyQTZMcHJSQjhKMnY4cFh0UlVRM2pGc0otdU5fV3NkYThfaHVXZTBDVW83cmprRGJXb2VtUXR0ek1EbWxtakgzSVZPTWpzUG8?oc=5",
+   "time": "2026-11-14T02:35:35Z",
+   "location": null,
+   "id": "50f70c5f329c9d6b",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
     ]
    }
   },
@@ -681,20 +734,6 @@
    },
    "incident_id": "fr_news_07bd0e1314740e229eb0",
    "id": "07bd0e1314740e22"
-  },
-  {
-   "title": "ทหารและตำรวจในจังหวัดกวางงายร่วมมือกันกำจัดโคลนและเศษซากจากโรงเรียนหลังเกิดดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1oyZm9YQ3VvSlJ3ZFN2b29GOEVZRFdCc2U4MXlMQ2JRYkJEUVZucm5naG80Wk1NRWFqblNKZXBLbENVamxTcG1CSjFEUkd3YjE0RDE2c3lITUt2NE55VUphdlJNenhHNmtTZWlNcUZLLXNXWXVYdzZBSV9wTEFlRzhiMmdEMWlUODdDQUwyWV9PT2xiS1lsVFFuOUtqQ3Rk?oc=5",
-   "time": "2026-11-13T13:40:57Z",
-   "location": null,
-   "id": "83b3d420bf3d61bc"
   },
   {
    "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
@@ -1007,20 +1046,6 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
-   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
-   "time": "2026-11-13T09:37:04Z",
-   "location": null,
-   "id": "634a912daa31f0a0"
-  },
-  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -1075,6 +1100,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -2374,21 +2413,6 @@
    },
    "incident_id": "fr_news_23099d42b46a479f4abd",
    "id": "23099d42b46a479f"
-  },
-  {
-   "title": "อนุทิน สั่งอบจ.-ผู้ว่าฯ ทำงานหัวชนหัว ไร้เส้นแบ่ง ยันน้ำมันลดให้แล้ว 10 บาท",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/politics/news_10469542",
-   "time": "2026-11-12T05:53:26Z",
-   "location": null,
-   "incident_id": "fr_rss_9969b1493ea869fe7029",
-   "id": "9969b1493ea869fe"
   }
  ]
 }
