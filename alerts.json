@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T00:27:54Z",
+ "updated_at": "2026-11-14T00:49:42Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,12 +17,12 @@
  ],
  "counts": {
   "flood": 56,
-  "flash_flood": 15,
-  "storm": 21,
+  "flash_flood": 14,
+  "storm": 20,
   "landslide": 8,
-  "earthquake": 12,
+  "earthquake": 4,
   "wildfire": 1,
-  "drought": 9,
+  "drought": 7,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -56,20 +56,6 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
-  },
-  {
-   "title": "กรมอุตุประกาศแล้ว! สภาพอากาศวันนี้ 14 พ.ย. 69 ระวังฝนตกหนัก น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "News.in.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VT2JaOWtZQ1RWR1lTT3I5eDZ5bWE5NnB6SGFJN01SbWZLUzFXbEtLUGVZdUNWbUNDckcyOVFMTkxybktPTnN1NzRoRm81QnRwQ0xSMA?oc=5",
-   "time": "2026-11-13T23:20:12Z",
-   "location": null,
-   "id": "8388ed1e3e9b135c"
   },
   {
    "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
@@ -374,26 +360,6 @@
    "id": "6c29d5c97e823bf0"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17432",
-   "time": "2026-11-13T20:27:14Z",
-   "magnitude": 2.2,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.063,
-    "lng": 97.952,
-    "precision": "epicentre"
-   },
-   "id": "ebdbfe3c2534d7c4"
-  },
-  {
    "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
    "summary": "",
    "category": "news",
@@ -406,26 +372,6 @@
    "time": "2026-11-13T17:35:23Z",
    "location": null,
    "id": "75cacbf41fa94cd8"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17431",
-   "time": "2026-11-13T17:17:04Z",
-   "magnitude": 2.4,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.004,
-    "lng": 97.856,
-    "precision": "epicentre"
-   },
-   "id": "4473bfee4f3f555d"
   },
   {
    "title": "เตือน 12-13 พ.ย. ภาคใต้ฝนตกหนักถึงหนักมาก เช็กจังหวัดที่ได้รับผลกระทบ",
@@ -508,26 +454,6 @@
    "id": "94fdbbfabcc9283b"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 182 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17430",
-   "time": "2026-11-13T12:48:08Z",
-   "magnitude": 3.2,
-   "location": {
-    "name": "พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
-    "lat": 21.884,
-    "lng": 99.06,
-    "precision": "epicentre"
-   },
-   "id": "dc5a8d7dcacf5429"
-  },
-  {
    "title": "UPDATE: กรมชลประทาน เร่งระบายน้ำเมืองคอน รับมือฝนหนัก ลดเสี่ยงน้ำท่วมสนามบิน–เขตเมือง วันนี้ (13 พ.ย. 69) นายวิทยา แก้วมี อธิบดีกรมชลประทาน ติดตามการบริหารจัดการน้ำในพื้นที่จังหวัดนครศรีธรรมราชอย่างใกล้ชิด โดยเฉพาะบริเวณสนามบินนครศรีธรรมราชและเขตเทศบาลนครนคร",
    "summary": "",
    "category": "news",
@@ -591,26 +517,6 @@
    "time": "2026-11-13T12:24:43Z",
    "location": null,
    "id": "23dd90340ae1447e"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 73 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17429",
-   "time": "2026-11-13T11:15:09Z",
-   "magnitude": 1.5,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.107,
-    "lng": 97.936,
-    "precision": "epicentre"
-   },
-   "id": "5fd381ffee412675"
   },
   {
    "title": "ฝนตกน้ำหลากท่วมหลายอำเภอ เร่งช่วยชาวบ้าน จ.นครศรีธรรมราช",
@@ -782,26 +688,6 @@
    "time": "2026-11-13T10:03:00Z",
    "location": null,
    "id": "3c1c67e686fcc83e"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
-   "summary": "",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17427",
-   "time": "2026-11-13T09:43:29Z",
-   "magnitude": 1.9,
-   "location": {
-    "name": "ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
-    "lat": 19.673,
-    "lng": 99.006,
-    "precision": "epicentre"
-   },
-   "id": "1ebeccd846cf2cb8"
   },
   {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
@@ -1060,26 +946,6 @@
    },
    "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
    "id": "aa8fe6f7ed37628c"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 3.7 ประเทศเวียดนาม (Vietnam)",
-   "summary": "ทางทิศตะวันออกเฉียงใต้ของ อ. โขงเจียม จ.อุบลราชธานี ประมาณ 258 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17426",
-   "time": "2026-11-13T06:25:00Z",
-   "magnitude": 3.7,
-   "location": {
-    "name": "ประเทศเวียดนาม (Vietnam)",
-    "lat": 14.839,
-    "lng": 107.849,
-    "precision": "epicentre"
-   },
-   "id": "882e0b33eb030dc7"
   },
   {
    "title": "กทม. มีฝนบางพื้นที่ หลัง กรมอุตุฯ แจ้ง ลมหนาวจะห่างกันสักพัก ช่วงนี้ ฝนกลับมากวนใจ ไทยรอรับอากาศเย็นระลอกใหม่ 19 พ.ย. 69 13 พ.ย.69 ศูนย์ป้องกันน้ำท่วม กรุงเทพมหานคร รายงาน เวลา 13.00 น. พื้นที่ กทม. ฝ",
@@ -1574,26 +1440,6 @@
    }
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17425",
-   "time": "2026-11-12T21:00:02Z",
-   "magnitude": 2.0,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.01,
-    "lng": 97.311,
-    "precision": "epicentre"
-   },
-   "id": "9dce1f6a447d73ef"
-  },
-  {
    "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
    "summary": "",
    "category": "news",
@@ -1606,20 +1452,6 @@
    "time": "2026-11-12T17:19:22Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
-  },
-  {
-   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
-   "time": "2026-11-12T16:35:37Z",
-   "location": null,
-   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
@@ -2124,26 +1956,6 @@
    "id": "832de7e02e8eab0f"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.6 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 108 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17423",
-   "time": "2026-11-12T07:55:41Z",
-   "magnitude": 2.6,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.366,
-    "lng": 96.941,
-    "precision": "epicentre"
-   },
-   "id": "8bee782c8bc89a67"
-  },
-  {
    "title": "สทนช. เตือนภาคใต้รับมือฝนตกหนัก 2 ระลอก 8 จังหวัดเสี่ยงน้ำป่า–ดินถล่ม",
    "summary": "",
    "category": "news",
@@ -2512,46 +2324,6 @@
    },
    "incident_id": "fr_rss_80099c30d1b8336b6a8e",
    "id": "80099c30d1b8336b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 12 พ.ย. อากาศเย็นในตอนเช้า ภาคใต้ฝนตกหนัก ทะเลคลื่นสูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MS3Rnc3otXzFEUVc1Y1Mya3FPWW1UOFNVNUlQU3l2VURuSVRteGRXRnVYSFQ1dHdTbUJnT0o2Wmhud2w5UXZTUFdHRDUxdnF1ejBWVVd2Y1ZVYWhNSTJySHJLQ01tc0RPOHJySkhTek92R2Q0Q19sbFNsTWM?oc=5",
-   "time": "2026-11-12T00:46:01Z",
-   "location": null,
-   "id": "503005866b09603c"
-  },
-  {
-   "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "drought",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TVWlOQ2RsQzdnXzdCWTFoVThlaXZ3RzVGVk1qelhHOHVSUUpscWdUdUhSQXlEdWU2OWgyWEIwTTR0ak5PaEJYdGdxMm8zSnh0emJDWFhGTjJoVkRrcmloMFQtSndLZ0k1aVcyVkRB?oc=5",
-   "time": "2026-11-12T00:42:00Z",
-   "location": null,
-   "area": {
-    "code": "TH31",
-    "level": "province",
-    "name": "จ.บุรีรัมย์",
-    "bbox": [
-     102.435,
-     14.13,
-     103.477,
-     15.796
-    ]
-   },
-   "incident_id": "fr_news_384753fbb2a17c666ee4",
-   "id": "384753fbb2a17c66"
   }
  ]
 }
