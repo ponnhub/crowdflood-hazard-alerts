@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T12:12:13Z",
+ "updated_at": "2026-11-14T12:29:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,15 +18,15 @@
  "counts": {
   "flood": 41,
   "flash_flood": 9,
-  "storm": 22,
+  "storm": 21,
   "landslide": 11,
-  "earthquake": 13,
-  "wildfire": 1,
+  "earthquake": 14,
+  "wildfire": 2,
   "drought": 7,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 1
+  "other": 3
  },
  "items": [
   {
@@ -285,34 +285,6 @@
    "id": "46d20dbd1132f1ce"
   },
   {
-   "title": "กรมปภ.เตือนภัยน้ำท่วมภาคใต้ ฝนตกหนักหลายจังหวัดสุราษฎร์ฯ ชุมพร นครศรีฯ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncktuSU5kN1ZXNVpVY2tJMGtyU3BSR1JseExHX0NIWUZvNzBmcEE0N1NYS3F4bTQwNkxDVlpvTzNrYlptVnd5aTBMdXltcjIxQmJSNkduU1dRMzNNZ2F0dVlodFVzSUNtaEJCWTJB?oc=5",
-   "time": "2026-11-12T12:19:00Z",
-   "location": null,
-   "id": "2ac2a2a7a3501881"
-  },
-  {
-   "title": "กรมอุตุ เตือนฉบับที่ 9 ภาคใต้ตกหนัก ระวังฝนสะสม ท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUGd4NXNjdjhhU213dnF3OEVFMFA0TnhEd01uVFhVWmMyNXZnZmhEMy1WTTB0bEZUQldvRzloM08zX29xNjdSVlJ6WWxSNDV3cnpTendWaTU?oc=5",
-   "time": "2026-11-12T12:17:33Z",
-   "location": null,
-   "id": "58717083571cf337"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.5 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
    "category": "official",
@@ -554,6 +526,46 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "นครศรีธรรมราชลุ้นฝนตกหนัก น้ำป่าหลากน่ากลัว",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZWh3ZEpuSDNvX2cySFAzMm5BcnJvNlkwRDFqY0hoaXlFdE9zMWsyWGhHd3NMMFMwemlDbVNGUk41U01SX2tZM1JEUVNaNzhPTjVfdHJ6MnNqYlRzeHJPSTJhcDFjdWF0aDU1MjNQb3VtSXozR19qX3ptZmtEQ1BmcGc2alhFVWhSWkNJLXgzVlgycGhLM21acXd3WXNKX0JpaGtGTjI3cUZXd0hWbkk0RGllRHVlMWlfSFJ6UHFpNU5UZ19raUhVUVZYbkZCb2d4UDNxTWFpYnVWWmxMMGNrQW9OSEVKblFIeFBjd0t1UENReUQ3SFZTc3Vhc1RnYW1OcGtUb25XeDMzUXg5bmQ3RU05cVVRa0RMVFlwNXJCRWlhekNFNl9YZzlCQ3JHUQ?oc=5",
+   "time": "2026-11-14T06:16:00Z",
+   "location": null,
+   "area": {
+    "code": "TH80",
+    "level": "province",
+    "name": "จ.นครศรีธรรมราช",
+    "bbox": [
+     99.234,
+     7.838,
+     100.337,
+     9.323
+    ]
+   },
+   "incident_id": "fr_news_6c5a65374171fc591550",
+   "id": "6c5a65374171fc59"
+  },
+  {
+   "title": "หญิงเล่าสุดช้ำ ตัดสินใจหย่าขาด หลังเกิดแผ่นดินไหว สามีหนีเอาตัวรอด คนเดียว | Khaosod",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMzItSWtESTNLcWkyTGlOV0ZTQlp6dDlCMkh2Wm5jRjZzQk4zclRTbTFrLUVybHBiYmp5aGY4bjBMTUJFc21wejR6aDlJMDN0VXpRdlp3?oc=5",
+   "time": "2026-11-14T06:14:57Z",
+   "location": null,
+   "id": "23e422a4a8c090d7"
   },
   {
    "title": "ลาวไค: เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 4D ทับครูหญิงที่กำลังขี่มอเตอร์ไซค์",
@@ -1121,6 +1133,20 @@
    "id": "7b2c1985526d9fbb"
   },
   {
+   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
+   "time": "2026-11-13T11:22:00Z",
+   "location": null,
+   "id": "6ed64063d51b313e"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 73 กม.",
    "category": "official",
@@ -1165,6 +1191,31 @@
    },
    "incident_id": "fr_news_ff9ae6bd377c692b9191",
    "id": "ff9ae6bd377c692b"
+  },
+  {
+   "title": "ผู้ว่าฯ สงขลาสั่งประเมินเขาแดงด่วน หินถล่มทับร้านของชำ เร่งสำรวจรอบภูเขา หากเสี่ยงพร้อมอพยพชาวบ้าน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MMzJZN1RXRERZRUdBZ3NFcFFabVJpeFI2bUtQNUVvV1UtR3lvSGg3NzJmWXI3N2xkWXpWVWtLeklFVFlIVDl5S05TSEFrQ2c?oc=5",
+   "time": "2026-11-13T10:55:44Z",
+   "location": null,
+   "id": "0266f329dea013bc",
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   }
   },
   {
    "title": "ชุมพรอ่วม 5 อำเภอ ฝนถล่มต่อเนื่อง น้ำท่วมหลายจุด เขตเทศบาลเมืองน้ำขังสูง 20-40 ซม.",
@@ -1217,6 +1268,20 @@
    },
    "incident_id": "fr_news_58dee563db7370859d2a",
    "id": "58dee563db737085"
+  },
+  {
+   "title": "กางมาตรการสกัด ซูเปอร์เอลนีโญ-PM2.5 ชู 'กล้อง-โดรนไทย' เฝ้าระวังไฟป่าเรียลไทม์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "wildfire",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91ZkViV3U0X3czV1hxZy05RDM5dEotNFBaWkVtSkM5MWRUekFwQXBfOFFHQzd5QThLdk95emc2T3h3MXBJWVhTekFTQUxOOVJDX2RGM0MwVEJBanpO?oc=5",
+   "time": "2026-11-13T10:25:00Z",
+   "location": null,
+   "id": "9e8dd7b4232c69dd"
   },
   {
    "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
