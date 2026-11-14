@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T18:56:35Z",
+ "updated_at": "2026-11-14T19:13:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -134,6 +134,20 @@
    "id": "e9a5a74c6159ab01"
   },
   {
+   "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbUdtbTNLWEU3cDNQbXprTmNTdjRiMFFDTVVCUUhQTV9KMGxOcEtUOFI1dnNlOGw0UndzcWd4WnFCcHlYNWQzZDIyYXdpWWxtT1k4VA?oc=5",
+   "time": "2026-11-13T12:15:00Z",
+   "location": null,
+   "id": "0f2b48a70aeae5b2"
+  },
+  {
    "title": "KEY MESSAGES: ฤดูหนาวที่มาพร้อม ‘ฤดูฝุ่น’ โรคทางเดินหายใจและ PM2.5 ความเสี่ยงที่ไม่ควรมองข้าม กรมอุตุนิยมวิทยาออกประกาศอย่างเป็นทางการว่า ประเทศไทยเริ่มเข้าสู่ฤดูหนาวในบางพื้นที่ตั้งแต่วันที่ 9 พฤศจิกายน 2569 เป็นต้นไป และคาดว่าจะสิ้นสุดประมาณปลายเดือนกุมภาพันธ์ 2",
    "summary": "",
    "category": "news",
@@ -199,20 +213,6 @@
      7.936
     ]
    }
-  },
-  {
-   "title": "ประกาศเตือนฉบับสุดท้าย 15 จังหวัดฝนตกหนัก – ทั่วไทยร้อนขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "pptvhd36",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRuUVBHLTVvVHVpNUM3WmpaWWM4NnJoOEpqeG1zSVl6NVlNMlBSQkMxUmRsVmxZZHRuU1hHVERfc3NWUWJDVUNQZXZ2b3V3WXFrbUxQMXNfYU9vMzJOWlVuYmFfZ1l2UUo3a3B5RlQ2bzRiZVh5V1pDR3pleWZOZ2Z1emlzUVFCYXc?oc=5",
-   "time": "2026-11-13T00:45:00Z",
-   "location": null,
-   "id": "46e323a175d11b99"
   },
   {
    "title": "กรมอุตุนิยมวิทยา เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
@@ -852,6 +852,20 @@
    "id": "8ae2bd01300fa6c4"
   },
   {
+   "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzF6M1VKczJkRlEyVl9BWmVabEZSRDhlcl9RNjJWRDlETzFySTNoaXE0VHlLRGE2c2Z0d1hjbjVFbk9PeFhaSnc5S1N5bUJBeUlwLWJMcnk4ZTQzdUpiUkpmWkFSUEZJUDVqckllVk5jczA3b3N5c3RfQ1NrZUFkeGNBZF9TNFRUWjRielp2YTNsUQ?oc=5",
+   "time": "2026-11-14T05:15:27Z",
+   "location": null,
+   "id": "784f3b0f70fc8c88"
+  },
+  {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
    "summary": "",
    "category": "news",
@@ -878,20 +892,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -1142,20 +1142,6 @@
    "time": "2026-11-13T23:56:00Z",
    "location": null,
    "id": "7e43ac11cd310847"
-  },
-  {
-   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
-   "time": "2026-11-13T23:30:02Z",
-   "location": null,
-   "id": "93acca4fe0bb2af1"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -1879,6 +1865,20 @@
    },
    "incident_id": "fr_news_f07feb07a1990212b3f9",
    "id": "f07feb07a1990212"
+  },
+  {
+   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
+   "time": "2026-11-13T06:14:54Z",
+   "location": null,
+   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
