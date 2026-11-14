@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T21:51:02Z",
+ "updated_at": "2026-11-14T22:28:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 42,
+  "flood": 41,
   "flash_flood": 10,
   "storm": 20,
   "landslide": 11,
@@ -2354,31 +2354,6 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
   }
  ]
 }
