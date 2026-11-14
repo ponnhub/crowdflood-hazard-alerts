@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T10:30:20Z",
+ "updated_at": "2026-11-14T10:43:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 13,
   "wildfire": 1,
   "drought": 5,
-  "pm25": 9,
+  "pm25": 11,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -448,6 +448,20 @@
    "id": "d9b6cb84ed4c2550"
   },
   {
+   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
+   "time": "2026-11-14T08:24:37Z",
+   "location": null,
+   "id": "99bddd5dd9dd2b90"
+  },
+  {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
@@ -701,6 +715,31 @@
      13.69,
      100.879,
      13.794
+    ]
+   }
+  },
+  {
+   "title": "PM 2.5 เริ่มกลับมาแล้ว! กทม. พบค่าฝุ่นละอองสูงสุด 12 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ 1 จุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wT2FweUNqZWxlam9iTWxULTVYZG94MjNreXN0T1hVTlFkeGVkOGEyQ0wwUXhQN0lfVnRhWGhfVC1DVURjSFlMZFJqTTBtdmQtRFdpWU5sVTF5QQ?oc=5",
+   "time": "2026-11-14T01:53:00Z",
+   "location": null,
+   "id": "0101a203a5e00f03",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
     ]
    }
   },
