@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T09:42:54Z",
+ "updated_at": "2026-11-14T10:02:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 46,
+  "flood": 44,
   "flash_flood": 9,
   "storm": 23,
   "landslide": 10,
@@ -535,6 +535,20 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
+   "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzF6M1VKczJkRlEyVl9BWmVabEZSRDhlcl9RNjJWRDlETzFySTNoaXE0VHlLRGE2c2Z0d1hjbjVFbk9PeFhaSnc5S1N5bUJBeUlwLWJMcnk4ZTQzdUpiUkpmWkFSUEZJUDVqckllVk5jczA3b3N5c3RfQ1NrZUFkeGNBZF9TNFRUWjRielp2YTNsUQ?oc=5",
+   "time": "2026-11-14T05:15:27Z",
+   "location": null,
+   "id": "784f3b0f70fc8c88"
+  },
+  {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
    "summary": "",
    "category": "news",
@@ -575,20 +589,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -2280,58 +2280,6 @@
    },
    "incident_id": "fr_rss_2998aa7298d22fe12be6",
    "id": "2998aa7298d22fe1"
-  },
-  {
-   "title": "เช็กอากาศ! ใต้รับมือฝนถล่มหนัก เหนือ-อีสาน-กทม. อุณหภูมิเริ่มขยับสูงขึ้น",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "komchadluek",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zcVdXajA1U1ZxYmUwZ2VwU0dwTzBMMjJxS3RCcVM0b2NvQkgtc3duRkg5MUNZcm5TQjdQOWF5QUliLWpPeEZrMlVBRElDWEo5WTlKc1VrTnNNTjQ?oc=5",
-   "time": "2026-11-12T09:59:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_3954e4dffd93871f460a",
-   "id": "3954e4dffd93871f"
-  },
-  {
-   "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yc0V0VHJJWDZOZUt3dUZwUmZCNnRSZHBmSGZ2eTFCWF9lSFFFU3R3cHFsOW1uOHpOaXg5eGRhbFFqd1N0TVJaNld3aHVWN3NXa0l0Snl4WWNTWUUyVWhveXNqdXVwZw?oc=5",
-   "time": "2026-11-12T09:43:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_ea169b5e970372b9203a",
-   "id": "ea169b5e970372b9"
   }
  ]
 }
