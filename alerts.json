@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T14:35:09Z",
+ "updated_at": "2026-11-14T14:48:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 41,
   "flash_flood": 10,
-  "storm": 21,
+  "storm": 20,
   "landslide": 11,
   "earthquake": 13,
   "wildfire": 3,
@@ -399,6 +399,20 @@
    },
    "incident_id": "fr_news_d842dc0a19219fd75335",
    "id": "d842dc0a19219fd7"
+  },
+  {
+   "title": "จังหวัดลำดงเตือนถึงความเสี่ยงต่ออุทกภัยฉับพลันและดินถล่มเนื่องจากฝนตกหนักต่อเนื่อง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzVoakk5eDNXTlZXZGJjTUxCLWtQcFVOVlQ2ZkpJTDRnSnVkcDNsd1RDQjBNRVRiMzZJSTZockRmdk9kMmVReFRITEJQSHRFVjRrT0l4VkEtMnBVaWNGYXIzNmVpZFlodmYyaW5RS3dVNXB6N3FiVWZfYjFrN3c3UUFETGpVRllIQ3VFem1DdHREVkFjb21qSGlR?oc=5",
+   "time": "2026-11-14T12:52:00Z",
+   "location": null,
+   "id": "a2b045bd48925f39"
   },
   {
    "title": "“สกลธี” ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม จ่อพาชาวบ้านฟ้องศาลปกครองสิ้นเดือนนี้",
@@ -786,6 +800,20 @@
    "id": "da519d64c98691c4"
   },
   {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
+  },
+  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -1054,20 +1082,6 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
-  },
-  {
-   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
-   "time": "2026-11-13T17:35:23Z",
-   "location": null,
-   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -2234,20 +2248,6 @@
    "id": "dd0248dcf9fada9f"
   },
   {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
-  },
-  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -2342,32 +2342,6 @@
    "location": null,
    "incident_id": "fr_news_9c7a80d807b682162f7e",
    "id": "9c7a80d807b68216"
-  },
-  {
-   "title": "เทศบาลนครสงขลา - Songkhla City 💦 เดินหน้าเต็มกำลัง! สถานีสูบน้ำเทศบาลนครสงขลา เร่งระบายน้ำ รับมือฝนตกต่อเนื่อง 🌧️พร้อมจัดเจ้าหน้าที่ปฏิบัติงานและเฝ้าระวังสถานการณ์น้ำอย่างใกล้ชิด เพื่อเร่งระบายน้ำ ลดค",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxNc2FLOUFaMVhNR0pJUlVSa1FVZjlra1BpUXZCeElYVGtGSFdsdjMtd19VUjF5bS1QYUthTVpmQVRicFR2N0k4dndDZ1pXVF9BZ3hCcm5pcWZjX2R0TXBKZXpsTjJDb3c1MGp3dkpiaU1yRjJUUTBfMUN1NGJWeklrSy1oWHJ6dklvVUhJcFdJRElJWHVSVVgyTG1NY0wzelNTRDBBMXVhZTh2bnVRMDh2LUJkUHg3OUFFdGtCSGIxSzJwMW5yWVhnYmFjZWxKNndkY1NlNnhWZUdvSDdPSmdEQmJFUXBJLU1VUWFSR0FzelBYSGloTTBKbFZVRTJBWEFYRzJGQ1R0ckF2SF9UV1hsNWtHU2F3N2EzMjhuYnhiQVFBN0tyLWJlSVQ2dWZfUkNoWDR5YmFvQWpJdHZhd0Y2MDMtUDJnMF94dkx6OUJJa2RfSWFnNHByYzJ5emVMbDY2b1JrS0dBZkotX3NMdjkzVDhiUnZEby0wQ2RfU3pweXZyQUU5RGkySWJxSjRKVXJueS10TW5WVTFFaHpqc2hoQUpGUDl5R25hS3c3Y0tNTURvS1dFT0JUaW9mNl8xWXlQQWt0UG1uRmpFbkNuR2lUdkd1TGRvS0JPWDJaSXVQbzFjT0FYLTRkMVpYMFF1YkZJZVF5aG9sWWRNRGs2WVN2cUV3MHoxaGs3TWRnTElhNUJvd3BrOUJCWTJvb2hLVElHN2h1MXJXQUk0NHBYVkR4a3h1aFlxTm9oemtLSnJoRmVESUtZNllKaUZndjhjRHB0YmRaVDA3Z251UnZaczA5MUFLbUYxdWxOZDIzY2tXSjdXSkVtZmt3dVBzTWc3R0xLd1ZXWTVjY2M0Tm02RHdmOEpIcndYNUdpTHBjaEpSNmtScVZpM3NLamNHMlZ3VkJhLU5NT2dCdmtDQUJyVU9KOTIxX0M0aHhWcHFhcm5DaGxMSXY5ZUhzX3BLWjV0NzBMU2Q0SWJoWkpKVGxFWFo2S051NkJaX2tGUFhrb0t4T1FZMTVFZ2VLWFhWOV95dnRCX1NhOEVLWHQyMm5fZmw3QUJlbHZJdVpiQklpZzlsNTBsTDZaYWIxMHZyYmlIUHdHcHQtcEFTY0d1bG5NcjJFVXhIMGN0N3VORHJ2UjFyVUE4dS1aNC1vTVZNczkwU1c2bG4zeERUaUk3YjRJNFE?oc=5",
-   "time": "2026-11-12T14:35:45Z",
-   "location": null,
-   "area": {
-    "code": "TH90",
-    "level": "province",
-    "name": "จ.สงขลา",
-    "bbox": [
-     100.057,
-     6.296,
-     101.104,
-     7.936
-    ]
-   },
-   "incident_id": "fr_news_de1d1140899b1a7b59d7",
-   "id": "de1d1140899b1a7b"
   }
  ]
 }
