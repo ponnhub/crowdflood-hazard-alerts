@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T01:00:48Z",
+ "updated_at": "2026-11-14T01:17:09Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 56,
+  "flood": 55,
   "flash_flood": 14,
-  "storm": 20,
+  "storm": 22,
   "landslide": 8,
   "earthquake": 4,
   "wildfire": 1,
@@ -346,6 +346,20 @@
    "id": "1252b155438fabbd"
   },
   {
+   "title": "สภาพอากาศวันนี้ \"เหนือ-อีสาน\" อากาศอุ่นขึ้นและมีฝนบางพื้นที่ ขณะที่ภาคใต้ฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVHpOc3lVSEVmMnNsekpPV0JhSWpvRzhSOG5abXEwU1B3ekIzZVFrbHpKd3c1b2wtS05mUjZPcUxjNm9BMndfa3lnTGlWZVRkSGlmaHRlbzc?oc=5",
+   "time": "2026-11-14T00:56:52Z",
+   "location": null,
+   "id": "959ff668b8b839ac"
+  },
+  {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
    "summary": "",
    "category": "news",
@@ -569,6 +583,20 @@
    },
    "incident_id": "fr_news_a3c297fb41379a97f356",
    "id": "a3c297fb41379a97"
+  },
+  {
+   "title": "เฝ้าระวังฝนตกหนักภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ช่อง 7",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2RkFIMEp2c2xKXzhCSzJKRmFZRDJRbUNyR0tKcEdib0hwOVQ1cVNveEdCTnlrQk8yWFVlT3VTZnpHUld5enRKZVVSVQ?oc=5",
+   "time": "2026-11-13T10:33:01Z",
+   "location": null,
+   "id": "51e42977a9476ecd"
   },
   {
    "title": "ฝนถล่มชุมพร 5 อำเภอ น้ำท่วมเทศบาลเมือง โรงพยาบาลจม 40 ซม. เร่งป้องกันน้ำทะลักห้อง CT-SCAN",
@@ -1413,31 +1441,6 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
   },
   {
    "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
