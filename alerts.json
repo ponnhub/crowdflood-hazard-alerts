@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T04:16:43Z",
+ "updated_at": "2026-11-14T04:26:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 53,
   "flash_flood": 12,
-  "storm": 23,
+  "storm": 22,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
@@ -852,20 +852,6 @@
    },
    "incident_id": "fr_news_a3c297fb41379a97f356",
    "id": "a3c297fb41379a97"
-  },
-  {
-   "title": "เฝ้าระวังฝนตกหนักภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2RkFIMEp2c2xKXzhCSzJKRmFZRDJRbUNyR0tKcEdib0hwOVQ1cVNveEdCTnlrQk8yWFVlT3VTZnpHUld5enRKZVVSVQ?oc=5",
-   "time": "2026-11-13T10:33:01Z",
-   "location": null,
-   "id": "51e42977a9476ecd"
   },
   {
    "title": "ฝนถล่มชุมพร 5 อำเภอ น้ำท่วมเทศบาลเมือง โรงพยาบาลจม 40 ซม. เร่งป้องกันน้ำทะลักห้อง CT-SCAN",
@@ -2178,6 +2164,20 @@
    "id": "ea169b5e970372b9"
   },
   {
+   "title": "จังหวัดวิญหลงเตรียมพร้อมรับมือกับภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027 อย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdzQzkzT3RkRF81cmNUZTF1cWU0ck90RGRYZVBLOG9ITjBJSmxpbW1tN1BxdFZ5ZjdEQmVQSUlORFU4Zm9zNEZ0Vjg0dVlBVGVGRTFjVlg3d2tldm8wSUJRR25SSWt3VGxKVjV4eWttbC1NRFEwM0t2empzaVdQSjNVQXQ?oc=5",
+   "time": "2026-11-12T09:34:31Z",
+   "location": null,
+   "id": "4c4d94199b3db7dc"
+  },
+  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -2391,31 +2391,18 @@
    "id": "9969b1493ea869fe"
   },
   {
-   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
-   "time": "2026-11-12T05:35:45Z",
-   "location": null,
-   "id": "bbceedf3f093e6da"
-  },
-  {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
-   "category": "flooding",
+   "category": "news",
    "hazard_type": "flash_flood",
-   "severity": "low",
+   "severity": "medium",
    "urgent": false,
    "official": false,
    "source": "ช่อง 7",
    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVjlPTTR5M1ZJMHFGOFVYQTlCRndJbW9lZjNkbW43RnNtT2hfbWF3aU9hMzhBdlBrVVF5NUF3eklrU3J1OTF4X3JKUQ?oc=5",
-   "time": "2026-11-12T04:57:39Z",
+   "time": "2026-11-12T04:58:10Z",
    "location": null,
+   "id": "a61e89fb8f5ff977",
    "area": {
     "code": "TH84",
     "level": "province",
@@ -2426,9 +2413,7 @@
      100.09,
      10.125
     ]
-   },
-   "incident_id": "fr_news_a61e89fb8f5ff9772e63",
-   "id": "a61e89fb8f5ff977"
+   }
   },
   {
    "title": "‘อั้ม พัชราภา’ ไม่ท้อทำบุญช่วยหมาจร รับใจหายเห็นภาพอาหารสัตว์ถูกทิ้งเกลื่อน ย้ำชัดใช้เงินตัวเอง ไม่ได้ขอรับบริจาค",
