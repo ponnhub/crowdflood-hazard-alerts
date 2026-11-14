@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T07:55:39Z",
+ "updated_at": "2026-11-14T08:10:36Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,13 +20,13 @@
   "flash_flood": 9,
   "storm": 21,
   "landslide": 10,
-  "earthquake": 12,
+  "earthquake": 13,
   "wildfire": 0,
   "drought": 6,
   "pm25": 10,
   "heat": 0,
   "tsunami": 0,
-  "other": 0
+  "other": 1
  },
  "items": [
   {
@@ -338,18 +338,38 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "ยกของขึ้นที่สูงด่วน! ปภ. แจ้งเตือน เกาะสมุย ฝนถล่มต่อเนื่อง-น้ำทะเลหนุนสูง น้ำท่วมฉับพลัน",
+   "title": "ปภ. แจ้งเตือน เกาะสมุย เตรียมยกของขึ้นที่สูง ฝนถล่ม-น้ำทะเลหนุน เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
    "hazard_type": "flood",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "สยามนิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZLTFDTVBpTEREVTVLSXMzUFVQbVdFU3hsal83b2JRNG5mWmU5YV85dHloSC1TQkJFRzBKdGNrSC01TGl2OFFuamlRUldtQVpxMmdJZQ?oc=5",
-   "time": "2026-11-12T08:04:44Z",
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MWNfY252eDlSd1JLVk1fXzZmeTBra0hSbXhFT3oyeDlqNDZQTkVRMTdTVHZWVHZxcXlQaXhNcVM0d2EwWWVVRFl1Wjg1VGI1M0VYVGNTU2djZw?oc=5",
+   "time": "2026-11-12T08:17:07Z",
    "location": null,
-   "id": "e2f7138fc2dd8f81"
+   "id": "565ba84221054578"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 113 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17434",
+   "time": "2026-11-14T07:47:52Z",
+   "magnitude": 2.3,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.535,
+    "lng": 98.181,
+    "precision": "epicentre"
+   },
+   "id": "f0bbe7d87183ee3d"
   },
   {
    "title": "การซ่อมแซมดินทรุดและดินถล่มหลังพายุในโดซอนมีความคืบหน้าช้ามาก",
@@ -845,6 +865,20 @@
    "id": "07bd0e1314740e22"
   },
   {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 182 กม.",
    "category": "official",
@@ -1112,6 +1146,20 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
+  },
+  {
+   "title": "ปภ. เผย ‘เอกนิติ – ภราดร’ เตรียมประชุม คณะกรรมการป้องกันภัยพิบัติภาคกลาง 17 จังหวัด | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUa1UxSS10Qjk1UTI4c2ljR2stX2ZpTXhERU9UUkI2V1FOU2o0eXNfNzJXYmJvalhiZUdnRXVCTHN1S3hpTmQtSDZGRWV1QmQzYVNpZlRn?oc=5",
+   "time": "2026-11-13T08:24:21Z",
+   "location": null,
+   "id": "83009af6207a86ed"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -1942,6 +1990,20 @@
    "id": "489471514f3a355b"
   },
   {
+   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "pptvhd36.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
+   "time": "2026-11-12T14:15:00Z",
+   "location": null,
+   "id": "ffc0dfa18e42c7c2"
+  },
+  {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
    "summary": "",
    "category": "flooding",
@@ -2188,20 +2250,6 @@
    "id": "3954e4dffd93871f"
   },
   {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
-  },
-  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -2322,20 +2370,6 @@
    "location": null,
    "incident_id": "fr_news_b4c449967069d2e46725",
    "id": "b4c449967069d2e4"
-  },
-  {
-   "title": "เตือนด่วน อ.เกาะสมุย จ.สุราษฎร์ฯ - อ.ท่าศาลา จ.นครศรีฯ ฝนตกหนัก เสี่ยงน้ำท่วม ดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdnI0UXVLVnZPbWlWYW1wRFNPY0hBUDBZaVFrVXlpZThPaWdxOThXeVJJUGlUS3VEeDBXc3cxSEpPZFpJX0hqdjRSSmh1R2l5S1V5M1VOeTJ3VUNodzNGWExRWGRHdw?oc=5",
-   "time": "2026-11-12T08:09:00Z",
-   "location": null,
-   "id": "832de7e02e8eab0f"
   }
  ]
 }
