@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T04:26:58Z",
+ "updated_at": "2026-11-14T04:48:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 53,
+  "flood": 50,
   "flash_flood": 12,
   "storm": 22,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 9,
+  "drought": 8,
   "pm25": 8,
   "heat": 1,
   "tsunami": 0,
@@ -1916,20 +1916,6 @@
    "id": "1bb00acfa52660e9"
   },
   {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
-  },
-  {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
    "summary": "",
    "category": "news",
@@ -2164,20 +2150,6 @@
    "id": "ea169b5e970372b9"
   },
   {
-   "title": "จังหวัดวิญหลงเตรียมพร้อมรับมือกับภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027 อย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdzQzkzT3RkRF81cmNUZTF1cWU0ck90RGRYZVBLOG9ITjBJSmxpbW1tN1BxdFZ5ZjdEQmVQSUlORFU4Zm9zNEZ0Vjg0dVlBVGVGRTFjVlg3d2tldm8wSUJRR25SSWt3VGxKVjV4eWttbC1NRFEwM0t2empzaVdQSjNVQXQ?oc=5",
-   "time": "2026-11-12T09:34:31Z",
-   "location": null,
-   "id": "4c4d94199b3db7dc"
-  },
-  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -2391,6 +2363,20 @@
    "id": "9969b1493ea869fe"
   },
   {
+   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
+   "time": "2026-11-12T05:35:45Z",
+   "location": null,
+   "id": "bbceedf3f093e6da"
+  },
+  {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
    "summary": "",
    "category": "news",
@@ -2434,73 +2420,6 @@
    },
    "incident_id": "fr_rss_d00040c17905263cdb07",
    "id": "d00040c17905263c"
-  },
-  {
-   "title": "'บอย–เจี๊ยบ' เติมรอยยิ้มให้น้องๆ ยกเชฟเสิร์ฟอาหารฝรั่งครั้งแรกในชีวิต พร้อมมอบทุนฟื้นฟูโรงเรียนหลังน้ำท่วม ณ โรงเรียนบ้านเตยใหญ่ จังหวัดนครนายก",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdXcwRm8zbGpDY3JmTkY3akJBaWJsd1NtWDVta0xsY0x6NzZjanJ2TnhvQXBHUVJLMDVYX1ViZGhETGhhbEZna2VWU2RhX1lsZzVoZHhTYUg4S25YcTRURkhfTk9MUE5VUHA4TjZCaFZKY1M3dHc?oc=5",
-   "time": "2026-11-12T04:45:16Z",
-   "location": null,
-   "area": {
-    "code": "TH26",
-    "level": "province",
-    "name": "จ.นครนายก",
-    "bbox": [
-     100.914,
-     13.961,
-     101.502,
-     14.512
-    ]
-   },
-   "incident_id": "fr_news_f49e8c0cae777fbaa7b0",
-   "id": "f49e8c0cae777fba"
-  },
-  {
-   "title": "สกลธี จี้รัฐช่วยเหยื่อน้ำท่วมกรุง ชี้ช่องโหว่กฎหมายซ้ำเติมคนจน เสนอ ธปท.-ยุติธรรม สั่งเบรกไฟแนนซ์ทวงหนี้",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/politics/news_10469445",
-   "time": "2026-11-12T04:39:26Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_rss_065c2750c330da3ac6aa",
-   "id": "065c2750c330da3a"
-  },
-  {
-   "title": "เช็คเลยวันนี้ ! ‘ปภ.’โอนเยียวยาน้ำท่วม 10 จว.- กทม. 21,755 ครัวเรือน รวม 136.64 ล้านบาท",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HVVZwOHhwODdfMDB1bzRpRFlQLXpMTXNJTkw5ZzYwcTBkRk15cmZJRDUwa2QyUXV6bXg2ZG14eG1sLTExWGd1TDBNeWpIbUxTSWlB?oc=5",
-   "time": "2026-11-12T04:33:00Z",
-   "location": null,
-   "incident_id": "fr_news_3cb40f5ea121bff793fd",
-   "id": "3cb40f5ea121bff7"
   }
  ]
 }
