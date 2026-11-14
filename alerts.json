@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T03:16:29Z",
+ "updated_at": "2026-11-14T03:28:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -23,7 +23,7 @@
   "earthquake": 12,
   "wildfire": 0,
   "drought": 9,
-  "pm25": 9,
+  "pm25": 8,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -118,20 +118,6 @@
    "time": "2026-11-13T17:11:26Z",
    "location": null,
    "id": "e9a5a74c6159ab01"
-  },
-  {
-   "title": "จังหวัดกวางงายออกประกาศเตือนถึงความเสี่ยงจากน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัวใน 16 พื้นที่ ในวันที่ 13 พฤศจิกายน 2569",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUMxdG5QUW1PSmc5dUhVVl9jbGt0V3ZTdG5Kdm50UkZpc0JzYnBTeWdIMGlMQVJrNjNpdzROVHF2NktsN0lhSkRRQ0JkWG9KaVA2Y3Z0VFhUckktcW1IeXdCaEp6Y1B2Z1A2MFJjRnBBRGctN1V5ZXRWYlk0bWVYTWlaWkxjSnM3bFVkQ1BDTFFQOXhYVjhVeTJ3d2FIWXI2QVZqMHY3M0VYSHRBdWFxMElnZWw0UQ?oc=5",
-   "time": "2026-11-13T13:18:48Z",
-   "location": null,
-   "id": "78c77d793b7e8978"
   },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
@@ -419,20 +405,6 @@
    }
   },
   {
-   "title": "\"รัฐบาล\" คุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมืออากาศแปรปรวน เตือนฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NLUFmSU9IS0JmajItbkVNbjhTTXZoempNWHR6LXlMZnI3M2xwdC15LUVkNFhGeElkaF92R29fZmNrWEEtRjR6bHlmeGZ3UnM?oc=5",
-   "time": "2026-11-14T02:58:00Z",
-   "location": null,
-   "id": "190d0151d65b32c9"
-  },
-  {
    "title": "ค่าฝุ่น PM 2.5 กทม. มีแนวโน้มเพิ่มขึ้น พบเกินมาตรฐาน 1 พื้นที่ \"เขตลาดกระบัง\"",
    "summary": "",
    "category": "news",
@@ -442,7 +414,7 @@
    "official": false,
    "source": "www.thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bkNwZXBfbEtZMkVFTi1zQktheENuS3hKeGtNWGkzNEZYRUdHSFpCSFIydTktSzlHX2NpbTFoUGctZ292VHZ2ZTluV0VkU3pFNVRHblBmd3BqaHU4N3hFcGs4VQ?oc=5",
-   "time": "2026-11-14T02:48:54Z",
+   "time": "2026-11-14T02:51:44Z",
    "location": null,
    "id": "a3febde7e4db1fa0",
    "area": {
@@ -1033,6 +1005,20 @@
     "precision": "epicentre"
    },
    "id": "1ebeccd846cf2cb8"
+  },
+  {
+   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
+   "time": "2026-11-13T09:37:04Z",
+   "location": null,
+   "id": "634a912daa31f0a0"
   },
   {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
@@ -2206,6 +2192,20 @@
    "id": "ea169b5e970372b9"
   },
   {
+   "title": "จังหวัดวิญหลงเตรียมพร้อมรับมือกับภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027 อย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdzQzkzT3RkRF81cmNUZTF1cWU0ck90RGRYZVBLOG9ITjBJSmxpbW1tN1BxdFZ5ZjdEQmVQSUlORFU4Zm9zNEZ0Vjg0dVlBVGVGRTFjVlg3d2tldm8wSUJRR25SSWt3VGxKVjV4eWttbC1NRFEwM0t2empzaVdQSjNVQXQ?oc=5",
+   "time": "2026-11-12T09:34:31Z",
+   "location": null,
+   "id": "4c4d94199b3db7dc"
+  },
+  {
    "title": "ย้อนดูผลกระทบมลพิษ ปนเปื้อนปราจีนบุรีหลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -2417,20 +2417,6 @@
    "location": null,
    "incident_id": "fr_rss_9969b1493ea869fe7029",
    "id": "9969b1493ea869fe"
-  },
-  {
-   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
-   "time": "2026-11-12T05:35:45Z",
-   "location": null,
-   "id": "bbceedf3f093e6da"
   },
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
