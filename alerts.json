@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T11:31:50Z",
+ "updated_at": "2026-11-14T11:43:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 44,
+  "flood": 45,
   "flash_flood": 10,
-  "storm": 23,
+  "storm": 22,
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
@@ -352,18 +352,24 @@
    "id": "6dd095a02881ee86"
   },
   {
-   "title": "กรมอุตุฯเตือนภาคใต้ 12-13 พ.ย.ฝนตกหนักถึงหนักมาก เช็กพื้นที่เสี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
+   "title": "แผ่นดินไหว ขนาด 2.5 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
    "official": true,
-   "source": "thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBWnp0Q1lfa2F6ZHAxR0ZFQ3R2NDBQeGFWVGJoUkpIQllxSnRUV3ZmMTlFdTlsLVZVY2VGRFNVWlBfRjdCSmRCQnZhZnVFZlFONjFKVG9pZ1IwckJG?oc=5",
-   "time": "2026-11-12T11:43:00Z",
-   "location": null,
-   "id": "ec418a39b297786a"
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17435",
+   "time": "2026-11-14T11:33:20Z",
+   "magnitude": 2.5,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.065,
+    "lng": 97.941,
+    "precision": "epicentre"
+   },
+   "id": "ba1d208a6374fe20"
   },
   {
    "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
@@ -2079,24 +2085,18 @@
    }
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
+   "title": "โอนเงินเยียวยาน้ำท่วมวันนี้ 12 จังหวัด 14,440 ครัวเรือน เฉียด 100 ล้านบาท! | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
    "severity": "medium",
    "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17425",
-   "time": "2026-11-12T21:00:02Z",
-   "magnitude": 2.0,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.01,
-    "lng": 97.311,
-    "precision": "epicentre"
-   },
-   "id": "9dce1f6a447d73ef"
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50Z0hoaGpRa2c4QjB1RTZURXkybEZiNnQ1U2xJQVdZODNVNjE4cUdhRXNkM1AwOEluVlYzX1BVeUZacjF4OGNleGtNY2hHR2RjT1dsZXN3?oc=5",
+   "time": "2026-11-12T20:54:45Z",
+   "location": null,
+   "id": "58ddf4750d7606a3"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
