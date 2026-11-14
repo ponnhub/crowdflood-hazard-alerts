@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T19:56:49Z",
+ "updated_at": "2026-11-14T20:09:15Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,12 +16,12 @@
   "other"
  ],
  "counts": {
-  "flood": 42,
+  "flood": 43,
   "flash_flood": 10,
   "storm": 19,
   "landslide": 11,
   "earthquake": 12,
-  "wildfire": 4,
+  "wildfire": 3,
   "drought": 6,
   "pm25": 11,
   "heat": 1,
@@ -383,6 +383,26 @@
    },
    "incident_id": "fr_rss_1506d15aa2347f99149c",
    "id": "1506d15aa2347f99"
+  },
+  {
+   "title": "สกลธีนำทีมปชป. เตรียมฟ้องศาลปกครอง จี้ กทม. เร่งเยียวยาน้ำท่วม ร่มเกล้า-คลองจั่น",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pY3BRUENvaVU4TV9QVDJ3cGY4YnhCNVhhZzZXQmJzUXN4SnRMU21CcjdELXd1WTdOMmFNV2xwLUdpTm53ZXFHSWpKN25QWnJPRHVjSDNvbmh4eDV6eThQbEpKWld6MExFZ2lIdGd3?oc=5",
+   "time": "2026-11-14T13:42:00Z",
+   "location": {
+    "name": "ถนนร่มเกล้า",
+    "lat": 13.77,
+    "lng": 100.74,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_bd4ff7b0ac0408317d27",
+   "id": "bd4ff7b0ac040831"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม",
@@ -842,20 +862,6 @@
    "time": "2026-11-14T06:14:47Z",
    "location": null,
    "id": "21684a50440ac5b0"
-  },
-  {
-   "title": "โลกร้อนซ้ำเติม “ซูเปอร์เอลนีโญ” ไฟป่าอินโดนีเซียแรงขึ้น ต้นเหตุอาเซียจมฝุ่น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZUNEaE1KWmEzWXF2bml2cUlNYlFyNW1uUkxQUkRSSXo3d1hFSzZIa0thcU1zeURkX3BsN25DMFQyRFpCYXd0bzhxdkdHSjZRYWp3WHdB?oc=5",
-   "time": "2026-11-14T06:00:00Z",
-   "location": null,
-   "id": "3baba217cab7306c"
   },
   {
    "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
