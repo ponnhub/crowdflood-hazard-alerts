@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T10:19:35Z",
+ "updated_at": "2026-11-14T10:30:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -352,6 +352,20 @@
    "id": "ec418a39b297786a"
   },
   {
+   "title": "‘กรมควบคุมมลพิษ’ เตือนฝุ่น PM2.5 กทม.-ปริมณฑลขยับสูงขึ้น พบเกินมาตรฐาน 9 พื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbUh0X1lDU1B1NFZIZV9HQjZKQUd5ZFYzYldGNE1kX3JzbVg3WVVHcnhzZkM4Zlhza2NrZWtNYk5kbmNfNXR3OHlCSzlnbFIyQ3NJ?oc=5",
+   "time": "2026-11-14T10:16:00Z",
+   "location": null,
+   "id": "67db3b60d7a71833"
+  },
+  {
    "title": "ฝุ่น PM2.5 กทม.-ปริมณฑลเริ่มพุ่ง เกินมาตรฐาน 9 พื้นที่ เตือน 19-20 พ.ย. จ่อสูงขึ้นอีก",
    "summary": "",
    "category": "news",
@@ -589,20 +603,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -1933,6 +1933,20 @@
    "id": "dd0248dcf9fada9f"
   },
   {
+   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
+   "time": "2026-11-13T00:33:35Z",
+   "location": null,
+   "id": "f1d1efede7bba816"
+  },
+  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -1965,20 +1979,6 @@
     "precision": "epicentre"
    },
    "id": "9dce1f6a447d73ef"
-  },
-  {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-12T17:19:22Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
