@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T13:28:35Z",
+ "updated_at": "2026-11-14T13:45:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 42,
+  "flood": 43,
   "flash_flood": 10,
   "storm": 21,
   "landslide": 11,
@@ -29,31 +29,6 @@
   "other": 3
  },
  "items": [
-  {
-   "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXRjbWVNYUpjMUJxanN6eHN6Nk90aG5MVTlUSVJfemNTQnM1ZlRGZnBvRzd6RXVNNUhnbm91aFhUMmRCc0EwWW5Tb3diVmNvdXZYTENSN2dzN190TnktcTFTQmdEYTFORGFtNzJETzZDLW1xX2dmMXB1X3ZCNGdUVXJFbGU2aWs5?oc=5",
-   "time": "2026-11-14T13:12:00Z",
-   "location": null,
-   "id": "8387e55a0943f466",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
-  },
   {
    "title": "เตือนภัยรองเท้าคู่โปรด! เก็บไว้นานไม่ได้ใส่ เสี่ยงกลิ่นอับ-เชื้อราขึ้น เผย 5 สาเหตุ พร้อม 6 วิธีเก็บรักษาให้รองเท้าสะอาดเหมือนใหม่",
    "summary": "",
@@ -280,6 +255,58 @@
    "time": "2026-11-12T23:16:33Z",
    "location": null,
    "id": "5a3f68ffdccfcc50"
+  },
+  {
+   "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/politics/news_10472702",
+   "time": "2026-11-14T13:31:25Z",
+   "location": null,
+   "area": {
+    "code": "TH1003",
+    "level": "amphoe",
+    "name": "เขตหนองจอก กรุงเทพมหานคร",
+    "bbox": [
+     100.787,
+     13.738,
+     100.939,
+     13.947
+    ]
+   },
+   "incident_id": "fr_rss_c063921d9fe0cbfa3a6a",
+   "id": "c063921d9fe0cbfa"
+  },
+  {
+   "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": true,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXRjbWVNYUpjMUJxanN6eHN6Nk90aG5MVTlUSVJfemNTQnM1ZlRGZnBvRzd6RXVNNUhnbm91aFhUMmRCc0EwWW5Tb3diVmNvdXZYTENSN2dzN190TnktcTFTQmdEYTFORGFtNzJETzZDLW1xX2dmMXB1X3ZCNGdUVXJFbGU2aWs5?oc=5",
+   "time": "2026-11-14T13:12:00Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_8387e55a0943f466e8af",
+   "id": "8387e55a0943f466"
   },
   {
    "title": "ดร.เสรี เตือนปี 70 ‘ร้อนจัด’ ที่สุดในรอบ 5 ปี ชี้ กทม. เสี่ยงท่วมสูง แนะจัด ‘ยา 3 ชุด’ รับมือพหุภัย",
