@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T06:26:34Z",
+ "updated_at": "2026-11-14T06:47:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,15 +16,15 @@
   "other"
  ],
  "counts": {
-  "flood": 48,
-  "flash_flood": 11,
+  "flood": 47,
+  "flash_flood": 13,
   "storm": 21,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 8,
+  "drought": 7,
   "pm25": 10,
-  "heat": 1,
+  "heat": 0,
   "tsunami": 0,
   "other": 0
  },
@@ -62,6 +62,20 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
+  },
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
+   "time": "2026-11-14T01:18:54Z",
+   "location": null,
+   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -146,6 +160,20 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
+   "time": "2026-11-13T04:30:00Z",
+   "location": null,
+   "id": "c48ec9b0c8b66e7a"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -324,20 +352,6 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "วิกฤตภัยแล้งจ่อคิว ! สัญญาณเตือนภัยแล้งปีหน้า | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQThiMnozczVQbEx2dEdrVTBQejFObjhzeEh0TlYzNTh1emUtRXRWZ2lNT0k1bno3Sm03Vng0VUpDelMtVDRXMmg5d1JZemUwNW1FUnAxOTNFdUpXd1ROc2pPUUJqekxZd1phcXhsSnRFUnVqQUxTempDQ2ljWEgwaHVnbXQtdw?oc=5",
-   "time": "2026-11-12T06:40:20Z",
-   "location": null,
-   "id": "a7700dea3bbe558b"
-  },
-  {
    "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
    "summary": "",
    "category": "news",
@@ -352,6 +366,48 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
+   "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzF6M1VKczJkRlEyVl9BWmVabEZSRDhlcl9RNjJWRDlETzFySTNoaXE0VHlLRGE2c2Z0d1hjbjVFbk9PeFhaSnc5S1N5bUJBeUlwLWJMcnk4ZTQzdUpiUkpmWkFSUEZJUDVqckllVk5jczA3b3N5c3RfQ1NrZUFkeGNBZF9TNFRUWjRielp2YTNsUQ?oc=5",
+   "time": "2026-11-14T05:15:27Z",
+   "location": null,
+   "id": "784f3b0f70fc8c88"
+  },
+  {
+   "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjBQOGg5czN0V1c1cllmSXN5Z2p5QXF2dVFnbmVnWDEwcVA3ZEFoTWpEQWl0MW9zS01lNkl2QU9sWXhIUkVBRW9WZHFXU1EwQnNSLWI1SDU4STQxUXQ0TDR2UU0xMGVSMU5zejBoNkc1LWg0S1hQM1JsSEx1QTg0QzdLbHJEa1dZMHZpQ0tQQ3A?oc=5",
+   "time": "2026-11-14T05:15:21Z",
+   "location": null,
+   "id": "11e9a975d4c1d423"
+  },
+  {
+   "title": "ลาวไค: ดินถล่มบนทางหลวงหมายเลข 4D ทำให้ครูได้รับบาดเจ็บ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU52a1JhS3liN3hfU1JYdFNtM0ZiSXotcW9ESHhDVHgzdS1ETldkbTlnckNTTEJkcXJUb1lqNEUtQVEzN180YjRUWFcxOUc2VlZtM25CbHhKbldFOFpWMEFCMjFUQXdmRmJyMlR3LWRxTlFIaTdyeW0wT1NfNmV5bnBPT3draHFRWWtabDNSbkE4cVNOTDNYRA?oc=5",
+   "time": "2026-11-14T04:31:10Z",
+   "location": null,
+   "id": "b5fd34187ad1144d"
+  },
+  {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
@@ -364,6 +420,20 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
+  },
+  {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -636,20 +706,6 @@
    "id": "ebdbfe3c2534d7c4"
   },
   {
-   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
-   "time": "2026-11-13T17:35:23Z",
-   "location": null,
-   "id": "75cacbf41fa94cd8"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
    "category": "official",
@@ -734,20 +790,6 @@
    },
    "incident_id": "fr_news_07bd0e1314740e229eb0",
    "id": "07bd0e1314740e22"
-  },
-  {
-   "title": "ทหารและตำรวจในจังหวัดกวางงายร่วมมือกันกำจัดโคลนและเศษซากจากโรงเรียนหลังเกิดดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1oyZm9YQ3VvSlJ3ZFN2b29GOEVZRFdCc2U4MXlMQ2JRYkJEUVZucm5naG80Wk1NRWFqblNKZXBLbENVamxTcG1CSjFEUkd3YjE0RDE2c3lITUt2NE55VUphdlJNenhHNmtTZWlNcUZLLXNXWXVYdzZBSV9wTEFlRzhiMmdEMWlUODdDQUwyWV9PT2xiS1lsVFFuOUtqQ3Rk?oc=5",
-   "time": "2026-11-13T13:40:57Z",
-   "location": null,
-   "id": "83b3d420bf3d61bc"
   },
   {
    "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
@@ -1086,20 +1128,6 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
-  },
-  {
-   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
-   "time": "2026-11-13T08:13:55Z",
-   "location": null,
-   "id": "d686a699d1ab47ad"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -1735,20 +1763,6 @@
    "id": "dd0248dcf9fada9f"
   },
   {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
-  },
-  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -1761,31 +1775,6 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -2359,20 +2348,6 @@
    },
    "incident_id": "fr_rss_1594d984eeaf9c3f9afb",
    "id": "1594d984eeaf9c3f"
-  },
-  {
-   "title": "ปีหน้าอากาศร้อนจัด คนไทยเสี่ยงเป็นฮีทสโตรก 5,000 คน | มีเรื่องต้องคุย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "heat",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.ch7.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTAyMnJ0bG9NYnlRamppa0JtN0R2NEQ1VXUxVnZLT19jZjdsZGotNFdWdUVSc3hnWTBOc0xMNXg4TnkxSU16cUJ3YmJGTDZPWTVLWWVnTjcySDdDRDZWR1NfLUEyV3Z2RTZycEh2alhWLUloaWNGRkZMWVBYSEphcjBIaVo2QQ?oc=5",
-   "time": "2026-11-12T06:40:18Z",
-   "location": null,
-   "id": "2a79a2cc05f39c55"
   }
  ]
 }
