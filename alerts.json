@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T10:58:54Z",
+ "updated_at": "2026-11-14T11:10:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,12 +17,12 @@
  ],
  "counts": {
   "flood": 44,
-  "flash_flood": 9,
+  "flash_flood": 10,
   "storm": 23,
   "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 6,
+  "drought": 7,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
@@ -174,6 +174,20 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
+   "time": "2026-11-13T04:30:00Z",
+   "location": null,
+   "id": "c48ec9b0c8b66e7a"
   },
   {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
@@ -350,6 +364,32 @@
    "time": "2026-11-12T11:43:00Z",
    "location": null,
    "id": "ec418a39b297786a"
+  },
+  {
+   "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tbW44alpqN1NHeENIRTFzdTQxWDBCaDZJU3Uyd3dMQnNscTZUN0hEOTZ2YjBJNDBiX0tyWTZuR2F0dlJSU216V3JWZTg3SXZWZE9MbHQxWEVFYXJj?oc=5",
+   "time": "2026-11-14T10:43:00Z",
+   "location": null,
+   "area": {
+    "code": "TH24",
+    "level": "province",
+    "name": "จ.ฉะเชิงเทรา",
+    "bbox": [
+     100.848,
+     13.182,
+     101.99,
+     13.977
+    ]
+   },
+   "incident_id": "fr_news_3f8bb2b12aa5efe2501f",
+   "id": "3f8bb2b12aa5efe2"
   },
   {
    "title": "Ca Mau ตอบสนองต่อภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญ โดยให้ความสำคัญกับการรักษาความเป็นอยู่ที่ดีของประชาชนเป็นอันดับแรก",
@@ -1615,6 +1655,20 @@
    "id": "f07feb07a1990212"
   },
   {
+   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
+   "time": "2026-11-13T06:14:54Z",
+   "location": null,
+   "id": "f58d646f6ef29ee3"
+  },
+  {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
    "summary": "",
    "category": "flooding",
@@ -2115,20 +2169,6 @@
    "id": "489471514f3a355b"
   },
   {
-   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "pptvhd36.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
-   "time": "2026-11-12T14:15:00Z",
-   "location": null,
-   "id": "ffc0dfa18e42c7c2"
-  },
-  {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
    "summary": "",
    "category": "flooding",
@@ -2179,6 +2219,20 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
+  },
+  {
+   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
+   "time": "2026-11-12T13:26:18Z",
+   "location": null,
+   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "ฝนถล่มชุมพร น้ำทะลักท่วมถนนหลายจุด ต้องเฝ้าระวังสถานการณ์อย่างต่อเนื่อง",
@@ -2302,26 +2356,6 @@
    },
    "incident_id": "fr_news_0b44d7733ca14f8f3e84",
    "id": "0b44d7733ca14f8f"
-  },
-  {
-   "title": "ฝนถล่มหนัก ชุมพร น้ำไหลทะลักท่วม ถนนสายหลัก ‘วังตะกอ’ จมผิวจราจร100เมตร สูง30ซม. รถเล็กเสี่ยงติดหล่ม",
-   "summary": "ชุมพร ฝนถล่มหนัก น้ำไหลสะสมเอ่อล้นทะลักท่วม ถนนสายหลัก “วังตะกอ” จมผิวจราจรยาว 100 เมตร สูง 30 ซม. รถเล็กเสี่ยงติดหล่ม อีกจุดใกล้วิกฤต หน้า รพ.หลังสวน สัญจรต้องเพิ่มความระวัง 12 พ.ย. 69 – ผู้สื่อข่าวรายงานว่า สถานการณ์ฝนตกต่อเนื่องตลอดทั้งวันทั้งคืน ในพื้นที่จังหวัดชุมพร ส่งผลให้มีน้ำไหลสะสมและเอ่อล้นเข้าท่วมผิวจราจรหลายจุด โดยเฉพาะบริเวณสามแยกวังตะกอ บนถนนสายหลังสวน-พะโต๊ะ อำเภอหลังสวน พบมวลน้ำไห",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/around-thailand/news_10470195",
-   "time": "2026-11-12T11:04:03Z",
-   "location": {
-    "name": "แยกวังตะกอ",
-    "lat": 9.9430292,
-    "lng": 99.0804762,
-    "precision": "place"
-   },
-   "incident_id": "fr_rss_2998aa7298d22fe12be6",
-   "id": "2998aa7298d22fe1"
   }
  ]
 }
