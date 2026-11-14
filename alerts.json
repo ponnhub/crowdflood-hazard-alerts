@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T00:15:19Z",
+ "updated_at": "2026-11-14T00:27:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 56,
   "flash_flood": 15,
-  "storm": 22,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 12,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 9,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
@@ -30,18 +30,18 @@
  },
  "items": [
   {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก | Khaosod",
+   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CVG1IdVhwSFlINkU2RkdmSl92U2xxTXozZC15THRDQk1mZE1tWHpFTzIyUjJUM19NZzZoamxRd21lTzI1Uzh3NnMyR0llOS1wVW1TMWZR?oc=5",
-   "time": "2026-11-14T00:13:44Z",
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTGRnT3hGcF9DLXNrNGpfRjNYQmFFY09xTjRHcG9rZ1Vnc0VKeGdSazA3a1lXa1RmS0M1ZkdoTTE3SkhBZnNPdU9hTmhaQVZMNTU3UjZ1UFY3LVk0Y3hJRTNJNA?oc=5",
+   "time": "2026-11-13T23:58:00Z",
    "location": null,
-   "id": "8fe4c38f342b9bca"
+   "id": "71a6f9ba02dd4726"
   },
   {
    "title": "กรมอุตุฯ เตือนใต้ฝนหนัก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย. ฝนถล่มหลายพื้นที่",
@@ -56,6 +56,20 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
+  },
+  {
+   "title": "กรมอุตุประกาศแล้ว! สภาพอากาศวันนี้ 14 พ.ย. 69 ระวังฝนตกหนัก น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "News.in.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VT2JaOWtZQ1RWR1lTT3I5eDZ5bWE5NnB6SGFJN01SbWZLUzFXbEtLUGVZdUNWbUNDckcyOVFMTkxybktPTnN1NzRoRm81QnRwQ0xSMA?oc=5",
+   "time": "2026-11-13T23:20:12Z",
+   "location": null,
+   "id": "8388ed1e3e9b135c"
   },
   {
    "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
@@ -179,20 +193,6 @@
    "time": "2026-11-13T00:45:00Z",
    "location": null,
    "id": "46e323a175d11b99"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UHlIQnVCMVJUWW85aEZvdUdIOHJZV3A1Ni1LcnE1QzVxRkxfVllPMjZmR04tTnRDZjdWZl9zbUNMMEJROWJxTmpSRXJvZjBsVENUdzBoeWE2OEdvcjFKTXhsYw?oc=5",
-   "time": "2026-11-13T00:36:00Z",
-   "location": null,
-   "id": "412fb8addd0fe645"
   },
   {
    "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
@@ -358,31 +358,6 @@
    "time": "2026-11-12T02:58:00Z",
    "location": null,
    "id": "1252b155438fabbd"
-  },
-  {
-   "title": "เตือนภัยด่วน! จ.พัทลุง รับมือฝนสะสมหนัก เสี่ยงน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iX1MzYzl1cmZHZFVXakhMUVBia25iVDdjcVZtRV94RkplTFV1UkNMV2N1WVhXQ2ZSdGI3bGlGMF9PV0IwZ3FQVkZhSmxES01zVC1TblpR?oc=5",
-   "time": "2026-11-12T00:25:57Z",
-   "location": null,
-   "id": "00885307878314c7",
-   "area": {
-    "code": "TH93",
-    "level": "province",
-    "name": "จ.พัทลุง",
-    "bbox": [
-     99.738,
-     7.102,
-     100.428,
-     7.902
-    ]
-   }
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
@@ -1631,6 +1606,20 @@
    "time": "2026-11-12T17:19:22Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
+  },
+  {
+   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
+   "time": "2026-11-12T16:35:37Z",
+   "location": null,
+   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
