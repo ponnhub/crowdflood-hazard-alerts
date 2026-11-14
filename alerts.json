@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T08:42:45Z",
+ "updated_at": "2026-11-14T09:04:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 48,
-  "flash_flood": 8,
-  "storm": 21,
-  "landslide": 11,
+  "flood": 45,
+  "flash_flood": 10,
+  "storm": 22,
+  "landslide": 10,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 5,
-  "pm25": 10,
+  "drought": 6,
+  "pm25": 9,
   "heat": 0,
   "tsunami": 0,
   "other": 1
@@ -62,6 +62,20 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
+  },
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
+   "time": "2026-11-14T01:18:54Z",
+   "location": null,
+   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -620,6 +634,20 @@
    }
   },
   {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.69 ลมหนาวแผ่ว ไทยตอนบนฝนเพิ่ม 18-19 พ.ย.ภาคใต้ฝนหนัก เตือนน้ำท่วม น้ำป่า ดินถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
+   "time": "2026-11-14T01:38:00Z",
+   "location": null,
+   "id": "06fecd57eb4c424f"
+  },
+  {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
    "summary": "",
    "category": "flooding",
@@ -1113,6 +1141,32 @@
    "id": "3c1c67e686fcc83e"
   },
   {
+   "title": "เตรียมออกหมายจับมือยิงแกนนำชดเชยน้ำท่วม จ .พระนครศรีอยุธยา",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kOHM0eVFUUzB1LUxPc25HTnlNanB0WF9tR0pFOENaWmtFYXhQU2RMWmk0TG9PX2RiQWZadUJrRGtxalVpczJiSEFyeTBrdFN4b0RLUXBmSXE?oc=5",
+   "time": "2026-11-13T09:50:18Z",
+   "location": null,
+   "area": {
+    "code": "TH14",
+    "level": "province",
+    "name": "จ.พระนครศรีอยุธยา",
+    "bbox": [
+     100.213,
+     14.112,
+     100.823,
+     14.672
+    ]
+   },
+   "incident_id": "fr_news_c7669b32dbdf81cdc406",
+   "id": "c7669b32dbdf81cd"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 1.9 ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่ (Tambon Mueang Na, Amphoe ChiangDao, ChiangMai)",
    "summary": "",
    "category": "official",
@@ -1146,6 +1200,20 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
+  },
+  {
+   "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZmdmUVNNNklIN0hBZlRwcXRnRWlHWDNBbHMwR1c4RERGa1c1aWxBVWRKdjFrcktpdFF3eW03V0NHZkUtU0prbGs5MkJPV09mS0xwWV9KQ0FfN0UzOV9qbkZDazZYQQ?oc=5",
+   "time": "2026-11-13T08:45:58Z",
+   "location": null,
+   "id": "99bdc19318ac773a"
   },
   {
    "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
@@ -1435,20 +1503,6 @@
    },
    "incident_id": "fr_news_f07feb07a1990212b3f9",
    "id": "f07feb07a1990212"
-  },
-  {
-   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
-   "time": "2026-11-13T06:14:54Z",
-   "location": null,
-   "id": "f58d646f6ef29ee3"
   },
   {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
@@ -1836,20 +1890,6 @@
    "id": "dd0248dcf9fada9f"
   },
   {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
-  },
-  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -1862,31 +1902,6 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -2004,6 +2019,20 @@
    "id": "489471514f3a355b"
   },
   {
+   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "pptvhd36.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
+   "time": "2026-11-12T14:15:00Z",
+   "location": null,
+   "id": "ffc0dfa18e42c7c2"
+  },
+  {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
    "summary": "",
    "category": "flooding",
@@ -2054,31 +2083,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96TWpFSGRzT2RVTzBlWFl3Wmh2cnZ1VE1VUGtGcVE0U2taeVpYbUQ1WkgyZlNVbzA0dlFENGs5MW0yZUx0LXM5SHZ4LXBuSGtZcmJYakFEMHdzZWZxWFhDSXYwaVl1M1ZhYzJ3ODZn?oc=5",
-   "time": "2026-11-12T13:20:00Z",
-   "location": null,
-   "id": "946254c8ed636390",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "ฝนถล่มชุมพร น้ำทะลักท่วมถนนหลายจุด ต้องเฝ้าระวังสถานการณ์อย่างต่อเนื่อง",
@@ -2250,6 +2254,20 @@
    "id": "3954e4dffd93871f"
   },
   {
+   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
+   "time": "2026-11-12T09:54:37Z",
+   "location": null,
+   "id": "d54ee4398d323085"
+  },
+  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -2300,62 +2318,6 @@
    },
    "incident_id": "fr_news_8d8f56c7ea3ef232494b",
    "id": "8d8f56c7ea3ef232"
-  },
-  {
-   "title": "5 ความท้าทายบริหารจัดการน้ำ “ฝนสุดขั้ว-เมืองขยาย” โจทย์ใหญ่ภัยน้ำท่วมกทม.",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnNUo2THlqYk04cDhSWG54WFBLSEgwWEhzbjlDWTV3YzZkcjdtQnIwNF9hd2l1REY4ZFdoTFNPOFR1OV9mZy1KNzlJc0VQUjdBX3hYNjJB?oc=5",
-   "time": "2026-11-12T08:58:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_68c34ab860c2b208f0c5",
-   "id": "68c34ab860c2b208"
-  },
-  {
-   "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก “HATYAI GASTRONOMY REBORN”",
-   "summary": "มหาวิทยาลัยสงขลานครินทร์ โดย PSU ECON Think Tank ภายใต้คณะเศรษฐศาสตร์ และศูนย์วิจัย FED-ECON คณะเศรษฐศาสตร์ ศูนย์อาเซียนศึกษา ดร.ถนัด คอมันตร์ PSU Broadcast และศูนย์ภูมิภาคเทคโนโลยีอวกาศและภูมิสารสนเทศ ภาคใต้ (GIS ภาคใต้) มหาวิทยาลัยสงขลานครินทร์ จัดงานเปิดตัว PSU ECON POLL ซีรีส์แรก ภายใต้หัวข้อ HATYAI GASTRONOMY REBORN “เมืองหาดใหญ่ Gastronomy พร้อมสู้ภัยน้ำท่วม” เมื่อ 12 พ.ย. ที่ห้องประชุม 210 ",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/pr-news/news_10469976",
-   "time": "2026-11-12T08:47:23Z",
-   "location": null,
-   "incident_id": "fr_rss_006669c06d0ef3bfd7d3",
-   "id": "006669c06d0ef3bf"
-  },
-  {
-   "title": "ทรู ถอดบทเรียนน้ำท่วมหาดใหญ่ ยกระดับโครงข่ายมือถือภาคใต้",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "INN News",
-   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VeFVxdzFpUVBpSHdIaENBYU0zaVdKM2poT3liNjdiQzlBV2RrR0NEN19QMmxQRktQYm5sV202M0dZMXNkSTFLZ1BaeHFRM2otSElQX1ZlRjNnR2I1TUJQeUQtQWtKdmNp?oc=5",
-   "time": "2026-11-12T08:45:00Z",
-   "location": null,
-   "incident_id": "fr_news_b4c449967069d2e46725",
-   "id": "b4c449967069d2e4"
   }
  ]
 }
