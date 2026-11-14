@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T07:13:19Z",
+ "updated_at": "2026-11-14T07:32:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 49,
+  "flood": 48,
   "flash_flood": 10,
   "storm": 21,
-  "landslide": 9,
+  "landslide": 10,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 7,
+  "drought": 6,
   "pm25": 10,
   "heat": 0,
   "tsunami": 0,
@@ -62,6 +62,20 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
+  },
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
+   "time": "2026-11-14T01:18:54Z",
+   "location": null,
+   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -493,7 +507,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "www.thairath.co.th",
+   "source": "thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bkNwZXBfbEtZMkVFTi1zQktheENuS3hKeGtNWGkzNEZYRUdHSFpCSFIydTktSzlHX2NpbTFoUGctZ292VHZ2ZTluV0VkU3pFNVRHblBmd3BqaHU4N3hFcGs4VQ?oc=5",
    "time": "2026-11-14T02:48:54Z",
    "location": null,
@@ -729,6 +743,20 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
+  },
+  {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -1788,31 +1816,6 @@
    "id": "6f084989051d030b"
   },
   {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -1928,6 +1931,20 @@
    "id": "489471514f3a355b"
   },
   {
+   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "pptvhd36.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
+   "time": "2026-11-12T14:15:00Z",
+   "location": null,
+   "id": "ffc0dfa18e42c7c2"
+  },
+  {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
    "summary": "",
    "category": "flooding",
@@ -1978,20 +1995,6 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
-  },
-  {
-   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
-   "time": "2026-11-12T13:26:18Z",
-   "location": null,
-   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
@@ -2188,20 +2191,6 @@
    "id": "3954e4dffd93871f"
   },
   {
-   "title": "การตอบสนองเชิงรุกต่อภัยแล้งและการรุกของน้ำเค็มในช่วงฤดูแล้งปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSENxakV3Q0R4Tnc1bGVaSzRQN01XQ19Tdi0yM1Itc1NUc2Ffc1hxTE82RXVrWEJNNGdDczlpX0Zpd3BGQWplbHphcjJGYmdTQXh1VndXZThQTENKazg0c21fS24wZ3F3YW4tVDBFSDg5YjlCMElXU0RiemcwR3hMdy0zUTdQaklR?oc=5",
-   "time": "2026-11-12T09:54:37Z",
-   "location": null,
-   "id": "d54ee4398d323085"
-  },
-  {
    "title": "กางแผนแก้น้ำท่วมฝั่งตะวันออก กทม. ผุดทางด่วนน้ำ- อุโมงค์หนองบอน",
    "summary": "",
    "category": "flooding",
@@ -2336,20 +2325,6 @@
    "time": "2026-11-12T08:09:00Z",
    "location": null,
    "id": "832de7e02e8eab0f"
-  },
-  {
-   "title": "สทนช. เตือนภาคใต้รับมือฝนตกหนัก 2 ระลอก 8 จังหวัดเสี่ยงน้ำป่า–ดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2NmM4YmJjeFZMaS10dWMwQldRSEQtS2F3NFRuR0FGdjBFejNNWFZES1FxSXJUVDNyZ04yNW4yeEgxUm93Q3RsV25iY3Bkd1N3ZXo1QQ?oc=5",
-   "time": "2026-11-12T07:25:14Z",
-   "location": null,
-   "id": "cb210843725235cc"
   }
  ]
 }
