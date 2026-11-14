@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T01:17:09Z",
+ "updated_at": "2026-11-14T01:33:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,33 @@
   "other"
  ],
  "counts": {
-  "flood": 55,
-  "flash_flood": 14,
-  "storm": 22,
+  "flood": 56,
+  "flash_flood": 15,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 4,
   "wildfire": 1,
-  "drought": 8,
+  "drought": 7,
   "pm25": 5,
   "heat": 2,
   "tsunami": 0,
   "other": 0
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
+   "time": "2026-11-14T01:18:54Z",
+   "location": null,
+   "id": "4b8e60af9d1a97d2"
+  },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
    "summary": "",
@@ -179,6 +193,20 @@
    "time": "2026-11-13T00:45:00Z",
    "location": null,
    "id": "46e323a175d11b99"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UHlIQnVCMVJUWW85aEZvdUdIOHJZV3A1Ni1LcnE1QzVxRkxfVllPMjZmR04tTnRDZjdWZl9zbUNMMEJROWJxTmpSRXJvZjBsVENUdzBoeWE2OEdvcjFKTXhsYw?oc=5",
+   "time": "2026-11-13T00:36:00Z",
+   "location": null,
+   "id": "412fb8addd0fe645"
   },
   {
    "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
@@ -346,18 +374,30 @@
    "id": "1252b155438fabbd"
   },
   {
-   "title": "สภาพอากาศวันนี้ \"เหนือ-อีสาน\" อากาศอุ่นขึ้นและมีฝนบางพื้นที่ ขณะที่ภาคใต้ฝนตกหนัก",
+   "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "storm",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVHpOc3lVSEVmMnNsekpPV0JhSWpvRzhSOG5abXEwU1B3ekIzZVFrbHpKd3c1b2wtS05mUjZPcUxjNm9BMndfa3lnTGlWZVRkSGlmaHRlbzc?oc=5",
-   "time": "2026-11-14T00:56:52Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KVDNsR3Q4RjVzWXZBR1ozOGtjVVppTFg2alMzX2d6TlRRTkRrcWFLcGc4UVdMRTNDbzM5ZUw1VnJPRktJZWRMTl9RdUgxZDlsZUszRGdKaEl2ZE9leERLZkZWRWVRdw?oc=5",
+   "time": "2026-11-14T01:21:00Z",
    "location": null,
-   "id": "959ff668b8b839ac"
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_ecde071f78e790071ead",
+   "id": "ecde071f78e79007"
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
@@ -583,20 +623,6 @@
    },
    "incident_id": "fr_news_a3c297fb41379a97f356",
    "id": "a3c297fb41379a97"
-  },
-  {
-   "title": "เฝ้าระวังฝนตกหนักภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ช่อง 7",
-   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2RkFIMEp2c2xKXzhCSzJKRmFZRDJRbUNyR0tKcEdib0hwOVQ1cVNveEdCTnlrQk8yWFVlT3VTZnpHUld5enRKZVVSVQ?oc=5",
-   "time": "2026-11-13T10:33:01Z",
-   "location": null,
-   "id": "51e42977a9476ecd"
   },
   {
    "title": "ฝนถล่มชุมพร 5 อำเภอ น้ำท่วมเทศบาลเมือง โรงพยาบาลจม 40 ซม. เร่งป้องกันน้ำทะลักห้อง CT-SCAN",
@@ -1194,20 +1220,6 @@
    "id": "61ca5cf051d35d58"
   },
   {
-   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
-   "time": "2026-11-13T02:26:00Z",
-   "location": null,
-   "id": "caceb1f792f24fbc"
-  },
-  {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -1443,6 +1455,31 @@
    "id": "6f084989051d030b"
   },
   {
+   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
+   "time": "2026-11-12T23:00:43Z",
+   "location": null,
+   "id": "c679bf599d2f6f98",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
+  },
+  {
    "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
    "summary": "",
    "category": "news",
@@ -1455,20 +1492,6 @@
    "time": "2026-11-12T17:19:22Z",
    "location": null,
    "id": "99bddd5dd9dd2b90"
-  },
-  {
-   "title": "เมืองวินห์ลองตอบสนองต่อภัยแล้งและปัญหาน้ำเค็มที่เกิดขึ้นอย่างรวดเร็วและซับซ้อนได้อย่างทันท่วงที",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3lVbkQ3MXJ0dUxUbXhWdFpfYTAzd0Nha3dNNmhWNmRjVExLWEFlanJubDlpUlM4NFdiY1l1dTN1OUFwQ1pGWHVuQlpCeDRadE5oQ2hUdTV5bXltOVJEZlAxVkNoWmlmbk1OLUhiVWphSjdiaFVOV19DOFhOT1RMTWpuZ09BTk41YVdJTlg4bVNVM1VueWJoQS14TE83d3hlcXFjMjRR?oc=5",
-   "time": "2026-11-12T16:35:37Z",
-   "location": null,
-   "id": "b0fceac1aff4d14e"
   },
   {
    "title": "ระทึกนางรอง นึกว่า เกิดแผ่นดินไหว สท.หญิงวัย65 ตกใจ กระเบื้องแตกหลายแผ่น",
@@ -1627,6 +1650,20 @@
    },
    "incident_id": "fr_news_1bb00acfa52660e9b53e",
    "id": "1bb00acfa52660e9"
+  },
+  {
+   "title": "การฝึกอบรมเพื่อเสริมสร้างศักยภาพในการรับมือกับภัยแล้งในภาคการผลิตทางการเกษตรในเขตที่ราบสูงตอนกลาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUVQTWZzc0NVSXRyTEtOcU5ORDQxb3Boa1RWYkxOdFFReG1VeFhWSWlhT08zdGY1dGZaNTRyX2poaTItMF9famNDaE8xNWVBQ2RoaGZ5S2MwQU9lZXZpdkZEYlZXMlV4SGx6VmFRVkg4Z2pldko5eUdUQ3hxaVdVZ2pVdEVETGxMWnh5ZnoxT1hGczc4ZEh5UXRmUW1LWHEwRFJ2Nl8zV3Ezd0tWaDUxZDZvQzBtdw?oc=5",
+   "time": "2026-11-12T13:26:18Z",
+   "location": null,
+   "id": "ff7a537b785e1a0e"
   },
   {
    "title": "กทม.ผนึก วว. แก้ PM 2.5 ด้วยนวัตกรรมถ่านชีวภาพและจุลินทรีย์",
@@ -2074,20 +2111,6 @@
    "location": null,
    "incident_id": "fr_rss_9969b1493ea869fe7029",
    "id": "9969b1493ea869fe"
-  },
-  {
-   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
-   "time": "2026-11-12T05:35:45Z",
-   "location": null,
-   "id": "bbceedf3f093e6da"
   },
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
