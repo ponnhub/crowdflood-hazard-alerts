@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T18:44:54Z",
+ "updated_at": "2026-11-14T18:56:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -255,6 +255,26 @@
    "time": "2026-11-12T23:16:33Z",
    "location": null,
    "id": "5a3f68ffdccfcc50"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 65 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17436",
+   "time": "2026-11-14T18:36:10Z",
+   "magnitude": 2.8,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.041,
+    "lng": 97.951,
+    "precision": "epicentre"
+   },
+   "id": "1ecb1bd7b8a680e7"
   },
   {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที",
@@ -832,20 +852,6 @@
    "id": "8ae2bd01300fa6c4"
   },
   {
-   "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzF6M1VKczJkRlEyVl9BWmVabEZSRDhlcl9RNjJWRDlETzFySTNoaXE0VHlLRGE2c2Z0d1hjbjVFbk9PeFhaSnc5S1N5bUJBeUlwLWJMcnk4ZTQzdUpiUkpmWkFSUEZJUDVqckllVk5jczA3b3N5c3RfQ1NrZUFkeGNBZF9TNFRUWjRielp2YTNsUQ?oc=5",
-   "time": "2026-11-14T05:15:27Z",
-   "location": null,
-   "id": "784f3b0f70fc8c88"
-  },
-  {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
    "summary": "",
    "category": "news",
@@ -860,20 +866,6 @@
    "id": "11e9a975d4c1d423"
   },
   {
-   "title": "ลาวไค: ดินถล่มบนทางหลวงหมายเลข 4D ทำให้ครูได้รับบาดเจ็บ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU52a1JhS3liN3hfU1JYdFNtM0ZiSXotcW9ESHhDVHgzdS1ETldkbTlnckNTTEJkcXJUb1lqNEUtQVEzN180YjRUWFcxOUc2VlZtM25CbHhKbldFOFpWMEFCMjFUQXdmRmJyMlR3LWRxTlFIaTdyeW0wT1NfNmV5bnBPT3draHFRWWtabDNSbkE4cVNOTDNYRA?oc=5",
-   "time": "2026-11-14T04:31:10Z",
-   "location": null,
-   "id": "b5fd34187ad1144d"
-  },
-  {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
@@ -886,6 +878,20 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
+  },
+  {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -1849,26 +1855,6 @@
    "id": "aa8fe6f7ed37628c"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 3.7 ประเทศเวียดนาม (Vietnam)",
-   "summary": "ทางทิศตะวันออกเฉียงใต้ของ อ. โขงเจียม จ.อุบลราชธานี ประมาณ 258 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17426",
-   "time": "2026-11-13T06:25:00Z",
-   "magnitude": 3.7,
-   "location": {
-    "name": "ประเทศเวียดนาม (Vietnam)",
-    "lat": 14.839,
-    "lng": 107.849,
-    "precision": "epicentre"
-   },
-   "id": "882e0b33eb030dc7"
-  },
-  {
    "title": "กทม. มีฝนบางพื้นที่ หลัง กรมอุตุฯ แจ้ง ลมหนาวจะห่างกันสักพัก ช่วงนี้ ฝนกลับมากวนใจ ไทยรอรับอากาศเย็นระลอกใหม่ 19 พ.ย. 69 13 พ.ย.69 ศูนย์ป้องกันน้ำท่วม กรุงเทพมหานคร รายงาน เวลา 13.00 น. พื้นที่ กทม. ฝ",
    "summary": "",
    "category": "flooding",
@@ -2292,6 +2278,20 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
+  },
+  {
+   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
+   "time": "2026-11-13T00:33:35Z",
+   "location": null,
+   "id": "f1d1efede7bba816"
   },
   {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
