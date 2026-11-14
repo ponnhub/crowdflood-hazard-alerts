@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T06:47:54Z",
+ "updated_at": "2026-11-14T06:58:15Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 47,
-  "flash_flood": 13,
+  "flood": 49,
+  "flash_flood": 11,
   "storm": 21,
   "landslide": 9,
   "earthquake": 12,
@@ -62,20 +62,6 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
-  },
-  {
-   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ประชาชาติธุรกิจ",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
-   "time": "2026-11-14T01:18:54Z",
-   "location": null,
-   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -352,6 +338,45 @@
    "id": "ec418a39b297786a"
   },
   {
+   "title": "ยกของขึ้นที่สูงด่วน! ปภ. แจ้งเตือน เกาะสมุย ฝนถล่มต่อเนื่อง-น้ำทะเลหนุนสูง น้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สยามนิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZLTFDTVBpTEREVTVLSXMzUFVQbVdFU3hsal83b2JRNG5mWmU5YV85dHloSC1TQkJFRzBKdGNrSC01TGl2OFFuamlRUldtQVpxMmdJZQ?oc=5",
+   "time": "2026-11-12T08:04:44Z",
+   "location": null,
+   "id": "e2f7138fc2dd8f81"
+  },
+  {
+   "title": "ฝุ่น PM2.5 เกินเกณฑ์ 5 เขต กทม. มากสุด \"ลาดกระบัง-บางเขน\"",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kcVJBWFloR0g3VXJISGttYWF2Z3ZTWU9DWWtBM1Rfd0EzZGFkVkIwUnFqTHVsQ2ZDSHRFako3RUhzZUpTQXduTXdsaDZiNDJBRVRUZWJMTUM?oc=5",
+   "time": "2026-11-14T06:22:03Z",
+   "location": null,
+   "id": "bfb4213eac28a721",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
    "summary": "",
    "category": "news",
@@ -420,20 +445,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -704,6 +715,20 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
+  },
+  {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -1024,20 +1049,6 @@
    },
    "incident_id": "fr_news_2ce403f66788a3aa6afd",
    "id": "2ce403f66788a3aa"
-  },
-  {
-   "title": "ฝุ่น PM2.5 ป้องกันให้ถูกวิธี! 8 ทริกหน้ากาก ฟอกอากาศ จัดบ้าน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xb2tSc0ZWZ29LVkwtbUhRZkQ2ZkdULUxVY3FIUlJ6alh5LXhhQUxqMm9MWmI4WExHczhDdWl4WjBUUXFKZEpaYWlWZEplVFdXa00wak5R?oc=5",
-   "time": "2026-11-13T10:05:53Z",
-   "location": null,
-   "id": "0066238bd557a92d"
   },
   {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
@@ -1777,6 +1788,31 @@
    "id": "6f084989051d030b"
   },
   {
+   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
+   "time": "2026-11-12T23:00:43Z",
+   "location": null,
+   "id": "c679bf599d2f6f98",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -2328,26 +2364,6 @@
    "time": "2026-11-12T06:59:05Z",
    "location": null,
    "id": "1d7c4dcb7bd77521"
-  },
-  {
-   "title": "ปภ. แจ้งเตือนด่วน เกาะสมุย เตรียมยกของขึ้นที่สูง หลังฝนถล่ม-น้ำทะเลหนุนสูง เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/breaking-news/news_10469663",
-   "time": "2026-11-12T06:50:38Z",
-   "location": {
-    "name": "อ.เกาะสมุย",
-    "lat": 9.5071545,
-    "lng": 99.9957562,
-    "precision": "district"
-   },
-   "incident_id": "fr_rss_1594d984eeaf9c3f9afb",
-   "id": "1594d984eeaf9c3f"
   }
  ]
 }
