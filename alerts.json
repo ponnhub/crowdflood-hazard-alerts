@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T22:40:06Z",
+ "updated_at": "2026-11-14T22:57:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -311,18 +311,18 @@
    "id": "1ecb1bd7b8a680e7"
   },
   {
-   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที",
+   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
    "hazard_type": "other",
    "severity": "high",
    "urgent": false,
    "official": true,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMM3pMdGhCN3JEXzhHRGluc0x4MDhrTG1CODR3Q3JQcHJDQWpLS0tqWi1zcnFvUWIwb1VGMjJzOS1PVDBtMDdPZjRoZzdkdw?oc=5",
-   "time": "2026-11-14T16:25:33Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMWhMUl9hMmhzWEFEdzZBem81S1pMTnhQUGhOUDg0QkZ0TkhtUHNwNXk5ZV8yQVpiVjdOaTMtZnUzMWQ3S3FZNjZBWnBROE9GM3dEd0N3?oc=5",
+   "time": "2026-11-14T16:36:39Z",
    "location": null,
-   "id": "5af62b8d16c176b8"
+   "id": "7b1c07ec6defea3a"
   },
   {
    "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
@@ -569,6 +569,20 @@
    "id": "27c28a79ce76fec0"
   },
   {
+   "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UWZrc245bE1McGlDTm84UlU5RWktWmJzVjByR3R3NmNSajJFY25BNk1QdnNrMHFHS1ZDQzFNSmN6V0stVk5sN0V0R3FYMmpjc0w2ZDltdGU?oc=5",
+   "time": "2026-11-14T12:11:27Z",
+   "location": null,
+   "id": "80a823f7d9e6a924"
+  },
+  {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
    "summary": "",
    "category": "flooding",
@@ -667,20 +681,6 @@
    "time": "2026-11-14T10:21:50Z",
    "location": null,
    "id": "01faa820f88e284e"
-  },
-  {
-   "title": "‘กรมควบคุมมลพิษ’ เตือนฝุ่น PM2.5 กทม.-ปริมณฑลขยับสูงขึ้น พบเกินมาตรฐาน 9 พื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbUh0X1lDU1B1NFZIZV9HQjZKQUd5ZFYzYldGNE1kX3JzbVg3WVVHcnhzZkM4Zlhza2NrZWtNYk5kbmNfNXR3OHlCSzlnbFIyQ3NJ?oc=5",
-   "time": "2026-11-14T10:16:00Z",
-   "location": null,
-   "id": "67db3b60d7a71833"
   },
   {
    "title": "ฝุ่น PM2.5 กทม.-ปริมณฑลเริ่มพุ่ง เกินมาตรฐาน 9 พื้นที่ เตือน 19-20 พ.ย. จ่อสูงขึ้นอีก",
