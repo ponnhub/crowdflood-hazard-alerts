@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T11:43:57Z",
+ "updated_at": "2026-11-14T12:04:25Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 45,
-  "flash_flood": 10,
+  "flood": 41,
+  "flash_flood": 9,
   "storm": 22,
-  "landslide": 10,
+  "landslide": 11,
   "earthquake": 13,
   "wildfire": 1,
-  "drought": 6,
+  "drought": 7,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
@@ -311,45 +311,6 @@
    "time": "2026-11-12T12:17:33Z",
    "location": null,
    "id": "58717083571cf337"
-  },
-  {
-   "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSGRaakRpTjhrZjZ6VnZmSHc2Vms3QXp1RUMwTWZoVHhVdWJCdjJHQnFtTDRWMmlBWEk5a0p5R1cyenNhT2doOVc1VGJJVmw1amFsMy1vQ3hxNTZvaE92bzdaYjkwZw?oc=5",
-   "time": "2026-11-12T11:51:00Z",
-   "location": null,
-   "id": "4d394b055ec52d41",
-   "area": {
-    "code": "TH8604",
-    "level": "amphoe",
-    "name": "อ.หลังสวน จ.ชุมพร",
-    "bbox": [
-     98.882,
-     9.793,
-     99.18,
-     10.072
-    ]
-   }
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 9 เตือนภาคใต้ฝนตกหนักถึงหนักมาก 12-13 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPeVRFb1VleEQ5SHYwdXhPXzF0aUxSdm9wazBTakZsel94aGF3VktCMlNGSUdyTFBOWDdheGlNX2FXR0NTR3BJOVlRZXpZY2FzQm9QVkZ2b2s?oc=5",
-   "time": "2026-11-12T11:44:31Z",
-   "location": null,
-   "id": "6dd095a02881ee86"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.5 ประเทศเมียนมา (Myanmar)",
@@ -711,7 +672,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "thairath.co.th",
+   "source": "www.thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90bkNwZXBfbEtZMkVFTi1zQktheENuS3hKeGtNWGkzNEZYRUdHSFpCSFIydTktSzlHX2NpbTFoUGctZ292VHZ2ZTluV0VkU3pFNVRHblBmd3BqaHU4N3hFcGs4VQ?oc=5",
    "time": "2026-11-14T02:48:54Z",
    "location": null,
@@ -929,6 +890,20 @@
    "id": "7e43ac11cd310847"
   },
   {
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
    "category": "official",
@@ -947,6 +922,20 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
+  },
+  {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -1811,6 +1800,20 @@
    "id": "61ca5cf051d35d58"
   },
   {
+   "title": "ฝนตกหนักมาก ประกาศฉบับ 10 มรสุมตะวันออกเฉียงเหนือซัดภาคใต้ 15 จว.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTVFoUWpNRVczV0U3alRId29adVVURWJwVjRLbDFJUW5OTFp3UnIyb2QyZ1ctdFVjV0JKeUZIZ1ZkWG1YZVdrRlkyTGRLdWVTTHBNcTZFbkhmd3lRcjVZdEg0cTBjdw?oc=5",
+   "time": "2026-11-13T02:26:00Z",
+   "location": null,
+   "id": "caceb1f792f24fbc"
+  },
+  {
    "title": "กทม. เปิด 3 มาตรการลดฝุ่น พร้อมเตรียมรับมือภัยแล้ง | The Bangkok Insight",
    "summary": "",
    "category": "news",
@@ -2270,77 +2273,6 @@
    },
    "incident_id": "fr_news_bb35a5b31ba2de29ccfb",
    "id": "bb35a5b31ba2de29"
-  },
-  {
-   "title": "‘ทรู’ ถอดบทเรียนน้ำท่วมหาดใหญ่ ชู AI ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัย | The Bangkok Insight",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSWhWOS1waFZyZTd6TkdGaUhCbDNONHk2Umc1dmlhVVhiQTd2bnNUenBxRVdJbkVUcVN5VzNlSjU3MFJSRU16VDBoZnF5TUFlZ2RXeU5B?oc=5",
-   "time": "2026-11-12T12:02:54Z",
-   "location": null,
-   "incident_id": "fr_news_33e43cd2faeea76b14ef",
-   "id": "33e43cd2faeea76b"
-  },
-  {
-   "title": "\"ทรู\" ถอดบทเรียนน้ำท่วมหาดใหญ่ ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัยช่วงปลายปีด้วย AI",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Hoonsmart",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5maXZ3bzVuckcwWE9rby04TFpraTJ1MURNU1NmczRpTERHNE1BbTRIU2JYR0FqNy02VTg0azZIVFY0MEkyN3RDdnVnTHF3QQ?oc=5",
-   "time": "2026-11-12T11:52:52Z",
-   "location": null,
-   "incident_id": "fr_news_dc607d2cac964550f104",
-   "id": "dc607d2cac964550"
-  },
-  {
-   "title": "‘ทรู’ ถอดบทเรียนน้ำท่วมหาดใหญ่ ชู AI ยกระดับโครงข่ายมือถือภาคใต้ รับมืออุทกภัย",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YllISlExU3FoWmllSGhfWFJHYk9sZFQ0YnhFbGNKbzZTcGVvbWNiN2QzVnl3dTg4SzRfMnJueG5vY1hibEhIOUltR29md0tXVGxCUVp1U2lPZnJHWWplUldOd3JQVzhNbDVBSzF4cTc?oc=5",
-   "time": "2026-11-12T11:49:19Z",
-   "location": null,
-   "incident_id": "fr_news_763f3904fecb3bc7f59b",
-   "id": "763f3904fecb3bc7"
-  },
-  {
-   "title": "ทรู ถอดบทเรียนน้ำท่วมหาดใหญ่ ใช้ AI เสริมแกร่งโครงข่ายรับมือภัยใต้",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "posttoday",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUb1R2WDE0Ujk3RGRqWWQ5UmlKbjJncmpubXROa3I1anB1WHdVU2pXU2FWUml6RTd0WG9YU2p6MDh2VkhUSktuNjZwZW93b3I5Mnc?oc=5",
-   "time": "2026-11-12T11:48:00Z",
-   "location": null,
-   "area": {
-    "code": "TH90",
-    "level": "province",
-    "name": "จ.สงขลา",
-    "bbox": [
-     100.057,
-     6.296,
-     101.104,
-     7.936
-    ]
-   },
-   "incident_id": "fr_news_d87b5c677c94fb0fd7e8",
-   "id": "d87b5c677c94fb0f"
   }
  ]
 }
