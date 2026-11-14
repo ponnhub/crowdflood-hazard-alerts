@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T15:11:34Z",
+ "updated_at": "2026-11-14T15:34:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 41,
   "flash_flood": 10,
   "storm": 20,
   "landslide": 11,
@@ -429,6 +429,32 @@
    "id": "a2b045bd48925f39"
   },
   {
+   "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jQUpFN0p6S3B2SUJ6ekpYcHkzTFhyaWlBbjVCcmV5TUNMOElmS2wtWUZZME9MMTVSelp2Q1hMOXhDTWY5eGdhTEwwdm1yd3g3Q25TWWJVZmR4Uk9neUdLVlRXYk1uOUV3QzBSTw?oc=5",
+   "time": "2026-11-14T12:17:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_c029579b8b279a912d36",
+   "id": "c029579b8b279a91"
+  },
+  {
    "title": "“สกลธี” ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม จ่อพาชาวบ้านฟ้องศาลปกครองสิ้นเดือนนี้",
    "summary": "",
    "category": "flooding",
@@ -765,7 +791,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Thaipost.net",
+   "source": "ไทยโพสต์",
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Rkltelc4U0lLVThOallvN1V4U0NySzJTLVN2WlhJa2ZESEhfTEx3MEtyMEltS29BODNYdlZDNUY0QjVSb2RpTlh5UlhXQlVLd0Z4ZEdBcXpTUQ?oc=5",
    "time": "2026-11-14T05:52:16Z",
    "location": null,
@@ -826,6 +852,20 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
+  },
+  {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -2218,20 +2258,6 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
-  },
-  {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
   },
   {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
