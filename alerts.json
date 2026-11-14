@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T07:47:57Z",
+ "updated_at": "2026-11-14T07:55:39Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -419,6 +419,20 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
+   "title": "ก้อนหินและดินถล่มลงมาบนถนนอย่างกะทันหัน ทำให้ครูที่กำลังขี่มอเตอร์ไซค์ตกจากรถ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzF6M1VKczJkRlEyVl9BWmVabEZSRDhlcl9RNjJWRDlETzFySTNoaXE0VHlLRGE2c2Z0d1hjbjVFbk9PeFhaSnc5S1N5bUJBeUlwLWJMcnk4ZTQzdUpiUkpmWkFSUEZJUDVqckllVk5jczA3b3N5c3RfQ1NrZUFkeGNBZF9TNFRUWjRielp2YTNsUQ?oc=5",
+   "time": "2026-11-14T05:15:27Z",
+   "location": null,
+   "id": "784f3b0f70fc8c88"
+  },
+  {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
    "summary": "",
    "category": "news",
@@ -829,20 +843,6 @@
    },
    "incident_id": "fr_news_07bd0e1314740e229eb0",
    "id": "07bd0e1314740e22"
-  },
-  {
-   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
-   "time": "2026-11-13T13:24:46Z",
-   "location": null,
-   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
@@ -1389,6 +1389,20 @@
    "id": "f07feb07a1990212"
   },
   {
+   "title": "การละลายของน้ำแข็งในแถบอาร์กติกอาจเป็นสัญญาณบ่งชี้ถึงความเสี่ยงต่อภัยแล้งในยุโรป",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREEzY2U0NngxMjdPZ0pGSWVaVUY0LW10cXJKQVdlRkFDMnFTQWs2WDlhR0c4V1JGYUVBNVVIdjdBanZQRVNBdVRxSFp5RlJHZkZ5NUs1VHZMbEllLUtyRnN5cGVlVGFUa1Z6djVtWVNFaTVDdDZ0X0tHaDhrVEhNWXh0QjEwdHc4Z2xoVkpMdi1GUQ?oc=5",
+   "time": "2026-11-13T06:14:54Z",
+   "location": null,
+   "id": "f58d646f6ef29ee3"
+  },
+  {
    "title": "ภูเก็ตฝนห่าใหญ่! น้ำป่าจากเขา 50 ปีท่วมทั้งเมือง",
    "summary": "",
    "category": "flooding",
@@ -1926,20 +1940,6 @@
    },
    "incident_id": "fr_news_489471514f3a355b6a89",
    "id": "489471514f3a355b"
-  },
-  {
-   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "pptvhd36.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
-   "time": "2026-11-12T14:15:00Z",
-   "location": null,
-   "id": "ffc0dfa18e42c7c2"
   },
   {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
