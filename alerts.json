@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T08:10:36Z",
+ "updated_at": "2026-11-14T08:26:21Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 49,
+  "flood": 47,
   "flash_flood": 9,
   "storm": 21,
-  "landslide": 10,
+  "landslide": 11,
   "earthquake": 13,
-  "wildfire": 0,
-  "drought": 6,
+  "wildfire": 1,
+  "drought": 5,
   "pm25": 10,
   "heat": 0,
   "tsunami": 0,
@@ -62,6 +62,20 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
+  },
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ประชาชาติธุรกิจ",
+   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
+   "time": "2026-11-14T01:18:54Z",
+   "location": null,
+   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -338,18 +352,18 @@
    "id": "ec418a39b297786a"
   },
   {
-   "title": "ปภ. แจ้งเตือน เกาะสมุย เตรียมยกของขึ้นที่สูง ฝนถล่ม-น้ำทะเลหนุน เสี่ยงน้ำท่วมฉับพลัน",
+   "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MWNfY252eDlSd1JLVk1fXzZmeTBra0hSbXhFT3oyeDlqNDZQTkVRMTdTVHZWVHZxcXlQaXhNcVM0d2EwWWVVRFl1Wjg1VGI1M0VYVGNTU2djZw?oc=5",
-   "time": "2026-11-12T08:17:07Z",
+   "hazard_type": "wildfire",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlNvQlc4Zl9yU2t5UmJxLTZxYnNSVkh3cm5mMHRULUFfTmhCMmxmUlItMWVMRTRFLVRFalBRLUFFblN1WHg4WWU2X0hqQ2g2WFlzaDVzc25MbmhCVHBodkY2dnlUTUFhdS0zYjI0YlJlN0taSlpxbld0TUtDS0dDc2ZtNkw?oc=5",
+   "time": "2026-11-14T08:12:09Z",
    "location": null,
-   "id": "565ba84221054578"
+   "id": "296e768a75ef8e0a"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
@@ -493,20 +507,6 @@
    "time": "2026-11-14T03:29:37Z",
    "location": null,
    "id": "da519d64c98691c4"
-  },
-  {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -777,6 +777,20 @@
     "precision": "epicentre"
    },
    "id": "ebdbfe3c2534d7c4"
+  },
+  {
+   "title": "ฝนตกหนัก ระวังน้ำท่วมฉับพลันและดินถล่มในคืนนี้ในภาคกลางและภาคใต้ของเวียดนาม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlBSeHhITXRoMHVTUXNXTUpldU9IMWtfcjBEMXZkcFZYTFAtdURsZjY5QTdoZHdPWFBwaVR4SEVvOVVQWllfT2UwT0hZNFlWbVoxb0lhVURyZ0pCMjlveDNENWc4cUVIWDNIN3pwWHlpQjZVMnVITFdoRHF4U242N1hzRGFjZkktcUVNYXlwT1EtbndX?oc=5",
+   "time": "2026-11-13T17:35:23Z",
+   "location": null,
+   "id": "75cacbf41fa94cd8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
@@ -1133,6 +1147,20 @@
    "id": "1ebeccd846cf2cb8"
   },
   {
+   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
+   "time": "2026-11-13T09:37:04Z",
+   "location": null,
+   "id": "634a912daa31f0a0"
+  },
+  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -1146,6 +1174,32 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
+  },
+  {
+   "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2T2ZGRWMtY2lHVVpwdWZyM25OQS00MUhDeE82TTdzdVRYdmZEZnYtejJnUzF4cVpfb1BEQnZiaG56TU1BMU5KM2MwdG1wMHRNcFNRRFFzNk80V2ZnTGVlV1JzUHRua2lFTWpETG1McFBMcklPZzRyZEVIUlNHZw?oc=5",
+   "time": "2026-11-13T08:37:52Z",
+   "location": null,
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   },
+   "incident_id": "fr_news_d52ec4063847d947016f",
+   "id": "d52ec4063847d947"
   },
   {
    "title": "ปภ. เผย ‘เอกนิติ – ภราดร’ เตรียมประชุม คณะกรรมการป้องกันภัยพิบัติภาคกลาง 17 จังหวัด | The Bangkok Insight",
@@ -1201,32 +1255,6 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
-  },
-  {
-   "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsbnJlRkRyZ0JPQnN6TUNpV2RTVmtQWGdCd180dGowLVpqVlpYMWpZRHRvMFEtV2NjNnZBeVRKRk5GbXZTdVZRb0lGRmwxSkZKVE5SaUF3?oc=5",
-   "time": "2026-11-13T08:13:26Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_51b222609f1dcc9d820c",
-   "id": "51b222609f1dcc9d"
   },
   {
    "title": "📢 อัปเดตสภาพอากาศ 13 - 19 พ.ย. 69: 🌤️⛈️ 🧣 ไทยตอนบน: 13-16 พ.ย. อุ่นขึ้น มีหมอกตอนเช้า 🌫️ แต่ช่วง 17-19 พ.ย. จะมีฝนฟ้าคะนอง ลมแรง ก่อนที่อุณหภูมิจะลดลงจากมวลอากาศเย็นระลอกใหม่ 📉 🌧️ ภาคใต้: 18-19 พ.ย. ต้องเฝ้าระวัง! ฝนตกหนักถึงหนักมาก ⚠️ ระวังน้ำท่วมฉับพลัน",
@@ -1850,31 +1878,6 @@
    "id": "6f084989051d030b"
   },
   {
-   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
-   "time": "2026-11-12T23:00:43Z",
-   "location": null,
-   "id": "c679bf599d2f6f98",
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   }
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -1988,20 +1991,6 @@
    },
    "incident_id": "fr_news_489471514f3a355b6a89",
    "id": "489471514f3a355b"
-  },
-  {
-   "title": "นายกฯสั่ง อบจ.-ผู้ว่าฯ จับมือไร้ขั้ว แก้น้ำท่วม-ภัยแล้ง | เข้มข่าวค่ำ Spotlight | 12 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "pptvhd36.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbW9NTTZVblpTSWZ3MnIwUmhMVGt2YTN2ckJHTW5rQ1hOaGhiNmk2TFpkelJoUmp4X2FTTkNvNkIzMGxtVmFoelRBZ01Ec2xnQUV1Wg?oc=5",
-   "time": "2026-11-12T14:15:00Z",
-   "location": null,
-   "id": "ffc0dfa18e42c7c2"
   },
   {
    "title": "**เดือดจัด! ทนายอั๋นฟาดอนุทินเป็นตัวอัปมงคล สิ่งศักดิ์สิทธิ์ไม่ชอบ ซัดเป็นนายกฯ แผ่นดินทรุด พระราม 2 ถล่ม น้ำท่วมหาดใหญ่!** วันนี้ (12 พ.ย. 69) นายภัทรพงศ์ ศุภักษร หรือ “ทนายอั๋น บุรีรัมย์” ขึ้นปราศรั",
@@ -2326,20 +2315,6 @@
    },
    "incident_id": "fr_news_68c34ab860c2b208f0c5",
    "id": "68c34ab860c2b208"
-  },
-  {
-   "title": "เตือน 8 จังหวัดภาคใต้ ฝนตกหนัก 11-21 พ.ย.นี้ เสี่ยงน้ำป่า- ดินถล่ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmSTZDOGFXT2dMMnFWYmtzZGZJNEZHZDR1RTNFalN1VlZhemhtMmpLUnJVX0hBUElrMEttZjhIb09LNVB4OHVmMWFsSGYzd3Y0RHl4Sko1aTRJUGg5LVpBZHpyTmNrZw?oc=5",
-   "time": "2026-11-12T08:50:20Z",
-   "location": null,
-   "id": "32396b5390a32a9d"
   },
   {
    "title": "ม.อ. เปิดตัว PSU ECON POLL ซีรีส์แรก “HATYAI GASTRONOMY REBORN”",
