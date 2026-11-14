@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T14:48:07Z",
+ "updated_at": "2026-11-14T14:58:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
+  "flood": 40,
   "flash_flood": 10,
   "storm": 20,
   "landslide": 11,
@@ -26,7 +26,7 @@
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 3
+  "other": 2
  },
  "items": [
   {
@@ -1281,20 +1281,6 @@
    "id": "7b2c1985526d9fbb"
   },
   {
-   "title": "“ยศชนัน-เจเศรษฐ์” ส่งมอบไม้เท้าอัจฉริยะ เตือนภัยไฟฟ้ารั่ว ชูแนวคิด “กลับบ้านต้องปลอดภัย”",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNkxPS2VSanByZzFTN0FxOU41b2ZOWnZMQV9kZmhxZTdIeGFuZjhlQnc5a2t3MWpRajVjR2IwNU93Sk9NNVlWWVBJODRXNUlMXzUxajlVLWpHVUNFTC0zQzZKLTRTYzRXUFo2MUFR?oc=5",
-   "time": "2026-11-13T11:22:00Z",
-   "location": null,
-   "id": "6ed64063d51b313e"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 73 กม.",
    "category": "official",
@@ -2327,21 +2313,6 @@
    "time": "2026-11-12T15:57:00Z",
    "location": null,
    "id": "e87cc3e0e039eb36"
-  },
-  {
-   "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 10 จังหวัด-กทม. รวม 21,755 ครัวเรือน 136.64 ล้านบาท",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbFNUbV92MU1naHJzSDE5Y2V0aWxEdEFMeVlYNHpRcWsyaHIyRG1zNHpGTWtCTHVxN2NJYWdpY3VnXzBGaGJ1dGVIY09hRmtwQjk3VVBkeTE?oc=5",
-   "time": "2026-11-12T14:55:00Z",
-   "location": null,
-   "incident_id": "fr_news_9c7a80d807b682162f7e",
-   "id": "9c7a80d807b68216"
   }
  ]
 }
