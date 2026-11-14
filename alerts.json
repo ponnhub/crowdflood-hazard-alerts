@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T08:26:21Z",
+ "updated_at": "2026-11-14T08:42:45Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 47,
-  "flash_flood": 9,
+  "flood": 48,
+  "flash_flood": 8,
   "storm": 21,
   "landslide": 11,
   "earthquake": 13,
@@ -62,20 +62,6 @@
     "precision": "epicentre"
    },
    "id": "80d11b1548df56da"
-  },
-  {
-   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ประชาชาติธุรกิจ",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcDVlcmJGd3hWYW9MWXN6RmUyWHJaNlhaLXhqQzM3MjZheXJNX1hOM2owc1NOcXVxdWJjYzZrYk9iUndKd21CSThIYy1yX19Tcl9hUndRRQ?oc=5",
-   "time": "2026-11-14T01:18:54Z",
-   "location": null,
-   "id": "4b8e60af9d1a97d2"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
@@ -820,7 +806,7 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "www.thairath.co.th",
+   "source": "thairath.co.th",
    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTlBKWXZmQ3VPZXlMY2FDbzJyektzUmFaT0tacm5UV281SFdwSUdSSWtCUlVGVFVqUWlKZHd3SGZyNDlBclRtNzNuQVhfWG8xeWYzcWdaY3Q?oc=5",
    "time": "2026-11-13T17:12:54Z",
    "location": null,
@@ -1145,20 +1131,6 @@
     "precision": "epicentre"
    },
    "id": "1ebeccd846cf2cb8"
-  },
-  {
-   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
-   "time": "2026-11-13T09:37:04Z",
-   "location": null,
-   "id": "634a912daa31f0a0"
   },
   {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
@@ -1864,6 +1836,20 @@
    "id": "dd0248dcf9fada9f"
   },
   {
+   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
+   "time": "2026-11-13T00:33:35Z",
+   "location": null,
+   "id": "f1d1efede7bba816"
+  },
+  {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
    "summary": "",
    "category": "news",
@@ -1876,6 +1862,31 @@
    "time": "2026-11-13T00:11:00Z",
    "location": null,
    "id": "6f084989051d030b"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ ใต้ฝนถล่ม 70% ประจวบฯ-ชุมพร-สุราษฎร์ฯ เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkX3pQNGg1eGZscGZtN09DTENtREhxemtPVlo4eHAxVjZTN05aYnFFRnJ1MU8wenZDZ3JEQkk2OWJXV3E5VHFxcVJkMGZjNkVpRHFCSlQwZGk?oc=5",
+   "time": "2026-11-12T23:00:43Z",
+   "location": null,
+   "id": "c679bf599d2f6f98",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
