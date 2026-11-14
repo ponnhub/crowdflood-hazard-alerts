@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-14T02:27:44Z",
+ "updated_at": "2026-11-14T02:40:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,12 +18,12 @@
  "counts": {
   "flood": 56,
   "flash_flood": 16,
-  "storm": 22,
+  "storm": 23,
   "landslide": 8,
   "earthquake": 4,
   "wildfire": 1,
-  "drought": 8,
-  "pm25": 6,
+  "drought": 7,
+  "pm25": 7,
   "heat": 1,
   "tsunami": 0,
   "other": 0
@@ -265,6 +265,20 @@
    "id": "2ac2a2a7a3501881"
   },
   {
+   "title": "กรมอุตุ เตือนฉบับที่ 9 ภาคใต้ตกหนัก ระวังฝนสะสม ท่วมฉับพลัน-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUGd4NXNjdjhhU213dnF3OEVFMFA0TnhEd01uVFhVWmMyNXZnZmhEMy1WTTB0bEZUQldvRzloM08zX29xNjdSVlJ6WWxSNDV3cnpTendWaTU?oc=5",
+   "time": "2026-11-12T12:17:33Z",
+   "location": null,
+   "id": "58717083571cf337"
+  },
+  {
    "title": "ด่วน! ปภ. เตือน อ.หลังสวน ชุมพร ฝนตกหนัก เสี่ยงน้ำป่า-ดินถล่ม เร่งยกของขึ้นที่สูง",
    "summary": "",
    "category": "news",
@@ -346,18 +360,29 @@
    "id": "1252b155438fabbd"
   },
   {
-   "title": "ภาคใต้มีฝนตกหนัก อาจเกิดน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
+   "title": "กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
+   "hazard_type": "pm25",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "INN News",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xQ0J4QUc2eVhoNzJwMENEeTRSR2tndVJQZDgzblc5Wm1LRmxMRGdtRkxDYVQ5U19nRzZXa3RGVXJKaDF0QW9LeVlNNDBsaWkxUTQ3Q1pCUQ?oc=5",
-   "time": "2026-11-14T02:03:00Z",
+   "source": "posttoday",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jYlgxU2w0Z2E1WXZFQjJQd2hsM1E0NE1BWEVKT3NJTFBNS19KQVJPMl95RXRtYmFOcF8yVVMtQzFZMS1lUTZ1VzhUVWppczBnRWdSbm5fVTM?oc=5",
+   "time": "2026-11-14T01:59:00Z",
    "location": null,
-   "id": "e8a8832e93dbadf7"
+   "id": "3838e2626d8c5afd",
+   "area": {
+    "code": "TH1011",
+    "level": "amphoe",
+    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
+    "bbox": [
+     100.709,
+     13.69,
+     100.879,
+     13.794
+    ]
+   }
   },
   {
    "title": "PM 2.5 เริ่มกลับมาแล้ว! กทม. พบค่าฝุ่นละอองสูงสุด 12 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ 1 จุด",
@@ -433,10 +458,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RX0pzdXJGekJSX1A1RUYyLVhxSUZuYVo2cERiRVpib3NTNW9HY19qX2ROR0s0NmFuTVI0THBZTU04M3JlVGl5N0h0UjUyNGJ1SVE?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
    "time": "2026-11-14T01:12:42Z",
    "location": null,
-   "id": "21bd8e4702209eeb"
+   "id": "2f39d96fcb7ee273"
   },
   {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
@@ -812,20 +837,6 @@
    "id": "3c1c67e686fcc83e"
   },
   {
-   "title": "ดินถล่มครั้งใหญ่ปิดกั้นถนนในพื้นที่ภูเขาของเมืองดานัง ขณะที่ชาวบ้านเร่งเคลียร์เส้นทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTF5bW5ETlhpbXo0ODMxLWtzeXN1WnFLNGhVSUJXdE5mTjRxMXowSUtMTUdaaHo4UGlaRkRDTGtSZGZRdDJSdGFuM0YyYU5KOUFNVTBuZE1lN0tlbUZzekwwdDdWVFlpOVRvdzMyYU9mRXRxSExNZlhJOEFnSXpJTVZrelFBRnF6U0dvNDBqeFlFUTA?oc=5",
-   "time": "2026-11-13T09:37:04Z",
-   "location": null,
-   "id": "634a912daa31f0a0"
-  },
-  {
    "title": "เงินเข้าแล้ว ปภ. โอนเงินเยียวยาน้ำท่วม วันนี้ เพิ่มอีก 11 จว. - กทม. กว่า 145.73 ล้าน",
    "summary": "",
    "category": "flooding",
@@ -839,6 +850,20 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
+  },
+  {
+   "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZmdmUVNNNklIN0hBZlRwcXRnRWlHWDNBbHMwR1c4RERGa1c1aWxBVWRKdjFrcktpdFF3eW03V0NHZkUtU0prbGs5MkJPV09mS0xwWV9KQ0FfN0UzOV9qbkZDazZYQQ?oc=5",
+   "time": "2026-11-13T08:45:58Z",
+   "location": null,
+   "id": "99bdc19318ac773a"
   },
   {
    "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
@@ -1507,6 +1532,20 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
+  },
+  {
+   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
+   "time": "2026-11-13T00:33:35Z",
+   "location": null,
+   "id": "f1d1efede7bba816"
   },
   {
    "title": "ผวาทั้งบ้าน! เสียงดังสนั่นนึกว่าแผ่นดินไหว ที่แท้ 'กระเบื้องลั่น'!? | 13 พ.ย. 69 | ห้องข่าวหัวเขียว",
@@ -2179,20 +2218,6 @@
    "location": null,
    "incident_id": "fr_rss_9969b1493ea869fe7029",
    "id": "9969b1493ea869fe"
-  },
-  {
-   "title": "บราซิลเปิดตัวแพลตฟอร์มดิจิทัลเพื่อติดตามสถานการณ์ภัยแล้งและการกลายเป็นทะเลทราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhBdlUxaUp3dlcwSzJnV0JFVmphQi1RWFU4RnhJenIxMURIbDhuTEd0SlUwTURQVmhMSUZ4YnpEWnRRRlE1Y25aOUR4ZElqTzU0Y3pnN3lfU0RvSW1WcWxlYThsV3d2c0tLU2ZmYmcweFdkdnZtNENYQlQwdGNvbTVxYl9vRjNiRmc?oc=5",
-   "time": "2026-11-12T05:35:45Z",
-   "location": null,
-   "id": "bbceedf3f093e6da"
   },
   {
    "title": "มวลน้ำป่าไหลหลากทะลักเข้าท่วมพื้นที่ จ.สุราษฎร์ธานี",
