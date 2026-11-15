@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T05:09:53Z",
+ "updated_at": "2026-11-15T05:24:45Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 38,
   "flash_flood": 7,
-  "storm": 15,
+  "storm": 16,
   "landslide": 10,
   "earthquake": 10,
   "wildfire": 4,
@@ -214,6 +214,32 @@
    "time": "2026-11-15T04:00:00Z",
    "location": null,
    "id": "740120cbbf688b83"
+  },
+  {
+   "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” #สถานการณ์ภัยพิบัติ ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกหนักในพื้นที่ จำนวน 2 ต. 1 อ. ดังนี้ ต.พ้อแดง ต.บางมะพร้าว อ.หลังสวน จ.ชุมพ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMiighBVV95cUxOYUZjZTVQZ1BLWVVZVjI4S3ptOUwzQnFNSzh5Umh3ODRQd1N0dW1wM1BLZlZtR3pWcjNkeWwzYVB5NGI2V2hkclFzbG9naHNmOFN2TU91WUQwUjdSdURSRGE2RUs1a2JOd1lXVWlFWDQ3QXp1ajJlNUtMVko1M2V2RF9uczAyLWRwbl9vZVU5SUJNdnJydlRqbWxhb1l2NHJ6d1NkQV9SMzZZY2NPM1RadWVtc1ZfR2w3VnUwRkN3ZmxJVnA5UXdrRkU0SHFlUGRMUzdha21xaGNCQUs0OUlsMDB3eEVzUXlWZDZVU01KMTdHVk5mXzJDUHdYMlN5U2NuM3NkdjJSZFRUVE5IY1dPcVg1R2tpLXg0RkhRWjc4UDhsMVBlN1pkTHMyaW9md0hKX01hUEVTREJCYW9KZTg3UVZkRzFZa0pUVGZLV2U1TjRQcHY5N29tYVNVaXBnQW9iR1NuZVFYRy1aVTZxcEtQV1lTdWdIZWhNc3VOSG03VmRxYnVaVFJiUXdWdjg5SVphQjRPWkFvcFhudXJHQzlsMlhwR0FCSFFZdkRfY0JON2M3N1o3Y2VJc0VpbVFpYzNqNWNVY3o4cnlSR3JrdHZ6V0xwOUw4bGcwVEZYTTgxR01KOTVzTWZ4VWt6YXF2STdxVEFKUjNpMDRvVDdnb2RQU1VBYjRTVTNZR1pEUFBFOExPc0VlYWVuWmU1UXV5XzlrRUJXOUFWbkd4a3pfZXBMOGtYNk1Ib0Z6VTl0aFFabDB6aFR6SXBudzVCcmZGbTdNdVBIay1PanpueVIwUU9RMmZvazlISTY5SmpDWXNrVGFLc0Q3R2xYSGNnN1E3ZFBCQ0Z6R0VSR3ZiNElnVFhYZ0tndWZMV3dTMU11cTY0TE5tNkI3VUEyU040Tk11SkxGWElIZzE3anpDdERkQVlwdmgyN1daOUFJX0R6LV82dzNNT29jN1ZNTHVqaFVqUXpPdi0yRUtZbGNLcUFiVlh1b01CQ3BQbHloUmQwVFA4TEd3RkN3Nlo2TUxUTGl4RURVdDF0YngwYk5fSHRoUm9PQ1l3RmpRUElfZEh6dERmbVlDQWlNZ3pyZHlmcWdlOWJUckVfWlVlcVZQZVg2WFNrTEgtQTRsY2xleUhkUmFjeXBwaVItV0ZScmRnUFdVN1FoS2psTkl1RVRBcmVoYUZqSEJ3MXlwTUNUNzZaS2FUZW1hdUx6OWhmYjM5N3FkUTRqWHMzSlczdlgzVWZsTzlKMDUxQjM1UV80VUw1LS1PR3pvT2VoUlRzTEVZbkQ3ZzdtQXVsMHJvQVdxNVZvTjZLbk1mZ3d3T0pkTm9MaTNRcmVxbHA2LWQ2UXpQTk53Y2dKNlozNWZFV3dWdw?oc=5",
+   "time": "2026-11-15T03:14:47Z",
+   "location": null,
+   "area": {
+    "code": "TH860407",
+    "level": "tambon",
+    "name": "ต.บางมะพร้าว อ.หลังสวน จ.ชุมพร",
+    "bbox": [
+     99.105,
+     9.893,
+     99.162,
+     9.956
+    ]
+   },
+   "incident_id": "fr_news_e1019e8c623a750cefd5",
+   "id": "e1019e8c623a750c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
