@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T20:24:42Z",
+ "updated_at": "2026-11-15T20:40:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 35,
-  "flash_flood": 8,
-  "storm": 18,
-  "landslide": 9,
-  "earthquake": 10,
+  "flash_flood": 9,
+  "storm": 19,
+  "landslide": 8,
+  "earthquake": 9,
   "wildfire": 2,
   "drought": 5,
   "pm25": 11,
   "heat": 1,
-  "tsunami": 0,
+  "tsunami": 1,
   "other": 1
  },
  "items": [
@@ -56,6 +56,20 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
+   "time": "2026-11-15T09:16:04Z",
+   "location": null,
+   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
@@ -140,6 +154,26 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 65 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17445",
+   "time": "2026-11-15T20:18:55Z",
+   "magnitude": 2.0,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.693,
+    "lng": 97.522,
+    "precision": "epicentre"
+   },
+   "id": "499b0f2857e9ffb4"
   },
   {
    "title": "'เยียวยาน้ำท่วม' โอนแล้ว 1.3 หมื่นล้าน กทม. จ่อจ่ายค่าซ่อมบ้าน",
@@ -679,31 +713,6 @@
    "id": "3cd5ba93d0927c1c"
   },
   {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
-  },
-  {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
    "summary": "",
    "category": "flooding",
@@ -1155,38 +1164,18 @@
    "id": "7d20931e210f93de"
   },
   {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
+   "title": "โพสต์ทั้งหมด | ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
+   "hazard_type": "pm25",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TUh6VG1nM1BYUERiRVRTV01QU0U4ejBhRzhRalF1MWZDa1JMTlc4b1BueE9yZTI4OUprdkxla2dCb3RSQ04xejNxVkY1YmRMQ05OQzl0LXBVT3puSzQ0TFFiWU0?oc=5",
+   "time": "2026-11-15T00:24:43Z",
    "location": null,
-   "id": "9074781a5cc0b2c2"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 40 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17437",
-   "time": "2026-11-14T19:40:25Z",
-   "magnitude": 2.0,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.8,
-    "lng": 99.868,
-    "precision": "epicentre"
-   },
-   "id": "962e109f79e972bc"
+   "id": "c5981bf1762e4db0"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
@@ -1209,18 +1198,18 @@
    "id": "1ecb1bd7b8a680e7"
   },
   {
-   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที",
+   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
    "hazard_type": "other",
    "severity": "high",
    "urgent": false,
    "official": true,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMM3pMdGhCN3JEXzhHRGluc0x4MDhrTG1CODR3Q3JQcHJDQWpLS0tqWi1zcnFvUWIwb1VGMjJzOS1PVDBtMDdPZjRoZzdkdw?oc=5",
-   "time": "2026-11-14T16:25:33Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMWhMUl9hMmhzWEFEdzZBem81S1pMTnhQUGhOUDg0QkZ0TkhtUHNwNXk5ZV8yQVpiVjdOaTMtZnUzMWQ3S3FZNjZBWnBROE9GM3dEd0N3?oc=5",
+   "time": "2026-11-14T16:36:39Z",
    "location": null,
-   "id": "5af62b8d16c176b8"
+   "id": "7b1c07ec6defea3a"
   },
   {
    "title": "ภูเก็ตพบปัญหาน้ำท่วมขังหลายพื้นที่ Hsv – Freiburg (83DcgBox23)",
@@ -1517,26 +1506,6 @@
    },
    "incident_id": "fr_news_6777c8db0a8dcb681678",
    "id": "6777c8db0a8dcb68"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.5 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17435",
-   "time": "2026-11-14T11:33:20Z",
-   "magnitude": 2.5,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.065,
-    "lng": 97.941,
-    "precision": "epicentre"
-   },
-   "id": "ba1d208a6374fe20"
   },
   {
    "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
@@ -1897,6 +1866,20 @@
    }
   },
   {
+   "title": "โพสต์ทั้งหมด | ประกาศแล้ว! กรมธรณีเตือน 16 จังหวัด โดนฝนซัดหนัก เสี่ยงดินถล่ม น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zNWhYTkxwNy1HVkdKQ3BfUGxmMzA1Ujl0Uk1EMEFoSE43Qzc1a1ptdXFQRHBYdmFrY0phcmdXel83c2N3X1pIZ0stRm9nVlFkN3FkcjdYRTNBQ29sQmowVUlnbnM?oc=5",
+   "time": "2026-11-14T01:38:25Z",
+   "location": null,
+   "id": "05b6f344f158177c"
+  },
+  {
    "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.69 ลมหนาวแผ่ว ไทยตอนบนฝนเพิ่ม 18-19 พ.ย.ภาคใต้ฝนหนัก เตือนน้ำท่วม น้ำป่า ดินถล่ม",
    "summary": "",
    "category": "news",
@@ -1935,6 +1918,20 @@
    },
    "incident_id": "fr_news_ecde071f78e790071ead",
    "id": "ecde071f78e79007"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
+   "time": "2026-11-14T01:12:42Z",
+   "location": null,
+   "id": "2f39d96fcb7ee273"
   },
   {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
