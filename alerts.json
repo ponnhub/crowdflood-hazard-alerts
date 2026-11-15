@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T21:25:17Z",
+ "updated_at": "2026-11-15T21:37:15Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,9 +18,9 @@
  "counts": {
   "flood": 35,
   "flash_flood": 8,
-  "storm": 19,
+  "storm": 18,
   "landslide": 9,
-  "earthquake": 9,
+  "earthquake": 10,
   "wildfire": 2,
   "drought": 5,
   "pm25": 11,
@@ -142,6 +142,31 @@
    "id": "cec48c2db91f29d6"
   },
   {
+   "title": "'เยียวยาน้ำท่วม' โอนแล้ว 1.3 หมื่นล้าน กทม. จ่อจ่ายค่าซ่อมบ้าน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14c2s0X05PanB1T3VMb1Y1NFcwME1OZ0hqa1ZhZk5SWGZCYV9LTWFiekRURGZGZmI3a3d4Rk92c2tXaTNhU3RZbkVXTUdTQlUyd0VmX3RSRWkyNjR5U1FKMjJmMFZYUQ?oc=5",
+   "time": "2026-11-15T21:32:14Z",
+   "location": null,
+   "id": "df727ddfd53f4798",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 65 กม.",
    "category": "official",
@@ -160,31 +185,6 @@
     "precision": "epicentre"
    },
    "id": "499b0f2857e9ffb4"
-  },
-  {
-   "title": "'เยียวยาน้ำท่วม' โอนแล้ว 1.3 หมื่นล้าน กทม. จ่อจ่ายค่าซ่อมบ้าน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14c2s0X05PanB1T3VMb1Y1NFcwME1OZ0hqa1ZhZk5SWGZCYV9LTWFiekRURGZGZmI3a3d4Rk92c2tXaTNhU3RZbkVXTUdTQlUyd0VmX3RSRWkyNjR5U1FKMjJmMFZYUQ?oc=5",
-   "time": "2026-11-15T18:32:13Z",
-   "location": null,
-   "id": "df727ddfd53f4798",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "บราซิล: รัฐอะมาโซนาสเผชิญภัยแล้งรุนแรง",
@@ -915,6 +915,20 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
@@ -1947,20 +1961,6 @@
    "location": null,
    "incident_id": "fr_news_864cd6c3cff17187d8d6",
    "id": "864cd6c3cff17187"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ \"เหนือ-อีสาน\" อากาศอุ่นขึ้นและมีฝนบางพื้นที่ ขณะที่ภาคใต้ฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVHpOc3lVSEVmMnNsekpPV0JhSWpvRzhSOG5abXEwU1B3ekIzZVFrbHpKd3c1b2wtS05mUjZPcUxjNm9BMndfa3lnTGlWZVRkSGlmaHRlbzc?oc=5",
-   "time": "2026-11-14T00:56:52Z",
-   "location": null,
-   "id": "959ff668b8b839ac"
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
