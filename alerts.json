@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T17:40:41Z",
+ "updated_at": "2026-11-15T17:59:19Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,13 +19,13 @@
   "flood": 34,
   "flash_flood": 9,
   "storm": 18,
-  "landslide": 7,
+  "landslide": 8,
   "earthquake": 12,
   "wildfire": 2,
-  "drought": 4,
+  "drought": 5,
   "pm25": 11,
   "heat": 1,
-  "tsunami": 1,
+  "tsunami": 0,
   "other": 1
  },
  "items": [
@@ -56,20 +56,6 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
-   "time": "2026-11-15T09:16:04Z",
-   "location": null,
-   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
@@ -666,31 +652,6 @@
    "id": "3cd5ba93d0927c1c"
   },
   {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
-  },
-  {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
    "summary": "",
    "category": "flooding",
@@ -1054,6 +1015,20 @@
    "id": "5e873afff09666bd"
   },
   {
+   "title": "กรมชลฯ ลดการระบายน้ำ 4 เขื่อนหลักวันนี้ รับภัยแล้ง Tutto Food Milano (u8r2gr2ide)",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Unisba Media",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk9mSVZGbmpsejRCRF9oZHo0Qm1BQmNORkdOV2I2ZEQ3T3M1STF4TTBfVUVpeWcxRTZ6Y21aazl5UTRwSWVqZkJwTTFOcG91M3BRQWRuenJLYXQ1NURLUHlwaEZxVGg1ZHdEaVBKQXpyNkhuU0VQam9wTXVDUmtmUg?oc=5",
+   "time": "2026-11-15T01:26:25Z",
+   "location": null,
+   "id": "e258d105b8777f8b"
+  },
+  {
    "title": "สภาพอากาศวันนี้ 15 พ.ย. เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วม อ่าวไทยคลื่นสูงเกิน 3 เมตร",
    "summary": "",
    "category": "news",
@@ -1154,6 +1129,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TUh6VG1nM1BYUERiRVRTV01QU0U4ejBhRzhRalF1MWZDa1JMTlc4b1BueE9yZTI4OUprdkxla2dCb3RSQ04xejNxVkY1YmRMQ05OQzl0LXBVT3puSzQ0TFFiWU0?oc=5",
+   "time": "2026-11-15T00:24:43Z",
+   "location": null,
+   "id": "c5981bf1762e4db0"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1782,6 +1771,20 @@
    "time": "2026-11-14T05:15:21Z",
    "location": null,
    "id": "11e9a975d4c1d423"
+  },
+  {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
