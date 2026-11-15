@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T13:59:44Z",
+ "updated_at": "2026-11-15T14:06:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,9 +18,9 @@
  "counts": {
   "flood": 31,
   "flash_flood": 7,
-  "storm": 15,
+  "storm": 14,
   "landslide": 8,
-  "earthquake": 10,
+  "earthquake": 11,
   "wildfire": 2,
   "drought": 4,
   "pm25": 11,
@@ -208,20 +208,6 @@
    "id": "9d7a411b3d28ede9"
   },
   {
-   "title": "อุตุฯ เตือน 18-22 พ.ย. ภาคใต้ฝนตกหนัก เช็กพื้นที่ไหนเสี่ยงบ้าง?",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ0ItdGNUQTNhVHJNXy1CRktNdXMwVmNKVmwtN1V3eWZrQXVmZWFuNlVyQnpXY2dLaFZDWXliM0R6YkN2RHlJajY1a05KSDRsRVE?oc=5",
-   "time": "2026-11-15T09:48:25Z",
-   "location": null,
-   "id": "66208b4fdb99c787"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.หางดง อ.ฮอด จ.เชียงใหม่ (Tambon Hang Dong, Amphoe Hot, ChiangMai)",
    "summary": "",
    "category": "official",
@@ -366,6 +352,26 @@
    },
    "incident_id": "fr_news_fdc0038ef0e94b566355",
    "id": "fdc0038ef0e94b56"
+  },
+  {
+   "title": "กรุงเทพอ่วม! ฝนตกหนัก น้ำท่วมหลายจุด ถนนเพชรบุรี รถติดยาว แนะผู้ใช้ทางระมัดระวัง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WeGF3Tm9nTzhYTjNIeHh6NUJoSk5iV2tZeGdjb1dQd2Y2c1hiZ1dIWml0eFVFR01vNUwtWGltdzdCWGU1YUJnLVlfdld2c1VrSkpXRnJZcDE?oc=5",
+   "time": "2026-11-15T08:16:59Z",
+   "location": {
+    "name": "ถนนเพชรบุรี",
+    "lat": 13.75,
+    "lng": 100.56,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_4b037c275db0b0867085",
+   "id": "4b037c275db0b086"
   },
   {
    "title": "ตรงแยกเทียมร่วมมิตร น้ำท่วมสูง 2 เลนซ้าย 15.04 น. ถนนรัชดาภิเษก เข้าออก ผ่านแยกเทียมร่วมมิตร น้ำท่วมสูง ส่งผลให้การจราจรติดขัดอย่างหนัก #ฝนตก #ฝนตกหนัก #น้ำท่วม #ถนนรัชดาภิเษก #แยกเทียมร่วมมิตร #ข่าวจ",
@@ -703,6 +709,20 @@
    "id": "1b21fdfbaa19dc1f"
   },
   {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 292 กม.",
    "category": "official",
@@ -848,20 +868,6 @@
    "id": "0ac54e993b988bb8"
   },
   {
-   "title": "อุตุฯ เตือนพื้นที่เสี่ยงภัยฝนตกหนักถึงหนักมากบริเวณประเทศไทยวันที่ 15 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50MUFnbENFNS1XbzhUdlQ3aThDczFRakV0alVqYTBZRjI4UVpxYl9qU1l3STc5QzFPZ0lfb3VPdGhRbS0wVEh5OVlUQjdqc3RJSV9J?oc=5",
-   "time": "2026-11-15T01:11:54Z",
-   "location": null,
-   "id": "a73c35a440fac23d"
-  },
-  {
    "title": "รัฐบาลโอนเงินช่วยน้ำท่วมแล้ว 1.3 หมื่นล้านบาท",
    "summary": "",
    "category": "news",
@@ -934,6 +940,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
+   "time": "2026-11-15T00:06:04Z",
+   "location": null,
+   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1399,20 +1419,6 @@
    "location": null,
    "incident_id": "fr_news_ba52b1961dbfdea216ec",
    "id": "ba52b1961dbfdea2"
-  },
-  {
-   "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGptMUhmeE9QbTV0cU1uY2JvRGxJQmE4YnhTdDJ0b3RWX1dwS3hKdU9PdEJCeHFPcUl1RUlGWjVPcWVfalRuSi1TcDRxLTl4eWRLa2phSTNvdjlGR3ZJOExET0U3UU04YmZzdUZtVlI3UXZqMk9zT3p2Vm0zMWhEenNvX2xVejhlTThn?oc=5",
-   "time": "2026-11-14T09:12:52Z",
-   "location": null,
-   "id": "077cba84bf0edfc4"
   },
   {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
