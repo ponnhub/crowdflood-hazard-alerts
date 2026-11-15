@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T21:37:15Z",
+ "updated_at": "2026-11-15T21:57:21Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 35,
   "flash_flood": 8,
-  "storm": 18,
+  "storm": 19,
   "landslide": 9,
   "earthquake": 10,
   "wildfire": 2,
@@ -165,6 +165,26 @@
      13.955
     ]
    }
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 1.9 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 98 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17446",
+   "time": "2026-11-15T21:26:33Z",
+   "magnitude": 1.9,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 21.062,
+    "lng": 99.222,
+    "precision": "epicentre"
+   },
+   "id": "14d9e7b3d69de569"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1206,26 +1226,6 @@
    "id": "9074781a5cc0b2c2"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.8 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 65 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17436",
-   "time": "2026-11-14T18:36:10Z",
-   "magnitude": 2.8,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.041,
-    "lng": 97.951,
-    "precision": "epicentre"
-   },
-   "id": "1ecb1bd7b8a680e7"
-  },
-  {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -1961,6 +1961,20 @@
    "location": null,
    "incident_id": "fr_news_864cd6c3cff17187d8d6",
    "id": "864cd6c3cff17187"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ \"เหนือ-อีสาน\" อากาศอุ่นขึ้นและมีฝนบางพื้นที่ ขณะที่ภาคใต้ฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVHpOc3lVSEVmMnNsekpPV0JhSWpvRzhSOG5abXEwU1B3ekIzZVFrbHpKd3c1b2wtS05mUjZPcUxjNm9BMndfa3lnTGlWZVRkSGlmaHRlbzc?oc=5",
+   "time": "2026-11-14T00:56:52Z",
+   "location": null,
+   "id": "959ff668b8b839ac"
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
