@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T08:07:46Z",
+ "updated_at": "2026-11-15T08:28:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 35,
+  "flood": 34,
   "flash_flood": 7,
-  "storm": 14,
+  "storm": 13,
   "landslide": 10,
   "earthquake": 10,
   "wildfire": 4,
@@ -200,6 +200,26 @@
    "id": "7fad531f5f99a0d7"
   },
   {
+   "title": "เพจ Drama-addict โพสต์ เวลา 14.35 น. (15 พ.ย.69) ระบุ ลูกเพจ ส่งมาล่าสุดจากถนนเพชรบุรี ฝนตกได้แป๊บนึงน้ำเริ่มนองแล้ว #ฝนตก #ฝนตกหนัก #น้ำท่วม #ถนนเพชรบุรี #ข่าวจราจรสวพFM91",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi8gVBVV95cUxPY3htVXZ4TVVKVEV4N1I2NkhpcWdQQ0VDcnJid3hlaTlYa1NSZjJDT2lMSVM5MjRKRkRjNEVrUWJRYlVLbTFsYVI4SkthTk1rOTNCZnJaUTFxXzd3Y2pLTy12NzhUSnBsLUV5Vm1OV2dTQ3pYWTVqNVJfOXNmTTN6OS02NDJQcWs4Sy0xUFNPS2hkeFVHVl82SEJEbkdJbE9jcDFkMjd0YzJ6Y0h6Yi1WQWI2cERzUmgwS1d0N2Q0aTk4eGlOa2NXOXhYa2kzcXZWZmhyY0kwd3FrcDE4VkVEcncySjc1TDBxWTVySkIyT2VFQnRpOG1NcUJNV1dDblhVTEhhM3BmWno4LXY5QTZ0bE45cWc0ckFHX1REeG9VM2k1WEZDUW8yMXBEaG5lcUx2c1o2aHN2T0FvamFjVUFmRTA0blcyMlhITHFWV25QcFNWRXI2SHBvT2RYN2hPd1BtM1BNY2NVZURFaGcxRFhJdDNHOTBkYXZJa0hraHV1OFhoX05qRGtwRzdpVzJsNmw5WVhNU0kwTERFek1BYnlYVE1WMF85NW9jZ0U0RVd4NjY3YzZjOE96S1dNb2UydzljeTh1SWVWRXloTm04UUkyZkppblJnTFNWYW8xVmxrZWJjSldRSmIzcTZVZnBGLVZpa083TGh5SVJWM1VPR25ZeGZzVlJ5b3p2aTdobkRDaWQyVUZNd3VYNnN0ZGszcmpOdXdQTnhZdUpYWkhsZ0xxcDA2OXBYNk5lS2M4VTNkRzY1MHRWODlMRWtwRHVycXI2VGwza2I5RkIzMTNXN1ctVDNYbVNKaWtVRi1xeWdKdjhWRHlLZl9OM29DcmpNTWlPdjRESTVjTS1yd3lJNWhDNnBSbUdmVWdNcXNDc05EXy0tb19KVFBocmw4dzNwamRKZE9fZFA5RTdjNWFSQUN1Q3hJQllJa1JMWEhxTlp3eHBUZ2JEOHhJNjBfRG1sZnM4TFhVblJ4S2VfTnBmZnRSRTh3?oc=5",
+   "time": "2026-11-15T07:46:01Z",
+   "location": {
+    "name": "ถนนเพชรบุรี",
+    "lat": 13.75,
+    "lng": 100.56,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_290c1e4c4d79473fdb6c",
+   "id": "290c1e4c4d79473f"
+  },
+  {
    "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ‘กทม.’ จ่ายค่าซ่อมบ้านสัปดาห์หน้า",
    "summary": "",
    "category": "flooding",
@@ -224,6 +244,31 @@
    },
    "incident_id": "fr_news_3cd5ba93d0927c1c86c3",
    "id": "3cd5ba93d0927c1c"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
+   "time": "2026-11-15T06:47:08Z",
+   "location": null,
+   "id": "03ece8a5ea80cd34",
+   "area": {
+    "code": "TH1011",
+    "level": "amphoe",
+    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
+    "bbox": [
+     100.709,
+     13.69,
+     100.879,
+     13.794
+    ]
+   }
   },
   {
    "title": "ระทึก! แผ่นดินไหวเขย่าเวียดนาม ขนาด 3.6 “กองเฝ้าระวังแผ่นดินไหว” เฝ้าระวังผลกระทบใกล้ชิด",
@@ -384,6 +429,26 @@
    },
    "incident_id": "fr_news_e1019e8c623a750cefd5",
    "id": "e1019e8c623a750c"
+  },
+  {
+   "title": "“สกลธี” นำทีม ปชป. ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม พร้อมจับมือชาวบ้านฟ้องศาลปกครองสร้างบรรทัดฐานขีดเส้นสิ้นเดือนนี้",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlX01XdDVudklFTkZMa3FUUkVNSlRPMXpmTFgyc2JwVHZYaW5kVVFvcEk1X3NoNWk5Y2JxSTdZOWpzUmtwWHpMVlYzb185Rnp4WUVuY18yTEc5dw?oc=5",
+   "time": "2026-11-15T03:00:00Z",
+   "location": {
+    "name": "ถนนร่มเกล้า",
+    "lat": 13.77,
+    "lng": 100.74,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
+   "id": "1b21fdfbaa19dc1f"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
@@ -553,20 +618,6 @@
    "id": "7d20931e210f93de"
   },
   {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 40 กม.",
    "category": "official",
@@ -685,26 +736,6 @@
    },
    "incident_id": "fr_news_4e1eff5b93924fff9b75",
    "id": "4e1eff5b93924fff"
-  },
-  {
-   "title": "สกลธี นำทีม ปชป. ลุย ร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม พร้อมจับมือชาวบ้านฟ้องศาลปกครอง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "มติชน",
-   "source_url": "https://www.matichon.co.th/politics/news_5975982",
-   "time": "2026-11-14T13:44:19Z",
-   "location": {
-    "name": "ถนนร่มเกล้า",
-    "lat": 13.77,
-    "lng": 100.74,
-    "precision": "road"
-   },
-   "incident_id": "fr_rss_1506d15aa2347f99149c",
-   "id": "1506d15aa2347f99"
   },
   {
    "title": "สกลธีนำทีมปชป. เตรียมฟ้องศาลปกครอง จี้ กทม. เร่งเยียวยาน้ำท่วม ร่มเกล้า-คลองจั่น",
@@ -1080,20 +1111,6 @@
    "id": "d9b6cb84ed4c2550"
   },
   {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-14T08:24:37Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
-  },
-  {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
@@ -1255,6 +1272,20 @@
    "time": "2026-11-14T05:15:21Z",
    "location": null,
    "id": "11e9a975d4c1d423"
+  },
+  {
+   "title": "ปภ. เผย ‘เอกนิติ – ภราดร’ เตรียมประชุม คณะกรรมการป้องกันภัยพิบัติภาคกลาง 17 จังหวัด | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUa1UxSS10Qjk1UTI4c2ljR2stX2ZpTXhERU9UUkI2V1FOU2o0eXNfNzJXYmJvalhiZUdnRXVCTHN1S3hpTmQtSDZGRWV1QmQzYVNpZlRn?oc=5",
+   "time": "2026-11-14T04:09:58Z",
+   "location": null,
+   "id": "83009af6207a86ed"
   },
   {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
@@ -1569,6 +1600,20 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
+  },
+  {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
@@ -1899,75 +1944,6 @@
    },
    "incident_id": "fr_news_d52ec4063847d947016f",
    "id": "d52ec4063847d947"
-  },
-  {
-   "title": "ปภ. เผย ‘เอกนิติ – ภราดร’ เตรียมประชุม คณะกรรมการป้องกันภัยพิบัติภาคกลาง 17 จังหวัด | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUa1UxSS10Qjk1UTI4c2ljR2stX2ZpTXhERU9UUkI2V1FOU2o0eXNfNzJXYmJvalhiZUdnRXVCTHN1S3hpTmQtSDZGRWV1QmQzYVNpZlRn?oc=5",
-   "time": "2026-11-13T08:24:21Z",
-   "location": null,
-   "id": "83009af6207a86ed"
-  },
-  {
-   "title": "ตำรวจชุมพร นำกำลังลงพื้นที่ดูแล อำนวยการจราจรปชช.หลังเช้าวันนี้ฝนตกหนัก น้ำท่วมขังพื้นที่หลายเส้นทาง ปัจจุบันบางจุดน้ำเริ่มลดลง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "สวพ.FM91",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93dE5vSy01X3lVRGVGMTBPMnVSdTRmUVJHb3Z2OG9aUTVxQk9RZUpiT2ZzdWJCX2ZlMXJoNk82UWlTN2J0eVFFX1FRM2c5TjBJLV9z?oc=5",
-   "time": "2026-11-13T08:17:18Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_a1423a4e924993697ada",
-   "id": "a1423a4e92499369"
-  },
-  {
-   "title": "เงินเยียวยาน้ำท่วม 2569 ล่าสุด ปภ.โอนเพิ่ม 11 จังหวัด-กทม. รวม 23,170 ครัวเรือน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nYWdoeWNORmtJYmM2RXM4bHZlOE5icmxCWm1zeVVDM1kyYjNqck00UEdmLUFJdDZiZFMzUUs0dW1jd2hleVZtV01OX0Nibl9UNkd1S0lkOEI?oc=5",
-   "time": "2026-11-13T08:15:00Z",
-   "location": null,
-   "incident_id": "fr_news_8c6319ad465778cfed2c",
-   "id": "8c6319ad465778cf"
-  },
-  {
-   "title": "📢 อัปเดตสภาพอากาศ 13 - 19 พ.ย. 69: 🌤️⛈️ 🧣 ไทยตอนบน: 13-16 พ.ย. อุ่นขึ้น มีหมอกตอนเช้า 🌫️ แต่ช่วง 17-19 พ.ย. จะมีฝนฟ้าคะนอง ลมแรง ก่อนที่อุณหภูมิจะลดลงจากมวลอากาศเย็นระลอกใหม่ 📉 🌧️ ภาคใต้: 18-19 พ.ย. ต้องเฝ้าระวัง! ฝนตกหนักถึงหนักมาก ⚠️ ระวังน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiqwZBVV95cUxPdFpsMUZqb3ZxNDFsa25MdmE0SVAycEdwX011TkVIbVo1LUUtNzF6aWdDRUhIRkEwcW1MTEdWYm5GazRaMHB3N2djNWIyX1JrYlU3V0h0RG1XZXIxak5yRjZkclZob2xybTZIUXpFNWFmZGJEU2V5enFiYmtnekttR1NrakV2V0M3aHNBdVF2Y1hvNG5qSUk1Ym9MZkFRNjRydUkwZkFwcWpIc3pQc2dza3BYWTh4MXVoeWQxZjJtcEowdURuT05ZaUN0WmdZb2E3X05xWUtIZ19PMzFLWm5rYVhEQzc2bjRzZ0hBSDV6SnpRX05oanNSYXdSZ1JpUnNoODBiQVJ4UnBLaEZzdUZhSlBXTGRheThXYlNSMVJNUERyZUVsUXd0TDYzOF9YRUFnd25xeERQMkdDS0F5c2FocUw3YWUzMWthQ0k5MlcxX3JvSllaMGFZeEw3V19YeUYzM1BSdHVUMW01VWRaNjZtMWxJZ1JXMWxoOVhhYlFfUktPM09TTXlXNmVYUkZmSERyTWt3VE9rekU1SUVHV3N2ZHRCVzQ0SWRYbEpfelpkM2NDQUxEM0pOa2Q2MGk0ckx3d1NQRGxSVGg3VjZzdXEtRXdycUs1blhjQkpQT0x5OEJDYlZaSE9PZVNmTGdFM3VhWlFEel9tRGpCVnBGQzJVUDZBNjMxNUxKVFU0M2Q5ZU5qS3k1QnU2TF8xYXAyVjA2SG1kY05iQVpJOXRoYWlncExmbVFyZzQ5bHZkVjBYcjBya2hsMFhKZFVFQWNxdDhKZ3NrMjRHSlowQjM5MEFoZjF1Y3NPbnRfVlRoZDhqNjVKVzA0VC1uN1VTSmplZHVBcVdMejNjb1ZfMXFMcnVLZ3ZuekVER3Q0bE95aTBRVzRKQTRJeklsWHM2NnZBM1gySm12UUJobVMtd3R0cnhtc3dzQUxqMFJLTmlGSkZpanNnWkZoV2tMaXVJd1BSN2hmUERJUTFpTU1sUzN5Z2w1OGZ5WUFHLWtwUngzUXozNkQ4S0JJcTdXMDN2eV9adng2MEw3R2tsWXljeGszX0ozNjcyTnpzODFzTnpn?oc=5",
-   "time": "2026-11-13T08:11:40Z",
-   "location": null,
-   "id": "d9ed444632df0af4"
   }
  ]
 }
