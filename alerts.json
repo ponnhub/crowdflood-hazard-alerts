@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T07:53:19Z",
+ "updated_at": "2026-11-15T08:07:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,13 +18,13 @@
  "counts": {
   "flood": 35,
   "flash_flood": 7,
-  "storm": 12,
+  "storm": 14,
   "landslide": 10,
   "earthquake": 10,
   "wildfire": 4,
-  "drought": 4,
+  "drought": 5,
   "pm25": 11,
-  "heat": 0,
+  "heat": 1,
   "tsunami": 0,
   "other": 3
  },
@@ -146,6 +146,58 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
+  },
+  {
+   "title": "ล่าสุด \"ราษฏร์บูรณะ บางคอแหลม บางกอกใหญ่\" โดยเฉพาะ \"ธนบุรี\" ฝนกระหน่ำ #ฝนตก #ฝนตกหนัก",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxQMnBkMnZfNmg4OGFXNFBjWnROeTNHLVhZTFlaYUoyeHFkaFhrUTZpZktVWjlhWTA0anRzOWNzaUgtSnhLcWhxWXhkd3BqbGFXaTFsM0t3WmVhQWlVZDF5X2pRM25WUC1kbXJJLTBBMFpVb0JVeDNJc2VKUjZvYzJXeVpTX1llQVgzMWhBYVBCWEZsQk1hcUNkWW12SXFqVkhoYjNTQm1lRllEa2NtUWtUa0tFbnN1c0FqcG90SjJabFZxS081Y056OUdGRGVVUlM5MldkdmJGelRQckxKWTVPZ0wtcFZOMFJOczU4Y3NVNDV5dENGbDM2V0pHTjBpaW5mTVV5X2I2YjM3YWQ5ZUxtalcybHhfemY4WEpQWGZ4OWlHWWlRbWpPVGVSUTJXcGQ5OVNTcjNueVZsRVhscVJpbUdDbWxIRUxIdmh3WUdxQkxKbHV6dEMzakJZMUFSd00wVjR1VU9KMXY0RjBNUGNkMTNXVXgwSWYzVHNmNVlEa3NJaGJXd3JkcWZrLXlsaU15b2JQX3pVWWZnLUItR0xCZE5XSWgzWW9YNzNHelpQb01ENTFrR3JjNHlJYWtfOElWd205aXlvSHJ0MDVCWlM1MUdWMHpPN0Z4Z041b3c4VjlmakVGRXBIR3pYblR2Q3pFaFVfQUstQTJRX2FNbjM3bkRncUdwRUloNEU3YnVRdVBZYnhKdHB1czlSei1YaENFOWZ3TjAtc0syOUJzTUg4RnB2TmtPYWpZVExzZmtvMFpnZTFFRHUyZl8zeG1FbTZsTTVlV3F1RVBGMGVnWUhGYTB1MGUzQ2VWVklYa3doYXNTc1JJSjVqaXE1RGFia3ZkekVCcXZxemFGTXZBUGZld0N5NElseUFkeVQtZURMUG5vakJER1h0SDZGbjFFc2J4QU9VOFhfM056MVdfXzJSMWNvbGhvZDc1R0NIck13SjB2b1VMUkFFQmxzem9EbldCRnAwVy1qMENnN0prNzZwYUUtN2tkLXhsa2VhaExtMFZhbW5jNWlIYV8tS0JGQ1NCalBEbFgyalVCbF9UMnF3SkhHWWFnTjh0TmdfRjg2WTNRRUJuUHdRZXdZSnFzV1JZOWZDeW1rS0JjWDBnWTY5czg3dk9Zc3lNRlV5RFJqODkzaEZidHB5QWRGbVlqakF2WWZQN05qRTFmYUtUbkM1MnpuLVJEc0YtTG5oOXgxVmZMc1h2R1hFVVNLNUFOWVozUzAxMnV0V3kwVmF4MmRTVGlrZ0ZKTzhaV1RseUFIQWFobDM4SVhfcEpHMFhEM19z?oc=5",
+   "time": "2026-11-15T07:51:25Z",
+   "location": null,
+   "area": {
+    "code": "TH1016",
+    "level": "amphoe",
+    "name": "เขตบางกอกใหญ่ กรุงเทพมหานคร",
+    "bbox": [
+     100.462,
+     13.723,
+     100.492,
+     13.748
+    ]
+   },
+   "incident_id": "fr_news_357eca81c156fb0c4d5d",
+   "id": "357eca81c156fb0c"
+  },
+  {
+   "title": "จับตาปี 70 ไทยเสี่ยงร้อนจัด-แล้งหนัก กทม.จ่อเผชิญน้ำท่วมใหญ่ เปิด 3 มาตรการรับมือก่อนวิกฤต",
+   "summary": "จับตาปี 70! ไทยเสี่ยงร้อนจัด-แล้งหนักสุดในรอบ 5 ปี กทม. มีโอกาสเผชิญน้ำท่วมใหญ่ เปิด 3 มาตรการรับมือก่อนวิกฤต อย่ารอภัยมาถึงแล้วจึงเริ่มเตรียมตัว โลกร้อนกำลังทำให้ภัยธรรมชาติรุนแรงและคาดเดายากขึ้น ในปี 2570 ประเทศไทยต้องจับตาความเสี่ยงครั้งใหญ่ ทั้งอากาศร้อนจัด ภัยแล้ง ขณะที่กรุงเทพฯ ยังมีโอกาสเผชิญน้ำท่วม หากไม่เร่งวางระบบป้องกันอย่างจริงจัง รศ.ดร.เสรี ศุภราทิตย์ ผู้อำนวยการศูนย์ภูมิอากาศและภัยพิ",
+   "category": "flooding",
+   "hazard_type": "heat",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://www.khaosod.co.th/special-stories/news_10473227",
+   "time": "2026-11-15T07:50:13Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_rss_7fad531f5f99a0d73b80",
+   "id": "7fad531f5f99a0d7"
   },
   {
    "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ‘กทม.’ จ่ายค่าซ่อมบ้านสัปดาห์หน้า",
@@ -453,6 +505,20 @@
    "id": "0ac54e993b988bb8"
   },
   {
+   "title": "อุตุฯ เตือนพื้นที่เสี่ยงภัยฝนตกหนักถึงหนักมากบริเวณประเทศไทยวันที่ 15 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50MUFnbENFNS1XbzhUdlQ3aThDczFRakV0alVqYTBZRjI4UVpxYl9qU1l3STc5QzFPZ0lfb3VPdGhRbS0wVEh5OVlUQjdqc3RJSV9J?oc=5",
+   "time": "2026-11-15T01:11:54Z",
+   "location": null,
+   "id": "a73c35a440fac23d"
+  },
+  {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
    "summary": "",
    "category": "news",
@@ -485,6 +551,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
+   "time": "2026-11-15T00:06:04Z",
+   "location": null,
+   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1323,11 +1403,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VlRlNVJFVzZnUFJJN0trSjVwVE5IaTgzMlhibFl2MEVHSG9DeEUzRXl2TUc3QUlfUUNzZVVJY0JaSnBaeVJIOEVLRlBtZFViZjRn?oc=5",
-   "time": "2026-11-14T01:38:22Z",
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
+   "time": "2026-11-14T01:38:00Z",
    "location": null,
-   "id": "6be9ad088b919f8d"
+   "id": "06fecd57eb4c424f"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
@@ -1397,6 +1477,20 @@
    "time": "2026-11-13T23:56:00Z",
    "location": null,
    "id": "7e43ac11cd310847"
+  },
+  {
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
   },
   {
    "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
@@ -1475,20 +1569,6 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
-  },
-  {
-   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
-   "time": "2026-11-13T13:24:46Z",
-   "location": null,
-   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
@@ -1698,6 +1778,20 @@
    }
   },
   {
+   "title": "สภาพอากาศวันพรุ่งนี้ 14 พ.ย. เตือน 3 จังหวัดใต้ฝนตกหนักถึงหนักมาก ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fSWoycmpzSlV3cFBQVnNheE9qbVk2MXNqRHQtdE1nbTZRUk5uRUcyQVhFdnZ5dkZTVjdkeFJJRndBSXBJRkdTN2ZWU0NrZ3hGdkV5NS1UWnJCbTlYWkJEM2VFbkRZTDExamVDa0dVRU0xZ0ZSakxaSWdnbWM?oc=5",
+   "time": "2026-11-13T10:05:35Z",
+   "location": null,
+   "id": "d91a91efe3a66f16"
+  },
+  {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
    "summary": "",
    "category": "news",
@@ -1874,32 +1968,6 @@
    "time": "2026-11-13T08:11:40Z",
    "location": null,
    "id": "d9ed444632df0af4"
-  },
-  {
-   "title": "จังหวัดชุมพร ฝนตกหนักต่อเนื่อง เกิดน้ำท่วมขังในเขตเทศบาลเมืองชุมพร ระดับน้ำ 30-40 ซม. ไหลเข้าท่วมร้านค้า โรงเรียนหลายแห่งประกาศให้ผู้ปกครองมารับกลับเพื่อความปลอดภัย | สวพ.FM91",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BMjREaDlWV3k3R3pCVnVBUG5NRDdVUklmZzZYMUJnUWxQSTNXME5ZT0JZSlg2ZGNXcHVkeGFnZnlXUFJORmZkQlJsb0cxNXZTNmNmaEdrUXlteVhPcklQWkg1a2djdFdUelExNnZXc1FRXzgtRVFGUWhIWk5oZw?oc=5",
-   "time": "2026-11-13T07:57:42Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_ede77e01ec1688b9e330",
-   "id": "ede77e01ec1688b9"
   }
  ]
 }
