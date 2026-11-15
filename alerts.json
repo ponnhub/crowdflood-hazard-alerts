@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T23:25:43Z",
+ "updated_at": "2026-11-15T23:37:24Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,13 +19,13 @@
   "flood": 36,
   "flash_flood": 9,
   "storm": 18,
-  "landslide": 9,
+  "landslide": 8,
   "earthquake": 10,
   "wildfire": 2,
   "drought": 5,
   "pm25": 11,
   "heat": 1,
-  "tsunami": 0,
+  "tsunami": 1,
   "other": 1
  },
  "items": [
@@ -70,6 +70,20 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
+   "time": "2026-11-15T09:16:04Z",
+   "location": null,
+   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
@@ -1251,20 +1265,6 @@
    "id": "7d20931e210f93de"
   },
   {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
-  },
-  {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -1819,7 +1819,7 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
-   "title": "ลาวไค: ดินถล่มบนทางหลวงหมายเลข 4D ทำให้ครูได้รับบาดเจ็บ",
+   "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -1827,10 +1827,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU52a1JhS3liN3hfU1JYdFNtM0ZiSXotcW9ESHhDVHgzdS1ETldkbTlnckNTTEJkcXJUb1lqNEUtQVEzN180YjRUWFcxOUc2VlZtM25CbHhKbldFOFpWMEFCMjFUQXdmRmJyMlR3LWRxTlFIaTdyeW0wT1NfNmV5bnBPT3draHFRWWtabDNSbkE4cVNOTDNYRA?oc=5",
-   "time": "2026-11-14T04:31:10Z",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlEzanV3OTFNQzQ3NEFlNG1OLWZaSS1yVDI5dzRJdndKSE5SRHlCS1lUb0NTS1hPc1pXQ2JTRmtOT21PbWdtVVhjTWItNGlUTEFlNmdKenhEVkRmMDVaR0VQWFZfbDFOYzVoODBQSnlreHZtR2JXVzQwMkl0S05Kejl6YlJHanJP?oc=5",
+   "time": "2026-11-14T03:29:37Z",
    "location": null,
-   "id": "b5fd34187ad1144d"
+   "id": "da519d64c98691c4"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
