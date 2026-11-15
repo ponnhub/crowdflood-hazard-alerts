@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T08:36:08Z",
+ "updated_at": "2026-11-15T08:59:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
+  "flood": 35,
   "flash_flood": 7,
-  "storm": 14,
+  "storm": 13,
   "landslide": 10,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 4,
   "drought": 5,
   "pm25": 11,
@@ -98,6 +98,20 @@
    "time": "2026-11-15T00:25:17Z",
    "location": null,
    "id": "1f73f096426d99e4"
+  },
+  {
+   "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
+   "time": "2026-11-14T03:10:45Z",
+   "location": null,
+   "id": "857a909dfb60d9d8"
   },
   {
    "title": "แผ่นดินไหว ขนาด 5.2 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -264,31 +278,6 @@
    },
    "incident_id": "fr_news_3cd5ba93d0927c1c86c3",
    "id": "3cd5ba93d0927c1c"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
   },
   {
    "title": "ระทึก! แผ่นดินไหวเขย่าเวียดนาม ขนาด 3.6 “กองเฝ้าระวังแผ่นดินไหว” เฝ้าระวังผลกระทบใกล้ชิด",
@@ -471,20 +460,6 @@
    "id": "1b21fdfbaa19dc1f"
   },
   {
-   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
-   "time": "2026-11-15T02:59:03Z",
-   "location": null,
-   "id": "4c6b3975edb06432"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 292 กม.",
    "category": "official",
@@ -618,6 +593,20 @@
    "id": "a73c35a440fac23d"
   },
   {
+   "title": "รัฐบาลโอนเงินช่วยน้ำท่วมแล้ว 1.3 หมื่นล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TjdMaHRnTUJNUGpjZnNQVEt4YWJhbWJncnVtR0NESkhXMTZYaG9pUXpjRjN2Y0dTeFBSMXlxOTIwUHZIUVoycTZUaHJkX2FNRHhwU1hCNTBJUQ?oc=5",
+   "time": "2026-11-15T01:09:55Z",
+   "location": null,
+   "id": "0c7fc28f42e778fa"
+  },
+  {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
    "summary": "",
    "category": "news",
@@ -650,20 +639,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1159,6 +1134,20 @@
    "id": "d9b6cb84ed4c2550"
   },
   {
+   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
+   "time": "2026-11-14T08:24:37Z",
+   "location": null,
+   "id": "99bddd5dd9dd2b90"
+  },
+  {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
@@ -1482,11 +1471,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
-   "time": "2026-11-14T01:38:00Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VlRlNVJFVzZnUFJJN0trSjVwVE5IaTgzMlhibFl2MEVHSG9DeEUzRXl2TUc3QUlfUUNzZVVJY0JaSnBaeVJIOEVLRlBtZFViZjRn?oc=5",
+   "time": "2026-11-14T01:38:22Z",
    "location": null,
-   "id": "06fecd57eb4c424f"
+   "id": "6be9ad088b919f8d"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
@@ -1648,6 +1637,20 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
+  },
+  {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
@@ -1938,46 +1941,6 @@
    "location": null,
    "incident_id": "fr_news_0e4ef0a892e33c95ee40",
    "id": "0e4ef0a892e33c95"
-  },
-  {
-   "title": "รีเช็คแผนรับมือฝนตกหนักพื้นที่ภาคใต้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZmdmUVNNNklIN0hBZlRwcXRnRWlHWDNBbHMwR1c4RERGa1c1aWxBVWRKdjFrcktpdFF3eW03V0NHZkUtU0prbGs5MkJPV09mS0xwWV9KQ0FfN0UzOV9qbkZDazZYQQ?oc=5",
-   "time": "2026-11-13T08:45:58Z",
-   "location": null,
-   "id": "99bdc19318ac773a"
-  },
-  {
-   "title": "ชุมพรวิกฤต! ฝนตกหนัก ทำน้ำท่วมสูง 30-40 ซม. บริเวณแยก รพ.ชุมพร-หน้าโรงเรียนศรียาภัย | The Bangkok Insight",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2T2ZGRWMtY2lHVVpwdWZyM25OQS00MUhDeE82TTdzdVRYdmZEZnYtejJnUzF4cVpfb1BEQnZiaG56TU1BMU5KM2MwdG1wMHRNcFNRRFFzNk80V2ZnTGVlV1JzUHRua2lFTWpETG1McFBMcklPZzRyZEVIUlNHZw?oc=5",
-   "time": "2026-11-13T08:37:52Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_d52ec4063847d947016f",
-   "id": "d52ec4063847d947"
   }
  ]
 }
