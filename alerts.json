@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T03:29:01Z",
+ "updated_at": "2026-11-15T03:38:05Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 39,
   "flash_flood": 11,
-  "storm": 11,
+  "storm": 13,
   "landslide": 11,
   "earthquake": 10,
   "wildfire": 4,
@@ -321,6 +321,20 @@
    "time": "2026-11-15T01:21:20Z",
    "location": null,
    "id": "0ac54e993b988bb8"
+  },
+  {
+   "title": "อุตุฯ เตือนพื้นที่เสี่ยงภัยฝนตกหนักถึงหนักมากบริเวณประเทศไทยวันที่ 15 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMmFlWnFiWlBMN2JDb2pyR1NTZEVDcXlfb1gzVTZwYjdObkZpdEVIZ2RwUlJBV0JxZHExbkpwd0ZwdHg4VXZidDhXYlFwOENVVUE?oc=5",
+   "time": "2026-11-15T01:11:54Z",
+   "location": null,
+   "id": "4cd5df4d24d91430"
   },
   {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
@@ -1662,6 +1676,20 @@
      19.811
     ]
    }
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 14 พ.ย. เตือน 3 จังหวัดใต้ฝนตกหนักถึงหนักมาก ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fSWoycmpzSlV3cFBQVnNheE9qbVk2MXNqRHQtdE1nbTZRUk5uRUcyQVhFdnZ5dkZTVjdkeFJJRndBSXBJRkdTN2ZWU0NrZ3hGdkV5NS1UWnJCbTlYWkJEM2VFbkRZTDExamVDa0dVRU0xZ0ZSakxaSWdnbWM?oc=5",
+   "time": "2026-11-13T10:05:35Z",
+   "location": null,
+   "id": "d91a91efe3a66f16"
   },
   {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
