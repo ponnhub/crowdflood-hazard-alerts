@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T02:35:55Z",
+ "updated_at": "2026-11-15T02:50:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
+  "flood": 39,
   "flash_flood": 11,
   "storm": 13,
   "landslide": 11,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 4,
   "drought": 5,
   "pm25": 12,
@@ -38,10 +38,10 @@
    "urgent": true,
    "official": true,
    "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kb1FMWjhOQjBSdXJXZW8yRFFUa0NGMEphcWtBYndIWko2RG5JQkFsUGxxOU1ZSS1EMTNXU2JnU3J1QWtkUXNqTlBQM05HLWFyTUZfOWNR?oc=5",
-   "time": "2026-11-15T02:25:52Z",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHVOY1hFTmZvclBzLTUxVHRybTdEVUIxQUhDQmIyblQzN0xYUzdycFB2UU4yV01VZjluZExlTUFQQ1dfZnFCQnZQc1pJdUh2a181cHRvX1BlVHU0MEFHUlduaWxwSzVfV0EyaHZiUkVJVlFZTjREWUdmTy0zX0tkOA?oc=5",
+   "time": "2026-11-15T02:40:16Z",
    "location": null,
-   "id": "e96f6c6d8a951d65"
+   "id": "fb499efa4ecf071b"
   },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
@@ -2132,66 +2132,6 @@
    },
    "incident_id": "fr_rss_ef80ef3c6d1d109ff6bf",
    "id": "ef80ef3c6d1d109f"
-  },
-  {
-   "title": "อัปเดต! วงแหวนแห่งไฟ โลกกำลังขยับ! เปิด 4 จุดเสี่ยงแผ่นดินไหว-ภูเขาไฟปะทุ จับตาอนาคต 2–3 ปี",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "springnews",
-   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBieWprM0RkcV9aVVhSMmdvYWRhUlNtQXF4MG13Vkh3YmkwWGhtUS03M0xxdXhhdk94MVNnOGM2Yjhna0tmUWZsNlRRbFp1ZFlWMWlOWGhrUUlhZjhtMm5PUElESWNwOFZBOUpCZzNhQjJWYnM?oc=5",
-   "time": "2026-11-13T02:52:14Z",
-   "location": null,
-   "id": "b439697e0495356e"
-  },
-  {
-   "title": "ชุมพรอ่วม! ฝนถล่มหนักทำน้ำท่วมทางหลวง อ.หลังสวน 3 เส้นทาง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PMkpuU0R1ZGd3bFZZajF4dmtqLUE2R3VQTlBmM2ExWjQ2R1JLU1lPcVRjNXFMUk5xVnhmRnFhaHJIZ3c5bVNyaklGbk5LYjRJSV9Lc3FB?oc=5",
-   "time": "2026-11-13T02:45:00Z",
-   "location": {
-    "name": "อ.หลังสวน",
-    "lat": 9.9334572,
-    "lng": 99.0640328,
-    "precision": "district"
-   },
-   "incident_id": "fr_news_acb5dd4f47e7866e9abd",
-   "id": "acb5dd4f47e7866e"
-  },
-  {
-   "title": "ภูเก็ตอ่วม! ฝนเทกระหน่ำทั่ว 3 อำเภอ น้ำท่วมขังจุดเสี่ยงซ้ำซาก - Tnews",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Tnews - ทีนิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xY2NyQ2dLV2E3MUhGQVZFdWlRZFVtc2dwS3Bydm83YmlTTlZOVmpub21Ba0xObXo4cldkNldhQVM3WjJYVWFaOENPLTZUeHNaYmlJeWx4Zl9GY1NiR2c?oc=5",
-   "time": "2026-11-13T02:38:00Z",
-   "location": null,
-   "area": {
-    "code": "TH83",
-    "level": "province",
-    "name": "จ.ภูเก็ต",
-    "bbox": [
-     98.262,
-     7.767,
-     98.441,
-     8.199
-    ]
-   },
-   "incident_id": "fr_news_61ca5cf051d35d58e743",
-   "id": "61ca5cf051d35d58"
   }
  ]
 }
