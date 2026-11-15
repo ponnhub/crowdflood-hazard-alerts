@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T12:57:32Z",
+ "updated_at": "2026-11-15T13:10:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,11 +17,11 @@
  ],
  "counts": {
   "flood": 32,
-  "flash_flood": 7,
-  "storm": 14,
+  "flash_flood": 8,
+  "storm": 13,
   "landslide": 9,
   "earthquake": 11,
-  "wildfire": 3,
+  "wildfire": 2,
   "drought": 4,
   "pm25": 10,
   "heat": 1,
@@ -114,20 +114,6 @@
    "id": "1f73f096426d99e4"
   },
   {
-   "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
-   "time": "2026-11-14T03:10:45Z",
-   "location": null,
-   "id": "857a909dfb60d9d8"
-  },
-  {
    "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -140,6 +126,20 @@
    "time": "2026-11-14T01:18:54Z",
    "location": null,
    "id": "4b8e60af9d1a97d2"
+  },
+  {
+   "title": "การดูแลความเป็นอยู่และแก้ไขปัญหาความเสี่ยงจากดินถล่มอย่างทันท่วงทีสำหรับชนกลุ่มน้อยโคตูในเมืองดานัง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVlRb2c4NFZXU0dwMjJpck9hZWhyeE85Z1VBM0x3bUpCVmczRjFnR3ZTbTB6Rkd1SVF0ZlRvQ0VQRjlBZTNFMkc2d1RORVpPaEFHeW1ibXRDN1BIend4UjBBQXBjakFXZUJYRWxBWGp0MnYxQmxCYUZhS3dfSlYtd3pqb25ETVR1bGV3VDE5azBsV2hLelFmR3ZLd3RCZw?oc=5",
+   "time": "2026-11-15T11:10:37Z",
+   "location": null,
+   "id": "700fe17c92120d5c"
   },
   {
    "title": "กรุงเทพมหานครเร่งแก้ปัญหาน้ำท่วมเขตประเวศ สร้างประตูระบายน้ำและขยายบึงหนองบอน",
@@ -853,6 +853,31 @@
    "id": "f937a3f8fceba5b2"
   },
   {
+   "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกหนักในพื้นที่ จำนวน 2 ตำบล และอีก 1 อำเภอ ดังนี้ ต.พ้อแดง ต.บางมะ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxPRXAwOEN5bktNZzJBbllkTHBhMzlaXzFpSlE4ZFNqMUcyNXFrSE1WOTgzMWQ1VVdHQUJmSzRTTkVtUUxOeHA1Y0VZbS14b1h6QTVTeTUzRk5MY2ZhbktlWDJZcWFhTkl1ejZGaWI3V0E0YWJyTmp2d1ZwMUllVkRvVkFzdG1BMHpNaC02WFNmZXhna2JaNHBqbEFuUlJyNHZQejFnWVQxUFhwXzVTMDNtUy1fUjdtUmZFRUdwNHBWNmtOREp3b29GbHNpZmttcmNzQnVUN0JobWlNNFFXNmZpQ0pJdEFzSlRtQ3lUNXpfN0dnb2FWVnVYWlJJcmk1NnVFZms5MzlUbWF1QUxKdDBQS05DZWI5bjE2QkhNeTVuTGRFUUt2MXBXaHo2ZkpmQ1ZTTlhIeGplRTA2Yi1aemFJYldxYlJ4azBodjBHbEZSTnhyR0oxeGVJVXoyMmhsdEctNlM5d3hMYWZTdmN4cTdzak9YNGlUcHZSYmNSRGxRa0dJdVAzVklZSno5M3JjTk93SDByNHpkbW9jWGlFTVBmTWtHVlRDUzdvcE9FZVNxSGZxZGFCNng4Z0l0YkYwdG53amZrWl9oTlpzbU84SjFSdTB4Z1cyc09HY0QtU21mOElxUEM2ZjgxbEdDNVFTVzNyNWJ5Z1BrRHZtYzhLbUgyLU1Ed0prUUo2aHR2YnBpTlJ0RWV2c3kyV0NkeHhWUFExU3Y0OWRkekVxOXBDanhyUjViQTNRaWYxVWxkY0pxNnA2anpWUVhKSEtwR2o3Qm13Q296aXdXVFhNek1YaUVqT1MzeFlES1ZXY0g0VTF1SmM1S2JMYm5WWkZQN2RBUDZKMmFnbGhkMVpVcHA0NVNlLVhncVFrWlJfb0lCZDZyejhmODhNZENvNE42aGhnTEpkYkRQbjEteXl4YUx2Y0ZjWG8xTG52YkJ4QWdTMlJjZnFvaEZ0eXFEcVBSd3F0TjRONVBPTjY0aHAycFRsWlhlWnBGRXZROUdjcU93Ylp1Yk44SWRRRFp5aExqLUhmQ1J3U3FQU0F3VjNNWWpqbUstMndOblIxQkxZOEdJb1JSZEQwcWEyMnBTNkc3Mmw3bkY1dTZwS2REUlYzbGF6a3FhcFA0VVRybzBueTBSNHdfaUE0N3pjbFdhLXdEa2toYjFlcEh5UE85cnZMTkZWR0tOSWpVREJlVTkzcFdFUnY1cGw4YkdqODhXZnZ3V1owUWVzYnh1dmRScW1xYk5YMXJqVVpSR0RPdzdReHRzMkg0Zk5hNl9LdlUzTHV6Q21BemNPX0hLb3RYX1VIc0VSazNFY0lfSDlPTldISWFuUjF4a0ZhYVdzX01QaVctT1kwY1E?oc=5",
+   "time": "2026-11-15T01:00:29Z",
+   "location": null,
+   "id": "effc42c897c8181b",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.พบพระ จ.ตาก ประมาณ 108 กม.",
    "category": "official",
@@ -1515,20 +1540,6 @@
    "id": "11e9a975d4c1d423"
   },
   {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
-   "location": null,
-   "id": "905b0413b2721e98"
-  },
-  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -1802,20 +1813,6 @@
    "time": "2026-11-13T13:24:46Z",
    "location": null,
    "id": "94fdbbfabcc9283b"
-  },
-  {
-   "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPdl95UHRNdHdjWlRGMVppcFpEdUhYRDlQWDBBbGNGby1sN3g0QTlfN01qU0VVZzN0Zk4wQVBXdUltODlyX1huT1BjLXlSQ3JqT19xZUx3QXp1bzduUXFISlRldXQ5bVhWSzFUMVVOT1BTS2VGRFBHQl9CQWpsVk1oODBIM29UMldtZ0REM2ZRUmtzMDhuWm5fRUhqSDNXMG9HSXhuRXR0ZWdBOTFhbGZrRjZ4WGZtN0I3RnByeWhOSEVFd0dsVkhXdzQzUFZLTk5ZaWN0TEs2LTFWakh0dVhHNmpDRW5zamgxOW93UUdTUHNTTWc1TFJWX2otLWp6X01vemU5WDV0T1VMR2dYNkJiTzRGMWdKc0N3WXpwMGQyRUtGdXVOOWVzTFl4WXctejM2TVdTZC1tMkdyUlR0QmF2SFQ5WUhSMTdTYnVKVDhWYzBPSVN0UzVvVU1xTU9IbHNaeXZlV3JWTkVvbmYwTDU5VENJdkxaTFlnT1RfbWcxVVBMTWtzMFVsZUhmcHZUREh0VGdLV2NIVjZYVGpyOWNNVVRUblVKODEtX3l2WmhOV2JyMWtTNmJfbkxnTWU0WTZnM2xTMk8yS25vYXdxSk9qR2pCOWdLZVlFVGJKdktYVE95SmxXbW5NTUF0MTROQW0xSXB4cUJlazAtZ09DUHZkQ2lvcU93ZFVTWFZkU2N4VEdjZGg0Z211Y2ZXMFlBZ25FY3lUbHRSSWh5dVJMYmV5RlE1dmdBa0YtakkzUHJ6Sk1oV3ZGVkRWWlpibzhOYVd5M1VTb0ItdDlLbVk4eWpsWHZSX1dYWnNDdThDUHFNVEZlRWhhVVNveFUtTUZ0VDNfZ2ZJSkVBX1hMN0hQcGlleFJwVzBwTm4wY0pLMmtaRFpHcU1sNWQyVTFzZFE3YTMyWjROaS1MdWEtU25pOTcxdjI5aHRlcG1fMTFHbnhKSXJzSkVQZlozNmRMNzZad2ZNS2d0R1RRXzBsR0U1SlNEZy1IMUNxM2xTd3JVZ2I3Y1BWQWI3THl1U29zamN1aXFza0FJWEstY0lwQ3JlRXpUckxGaXF3WkpFODRaV2trRUNqUU03X0ZmMmZNLVFHQ08ybFZWWXpDTHB4RkFkWTFlLXRFRElBRmFKVjl1OFhRMU5Fci12dUZ0WXZaczYtdXBtUkV2ZTdBdnMyVEY5R1FmWmE4WU82NldiZUF2dVpUcDNCZ0JhSTBydnU1X0xsV0d2MW12Q0pra1F3dWMwZmo2aUZSN05wWHdLUDVYN0s3ZVUyeHg0V0E?oc=5",
-   "time": "2026-11-13T13:00:44Z",
-   "location": null,
-   "id": "0c42365e6dd53f6c"
   }
  ]
 }
