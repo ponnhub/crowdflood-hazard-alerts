@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T07:24:18Z",
+ "updated_at": "2026-11-15T07:37:06Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือนภาคใต้ฝนตกหนักถึงหนักมาก 18-22 พ.ย. พร้อมคลื่นลมแรง อ่าวไทย-อันดามันสูงเกิน 3 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BWU0zbW1mSGQxVGFjWFN6bVY5cTNoUFlad3pQTlJubi1LaC1TWkV6ZE5nYUVibmdFeE5XQXB2Y1RWNGlMcGc5b3U3Y1gzWm11QndNZmlNODMzYUkzdmRxWVVSUXJNbGplSGZCN3J3?oc=5",
+   "time": "2026-11-15T03:44:00Z",
+   "location": null,
+   "id": "b4e7cd18bad139ca"
+  },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
    "summary": "",
@@ -501,20 +515,6 @@
    "id": "549eee348d188e9a"
   },
   {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 40 กม.",
    "category": "official",
@@ -969,20 +969,6 @@
    },
    "incident_id": "fr_news_3f8bb2b12aa5efe2501f",
    "id": "3f8bb2b12aa5efe2"
-  },
-  {
-   "title": "ใต้ฝนตกหนัก 10 จว.เสี่ยงท่วม เตือน 18-22 พ.ย. ไทยตอนบนมีฝนลมแรง ก่อนอุณหภูมิลดฮวบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGbjFjUlVuWFZMeEpiWG5wRmVHZ0tXckJ2cTRqZ1paMF9HUkIwb3g2ZFdISWJiWFJlX3hyY0lWMXNQQnpETVFObXRaNlRWRmlqdnZZaE5pZ3hmaC1SODRnU2xCdll4dw?oc=5",
-   "time": "2026-11-14T10:31:00Z",
-   "location": null,
-   "id": "524307faff1358de"
   },
   {
    "title": "Ca Mau ตอบสนองต่อภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญ โดยให้ความสำคัญกับการรักษาความเป็นอยู่ที่ดีของประชาชนเป็นอันดับแรก",
@@ -1517,6 +1503,20 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
+  },
+  {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
