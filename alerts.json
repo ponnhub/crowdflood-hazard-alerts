@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T01:35:48Z",
+ "updated_at": "2026-11-15T01:51:15Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 11,
-  "storm": 17,
+  "flood": 38,
+  "flash_flood": 10,
+  "storm": 15,
   "landslide": 11,
-  "earthquake": 11,
+  "earthquake": 12,
   "wildfire": 4,
   "drought": 5,
   "pm25": 11,
@@ -37,11 +37,11 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Bczl0RU5jQkFXeGhyZFJ4RHRzWHB4Mm9LbUFaRXdSTk83YzBMdGhlQ1R4V215QjB3NTlYM2JkNlNVN1huSG9MQmg4U0dMdi1wR1JuOGR3?oc=5",
-   "time": "2026-11-15T00:43:51Z",
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1samljcF9veHBhcVdMX0FxMEpUX2dPYzdkSmVmRmV6VlhjNENteHZwQnVMN004Y1Q2cW5wdng2QlBrZ3RIempLZHUxemUtOHlvQWRBZkVBNXhoN3gzbm1LZGV6MA?oc=5",
+   "time": "2026-11-15T00:27:00Z",
    "location": null,
-   "id": "a56545ac8085d3a6"
+   "id": "e1d89245d3f8dfdc"
   },
   {
    "title": "ทั่วไทยฝนยังชุก กรมอุตุฯ เตือน ภาคใต้-กลาง-อีสาน ฝนตก-ลมแรง ระวังน้ำท่วมฉับพลัน-ป่าหลาก",
@@ -79,11 +79,11 @@
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
-   "time": "2026-11-14T03:10:45Z",
+   "source": "ข่าวหุ้นธุรกิจออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BWWRTTG5LZFMwdUdRX1d1OGl1Yk9USHhUWllwWnpXSzZPekIzeVpGN2YtTkp2WURtZzRkV0ZrZnVSNGVYTExGR2t4RQ?oc=5",
+   "time": "2026-11-14T03:05:14Z",
    "location": null,
-   "id": "857a909dfb60d9d8"
+   "id": "701462075da0bfa6"
   },
   {
    "title": "แผ่นดินไหว ขนาด 5.2 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -134,20 +134,6 @@
    "id": "cec48c2db91f29d6"
   },
   {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-13T17:11:26Z",
-   "location": null,
-   "id": "e9a5a74c6159ab01"
-  },
-  {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -190,20 +176,6 @@
    "id": "33492b7c7b89b9ef"
   },
   {
-   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
-   "time": "2026-11-13T04:30:00Z",
-   "location": null,
-   "id": "c48ec9b0c8b66e7a"
-  },
-  {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -229,32 +201,18 @@
    }
   },
   {
-   "title": "กรมอุตุ เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม ระวังอันตรายน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "News.in.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2MTM3V2Q2S2t2WFJqN2llMld2ZzU2cGZSeml5cFd1bGRyQlRja2RpLWQ3YnBuc0x1SnBrYTBZNTVtc00tSFdGa2xVQXQwaGMxNnZlQg?oc=5",
-   "time": "2026-11-13T01:47:31Z",
-   "location": null,
-   "id": "e0aca7ef44dad637"
-  },
-  {
-   "title": "อุตุฯ เตือนพื้นที่เสี่ยงภัยฝนตกหนักถึงหนักมากบริเวณประเทศไทยวันที่ 15 พ.ย. 69",
+   "title": "สภาพอากาศวันนี้ 15 พ.ย. เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วม อ่าวไทยคลื่นสูงเกิน 3 เมตร | The Bangkok Insight",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMmFlWnFiWlBMN2JDb2pyR1NTZEVDcXlfb1gzVTZwYjdObkZpdEVIZ2RwUlJBV0JxZHExbkpwd0ZwdHg4VXZidDhXYlFwOENVVUE?oc=5",
-   "time": "2026-11-15T01:11:54Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0cXBnbENOU0ctd3VxYzY1YVcyellYdzhuX1VHV0lyU2ZPVDFzdU1kVktac2VnNnc2cGM5b0V5ai1wZTdBcHlkRnZUVjV0YmpNSlRnQnVB?oc=5",
+   "time": "2026-11-15T01:32:07Z",
    "location": null,
-   "id": "4cd5df4d24d91430"
+   "id": "08e9ce888ce4469e"
   },
   {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
@@ -928,6 +886,20 @@
    },
    "incident_id": "fr_news_6c5a65374171fc591550",
    "id": "6c5a65374171fc59"
+  },
+  {
+   "title": "หญิงเล่าสุดช้ำ ตัดสินใจหย่าขาด หลังเกิดแผ่นดินไหว สามีหนีเอาตัวรอด คนเดียว | Khaosod",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMzItSWtESTNLcWkyTGlOV0ZTQlp6dDlCMkh2Wm5jRjZzQk4zclRTbTFrLUVybHBiYmp5aGY4bjBMTUJFc21wejR6aDlJMDN0VXpRdlp3?oc=5",
+   "time": "2026-11-14T06:14:57Z",
+   "location": null,
+   "id": "23e422a4a8c090d7"
   },
   {
    "title": "ลาวไค: เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 4D ทับครูหญิงที่กำลังขี่มอเตอร์ไซค์",
@@ -2208,32 +2180,6 @@
    },
    "incident_id": "fr_news_0f59a5304f34fad9c2ce",
    "id": "0f59a5304f34fad9"
-  },
-  {
-   "title": "เอาไม่อยู่แล้ว! ชุมพรอ่วมฝนถล่มต่อเนื่อง นํ้าท่วม 3 จุด เปิดพื้นที่วิกฤติสั่งรถเล็กห้ามผ่านเด็ดขาด",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "สยามนิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oZEZpYk5OTHRMb1FIVElpbnVjdWUtbjh3cDJYRkxuMlJ6TWVMckV4WW5pd0tqLThveTFEVGZHMFdFLWtlcHh4SC1IY3JsM0ZOdFJxZlViSQ?oc=5",
-   "time": "2026-11-13T01:45:48Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_b3926a54a5c720972838",
-   "id": "b3926a54a5c72097"
   }
  ]
 }
