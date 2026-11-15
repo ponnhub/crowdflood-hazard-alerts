@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T09:55:17Z",
+ "updated_at": "2026-11-15T10:13:40Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 36,
   "flash_flood": 7,
-  "storm": 14,
+  "storm": 13,
   "landslide": 10,
   "earthquake": 11,
   "wildfire": 4,
-  "drought": 5,
+  "drought": 4,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
@@ -58,6 +58,20 @@
    "id": "cea01b4ba7519bea"
   },
   {
+   "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา | ข่าวหุ้นธุรกิจ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHVOY1hFTmZvclBzLTUxVHRybTdEVUIxQUhDQmIyblQzN0xYUzdycFB2UU4yV01VZjluZExlTUFQQ1dfZnFCQnZQc1pJdUh2a181cHRvX1BlVHU0MEFHUlduaWxwSzVfV0EyaHZiUkVJVlFZTjREWUdmTy0zX0tkOA?oc=5",
+   "time": "2026-11-15T02:40:16Z",
+   "location": null,
+   "id": "fb499efa4ecf071b"
+  },
+  {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
    "summary": "",
    "category": "news",
@@ -70,20 +84,6 @@
    "time": "2026-11-15T02:14:40Z",
    "location": null,
    "id": "8ecadc60912d6f4d"
-  },
-  {
-   "title": "“กรมอุตุฯ” ประกาศฉบับที่ 1 ไทยตอนบนเตรียมเจอฝนฟ้าคะนอง เตือนภาคใต้ฝนถล่ม 18-22 พ.ย.นี้ ระวังลมแรง คลื่นสูงเกิน 3 เมตร เช็กจังหวัดได้รับผลกระทบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gb21fSWhrZEd4eVYwbGVaUEIwNzEyVk5DXzZjSVpGZE1rYVlZZXhMUFlyQzBmaER1eTFvRE9yQVl6UkFLMDdMb1lDeFVTLVE?oc=5",
-   "time": "2026-11-15T01:55:11Z",
-   "location": null,
-   "id": "e4f04f37b76adeb3"
   },
   {
    "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
@@ -142,18 +142,18 @@
    "id": "4b8e60af9d1a97d2"
   },
   {
-   "title": "กรมอุตุฯ เตือนใต้ฝนหนัก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย. ฝนถล่มหลายพื้นที่",
+   "title": "เตือนฝุ่น PM2.5 กทม. -ปริมณฑลเกินมาตรฐาน 9 พื้นที่ 19–20 พ.ย. 69 แนวโน้มสูงขึ้น",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16N1RZLWt5OTE2Um9Kb0tFc2s2cEp0SWxrMFBJS0phOW0ycTBmbFJTT2JsaGE5S05nN29oODl6UFhIWjdKa0xxeWpUNTRLeEpjaVVvYg?oc=5",
-   "time": "2026-11-13T23:21:38Z",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11NWdlOXV0cFp4cFBLNzBvM3VTZUFEWmwxa2d5ZkNYcFpmMl9XQ1N3Mmd0aC1lRDZ2R3BEclJFeE9aQ1F3U21vSGN1YVBEUWVTcUYzMlMwX0l4Z2o2OE5nd0xDRHBXTmQ0Nzdz?oc=5",
+   "time": "2026-11-15T10:00:00Z",
    "location": null,
-   "id": "cec48c2db91f29d6"
+   "id": "9d7a411b3d28ede9"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.หางดง อ.ฮอด จ.เชียงใหม่ (Tambon Hang Dong, Amphoe Hot, ChiangMai)",
@@ -779,20 +779,6 @@
    "id": "7d20931e210f93de"
   },
   {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 40 กม.",
    "category": "official",
@@ -1057,6 +1043,20 @@
    "id": "d842dc0a19219fd7"
   },
   {
+   "title": "จังหวัดลำดงเตือนถึงความเสี่ยงต่ออุทกภัยฉับพลันและดินถล่มเนื่องจากฝนตกหนักต่อเนื่อง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzVoakk5eDNXTlZXZGJjTUxCLWtQcFVOVlQ2ZkpJTDRnSnVkcDNsd1RDQjBNRVRiMzZJSTZockRmdk9kMmVReFRITEJQSHRFVjRrT0l4VkEtMnBVaWNGYXIzNmVpZFlodmYyaW5RS3dVNXB6N3FiVWZfYjFrN3c3UUFETGpVRllIQ3VFem1DdHREVkFjb21qSGlR?oc=5",
+   "time": "2026-11-14T12:52:00Z",
+   "location": null,
+   "id": "a2b045bd48925f39"
+  },
+  {
    "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
    "summary": "",
    "category": "flooding",
@@ -1284,20 +1284,6 @@
    "time": "2026-11-14T09:06:03Z",
    "location": null,
    "id": "d9b6cb84ed4c2550"
-  },
-  {
-   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
-   "time": "2026-11-14T08:24:37Z",
-   "location": null,
-   "id": "99bddd5dd9dd2b90"
   },
   {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
@@ -1642,20 +1628,6 @@
    "id": "ecde071f78e79007"
   },
   {
-   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
-   "time": "2026-11-14T01:12:42Z",
-   "location": null,
-   "id": "2f39d96fcb7ee273"
-  },
-  {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
    "summary": "",
    "category": "flooding",
@@ -1973,6 +1945,20 @@
    "id": "9e8dd7b4232c69dd"
   },
   {
+   "title": "สภาพอากาศวันพรุ่งนี้ 14 พ.ย. เตือน 3 จังหวัดใต้ฝนตกหนักถึงหนักมาก ทะเลคลื่นสูง | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01X0VfLTdfeVNNZFh6X3IxWjJ0QmVBOWtIWTBwUEg1cWtKWl9lVk8wTlN2LU5LenlJVHdaYUo2ZGpiWVh1RVk2R1BSdGt5QV9vOUdpcmRn?oc=5",
+   "time": "2026-11-13T10:23:31Z",
+   "location": null,
+   "id": "166769a4d65a727c"
+  },
+  {
    "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
    "summary": "",
    "category": "news",
@@ -1996,20 +1982,6 @@
      19.811
     ]
    }
-  },
-  {
-   "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "จส. 100",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaDAtOFdjTllUSkJpY1BFX3R6TVZpYWgtbDBDbTNGbUlwWkZWczJ2NDRId1JaMTVERE1OV3djc1M3RTE3Z3lGbUlNY3RGMlJkTFNZQnRUekZUdw?oc=5",
-   "time": "2026-11-13T10:03:00Z",
-   "location": null,
-   "id": "3c1c67e686fcc83e"
   }
  ]
 }
