@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T14:58:41Z",
+ "updated_at": "2026-11-15T15:09:22Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 35,
+  "flood": 34,
   "flash_flood": 7,
   "storm": 18,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 2,
   "drought": 4,
-  "pm25": 10,
+  "pm25": 11,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -482,16 +482,16 @@
    "urgent": false,
    "official": false,
    "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxPU3ZPRVBSRDdCYmRMeURCNW9VaVVfX3ZfbXVuU195TjAxakZDRGtvY0lRSlk5QW1wMXlQVkI2ZlJYenI2SEtub2ZneVpBMG5LRThDV2NmUUtta2VmcTRzYUh1ZUJpMEtrNU1tdFNoRV8wdDVIWFVhZ3R4ZTNXbGFLSmtXbzQ3RzlOOVRNVXkyQ1l0UGVac1hqWlJ2UnJYelVtYkRnYi0tcTNTMTdGdVlwcEhWNzMtSHNwY1FLNVJhRDFNSzdHWjFYMWoyeHMxdHVJMGNFRFFJUjZhdTctX21tMnBYekJ3TFFEV3Rld08wWnhhZDV1X1lIYy1LbXBlTGJuWGFtMVA0cXY0LUVIcE5Yem5vVlI5dFMxejdyMFM5TVRwLVpDcW02RnlNX3J2M21sNmNDUm16RlVCcGxlQVc4enVmVU1oallKNjk4YnpwbmUtdE9oYUZ4TnlqQzVyTHVEZ2lHUW5JZV9OV0Fob2ZqVVAyRmVfV3pGNWNYRkVXbG1fb0sybHlmN29yZGY3YmhFUHNyZ0VkTUlZdWhCTHFvVmlPOHNra2FrZkYzTERJLWc1eU9rVUJkOGJsN2paN0hEd1REMWJ3ZmxVbkJVMDlrMHpqUlVhTUw4LURubWQyR2pTSmhyeEhaZmJUdXIySEJUMzNyVGdVbTJIMkIyeWdUdC15cVM3alFRbEQ4ckJRTXlxS1dZUWZZZnpiM25LY0hrSkt4ZUJsSThpSUFiN3lUaWdJTnNPSWkwdUpmcHBOMTBlYm0zbHl4N0p4c19SWV9ERjk0WXJoSC1nS3BOOGZwSTNQSjYtRlh1ZDV5UTVBaG5lU3ZPclBVdVdUU3BjYVAyZnI1ZnktUVM1MGdhNkVYcS03Zk5zMlFmX0JfZDZBemEzZ0EtcWk4UGJmMXJNT2Y5WEV3eE43TUdjUEQ0V2VNV0dzaHJMLV9FWVZpRi0yQ3kwTDU3bEdHcDc3TWVhRU1NbXR0TmJiejZ2dkc2akFWejVfdDZVUGJkSG0wN2RzaXYyRy1zXzN1UW1MdXR3QzBqVm9IWlZySVk5cHlNUjh1eEdFVTJLdlZIT0RoWkhDaUZCOHBzcnAwZm5HQzlVVFZXdjc2aFdkcDFwUTZIQWZUbzZzRGlZOWdUVjQwa3Boc2RkOEdWcTAzYWpqQnZhUnRvWE9FcUlncFI3YnNvZkE?oc=5",
-   "time": "2026-11-15T08:43:24Z",
+   "source_url": "https://news.google.com/rss/articles/CBMi_AZBVV95cUxPUXlNRWFCTFRLTjZBNnVlUUhvUU9odDNCWnBrZElrOUdEMzJxZlo0U0ZEeGpQYl9EbHltVm1hbGdhVm1CX25SVEw2R0JuTmg2dFZDNjBnNVFoSGJ2YVZiRUd1bFNSMFBuNHJoQ1A0QUNxWTJRSWkzby1mYkVGOGV2cnZ1VUs3MXBGUGlVZjZtTWxkdk8ycV9nTVFaTldKUk8xbVpxNnRqZUIzR0ItVnJXNDBPdExrRGNFTkY2Si03bnZXMXJ0bE1WU0Nkc2NJbWFZTzFkQ2VPY2JGY1dsVDhtMmkyb3BIRERIXzUxYjdNODNaT3YzdWhsajJKLWR3cjlJaDRLT3ZpRDJENzg1VjItZ3R1blMzNXRDZmRpd2ZBVDhYVnVoajdDalI2TjEzb2NmXzZ0a3RXZGJBTmNmM05ESnk2MHhXM0VaSktMWXZxWWFoRHo4b1FKV29vYjVwWXFDZF9SYktlOFhHd21YbmNOOUQ4Qm9Gb2RVSG5HZ2dpVTJDZ05JSWlqRTdpTEtXMUhRZ3FSeXY1bkdoYjlBQUZSLTJ5T01EQ1BhRkZfOUtzejJaSXh0ckwzUkZBMm4xZk5IVWs3X3lRaXVrcXRkNU5qam5kQkVJNzhpcVVDLWNxcTlSUlBNMUJCcnZxLU9SRTlNamZ5TGlFbzJpWmRyQjR3b09SWXJDWEtzUXREZGxBSlF6aE40UzctRVlqWUQxcEw0VnBycWF0ZW8tdmJsNjJZVDV0bENyVGE1Mlc3QXlnYU5USUp3WTJnc09rbUZhWDFDenZCX04yU1hUUmpOZVA3VEVwYnhfZnFmQzJaQWY2Z1RoTmNKNHllcmxYaHMzaFkwOTllT09YcXBXRXBWVVhfUGxkaVVjaUUtbHRSVGRxcUdEd2ItV1VjejZnUTJvZ19tcjdiZ2JtRDN0QnM1aUVTUGhwdkZZcy13dGNLcnpaVXFxcl81cVZEVkV0OWx6UHcxMGFuMkxhQjNYWlprZV9ON3J4eDRkRzVSZGxLMklqZlFZV0NXbzJFOWlSYU0zT3RqQTNrdnc2bUpSMWNkbHNwNGtPRU82NHZMNkFwbWsxQVduVW53WGVBQ0xGclZFUjdERjFkX2pRekd5bGZOTDU3S2Y3NnlEQnJ4YnhEcm5EeHVzU3BFWDRvNDUtWFNLQnhESUN4NElWaklQQUFY?oc=5",
+   "time": "2026-11-15T08:44:15Z",
    "location": {
     "name": "แยกหลักสี่",
     "lat": 13.8841934,
     "lng": 100.5816608,
     "precision": "place"
    },
-   "incident_id": "fr_news_fdc0038ef0e94b566355",
-   "id": "fdc0038ef0e94b56"
+   "incident_id": "fr_news_b87384f07f0d615366df",
+   "id": "b87384f07f0d6153"
   },
   {
    "title": "กรุงเทพอ่วม! ฝนตกหนัก น้ำท่วมหลายจุด ถนนเพชรบุรี รถติดยาว แนะผู้ใช้ทางระมัดระวัง",
@@ -650,6 +650,31 @@
    },
    "incident_id": "fr_news_3cd5ba93d0927c1c86c3",
    "id": "3cd5ba93d0927c1c"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
+   "time": "2026-11-15T06:47:08Z",
+   "location": null,
+   "id": "03ece8a5ea80cd34",
+   "area": {
+    "code": "TH1011",
+    "level": "amphoe",
+    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
+    "bbox": [
+     100.709,
+     13.69,
+     100.879,
+     13.794
+    ]
+   }
   },
   {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
@@ -1954,32 +1979,6 @@
    "time": "2026-11-13T23:30:02Z",
    "location": null,
    "id": "93acca4fe0bb2af1"
-  },
-  {
-   "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6ZHpnOFBqa1BoanFJbTZlQXB0UkI4U3JHV2RpZjJQSTlDRkk2b090Z09WM0lGQm4zNWVGd0U4b2NfWGxTZ3d5TnVmakN6MDZwOVlzTVdiRW9CXzRiZ1ZlV0xHUV9iREptSEVfOHJB?oc=5",
-   "time": "2026-11-13T14:59:00Z",
-   "location": null,
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   },
-   "incident_id": "fr_news_b899ff4cc62e3b0313f9",
-   "id": "b899ff4cc62e3b03"
   }
  ]
 }
