@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T10:13:40Z",
+ "updated_at": "2026-11-15T10:20:19Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 7,
   "storm": 13,
   "landslide": 10,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 4,
   "drought": 4,
   "pm25": 11,
@@ -1043,6 +1043,20 @@
    "id": "d842dc0a19219fd7"
   },
   {
+   "title": "ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZUxld2pIR0R2SDAyUGhlUExITW55Q2x1UFFwWFFEb1M3QnA0TGtQUDd1LTFUSS11MG9sTmJaeUM1MW92bVdwdFdYcDdqZTBVQ2FtZkoyNWRDb21FQUJWSmMzNDBQbzVPOTFWd3FHRE82b0c4VzlZQU14cmM?oc=5",
+   "time": "2026-11-14T12:53:27Z",
+   "location": null,
+   "id": "e9248f4c23923a82"
+  },
+  {
    "title": "จังหวัดลำดงเตือนถึงความเสี่ยงต่ออุทกภัยฉับพลันและดินถล่มเนื่องจากฝนตกหนักต่อเนื่อง",
    "summary": "",
    "category": "news",
@@ -1101,20 +1115,6 @@
    },
    "incident_id": "fr_news_27c28a79ce76fec0afc2",
    "id": "27c28a79ce76fec0"
-  },
-  {
-   "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UWZrc245bE1McGlDTm84UlU5RWktWmJzVjByR3R3NmNSajJFY25BNk1QdnNrMHFHS1ZDQzFNSmN6V0stVk5sN0V0R3FYMmpjc0w2ZDltdGU?oc=5",
-   "time": "2026-11-14T12:11:27Z",
-   "location": null,
-   "id": "80a823f7d9e6a924"
   },
   {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
@@ -1595,11 +1595,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
-   "time": "2026-11-14T01:38:00Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VlRlNVJFVzZnUFJJN0trSjVwVE5IaTgzMlhibFl2MEVHSG9DeEUzRXl2TUc3QUlfUUNzZVVJY0JaSnBaeVJIOEVLRlBtZFViZjRn?oc=5",
+   "time": "2026-11-14T01:38:22Z",
    "location": null,
-   "id": "06fecd57eb4c424f"
+   "id": "6be9ad088b919f8d"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
@@ -1957,31 +1957,6 @@
    "time": "2026-11-13T10:23:31Z",
    "location": null,
    "id": "166769a4d65a727c"
-  },
-  {
-   "title": "แผ่นดินไหวเชียงใหม่! ขนาด 1.9 ศูนย์กลาง ต.เมืองนะ อ.เชียงดาว ลึก 2 กม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "www.cm108.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JTDl5MjFtVEtiTDBzU3NGcW04ZnIycEQ5dHg1ZlpSVkM4UXpmYThxSC1uWGk3U2p5MnoyU2gtSG1WWXQ1djlxYw?oc=5",
-   "time": "2026-11-13T10:17:00Z",
-   "location": null,
-   "id": "714efca87be5134d",
-   "area": {
-    "code": "TH500402",
-    "level": "tambon",
-    "name": "ต.เมืองนะ อ.เชียงดาว จ.เชียงใหม่",
-    "bbox": [
-     98.704,
-     19.567,
-     99.078,
-     19.811
-    ]
-   }
   }
  ]
 }
