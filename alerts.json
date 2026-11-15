@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T06:12:34Z",
+ "updated_at": "2026-11-15T06:22:28Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,12 +16,12 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 39,
   "flash_flood": 7,
-  "storm": 14,
+  "storm": 15,
   "landslide": 10,
   "earthquake": 10,
-  "wildfire": 4,
+  "wildfire": 3,
   "drought": 4,
   "pm25": 11,
   "heat": 0,
@@ -220,20 +220,6 @@
    },
    "incident_id": "fr_news_9d4a211d5cf83d1cff90",
    "id": "9d4a211d5cf83d1c"
-  },
-  {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-15T04:55:29Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ‘กทม.’ จ่ายค่าซ่อมบ้านสัปดาห์หน้า",
@@ -479,20 +465,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1081,20 +1053,6 @@
    "id": "21684a50440ac5b0"
   },
   {
-   "title": "โลกร้อนซ้ำเติม “ซูเปอร์เอลนีโญ” ไฟป่าอินโดนีเซียแรงขึ้น ต้นเหตุอาเซียจมฝุ่น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZUNEaE1KWmEzWXF2bml2cUlNYlFyNW1uUkxQUkRSSXo3d1hFSzZIa0thcU1zeURkX3BsN25DMFQyRFpCYXd0bzhxdkdHSjZRYWp3WHdB?oc=5",
-   "time": "2026-11-14T06:00:00Z",
-   "location": null,
-   "id": "3baba217cab7306c"
-  },
-  {
    "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
    "summary": "",
    "category": "news",
@@ -1330,6 +1288,20 @@
    "id": "ecde071f78e79007"
   },
   {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
+   "time": "2026-11-14T01:12:42Z",
+   "location": null,
+   "id": "2f39d96fcb7ee273"
+  },
+  {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
    "summary": "",
    "category": "flooding",
@@ -1343,6 +1315,20 @@
    "location": null,
    "incident_id": "fr_news_864cd6c3cff17187d8d6",
    "id": "864cd6c3cff17187"
+  },
+  {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-14T00:54:55Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
@@ -1489,6 +1475,20 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
+  },
+  {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
@@ -2022,32 +2022,6 @@
    },
    "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
    "id": "aa8fe6f7ed37628c"
-  },
-  {
-   "title": "กทม. มีฝนบางพื้นที่ หลัง กรมอุตุฯ แจ้ง ลมหนาวจะห่างกันสักพัก ช่วงนี้ ฝนกลับมากวนใจ ไทยรอรับอากาศเย็นระลอกใหม่ 19 พ.ย. 69 13 พ.ย.69 ศูนย์ป้องกันน้ำท่วม กรุงเทพมหานคร รายงาน เวลา 13.00 น. พื้นที่ กทม. ฝ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxPazhiYkZ5VV82elFwWUZQTHJkVE9YdDdMakY2MUctblFIYzdndTZ3TU5kR2RES0xRLXZlQzNMSzFXLWZoLTJ5cF8zcXhZTVZFNHNaVXZtdHJIc2pCUnI3YjFGdlcxeUVycDRMOEtLWDB2aFBwS0tNcjRCbGQ0TXhCR2ZFT096dkNtQTN5NUxrdGxQQUdfTmZEYkM3aDNlQ01ZUk5jUW50akhQYzJ5Q002RjhOdG55YjhHZmpYZGEwdDBBcy0tSlE4TWRuNTc2djdmeUxsbG56NDVBdUZWNjFyYktNa1NWaFA1NzFsSGkzQjZxblNwN0lXNGFxSDNhTGhmdXJqYTFGNVQ2YkxJLW1ITHRjaWg2a3hIMl9rTUxfRWdnTEN4ZHlIZVJSRlVKX0puc3lnYU1lNnkwcjd1eWxLRDQ3Wmw2QW9XcDZldVZWYzBkb3dSNTc2LVl1NEZjTXdTdHljc3lwR2FjNk9vV3h2Ylh3ZG5rd3Zfcm0zaDlfUzV0cmJwbW1QY2xkQ3Rsd0lXb05iTm1LTUY5MFJjWldiSTd4SzZMWFJIbHJaVDJuSlV2N2ZxcW11dERVSktGcVhTbzVwelBoNVcycXdURm0xQXNnS0tfbmNoVjVfeWo4T2t6STFIMWt3SThkbEdrWW9VZ25ja0c2eDQ4QXlBcUxoM19lcVo2dlpRdXdSRmxIZGVVYS1MMVd1ZTZVVVhHMDZTdVpTLWFpMVhFUk94X1N2SFdmRkxVQUFyTnNUY2ZXVXQ1cFJhMGFyQ2JKNjVtSUlENENzRTNxMGlrZnBwM0hxTlJiU3JnS1lSSkZONVMwaV81TTJnMDI3SEVEMFp6S1BqT2ZGcDBUenlkUjgtdTEwcEthMWl1YU5vdElEQWJOdXFuQ2VBYUhBLVRzc3Z1R1VxaXlGNFFGZzZZMDl4bDNIMjR1RDN5MFNjUENiNmNJTkxkU1ZQUDl3MWF3RDZ6QXIyLTh0YzRIenBjbHRiMDZaUGRwZU43XzZzUEJFWWZYT3V1VjZDZF9FeGdjUkJqMHc5QjB6WmRkLUd1MVQ3Q2RKRjgwcWpRRGVEQ2F3X1JCdnJvajhMbjZ1QTJ0NEp1LURKOFZib0dwZ1F0bnZ1LXZYbGxEMWRHdml0c2ExZHIwSlJGWjZwekhHM29sa05TTm1TUlZ3QkRaQ01DZVRIbXZkaV9LeUxYMWlyclNsYTRZT1Q5SEpIbjhzY2JLdVIyblFFcUlIaVU3cEZuNW5wUUM5RC1sVUMxNU5jZW5tMGUxX21MWXRXVGxqM0QzMFA1SnVrSXVweVpRRUdQZFoxd2t0RzJUSGI5N1U?oc=5",
-   "time": "2026-11-13T06:15:00Z",
-   "location": null,
-   "area": {
-    "code": "TH1027",
-    "level": "amphoe",
-    "name": "เขตบึงกุ่ม กรุงเทพมหานคร",
-    "bbox": [
-     100.624,
-     13.771,
-     100.675,
-     13.848
-    ]
-   },
-   "incident_id": "fr_news_f07feb07a1990212b3f9",
-   "id": "f07feb07a1990212"
   }
  ]
 }
