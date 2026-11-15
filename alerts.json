@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T05:52:15Z",
+ "updated_at": "2026-11-15T06:12:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
+  "flood": 40,
   "flash_flood": 7,
   "storm": 14,
   "landslide": 10,
   "earthquake": 10,
   "wildfire": 4,
-  "drought": 5,
+  "drought": 4,
   "pm25": 11,
   "heat": 0,
   "tsunami": 0,
@@ -100,6 +100,20 @@
    "id": "1f73f096426d99e4"
   },
   {
+   "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
+   "time": "2026-11-14T03:10:45Z",
+   "location": null,
+   "id": "857a909dfb60d9d8"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 5.2 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.ภูเก็ต ประมาณ 816 กม.",
    "category": "official",
@@ -160,6 +174,26 @@
    "time": "2026-11-13T07:18:33Z",
    "location": null,
    "id": "c8abb7329848c087"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 3.6 ประเทศเวียดนาม (Vietnam)",
+   "summary": "ทางทิศตะวันออกเฉียงใต้ของ อ. โขงเจียม จ.อุบลราชธานี ประมาณ 230 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17440",
+   "time": "2026-11-15T05:33:46Z",
+   "magnitude": 3.6,
+   "location": {
+    "name": "ประเทศเวียดนาม (Vietnam)",
+    "lat": 14.938,
+    "lng": 107.602,
+    "precision": "epicentre"
+   },
+   "id": "c8369f991ab37c51"
   },
   {
    "title": "กทม.คาดอุโมงค์คลองทวีวัฒนา แล้วเสร็จปี 70 เร่งแก้จุดน้ำท่วมซ้ำต่อเนื่อง",
@@ -226,6 +260,32 @@
    },
    "incident_id": "fr_news_e9fe8331feeb12a6a397",
    "id": "e9fe8331feeb12a6"
+  },
+  {
+   "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 13 ล้านบาท- กทม.จ่ายแล้ว 7 แสนราย สั่งเร่งตรวจสอบที่ยังค้างอยู่",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVk1jbjVURTlqRTJVdEdyWl9GMVVoUFcxbXdQTXZNZjEyZ1RoWXFTeWw4TjB1UldVd3hiekdOczRQbVhxQ1hob3hfeEdoaDRMbTR3d1lkSGJmNHc?oc=5",
+   "time": "2026-11-15T04:09:30Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_a5d4a451358262622d1c",
+   "id": "a5d4a45135826262"
   },
   {
    "title": "ลมหนาวแผ่ว ไทยตอนบนอุ่นขึ้น ภาคใต้ระวังฝนตกหนัก",
@@ -1270,20 +1330,6 @@
    "id": "ecde071f78e79007"
   },
   {
-   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
-   "time": "2026-11-14T01:12:42Z",
-   "location": null,
-   "id": "2f39d96fcb7ee273"
-  },
-  {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
    "summary": "",
    "category": "flooding",
@@ -1325,20 +1371,6 @@
    "time": "2026-11-13T23:56:00Z",
    "location": null,
    "id": "7e43ac11cd310847"
-  },
-  {
-   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
-   "time": "2026-11-13T23:30:02Z",
-   "location": null,
-   "id": "93acca4fe0bb2af1"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
@@ -1471,26 +1503,6 @@
    "time": "2026-11-13T13:00:44Z",
    "location": null,
    "id": "0c42365e6dd53f6c"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 182 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17430",
-   "time": "2026-11-13T12:48:08Z",
-   "magnitude": 3.2,
-   "location": {
-    "name": "พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
-    "lat": 21.884,
-    "lng": 99.06,
-    "precision": "epicentre"
-   },
-   "id": "dc5a8d7dcacf5429"
   },
   {
    "title": "UPDATE: กรมชลประทาน เร่งระบายน้ำเมืองคอน รับมือฝนหนัก ลดเสี่ยงน้ำท่วมสนามบิน–เขตเมือง วันนี้ (13 พ.ย. 69) นายวิทยา แก้วมี อธิบดีกรมชลประทาน ติดตามการบริหารจัดการน้ำในพื้นที่จังหวัดนครศรีธรรมราชอย่างใกล้ชิด โดยเฉพาะบริเวณสนามบินนครศรีธรรมราชและเขตเทศบาลนครนคร",
