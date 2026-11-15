@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T01:13:46Z",
+ "updated_at": "2026-11-15T01:25:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 43,
-  "flash_flood": 10,
-  "storm": 16,
+  "flood": 40,
+  "flash_flood": 9,
+  "storm": 17,
   "landslide": 11,
   "earthquake": 11,
   "wildfire": 4,
@@ -134,20 +134,6 @@
    "id": "cec48c2db91f29d6"
   },
   {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-13T17:11:26Z",
-   "location": null,
-   "id": "e9a5a74c6159ab01"
-  },
-  {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
    "summary": "",
    "category": "news",
@@ -190,20 +176,6 @@
    "id": "33492b7c7b89b9ef"
   },
   {
-   "title": "กรมอุตุฯ เตือน ใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำท่วมฉับพลัน-น้ำป่าหลาก คลื่นทะเลสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUUpLbFRCbVpmTVZPQldhZG8xSGMtRWQxTTZTSkthSFgwUnl6U3FpeHZoZEVlTW5PcWpHNVRFbkJHdGtOeWM2X3RZWGowR0M5SDZyYjJYTFF3VjJDekR0cnNvTE1QM00?oc=5",
-   "time": "2026-11-13T04:30:00Z",
-   "location": null,
-   "id": "c48ec9b0c8b66e7a"
-  },
-  {
    "title": "ผู้ว่าฯสงขลา แจ้งเตือนประชาชนให้เฝ้าระวัง พื้นที่เสี่ยงภัยดินถล่มและหินถล่ม หลังเกิดเหตุหินจากภูเขาถล่มลงมาทับร้านค้าในพื้นที่ | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -229,6 +201,34 @@
    }
   },
   {
+   "title": "กรมอุตุ เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม ระวังอันตรายน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "News.in.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2MTM3V2Q2S2t2WFJqN2llMld2ZzU2cGZSeml5cFd1bGRyQlRja2RpLWQ3YnBuc0x1SnBrYTBZNTVtc00tSFdGa2xVQXQwaGMxNnZlQg?oc=5",
+   "time": "2026-11-13T01:47:31Z",
+   "location": null,
+   "id": "e0aca7ef44dad637"
+  },
+  {
+   "title": "อุตุฯ เตือนพื้นที่เสี่ยงภัยฝนตกหนักถึงหนักมากบริเวณประเทศไทยวันที่ 15 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41MUFudHAwcGxULWhtT3ZRSjJHTUwzQW9tMXRBMlAxYnFYLWg2d214LWRZZm9xc3kyNEZQV0tmQ3NPMmhjS01reXdBNjY3TGxXSEhKQ3B3?oc=5",
+   "time": "2026-11-15T01:11:00Z",
+   "location": null,
+   "id": "f7ebf73ce7c8fd27"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.พบพระ จ.ตาก ประมาณ 108 กม.",
    "category": "official",
@@ -247,20 +247,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "อุตุฯ เตือนใต้ 10 จว. ฝนหนักระวังน้ำท่วม ไทยตอนบนอุ่นขึ้น",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "banmuang.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZRXlucHhCLVdCVk9sMjd4enNma253M2lxRmFQdzRndVVYSW9BYVNSZTRUdXIwSEtKSllWZGNNMDd1LXdiellMSjQ3Sm4tUzVvMFZDb0toRlY?oc=5",
-   "time": "2026-11-14T23:56:00Z",
-   "location": null,
-   "id": "9feedcdc71078a1d"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -986,20 +972,6 @@
    "id": "11e9a975d4c1d423"
   },
   {
-   "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPdl95UHRNdHdjWlRGMVppcFpEdUhYRDlQWDBBbGNGby1sN3g0QTlfN01qU0VVZzN0Zk4wQVBXdUltODlyX1huT1BjLXlSQ3JqT19xZUx3QXp1bzduUXFISlRldXQ5bVhWSzFUMVVOT1BTS2VGRFBHQl9CQWpsVk1oODBIM29UMldtZ0REM2ZRUmtzMDhuWm5fRUhqSDNXMG9HSXhuRXR0ZWdBOTFhbGZrRjZ4WGZtN0I3RnByeWhOSEVFd0dsVkhXdzQzUFZLTk5ZaWN0TEs2LTFWakh0dVhHNmpDRW5zamgxOW93UUdTUHNTTWc1TFJWX2otLWp6X01vemU5WDV0T1VMR2dYNkJiTzRGMWdKc0N3WXpwMGQyRUtGdXVOOWVzTFl4WXctejM2TVdTZC1tMkdyUlR0QmF2SFQ5WUhSMTdTYnVKVDhWYzBPSVN0UzVvVU1xTU9IbHNaeXZlV3JWTkVvbmYwTDU5VENJdkxaTFlnT1RfbWcxVVBMTWtzMFVsZUhmcHZUREh0VGdLV2NIVjZYVGpyOWNNVVRUblVKODEtX3l2WmhOV2JyMWtTNmJfbkxnTWU0WTZnM2xTMk8yS25vYXdxSk9qR2pCOWdLZVlFVGJKdktYVE95SmxXbW5NTUF0MTROQW0xSXB4cUJlazAtZ09DUHZkQ2lvcU93ZFVTWFZkU2N4VEdjZGg0Z211Y2ZXMFlBZ25FY3lUbHRSSWh5dVJMYmV5RlE1dmdBa0YtakkzUHJ6Sk1oV3ZGVkRWWlpibzhOYVd5M1VTb0ItdDlLbVk4eWpsWHZSX1dYWnNDdThDUHFNVEZlRWhhVVNveFUtTUZ0VDNfZ2ZJSkVBX1hMN0hQcGlleFJwVzBwTm4wY0pLMmtaRFpHcU1sNWQyVTFzZFE3YTMyWjROaS1MdWEtU25pOTcxdjI5aHRlcG1fMTFHbnhKSXJzSkVQZlozNmRMNzZad2ZNS2d0R1RRXzBsR0U1SlNEZy1IMUNxM2xTd3JVZ2I3Y1BWQWI3THl1U29zamN1aXFza0FJWEstY0lwQ3JlRXpUckxGaXF3WkpFODRaV2trRUNqUU03X0ZmMmZNLVFHQ08ybFZWWXpDTHB4RkFkWTFlLXRFRElBRmFKVjl1OFhRMU5Fci12dUZ0WXZaczYtdXBtUkV2ZTdBdnMyVEY5R1FmWmE4WU82NldiZUF2dVpUcDNCZ0JhSTBydnU1X0xsV0d2MW12Q0pra1F3dWMwZmo2aUZSN05wWHdLUDVYN0s3ZVUyeHg0V0E?oc=5",
-   "time": "2026-11-14T04:14:05Z",
-   "location": null,
-   "id": "0c42365e6dd53f6c"
-  },
-  {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
@@ -1380,6 +1352,20 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
+  },
+  {
+   "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "wildfire",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPdl95UHRNdHdjWlRGMVppcFpEdUhYRDlQWDBBbGNGby1sN3g0QTlfN01qU0VVZzN0Zk4wQVBXdUltODlyX1huT1BjLXlSQ3JqT19xZUx3QXp1bzduUXFISlRldXQ5bVhWSzFUMVVOT1BTS2VGRFBHQl9CQWpsVk1oODBIM29UMldtZ0REM2ZRUmtzMDhuWm5fRUhqSDNXMG9HSXhuRXR0ZWdBOTFhbGZrRjZ4WGZtN0I3RnByeWhOSEVFd0dsVkhXdzQzUFZLTk5ZaWN0TEs2LTFWakh0dVhHNmpDRW5zamgxOW93UUdTUHNTTWc1TFJWX2otLWp6X01vemU5WDV0T1VMR2dYNkJiTzRGMWdKc0N3WXpwMGQyRUtGdXVOOWVzTFl4WXctejM2TVdTZC1tMkdyUlR0QmF2SFQ5WUhSMTdTYnVKVDhWYzBPSVN0UzVvVU1xTU9IbHNaeXZlV3JWTkVvbmYwTDU5VENJdkxaTFlnT1RfbWcxVVBMTWtzMFVsZUhmcHZUREh0VGdLV2NIVjZYVGpyOWNNVVRUblVKODEtX3l2WmhOV2JyMWtTNmJfbkxnTWU0WTZnM2xTMk8yS25vYXdxSk9qR2pCOWdLZVlFVGJKdktYVE95SmxXbW5NTUF0MTROQW0xSXB4cUJlazAtZ09DUHZkQ2lvcU93ZFVTWFZkU2N4VEdjZGg0Z211Y2ZXMFlBZ25FY3lUbHRSSWh5dVJMYmV5RlE1dmdBa0YtakkzUHJ6Sk1oV3ZGVkRWWlpibzhOYVd5M1VTb0ItdDlLbVk4eWpsWHZSX1dYWnNDdThDUHFNVEZlRWhhVVNveFUtTUZ0VDNfZ2ZJSkVBX1hMN0hQcGlleFJwVzBwTm4wY0pLMmtaRFpHcU1sNWQyVTFzZFE3YTMyWjROaS1MdWEtU25pOTcxdjI5aHRlcG1fMTFHbnhKSXJzSkVQZlozNmRMNzZad2ZNS2d0R1RRXzBsR0U1SlNEZy1IMUNxM2xTd3JVZ2I3Y1BWQWI3THl1U29zamN1aXFza0FJWEstY0lwQ3JlRXpUckxGaXF3WkpFODRaV2trRUNqUU03X0ZmMmZNLVFHQ08ybFZWWXpDTHB4RkFkWTFlLXRFRElBRmFKVjl1OFhRMU5Fci12dUZ0WXZaczYtdXBtUkV2ZTdBdnMyVEY5R1FmWmE4WU82NldiZUF2dVpUcDNCZ0JhSTBydnU1X0xsV0d2MW12Q0pra1F3dWMwZmo2aUZSN05wWHdLUDVYN0s3ZVUyeHg0V0E?oc=5",
+   "time": "2026-11-13T13:00:44Z",
+   "location": null,
+   "id": "0c42365e6dd53f6c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
@@ -2246,46 +2232,6 @@
    },
    "incident_id": "fr_news_632b13daa9765000d5a2",
    "id": "632b13daa9765000"
-  },
-  {
-   "title": "ดราม่าสนั่น นักศึกษา ม.ดัง หอพักถูกน้ำท่วม ได้เยียวยา 9,000 บาท เจอเจ้าของหอพักขอแบ่ง 4,000 บาท",
-   "summary": "ดราม่าสนั่น นักศึกษา ม.ดัง เช่าหอพักแต่ถูกน้ำท่วม ได้เงินเยียวยา 9,000 บาท เจอเจ้าของหอพักขอแบ่งห้องละ 4,000 บาท ใช้เป็นค่าซ่อมความเสียหาย ใครไม่ยอมจ่ายจะถูกเชิญออก ผู้ดูแลโต้อีกมุม เมื่อเวลา 23.19 น. วันที่ 12 พ.ย.2569 พ.ต.ท.เอนก ศิลมั่น สารวัตร สอบสวน สภ.ราชสาส์น จ.ฉะเชิงเทรา รับแจ้งจาก นายธีรภัทร์ (สงวนนามสกุล) อายุ 22 ปี นักศึกษามหาวิทยาลัยแห่งหนึ่งในพื้นที่ เพื่อแจ้งเหตุและลงบันทึกประจำวันไว้",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/around-thailand/news_10470636",
-   "time": "2026-11-13T01:24:05Z",
-   "location": {
-    "name": "อ.ราชสาส์น",
-    "lat": 13.8124943,
-    "lng": 101.3057866,
-    "precision": "district"
-   },
-   "incident_id": "fr_rss_e741900e8e5d1ab15a74",
-   "id": "e741900e8e5d1ab1"
-  },
-  {
-   "title": "กาญจนบุรี : ก.ช.ภ.อ.ทองผาภูมิ เคาะจ่ายเงินช่วยน้ำท่วม ความเสียหายด้านพืช 1.44 ล้านบาท จำนวน 89 ราย",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ทอล์คนิวส์ ออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nRXVvUFVnM2U3Mm9XcEc3SllwNXh5WHF0Q2NwX2pVY1BYVzFod3lTOUh1WGY1U2dfMFZoa0kxczdvamU3VXMyWU9hTkFKMlRFdzViTw?oc=5",
-   "time": "2026-11-13T01:15:00Z",
-   "location": {
-    "name": "อ.ทองผาภูมิ",
-    "lat": 14.8590952,
-    "lng": 98.4405074,
-    "precision": "district"
-   },
-   "incident_id": "fr_news_66890bd9255c882949fd",
-   "id": "66890bd9255c8829"
   }
  ]
 }
