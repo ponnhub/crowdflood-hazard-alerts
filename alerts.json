@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T22:44:45Z",
+ "updated_at": "2026-11-15T22:54:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 8,
   "storm": 18,
   "landslide": 9,
-  "earthquake": 9,
+  "earthquake": 10,
   "wildfire": 2,
   "drought": 5,
   "pm25": 11,
@@ -477,10 +477,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ0ItdGNUQTNhVHJNXy1CRktNdXMwVmNKVmwtN1V3eWZrQXVmZWFuNlVyQnpXY2dLaFZDWXliM0R6YkN2RHlJajY1a05KSDRsRVE?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WMXhzV01YRzQwd3N3bFo2VXF1dWRCNzF1UnZNQnJqVUVpQW1NNVg2R3Vadk1CVkMzZHNRbkpuTEtUb1dJWE5kV2F2djgtMDBiLUNF?oc=5",
    "time": "2026-11-15T09:48:25Z",
    "location": null,
-   "id": "66208b4fdb99c787"
+   "id": "5ab352baf3e4100c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.หางดง อ.ฮอด จ.เชียงใหม่ (Tambon Hang Dong, Amphoe Hot, ChiangMai)",
@@ -761,6 +761,31 @@
    "id": "3cd5ba93d0927c1c"
   },
   {
+   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
+   "time": "2026-11-15T06:47:08Z",
+   "location": null,
+   "id": "03ece8a5ea80cd34",
+   "area": {
+    "code": "TH1011",
+    "level": "amphoe",
+    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
+    "bbox": [
+     100.709,
+     13.69,
+     100.879,
+     13.794
+    ]
+   }
+  },
+  {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
    "summary": "",
    "category": "flooding",
@@ -963,6 +988,20 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
@@ -1212,20 +1251,6 @@
    "id": "7d20931e210f93de"
   },
   {
-   "title": "โพสต์ทั้งหมด | ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TUh6VG1nM1BYUERiRVRTV01QU0U4ejBhRzhRalF1MWZDa1JMTlc4b1BueE9yZTI4OUprdkxla2dCb3RSQ04xejNxVkY1YmRMQ05OQzl0LXBVT3puSzQ0TFFiWU0?oc=5",
-   "time": "2026-11-15T00:24:43Z",
-   "location": null,
-   "id": "c5981bf1762e4db0"
-  },
-  {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -1450,20 +1475,6 @@
    "id": "d842dc0a19219fd7"
   },
   {
-   "title": "ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZUxld2pIR0R2SDAyUGhlUExITW55Q2x1UFFwWFFEb1M3QnA0TGtQUDd1LTFUSS11MG9sTmJaeUM1MW92bVdwdFdYcDdqZTBVQ2FtZkoyNWRDb21FQUJWSmMzNDBQbzVPOTFWd3FHRE82b0c4VzlZQU14cmM?oc=5",
-   "time": "2026-11-14T12:53:27Z",
-   "location": null,
-   "id": "e9248f4c23923a82"
-  },
-  {
    "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
    "summary": "",
    "category": "flooding",
@@ -1508,6 +1519,20 @@
    },
    "incident_id": "fr_news_27c28a79ce76fec0afc2",
    "id": "27c28a79ce76fec0"
+  },
+  {
+   "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UWZrc245bE1McGlDTm84UlU5RWktWmJzVjByR3R3NmNSajJFY25BNk1QdnNrMHFHS1ZDQzFNSmN6V0stVk5sN0V0R3FYMmpjc0w2ZDltdGU?oc=5",
+   "time": "2026-11-14T12:11:27Z",
+   "location": null,
+   "id": "80a823f7d9e6a924"
   },
   {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
@@ -1780,7 +1805,7 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
-   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -1788,10 +1813,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
-   "time": "2026-11-14T03:18:55Z",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlEzanV3OTFNQzQ3NEFlNG1OLWZaSS1yVDI5dzRJdndKSE5SRHlCS1lUb0NTS1hPc1pXQ2JTRmtOT21PbWdtVVhjTWItNGlUTEFlNmdKenhEVkRmMDVaR0VQWFZfbDFOYzVoODBQSnlreHZtR2JXVzQwMkl0S05Kejl6YlJHanJP?oc=5",
+   "time": "2026-11-14T03:29:37Z",
    "location": null,
-   "id": "905b0413b2721e98"
+   "id": "da519d64c98691c4"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
