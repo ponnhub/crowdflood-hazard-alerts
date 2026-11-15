@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T03:12:14Z",
+ "updated_at": "2026-11-15T03:29:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,17 +18,45 @@
  "counts": {
   "flood": 39,
   "flash_flood": 11,
-  "storm": 12,
+  "storm": 11,
   "landslide": 11,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 4,
-  "drought": 4,
+  "drought": 5,
   "pm25": 12,
   "heat": 1,
   "tsunami": 0,
   "other": 3
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "MGR Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NVcyNUphQWR0bTlPZW1RRDBBbWRoNDZkbUc2Y0FoMngzS0xLSmxnQ3RyV25TaWRKcHVOdHlrckVlZ3JJZEJ5eEtkQm9uOFJIYV9TT3FheXJsclAtbHV3RTY3RGw4aUE?oc=5",
+   "time": "2026-11-15T03:19:00Z",
+   "location": null,
+   "id": "cea01b4ba7519bea"
+  },
+  {
+   "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMnR2azVRZGFiZVI4M0tOZlo1a2dBMjNaN2hncHZmNk4yYlBmLXlWVjlMUTMtVENnM3RhUXh3NGZpU0ZfN3ZGZ0dDRFVza0tDV2hpeGRWcDZMMktxSUFlSW1ISGNmamlVb09FWTNXVmJNWEJFUDRZ?oc=5",
+   "time": "2026-11-15T02:47:23Z",
+   "location": null,
+   "id": "7a6dd7cb63dc85f5"
+  },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา | ข่าวหุ้นธุรกิจ",
    "summary": "",
@@ -58,20 +86,6 @@
    "id": "8ecadc60912d6f4d"
   },
   {
-   "title": "เตือนภัยฉบับที่ 1! กรมอุตุฯ ประกาศ ภาคใต้ฝนตกหนักถึงหนักมาก ถล่มยาว 5 วัน ระวังน้ำท่วมฉับพลัน “ไทยตอนบน”อุณหภูมิฮวบ 4 องศาฯ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRkFFVmp0Y1BLajBpenkwV3hxSmxEWkJFOThzaGRqWGh1a3FEbjRRaUpTR1h3YWtQU3ZyTjliMGVkUWczTE5NbFl4YVg?oc=5",
-   "time": "2026-11-15T01:56:00Z",
-   "location": null,
-   "id": "88b9824515d4a0d4"
-  },
-  {
    "title": "“กรมอุตุฯ” ประกาศฉบับที่ 1 ไทยตอนบนเตรียมเจอฝนฟ้าคะนอง เตือนภาคใต้ฝนถล่ม 18-22 พ.ย.นี้ ระวังลมแรง คลื่นสูงเกิน 3 เมตร เช็กจังหวัดได้รับผลกระทบ",
    "summary": "",
    "category": "news",
@@ -84,20 +98,6 @@
    "time": "2026-11-15T01:55:11Z",
    "location": null,
    "id": "e4f04f37b76adeb3"
-  },
-  {
-   "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1samljcF9veHBhcVdMX0FxMEpUX2dPYzdkSmVmRmV6VlhjNENteHZwQnVMN004Y1Q2cW5wdng2QlBrZ3RIempLZHUxemUtOHlvQWRBZkVBNXhoN3gzbm1LZGV6MA?oc=5",
-   "time": "2026-11-15T00:27:00Z",
-   "location": null,
-   "id": "e1d89245d3f8dfdc"
   },
   {
    "title": "ทั่วไทยฝนยังชุก กรมอุตุฯ เตือน ภาคใต้-กลาง-อีสาน ฝนตก-ลมแรง ระวังน้ำท่วมฉับพลัน-ป่าหลาก",
@@ -202,6 +202,26 @@
    "time": "2026-11-13T05:06:00Z",
    "location": null,
    "id": "33492b7c7b89b9ef"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 292 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17439",
+   "time": "2026-11-15T02:50:02Z",
+   "magnitude": 3.3,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 19.253,
+    "lng": 95.187,
+    "precision": "epicentre"
+   },
+   "id": "4a32c82e9ab463f5"
   },
   {
    "title": "เช็กค่าฝุ่น PM 2.5 กทม. เช้านี้ พบเกินมาตรฐาน 2 เขต ‘ปทุมวัน-ยานนาวา’",
@@ -317,20 +337,6 @@
    "id": "f937a3f8fceba5b2"
   },
   {
-   "title": "หญิงเล่าสุดช้ำ ตัดสินใจหย่าขาด หลังเกิดแผ่นดินไหว สามีหนีเอาตัวรอด คนเดียว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNmw0dFh2TmFNWmtuMF90R3pCMElsdVZaQmpKUS02TUdodXBrOWx5TTh1NE00OXZnUE9lQTJxZU4wX3NibEVsdVZzR000VW1hNDdNTlpoam56N1c0QklnLTRLU2tUc19RaUEwMlpyWDRiNlNnTTE0?oc=5",
-   "time": "2026-11-15T01:02:36Z",
-   "location": null,
-   "id": "0ff72dc446cf4b7e"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.พบพระ จ.ตาก ประมาณ 108 กม.",
    "category": "official",
@@ -349,20 +355,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1299,6 +1291,20 @@
    "id": "7e43ac11cd310847"
   },
   {
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
    "category": "official",
@@ -1417,6 +1423,20 @@
    "id": "56181279b3131ff6"
   },
   {
+   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
+   "time": "2026-11-13T13:24:46Z",
+   "location": null,
+   "id": "94fdbbfabcc9283b"
+  },
+  {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
    "summary": "",
    "category": "news",
@@ -1500,26 +1520,6 @@
    },
    "incident_id": "fr_news_7b2c1985526d9fbb8750",
    "id": "7b2c1985526d9fbb"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 1.5 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 73 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17429",
-   "time": "2026-11-13T11:15:09Z",
-   "magnitude": 1.5,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.107,
-    "lng": 97.936,
-    "precision": "epicentre"
-   },
-   "id": "5fd381ffee412675"
   },
   {
    "title": "ฝนตกน้ำหลากท่วมหลายอำเภอ เร่งช่วยชาวบ้าน จ.นครศรีธรรมราช",
@@ -2092,32 +2092,6 @@
    },
    "incident_id": "fr_news_5393282f0a97301e7efb",
    "id": "5393282f0a97301e"
-  },
-  {
-   "title": "เมืองคอน น้ำหลากท่วมหลายจุด 4 อำเภอ โซนเทือกเขาฝนถล่ม งานศพเจอน้ำท่วม ยกโลงขึ้นที่สูง",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/around-thailand/news_10470710",
-   "time": "2026-11-13T03:28:59Z",
-   "location": null,
-   "area": {
-    "code": "TH800804",
-    "level": "tambon",
-    "name": "ต.หัวตะพาน อ.ท่าศาลา จ.นครศรีธรรมราช",
-    "bbox": [
-     99.832,
-     8.599,
-     99.903,
-     8.643
-    ]
-   },
-   "incident_id": "fr_rss_ef80ef3c6d1d109ff6bf",
-   "id": "ef80ef3c6d1d109f"
   }
  ]
 }
