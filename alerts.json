@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T00:37:11Z",
+ "updated_at": "2026-11-15T00:52:03Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 42,
+  "flood": 43,
   "flash_flood": 10,
-  "storm": 19,
+  "storm": 18,
   "landslide": 11,
   "earthquake": 11,
   "wildfire": 4,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1samljcF9veHBhcVdMX0FxMEpUX2dPYzdkSmVmRmV6VlhjNENteHZwQnVMN004Y1Q2cW5wdng2QlBrZ3RIempLZHUxemUtOHlvQWRBZkVBNXhoN3gzbm1LZGV6MA?oc=5",
+   "time": "2026-11-15T00:27:00Z",
+   "location": null,
+   "id": "e1d89245d3f8dfdc"
+  },
   {
    "title": "ทั่วไทยฝนยังชุก กรมอุตุฯ เตือน ภาคใต้-กลาง-อีสาน ฝนตก-ลมแรง ระวังน้ำท่วมฉับพลัน-ป่าหลาก",
    "summary": "",
@@ -106,20 +120,6 @@
    "id": "4b8e60af9d1a97d2"
   },
   {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTGRnT3hGcF9DLXNrNGpfRjNYQmFFY09xTjRHcG9rZ1Vnc0VKeGdSazA3a1lXa1RmS0M1ZkdoTTE3SkhBZnNPdU9hTmhaQVZMNTU3UjZ1UFY3LVk0Y3hJRTNJNA?oc=5",
-   "time": "2026-11-13T23:58:00Z",
-   "location": null,
-   "id": "71a6f9ba02dd4726"
-  },
-  {
    "title": "กรมอุตุฯ เตือนใต้ฝนหนัก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย. ฝนถล่มหลายพื้นที่",
    "summary": "",
    "category": "news",
@@ -132,20 +132,6 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
-  },
-  {
-   "title": "กรมอุตุฯ เตือน ‘ภาคใต้’ รับมือฝนตกหนัก-‘ไทยตอนบน’ อากาศเย็นลง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVlRcm9CSVV3OEduVElCYkFxNjhDMTFZOTByOC1HS1lSWDM1SlFRXzBSelVNU3BHSGNjS0ZrX1FkeGRoY29DRGZTWUoyaGFHVGtB?oc=5",
-   "time": "2026-11-13T17:11:26Z",
-   "location": null,
-   "id": "e9a5a74c6159ab01"
   },
   {
    "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
@@ -229,18 +215,18 @@
    }
   },
   {
-   "title": "ประกาศเตือนฉบับสุดท้าย 15 จังหวัดฝนตกหนัก – ทั่วไทยร้อนขึ้น",
+   "title": "สภาพอากาศวันนี้ ภาคใต้ฝนตกหนัก 10 จังหวัด จับตา 17-22 พ.ย. ไทยมีพายุฝนก่อนหนาวอีกรอบ",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "pptvhd36",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRuUVBHLTVvVHVpNUM3WmpaWWM4NnJoOEpqeG1zSVl6NVlNMlBSQkMxUmRsVmxZZHRuU1hHVERfc3NWUWJDVUNQZXZ2b3V3WXFrbUxQMXNfYU9vMzJOWlVuYmFfZ1l2UUo3a3B5RlQ2bzRiZVh5V1pDR3pleWZOZ2Z1emlzUVFCYXc?oc=5",
-   "time": "2026-11-13T00:45:00Z",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Sanook",
+   "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZLWlwM05uTU96aDBXS2dBbEpLLWRmWFJ5VTUwZ1gxcXFRUzZlWjNQTllCc3dKWTctc0RWRFVfRl8zRXJvY0o4Z29CRVg?oc=5",
+   "time": "2026-11-15T00:26:37Z",
    "location": null,
-   "id": "46e323a175d11b99"
+   "id": "403794b779465678"
   },
   {
    "title": "อุตุฯ เตือนใต้ 10 จว. ฝนหนักระวังน้ำท่วม ไทยตอนบนอุ่นขึ้น",
@@ -309,6 +295,32 @@
    "time": "2026-11-14T16:36:39Z",
    "location": null,
    "id": "7b1c07ec6defea3a"
+  },
+  {
+   "title": "ภูเก็ตพบปัญหาน้ำท่วมขังหลายพื้นที่ Hsv – Freiburg (83DcgBox23)",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Unisba Media",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZE1FTXZyOERpUm9DdGxVbkZha1YzZGNNcldZalRuT05kNHh1T0lhb09vT2xaUENhMlBsS1JLd3BlVUh5Z1lZUklDV0k2cDNoT3dlbG9KQXdEbnlnVV9ZMk9qa1VGYUlkSEV2RVNPVFd5UGNNXzFmWG5tQ3BDbWhTb1dDaw?oc=5",
+   "time": "2026-11-14T15:50:56Z",
+   "location": null,
+   "area": {
+    "code": "TH83",
+    "level": "province",
+    "name": "จ.ภูเก็ต",
+    "bbox": [
+     98.262,
+     7.767,
+     98.441,
+     8.199
+    ]
+   },
+   "incident_id": "fr_news_980f46b9dd80910dc5f2",
+   "id": "980f46b9dd80910d"
   },
   {
    "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
@@ -1358,18 +1370,18 @@
    "id": "56181279b3131ff6"
   },
   {
-   "title": "\"ยศชนัน\" นำทีมทุกภาคส่วนรับมือวิกฤตประวัติศาสตร์ \"ซุปเปอร์เอลนีโญ-PM 2.5\" จ่อรุนแรงสุดถึงมีนาคม เดินเครื่อง 9 มาตรการรุก ชูนวัตกรรม \"กล้อง-โดรนไทย\" สกัดไฟป่าเรียลไทม์ครั้งแรกของประเทศ 1. “ยศชนัน” เตือนเหนือเสี่ยงฝุ่นหนักปีหน้า รับมือเอลนีโญ เร่งติดกล้องจับไฟป่าเพิ่ม 50-60 ตัว",
+   "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
    "summary": "",
    "category": "news",
    "hazard_type": "wildfire",
-   "severity": "medium",
+   "severity": "high",
    "urgent": false,
-   "official": false,
+   "official": true,
    "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxNUWU3R1JCaWFFZ3lzSnFPZTBsUWNKMU1xdDhkV0FXUmpsQmN5eVcwaFZSVS0wbWtqZzlVNGRPNFcxYmF2YXBvbmxmOGhPUDk4RWFMaUlmSFVPdXA2NHl1M2NTcVZqenJTUnpiR2ZCejlINUx6YjhJYXNjYmxSVktoYUQwV1pHaVlLTGo5NjJ3eGMzNHV4M0M5TmpvVDVqSVdfN05kOS11NjNHTk1Bby1MLVlyZzR1SGc4SlZCMjNpUDBwMDNHMER6NjNHODk1NF8xMUw4R1IwMUlmY1czV2daRlMzYlJVMWxmMExaNjJUUVJRV0kyWFNEU2xrc1hhNTBVYzBzaE1iNlVQUUZzTDdDUWNZODBycjJMZzBUbzQ2T2lTbFhmZzhSTkpiVERNVXJqV1NBSFVOMFlHYzVhUW1IblJ3NlNkOUt5MFlOcnlCejdFRHdWUTNHUVFZVFZkWVMtZnVLb3ZwanJzbmFZMElPcVhJaEU0bzlLSUpiMDdmU0ZBaDZfQ0kzby1SY0lqa0ZqeHZOLUF6RnZCUzR4M0psNjdyQU1yUHNvNFUxUkJQQ3hHYy1kNmFaTGJWLXBfVDhkUURzRTdzMDVQc2xjelJGYWNmcjdiYTdpUkVRZVFIb25Jblhqc1ZHdDU0Q2owS1p4cDk1WVNUZHZfR2FvbldPcUxuSmwtT3hpMnFWLXRzWnV2MG1vREVTQ2NHTXBRNjYxN1JfT0t6b3VEZjNZRUZNOFV5a2ZaYzRma2g1LUN0RmJ6MjNfQ3NIT29hTHFsbXQ0TFlzNWRfa295cXNvNGZBbFVkWVF2aUxTTUhDdXptRVBVcDgybDRZXzZvTkowajhhdU92eU9MeFNJRXJZQ3NIQ1psVXhrWUlhUTZTdzN4ZVN0VVllOFdLdnprd0VDS1FYcXNIRlVpVVU1b0xIeU5yNEZjZDl6aUI2aFUwYmowYzZyQnhwOUxJTmZiejMwQTR2TFF2YUZVaUprVEhPSHhyNFJRVkNELXNzWVNhOTB2ZlVWZzhFMEV5THdobGhjTXhvRkxjMU9LSzljX0doV25MemtrbkpaTVhWaEltRGJXNHhSVzhOZFd6eDRtNGdTaFJLWUpNTlVSVmFhbkdIaUVycnFNZ0JuUDMtSlV0Y3A4Yjk4UW9FWlRDX3ZmbWdGSF9EUFFGcTJMTElrLXRaRm14aUdFUzQzdlFuUy1OUnVIeWM1RkR2N2VOaHBpOW9SalhiTFpDQWJzdlFnVWM1ZlZhOF9kUEk3ZklkaFVXM1VHV1FybHZoRlhPVFYwWnhSTEVM?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPdl95UHRNdHdjWlRGMVppcFpEdUhYRDlQWDBBbGNGby1sN3g0QTlfN01qU0VVZzN0Zk4wQVBXdUltODlyX1huT1BjLXlSQ3JqT19xZUx3QXp1bzduUXFISlRldXQ5bVhWSzFUMVVOT1BTS2VGRFBHQl9CQWpsVk1oODBIM29UMldtZ0REM2ZRUmtzMDhuWm5fRUhqSDNXMG9HSXhuRXR0ZWdBOTFhbGZrRjZ4WGZtN0I3RnByeWhOSEVFd0dsVkhXdzQzUFZLTk5ZaWN0TEs2LTFWakh0dVhHNmpDRW5zamgxOW93UUdTUHNTTWc1TFJWX2otLWp6X01vemU5WDV0T1VMR2dYNkJiTzRGMWdKc0N3WXpwMGQyRUtGdXVOOWVzTFl4WXctejM2TVdTZC1tMkdyUlR0QmF2SFQ5WUhSMTdTYnVKVDhWYzBPSVN0UzVvVU1xTU9IbHNaeXZlV3JWTkVvbmYwTDU5VENJdkxaTFlnT1RfbWcxVVBMTWtzMFVsZUhmcHZUREh0VGdLV2NIVjZYVGpyOWNNVVRUblVKODEtX3l2WmhOV2JyMWtTNmJfbkxnTWU0WTZnM2xTMk8yS25vYXdxSk9qR2pCOWdLZVlFVGJKdktYVE95SmxXbW5NTUF0MTROQW0xSXB4cUJlazAtZ09DUHZkQ2lvcU93ZFVTWFZkU2N4VEdjZGg0Z211Y2ZXMFlBZ25FY3lUbHRSSWh5dVJMYmV5RlE1dmdBa0YtakkzUHJ6Sk1oV3ZGVkRWWlpibzhOYVd5M1VTb0ItdDlLbVk4eWpsWHZSX1dYWnNDdThDUHFNVEZlRWhhVVNveFUtTUZ0VDNfZ2ZJSkVBX1hMN0hQcGlleFJwVzBwTm4wY0pLMmtaRFpHcU1sNWQyVTFzZFE3YTMyWjROaS1MdWEtU25pOTcxdjI5aHRlcG1fMTFHbnhKSXJzSkVQZlozNmRMNzZad2ZNS2d0R1RRXzBsR0U1SlNEZy1IMUNxM2xTd3JVZ2I3Y1BWQWI3THl1U29zamN1aXFza0FJWEstY0lwQ3JlRXpUckxGaXF3WkpFODRaV2trRUNqUU03X0ZmMmZNLVFHQ08ybFZWWXpDTHB4RkFkWTFlLXRFRElBRmFKVjl1OFhRMU5Fci12dUZ0WXZaczYtdXBtUkV2ZTdBdnMyVEY5R1FmWmE4WU82NldiZUF2dVpUcDNCZ0JhSTBydnU1X0xsV0d2MW12Q0pra1F3dWMwZmo2aUZSN05wWHdLUDVYN0s3ZVUyeHg0V0E?oc=5",
    "time": "2026-11-13T13:00:44Z",
    "location": null,
-   "id": "381d5e0a7c7c14aa"
+   "id": "0c42365e6dd53f6c"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.2 พรมแดนประเทศเมียนมา - ประเทศจีน (Myanmar - China Border Region)",
