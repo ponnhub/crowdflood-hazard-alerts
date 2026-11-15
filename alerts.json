@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T00:21:20Z",
+ "updated_at": "2026-11-15T00:37:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
+  "flood": 42,
   "flash_flood": 10,
-  "storm": 18,
+  "storm": 19,
   "landslide": 11,
   "earthquake": 11,
   "wildfire": 4,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "ทั่วไทยฝนยังชุก กรมอุตุฯ เตือน ภาคใต้-กลาง-อีสาน ฝนตก-ลมแรง ระวังน้ำท่วมฉับพลัน-ป่าหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OZnQ5X1pyQ1BMYnFDQ0pyVG9RMjdFREwtQ0lsQ2wxTTFiSWRZczduckJSeFJNM3JneDI4MTlsRXAtNmx4eDlTdnNjS3U5SjdyTEpXeF9EZnlFNHU1dlVCTUotZ2hwcmsyVmc?oc=5",
+   "time": "2026-11-15T00:25:17Z",
+   "location": null,
+   "id": "1f73f096426d99e4"
+  },
   {
    "title": "เตือนภัยรองเท้าคู่โปรด! เก็บไว้นานไม่ได้ใส่ เสี่ยงกลิ่นอับ-เชื้อราขึ้น เผย 5 สาเหตุ พร้อม 6 วิธีเก็บรักษาให้รองเท้าสะอาดเหมือนใหม่",
    "summary": "",
@@ -134,6 +148,20 @@
    "id": "e9a5a74c6159ab01"
   },
   {
+   "title": "กรมอุตุฯ เตือน 15 จังหวัดภาคใต้ ฝนตกหนักมาก เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbUdtbTNLWEU3cDNQbXprTmNTdjRiMFFDTVVCUUhQTV9KMGxOcEtUOFI1dnNlOGw0UndzcWd4WnFCcHlYNWQzZDIyYXdpWWxtT1k4VA?oc=5",
+   "time": "2026-11-13T12:15:00Z",
+   "location": null,
+   "id": "0f2b48a70aeae5b2"
+  },
+  {
    "title": "KEY MESSAGES: ฤดูหนาวที่มาพร้อม ‘ฤดูฝุ่น’ โรคทางเดินหายใจและ PM2.5 ความเสี่ยงที่ไม่ควรมองข้าม กรมอุตุนิยมวิทยาออกประกาศอย่างเป็นทางการว่า ประเทศไทยเริ่มเข้าสู่ฤดูหนาวในบางพื้นที่ตั้งแต่วันที่ 9 พฤศจิกายน 2569 เป็นต้นไป และคาดว่าจะสิ้นสุดประมาณปลายเดือนกุมภาพันธ์ 2",
    "summary": "",
    "category": "news",
@@ -215,32 +243,18 @@
    "id": "46e323a175d11b99"
   },
   {
-   "title": "กรมอุตุนิยมวิทยา เตือนฉบับสุดท้าย ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดโดนถล่ม",
+   "title": "อุตุฯ เตือนใต้ 10 จว. ฝนหนักระวังน้ำท่วม ไทยตอนบนอุ่นขึ้น",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UHlIQnVCMVJUWW85aEZvdUdIOHJZV3A1Ni1LcnE1QzVxRkxfVllPMjZmR04tTnRDZjdWZl9zbUNMMEJROWJxTmpSRXJvZjBsVENUdzBoeWE2OEdvcjFKTXhsYw?oc=5",
-   "time": "2026-11-13T00:36:00Z",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZRXlucHhCLVdCVk9sMjd4enNma253M2lxRmFQdzRndVVYSW9BYVNSZTRUdXIwSEtKSllWZGNNMDd1LXdiellMSjQ3Sm4tUzVvMFZDb0toRlY?oc=5",
+   "time": "2026-11-14T23:56:00Z",
    "location": null,
-   "id": "412fb8addd0fe645"
-  },
-  {
-   "title": "มวลอากาศเย็นอ่อนลง กรมอุตุฯ เตือนไทยตอนบนร้อนขึ้น อุณหภูมิเพิ่ม 2 องศา ภาคใต้ฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RN0h3UlNlXzBnNE5xdjBIOXhwdEdlWkg2dGFsQ3VnVnJtSmZlRFdnWlhBbFY4ZTBSSGxLWm1lZk9aTlBrRDBUUk1VcUt4bllXbjRJeERWYkw5YU9vZ3Y0TkEzeVl2MGE3blE?oc=5",
-   "time": "2026-11-13T00:23:45Z",
-   "location": null,
-   "id": "43f8a14769112e28"
+   "id": "9feedcdc71078a1d"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -948,6 +962,20 @@
    "id": "da519d64c98691c4"
   },
   {
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
+   "location": null,
+   "id": "905b0413b2721e98"
+  },
+  {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
    "summary": "",
    "category": "news",
@@ -1575,6 +1603,20 @@
      19.811
     ]
    }
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 14 พ.ย. เตือน 3 จังหวัดใต้ฝนตกหนักถึงหนักมาก ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fSWoycmpzSlV3cFBQVnNheE9qbVk2MXNqRHQtdE1nbTZRUk5uRUcyQVhFdnZ5dkZTVjdkeFJJRndBSXBJRkdTN2ZWU0NrZ3hGdkV5NS1UWnJCbTlYWkJEM2VFbkRZTDExamVDa0dVRU0xZ0ZSakxaSWdnbWM?oc=5",
+   "time": "2026-11-13T10:05:35Z",
+   "location": null,
+   "id": "d91a91efe3a66f16"
   },
   {
    "title": "รัฐบาลประชุมนัดแรก ป้องกัน-แก้ปัญหาภัยพิบัติภาคกลาง-กทม. ตั้งอนุกรรมการ 4 คณะ",
@@ -2298,20 +2340,6 @@
    },
    "incident_id": "fr_news_dd0248dcf9fada9f5067",
    "id": "dd0248dcf9fada9f"
-  },
-  {
-   "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0hnVnRndnAyLVJ3TjlxYUxSODRkeWJZSVY1UFRlMmw1Wm9Fb1dmVlFIQnBBcFpXeFlrME1FcUJDRzM0Q0VEU2lGOThvMjh5R3lUNU5LcEpXU2pmX2lUa1V5RUVXN3JWRGFvVXFuZjFwUngtTE9XQWM5SXR4eU0zS3Z3eXJiS3E1VnhVTUZNVQ?oc=5",
-   "time": "2026-11-13T00:33:35Z",
-   "location": null,
-   "id": "f1d1efede7bba816"
   }
  ]
 }
