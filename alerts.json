@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T22:54:47Z",
+ "updated_at": "2026-11-15T23:11:31Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 36,
-  "flash_flood": 8,
+  "flash_flood": 9,
   "storm": 18,
   "landslide": 9,
   "earthquake": 10,
@@ -25,10 +25,24 @@
   "drought": 5,
   "pm25": 11,
   "heat": 1,
-  "tsunami": 0,
+  "tsunami": 1,
   "other": 1
  },
  "items": [
+  {
+   "title": "อุตุแจ้งเตือน ฝนถล่ม5วัน ยาวถึง22พ.ย. ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TU1FqVVg1eUZKMnlIeXRNUnFmS21mVkN4ZlJtcFNObFFoWTBXZG5DbGRlcU1ZTjlFOG1lcVR4TXFFbWpzQUl0R1UtSW5EWnF5UUJ0SlFoTzJKa2hicWo2VlBuTV9VbTRBeUdNUlFtYjVjbER0dGc?oc=5",
+   "time": "2026-11-15T23:05:09Z",
+   "location": null,
+   "id": "b6d9187defd17227"
+  },
   {
    "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
    "summary": "",
@@ -70,6 +84,20 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
+   "time": "2026-11-15T09:16:04Z",
+   "location": null,
+   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
@@ -156,18 +184,18 @@
    "id": "4b8e60af9d1a97d2"
   },
   {
-   "title": "กรมอุตุฯ เตือนใต้ฝนหนัก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย. ฝนถล่มหลายพื้นที่",
+   "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16N1RZLWt5OTE2Um9Kb0tFc2s2cEp0SWxrMFBJS0phOW0ycTBmbFJTT2JsaGE5S05nN29oODl6UFhIWjdKa0xxeWpUNTRLeEpjaVVvYg?oc=5",
-   "time": "2026-11-13T23:21:38Z",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qazVfNDdhaE81ck12bUZzSmstb29aaUlOUWZYWTlaMkhCQnl1eDExU1lrb09VOW5FUnBTa05tSFB6VG50R21GWi04X3psUU02Q0t3?oc=5",
+   "time": "2026-11-15T23:02:35Z",
    "location": null,
-   "id": "cec48c2db91f29d6"
+   "id": "b68046a76f00cda4"
   },
   {
    "title": "'เยียวยาน้ำท่วม' โอนแล้ว 1.3 หมื่นล้าน กทม. จ่อจ่ายค่าซ่อมบ้าน",
@@ -761,31 +789,6 @@
    "id": "3cd5ba93d0927c1c"
   },
   {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
-  },
-  {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
    "summary": "",
    "category": "flooding",
@@ -1249,6 +1252,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TUh6VG1nM1BYUERiRVRTV01QU0U4ejBhRzhRalF1MWZDa1JMTlc4b1BueE9yZTI4OUprdkxla2dCb3RSQ04xejNxVkY1YmRMQ05OQzl0LXBVT3puSzQ0TFFiWU0?oc=5",
+   "time": "2026-11-15T00:24:43Z",
+   "location": null,
+   "id": "c5981bf1762e4db0"
   },
   {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
@@ -1805,7 +1822,7 @@
    "id": "4765f5eaf5f21bd0"
   },
   {
-   "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
+   "title": "จังหวัดกวางตรี: ดินถล่มปิดกั้นถนนสู่ด่านชายแดนนานาชาติลาเลย์โดยสิ้นเชิง",
    "summary": "",
    "category": "news",
    "hazard_type": "landslide",
@@ -1813,10 +1830,10 @@
    "urgent": false,
    "official": false,
    "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlEzanV3OTFNQzQ3NEFlNG1OLWZaSS1yVDI5dzRJdndKSE5SRHlCS1lUb0NTS1hPc1pXQ2JTRmtOT21PbWdtVVhjTWItNGlUTEFlNmdKenhEVkRmMDVaR0VQWFZfbDFOYzVoODBQSnlreHZtR2JXVzQwMkl0S05Kejl6YlJHanJP?oc=5",
-   "time": "2026-11-14T03:29:37Z",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFhyc2NUSjBhZEZjYnRPTllTNlhPakxZVUpFano4TzhoQm1femtockQzS3NDcUdOcFY4YWlMWFRQZktCVmRQcnV4UTJGNUxQUUZNZlVHLWhQekIwRDBoaGlzM2FlYlFVUnZBNzFwQkxjaTRaZEZpeGZ1eXdlZWZjallHZFVkMFpNbFBSY1A1RS1CUjVCQjYwVGFkUEhmbjZvY0hmWQ?oc=5",
+   "time": "2026-11-14T03:18:55Z",
    "location": null,
-   "id": "da519d64c98691c4"
+   "id": "905b0413b2721e98"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
