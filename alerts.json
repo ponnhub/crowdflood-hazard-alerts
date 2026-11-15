@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T10:35:58Z",
+ "updated_at": "2026-11-15T10:50:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 36,
+  "flood": 33,
   "flash_flood": 7,
-  "storm": 12,
+  "storm": 11,
   "landslide": 10,
-  "earthquake": 10,
+  "earthquake": 11,
   "wildfire": 3,
   "drought": 4,
   "pm25": 11,
@@ -566,20 +566,6 @@
    "id": "a5d4a45135826262"
   },
   {
-   "title": "ลมหนาวแผ่ว ไทยตอนบนอุ่นขึ้น ภาคใต้ระวังฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZmtWMkktNjVXcTJzTDV6di1HUHZpZUhWNzAwU1B2SmZ0THI3V0tZeUc5MktsMkpVZmFNcjhYWnNfWS13a3VfVExsbEVaR2NqVVk4?oc=5",
-   "time": "2026-11-15T04:00:00Z",
-   "location": null,
-   "id": "740120cbbf688b83"
-  },
-  {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” #สถานการณ์ภัยพิบัติ ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกหนักในพื้นที่ จำนวน 2 ต. 1 อ. ดังนี้ ต.พ้อแดง ต.บางมะพร้าว อ.หลังสวน จ.ชุมพ",
    "summary": "",
    "category": "flooding",
@@ -624,6 +610,20 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
@@ -743,20 +743,6 @@
    "time": "2026-11-15T01:21:20Z",
    "location": null,
    "id": "0ac54e993b988bb8"
-  },
-  {
-   "title": "รัฐบาลโอนเงินช่วยน้ำท่วมแล้ว 1.3 หมื่นล้านบาท",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TjdMaHRnTUJNUGpjZnNQVEt4YWJhbWJncnVtR0NESkhXMTZYaG9pUXpjRjN2Y0dTeFBSMXlxOTIwUHZIUVoycTZUaHJkX2FNRHhwU1hCNTBJUQ?oc=5",
-   "time": "2026-11-15T01:09:55Z",
-   "location": null,
-   "id": "0c7fc28f42e778fa"
   },
   {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
@@ -1071,20 +1057,6 @@
    "id": "d842dc0a19219fd7"
   },
   {
-   "title": "ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZUxld2pIR0R2SDAyUGhlUExITW55Q2x1UFFwWFFEb1M3QnA0TGtQUDd1LTFUSS11MG9sTmJaeUM1MW92bVdwdFdYcDdqZTBVQ2FtZkoyNWRDb21FQUJWSmMzNDBQbzVPOTFWd3FHRE82b0c4VzlZQU14cmM?oc=5",
-   "time": "2026-11-14T12:53:27Z",
-   "location": null,
-   "id": "e9248f4c23923a82"
-  },
-  {
    "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
    "summary": "",
    "category": "flooding",
@@ -1129,6 +1101,20 @@
    },
    "incident_id": "fr_news_27c28a79ce76fec0afc2",
    "id": "27c28a79ce76fec0"
+  },
+  {
+   "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UWZrc245bE1McGlDTm84UlU5RWktWmJzVjByR3R3NmNSajJFY25BNk1QdnNrMHFHS1ZDQzFNSmN6V0stVk5sN0V0R3FYMmpjc0w2ZDltdGU?oc=5",
+   "time": "2026-11-14T12:11:27Z",
+   "location": null,
+   "id": "80a823f7d9e6a924"
   },
   {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
@@ -1177,6 +1163,32 @@
    "id": "ba1d208a6374fe20"
   },
   {
+   "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": false,
+   "official": false,
+   "source": "News1Live",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UDROVXJKb0UxbGtrLTFSZGI0WEJWaEp3RU9IdVZuS0RBNGNmcmVqMVptQXVuNkc1MHB2aXJxUUhDS2dwbzlJS21SeDNEeU4wdEFOVQ?oc=5",
+   "time": "2026-11-14T11:06:18Z",
+   "location": null,
+   "area": {
+    "code": "TH24",
+    "level": "province",
+    "name": "จ.ฉะเชิงเทรา",
+    "bbox": [
+     100.848,
+     13.182,
+     101.99,
+     13.977
+    ]
+   },
+   "incident_id": "fr_news_fa891900d7c8130d49b6",
+   "id": "fa891900d7c8130d"
+  },
+  {
    "title": "ชุมพรเดือด! ชาวบ้านบางผราโวยน้ำท่วมซ้ำซาก สวนทุเรียนใกล้ล่ม วอนเร่งแก้ รง.ขวางทางน้ำ?",
    "summary": "",
    "category": "flooding",
@@ -1201,32 +1213,6 @@
    },
    "incident_id": "fr_news_b1086b1f4c2b39130560",
    "id": "b1086b1f4c2b3913"
-  },
-  {
-   "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tbW44alpqN1NHeENIRTFzdTQxWDBCaDZJU3Uyd3dMQnNscTZUN0hEOTZ2YjBJNDBiX0tyWTZuR2F0dlJSU216V3JWZTg3SXZWZE9MbHQxWEVFYXJj?oc=5",
-   "time": "2026-11-14T10:43:00Z",
-   "location": null,
-   "area": {
-    "code": "TH24",
-    "level": "province",
-    "name": "จ.ฉะเชิงเทรา",
-    "bbox": [
-     100.848,
-     13.182,
-     101.99,
-     13.977
-    ]
-   },
-   "incident_id": "fr_news_3f8bb2b12aa5efe2501f",
-   "id": "3f8bb2b12aa5efe2"
   },
   {
    "title": "Ca Mau ตอบสนองต่อภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญ โดยให้ความสำคัญกับการรักษาความเป็นอยู่ที่ดีของประชาชนเป็นอันดับแรก",
@@ -1284,20 +1270,6 @@
    "time": "2026-11-14T09:12:52Z",
    "location": null,
    "id": "077cba84bf0edfc4"
-  },
-  {
-   "title": "MIT เตือนไทยฝนสุดขั้วถี่ขึ้น 5–10 เท่า ฝน 100 ปีอาจเกิดทุก 5–20 ปี ชี้เหลือเวลา 10–15 ปี เร่งปรับโครงสร้างพื้นฐานรับมือน้ำท่วม . โลกร้อนไม่ได้แค่ทำให้อุณหภูมิสูงขึ้น แต่กำลังเปลี่ยนรูปแบบฝนและยกระดับความเสี่ยงน้ำท่วมของประเทศไทย เมื่อผลการศึกษาจากนักวิจัยสถาบันเทคโนโลยีแม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMisgZBVV95cUxQYW9EOERWdmVWVTBXcEV6aWxmaGlGRzYtUG9vSHpZcnZSRWJqaE9zbWFlcjVsd3NWV2pQVlgxX0xKWnA0aW02anJzVDI3OTNmNVNQTXAybWNvSjh1VHFTV19hb0txTTdObnk2dHVrWmxFUG5QUjlHbjhDNjVfWDcwRmlyMzFCVkdkaEZyVG5JTmF5bW1kbWxZa2ZsWDNTcVNGVWktXzNVZWpOUmtrdmdVOVBqVDBuX2ctU3BtZ2tUWldUcmQtVEFwQXJGSkR5OWtFVjFpVDBrRXJfclNDZmp6Tm5COWFfYkw1TWEtbmxJZkJkUVZ0WW9ZZ3JUem5oRm43VlpMRnhZUDUyX0xWNGRCX1JpNUs2QnU2bDZxOWJXLTk5c3NmVjR5aTV0VTlKY3BjUnkyWXJTYTM3SnNZNHhvNmJDRk9qdFBEVUZiX2xSeF9OZW81MlVSVFJjSHBKVkZNaUJUcnhLY2pqam50QWw1ZDZZNHc3Y0VvcDhxMTRYbkVBbl91WnJMc3JlbFFDOFh1N29ZMUxmQlZaSUNZTEJ0Smh2enhOUUJJelQwdzRBNGQ5Nmh5elotX3hBTkhDSkFaRzgxX3k5SW5TT1R6V3hIcmlQeWpYTElZUDE3VlZpcWpNWE5OOUx5TDlBbDNUbWg1cHI4LWg0OURFSXBSa0h0aVJTQmxZTmZzSTl5Yzl1bV9PMFktWmpCX0dhQkp1YTBUZU10NF9GUHhGN1NINkNaOW43QnBhZGxyTk8tY0Y1UXItSG9qVGZxbGxhZU5RN2RFM3ZwSVdiY0RVM0JuWlB5T1RUVFQ0WXA0MEppTUFDSVZEUGxFemNZdUI3SFNmdHVJbE9qRUU4ckV2Y1lnMjZYcGlyUFBBazRGQTA5T1pDbjA1ZkI1RkVmcWNhRndRM19TbWdmbFRHQ2F3Nk53WUljUDlmby1mU2U2Ykw1ejJsSW5zZUZSYy02NGVXNEJ1M1lMZWNGR2V1Vm8xckRxa0FhZDBJMmVXRE5EVnByOVlIUVVNWl9LRVZIS3U2cGMzZjR6dmVQSjZYWVFqMXVvbkVKQVp1QjFlazZfYVZod2lSUWFZdw?oc=5",
-   "time": "2026-11-14T09:06:03Z",
-   "location": null,
-   "id": "d9b6cb84ed4c2550"
   },
   {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
@@ -1609,11 +1581,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
-   "time": "2026-11-14T01:38:00Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VlRlNVJFVzZnUFJJN0trSjVwVE5IaTgzMlhibFl2MEVHSG9DeEUzRXl2TUc3QUlfUUNzZVVJY0JaSnBaeVJIOEVLRlBtZFViZjRn?oc=5",
+   "time": "2026-11-14T01:38:22Z",
    "location": null,
-   "id": "06fecd57eb4c424f"
+   "id": "6be9ad088b919f8d"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
@@ -1891,32 +1863,6 @@
      7.936
     ]
    }
-  },
-  {
-   "title": "ชุมพรอ่วม 5 อำเภอ ฝนถล่มต่อเนื่อง น้ำท่วมหลายจุด เขตเทศบาลเมืองน้ำขังสูง 20-40 ซม.",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hbWFXM0Q4V2NPQTlYVno3YXNWMzU3STNVX1ZkWnIxVExPeEJKLXZkMmFTT2prdndVUlV1NVM4TkxWZ2dZRDhjZjFHcHJiNzdfTEJFRE1LWm9rN0Nmd1gwTg?oc=5",
-   "time": "2026-11-13T10:48:47Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_a3c297fb41379a97f356",
-   "id": "a3c297fb41379a97"
   }
  ]
 }
