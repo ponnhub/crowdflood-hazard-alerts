@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T03:38:05Z",
+ "updated_at": "2026-11-15T03:54:44Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,32 +17,18 @@
  ],
  "counts": {
   "flood": 39,
-  "flash_flood": 11,
-  "storm": 13,
+  "flash_flood": 10,
+  "storm": 15,
   "landslide": 11,
   "earthquake": 10,
   "wildfire": 4,
   "drought": 5,
   "pm25": 12,
-  "heat": 1,
+  "heat": 0,
   "tsunami": 0,
   "other": 3
  },
  "items": [
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "MGR Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NVcyNUphQWR0bTlPZW1RRDBBbWRoNDZkbUc2Y0FoMngzS0xLSmxnQ3RyV25TaWRKcHVOdHlrckVlZ3JJZEJ5eEtkQm9uOFJIYV9TT3FheXJsclAtbHV3RTY3RGw4aUE?oc=5",
-   "time": "2026-11-15T03:19:00Z",
-   "location": null,
-   "id": "cea01b4ba7519bea"
-  },
   {
    "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
    "summary": "",
@@ -86,6 +72,20 @@
    "id": "8ecadc60912d6f4d"
   },
   {
+   "title": "เตือนภัยฉบับที่ 1! กรมอุตุฯ ประกาศ ภาคใต้ฝนตกหนักถึงหนักมาก ถล่มยาว 5 วัน ระวังน้ำท่วมฉับพลัน “ไทยตอนบน”อุณหภูมิฮวบ 4 องศาฯ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRkFFVmp0Y1BLajBpenkwV3hxSmxEWkJFOThzaGRqWGh1a3FEbjRRaUpTR1h3YWtQU3ZyTjliMGVkUWczTE5NbFl4YVg?oc=5",
+   "time": "2026-11-15T01:56:00Z",
+   "location": null,
+   "id": "88b9824515d4a0d4"
+  },
+  {
    "title": "“กรมอุตุฯ” ประกาศฉบับที่ 1 ไทยตอนบนเตรียมเจอฝนฟ้าคะนอง เตือนภาคใต้ฝนถล่ม 18-22 พ.ย.นี้ ระวังลมแรง คลื่นสูงเกิน 3 เมตร เช็กจังหวัดได้รับผลกระทบ",
    "summary": "",
    "category": "news",
@@ -114,18 +114,18 @@
    "id": "1f73f096426d99e4"
   },
   {
-   "title": "เตือนภัยรองเท้าคู่โปรด! เก็บไว้นานไม่ได้ใส่ เสี่ยงกลิ่นอับ-เชื้อราขึ้น เผย 5 สาเหตุ พร้อม 6 วิธีเก็บรักษาให้รองเท้าสะอาดเหมือนใหม่",
+   "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
    "summary": "",
    "category": "news",
-   "hazard_type": "heat",
+   "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "ขอนแก่นลิงก์ Khon Kaen Link",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EczlwaThzdDh2TlNrQnJfVnp1eVJveGRjMzRMLW9pNmREeHQyYVY0UHFxUVA0SU1iTjZsRVFJSXJrLXI4TEpya1J6OEVUUnp4QzBzRg?oc=5",
-   "time": "2026-11-14T03:26:04Z",
+   "source": "ข่าวหุ้นธุรกิจออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BWWRTTG5LZFMwdUdRX1d1OGl1Yk9USHhUWllwWnpXSzZPekIzeVpGN2YtTkp2WURtZzRkV0ZrZnVSNGVYTExGR2t4RQ?oc=5",
+   "time": "2026-11-14T03:05:14Z",
    "location": null,
-   "id": "82588281e3551dda"
+   "id": "701462075da0bfa6"
   },
   {
    "title": "แผ่นดินไหว ขนาด 5.2 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
@@ -862,20 +862,6 @@
    "location": null,
    "incident_id": "fr_news_ba52b1961dbfdea216ec",
    "id": "ba52b1961dbfdea2"
-  },
-  {
-   "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGptMUhmeE9QbTV0cU1uY2JvRGxJQmE4YnhTdDJ0b3RWX1dwS3hKdU9PdEJCeHFPcUl1RUlGWjVPcWVfalRuSi1TcDRxLTl4eWRLa2phSTNvdjlGR3ZJOExET0U3UU04YmZzdUZtVlI3UXZqMk9zT3p2Vm0zMWhEenNvX2xVejhlTThn?oc=5",
-   "time": "2026-11-14T09:12:52Z",
-   "location": null,
-   "id": "077cba84bf0edfc4"
   },
   {
    "title": "MIT เตือนไทยฝนสุดขั้วถี่ขึ้น 5–10 เท่า ฝน 100 ปีอาจเกิดทุก 5–20 ปี ชี้เหลือเวลา 10–15 ปี เร่งปรับโครงสร้างพื้นฐานรับมือน้ำท่วม . โลกร้อนไม่ได้แค่ทำให้อุณหภูมิสูงขึ้น แต่กำลังเปลี่ยนรูปแบบฝนและยกระดับความเสี่ยงน้ำท่วมของประเทศไทย เมื่อผลการศึกษาจากนักวิจัยสถาบันเทคโนโลยีแม",
@@ -1854,6 +1840,20 @@
    "location": null,
    "incident_id": "fr_news_8c6319ad465778cfed2c",
    "id": "8c6319ad465778cf"
+  },
+  {
+   "title": "ต้องดำเนินการอย่างเร่งด่วนเพื่อแก้ไขปัญหาดินถล่มบนคันทางของทางด่วนจี๋ถั่น-วันฟอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkljczRudEREX0ZrSjZ3d0Y3eWM3NlpLallWMmFhdk9McmdMY3pUaFF1T2tTY0NYb0o0REZ6WDhabTRiTUFWbFFrWVlkV3J1ejlKWjIzYk9UMHJwSklUa3dEMFVHNVUzY25jdWY2bTRCT0c1LTlEZ085ZjB5QTY4WmZGYjk1RTJaQXBrNGRpcDRPM0NIUUJkU3p2eXJkNFF6?oc=5",
+   "time": "2026-11-13T08:13:55Z",
+   "location": null,
+   "id": "d686a699d1ab47ad"
   },
   {
    "title": "📢 อัปเดตสภาพอากาศ 13 - 19 พ.ย. 69: 🌤️⛈️ 🧣 ไทยตอนบน: 13-16 พ.ย. อุ่นขึ้น มีหมอกตอนเช้า 🌫️ แต่ช่วง 17-19 พ.ย. จะมีฝนฟ้าคะนอง ลมแรง ก่อนที่อุณหภูมิจะลดลงจากมวลอากาศเย็นระลอกใหม่ 📉 🌧️ ภาคใต้: 18-19 พ.ย. ต้องเฝ้าระวัง! ฝนตกหนักถึงหนักมาก ⚠️ ระวังน้ำท่วมฉับพลัน",
