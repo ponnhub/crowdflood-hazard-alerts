@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T06:22:28Z",
+ "updated_at": "2026-11-15T06:35:50Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
+  "flood": 37,
   "flash_flood": 7,
   "storm": 15,
   "landslide": 10,
-  "earthquake": 10,
-  "wildfire": 3,
-  "drought": 4,
+  "earthquake": 9,
+  "wildfire": 4,
+  "drought": 5,
   "pm25": 11,
   "heat": 0,
   "tsunami": 0,
@@ -176,6 +176,26 @@
    "id": "c8abb7329848c087"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 70 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17441",
+   "time": "2026-11-15T06:15:20Z",
+   "magnitude": 2.2,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.022,
+    "lng": 97.839,
+    "precision": "epicentre"
+   },
+   "id": "a1e531e622299fed"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.6 ประเทศเวียดนาม (Vietnam)",
    "summary": "ทางทิศตะวันออกเฉียงใต้ของ อ. โขงเจียม จ.อุบลราชธานี ประมาณ 230 กม.",
    "category": "official",
@@ -220,6 +240,20 @@
    },
    "incident_id": "fr_news_9d4a211d5cf83d1cff90",
    "id": "9d4a211d5cf83d1c"
+  },
+  {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-15T04:55:29Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ‘กทม.’ จ่ายค่าซ่อมบ้านสัปดาห์หน้า",
@@ -1053,6 +1087,20 @@
    "id": "21684a50440ac5b0"
   },
   {
+   "title": "โลกร้อนซ้ำเติม “ซูเปอร์เอลนีโญ” ไฟป่าอินโดนีเซียแรงขึ้น ต้นเหตุอาเซียจมฝุ่น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "wildfire",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZUNEaE1KWmEzWXF2bml2cUlNYlFyNW1uUkxQUkRSSXo3d1hFSzZIa0thcU1zeURkX3BsN25DMFQyRFpCYXd0bzhxdkdHSjZRYWp3WHdB?oc=5",
+   "time": "2026-11-14T06:00:00Z",
+   "location": null,
+   "id": "3baba217cab7306c"
+  },
+  {
    "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
    "summary": "",
    "category": "news",
@@ -1317,20 +1365,6 @@
    "id": "864cd6c3cff17187"
   },
   {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-14T00:54:55Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
-  },
-  {
    "title": "‘Kellogg's’ ปรับสูตร ‘ซีเรียล’ ในยุโรป หลังภัยแล้งทำ ‘ข้าว’ ขาดแคลน ต้องใช้แป้งแทน",
    "summary": "",
    "category": "news",
@@ -1359,44 +1393,18 @@
    "id": "7e43ac11cd310847"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 68 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
+   "title": "14 พฤศจิกายน วันพระบิดาแห่งฝนหลวง น้อมรำลึกในพระมหากรุณาธิคุณของพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ผู้ทรงริเริ่มโครงการฝนหลวง เพื่อบรรเทาปัญหาภัยแล้งและการขาดแคลนน้ำของประชาชน จากพระราชดำริเมื่อวันที่ 14 พฤศจิกายน 249",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
    "severity": "medium",
    "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17432",
-   "time": "2026-11-13T20:27:14Z",
-   "magnitude": 2.2,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.063,
-    "lng": 97.952,
-    "precision": "epicentre"
-   },
-   "id": "ebdbfe3c2534d7c4"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 2.4 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17431",
-   "time": "2026-11-13T17:17:04Z",
-   "magnitude": 2.4,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 20.004,
-    "lng": 97.856,
-    "precision": "epicentre"
-   },
-   "id": "4473bfee4f3f555d"
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMigAhBVV95cUxPZzJOTHFDbHU5d09sM2E4M05kdVp4QllhZWhSNU1lZy15LUF6bXFYdmN4VTRCZGh1aHdJOWVYY0ZvWk4zcEIweXpkcWxkOERIS1dFUGpFWV82NVcwZllvTWJvbnQzakZ2OUpUYmxjQ1N4Q05FTzhJSG10dzZCQXppb19xcEhyTDJLZU9lc2dEYjFxV2Jvbnhyb1Z4NHFHSFZFbVlMaXNpWWNCM05xSlEyU0duSWRGNHByNUNQNEZPRVc0X3F3dzdxRVB2X3JXMDVXQmxtMDRDQ1pzdEFxME9PNkM3VFhXdWk4dE9fT3R2c3JFdDJvTUFXdTJIRHZfWEZpVl95elc1aGhEaE04NXJubHgzNmJqNlhNbW5feERyOFF6RWVzaWtJdU1XOHp0cjNZZ1B0OXRFYmV4ZmxoNTM0V28yTEtxb25ZZFhYZFpzUWMxWVRubUlpRHcwNTBpajJ6d3BkUkstRUUxYThOMWp3bWRQeVRFSXg5bDhWRzdXZlF6dnY1cG41SkNLQWdzSmFZV1BFZXQzR3RCcnZEX0JvMlduUnJSNUxZdmN2UDFZOEN5d2ZrNVpYQ2NOY3RQZUcwNjRtdDF0VVZKT2NZbUtPcmNaTUdiSDQ0bk5vaTVXVEJ2c0Y4RVNhRm1QRndEQzZqa3FtdTFjbUFkTmEyY25IbGNHT2h5ckw0Q3dsemdaRTRPUm5kMFd4QzV6Nm5obGVSNmtrSW5nc2hWTnN0S3VmYTBtMGpuaVJMVFRvcmtkX2ZScGpOT0tlSDdCVnRXMzNBX05HeEI0SHNyQlVnUldTNmhTVHU2RXFBalhiUEJhVDlvNGZ6VjJ3QVd1RjR2MU5KeDk5Yk9TaE9BMU1nNUJyWjlfR0dyTW1leTBtS3owVzZmLUptbW81MUtpWUJIVDA3WDI1MENWQ2Y2VkJzOHZfLTlfMkVGdGRXdUJwXzhRY3ZqOFVzUUlhc2RwWHRWY3c0WUNVTVR1MGNfTWJESXVuODdiMWQ3Ri1MeVYyNk1JZF9lbkRHc3pubEVqWkg4R2FISkZvY18ycjVtTFROejlmcUg1MV96Rl9xUzhXZEJpZWRRUDdQTDNodlJxVE9jOERqYUlJdFZXalNkMkl4Wlg0bUZaVVdpT212Y3pMVElnVVFteXFhbDNlb0RoOFZhQ2FYYzdNR0V4cnhsbG55cTF4M1FOWjMxTEVzbEhxeDNKVWs4c0hPR0o5WXZtNjh6ZTBFM3dfYUk0cjNvc3FETjllRkdJYmtpQWhqRlhPOFF0Q2RpWXdSNXFMU3prSExrYTY0QkJ2cTZiM1FXZUF3X0syZW5EZVlONFNiLWViNW9Vbks0RVBUZ3BSekFlZnlZTFR1?oc=5",
+   "time": "2026-11-13T23:30:02Z",
+   "location": null,
+   "id": "93acca4fe0bb2af1"
   },
   {
    "title": "กรมชลประทานเร่งระบายน้ำและขุดลอกคลองลดน้ำท่วมในนครศรีธรรมราช รวมพื้นที่สนามบิน",
@@ -1981,47 +1989,6 @@
    },
    "incident_id": "fr_news_58188b2bee7aa57ef367",
    "id": "58188b2bee7aa57e"
-  },
-  {
-   "title": "ปภ. โอนเงินเยียวยาน้ำท่วมวันนี้เพิ่ม 11 จังหวัด และ กทม. กว่า 145.73 ล้านบาท",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "จส. 100",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IVGZxVW84TFpFUVl0bkhTaHJqMzNRSFFEZV9ndUg0NzBERTZWQ25wSHczc1NzbjhYSVVMYlpnV0t2NlB5ZUpPdWlJdXpYQ1BwM3FqRFJkcER2dw?oc=5",
-   "time": "2026-11-13T06:34:41Z",
-   "location": null,
-   "incident_id": "fr_news_3acf8241654ece4ff3da",
-   "id": "3acf8241654ece4f"
-  },
-  {
-   "title": "อัปเดต น้ำท่วมชุมพร ล่าสุด 13 พ.ย.69 ทะลัก 3 จุดหลักกลางเมือง สูง 40 ซม.",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jTVc0Zl96LXBuenJNUEdGR0tqUTR6dmNFRkhJR3VMOEduYmlXd3BaSlVEOW1hamVCRVNVVWs0eUs4MHRDbVV0akRvVWx4Qnd4OTdYdWdQT2lGMHFkUWc5cnpKN2toQQ?oc=5",
-   "time": "2026-11-13T06:26:00Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_aa8fe6f7ed37628c3b84",
-   "id": "aa8fe6f7ed37628c"
   }
  ]
 }
