@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T12:36:12Z",
+ "updated_at": "2026-11-15T12:57:32Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,12 +18,12 @@
  "counts": {
   "flood": 32,
   "flash_flood": 7,
-  "storm": 15,
-  "landslide": 10,
-  "earthquake": 10,
+  "storm": 14,
+  "landslide": 9,
+  "earthquake": 11,
   "wildfire": 3,
   "drought": 4,
-  "pm25": 11,
+  "pm25": 10,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -140,20 +140,6 @@
    "time": "2026-11-14T01:18:54Z",
    "location": null,
    "id": "4b8e60af9d1a97d2"
-  },
-  {
-   "title": "การดูแลความเป็นอยู่และแก้ไขปัญหาความเสี่ยงจากดินถล่มอย่างทันท่วงทีสำหรับชนกลุ่มน้อยโคตูในเมืองดานัง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVlRb2c4NFZXU0dwMjJpck9hZWhyeE85Z1VBM0x3bUpCVmczRjFnR3ZTbTB6Rkd1SVF0ZlRvQ0VQRjlBZTNFMkc2d1RORVpPaEFHeW1ibXRDN1BIend4UjBBQXBjakFXZUJYRWxBWGp0MnYxQmxCYUZhS3dfSlYtd3pqb25ETVR1bGV3VDE5azBsV2hLelFmR3ZLd3RCZw?oc=5",
-   "time": "2026-11-15T11:10:37Z",
-   "location": null,
-   "id": "700fe17c92120d5c"
   },
   {
    "title": "กรุงเทพมหานครเร่งแก้ปัญหาน้ำท่วมเขตประเวศ สร้างประตูระบายน้ำและขยายบึงหนองบอน",
@@ -666,6 +652,20 @@
    "id": "1b21fdfbaa19dc1f"
   },
   {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 292 กม.",
    "category": "official",
@@ -823,6 +823,20 @@
    "time": "2026-11-15T01:11:54Z",
    "location": null,
    "id": "a73c35a440fac23d"
+  },
+  {
+   "title": "รัฐบาลโอนเงินช่วยน้ำท่วมแล้ว 1.3 หมื่นล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TjdMaHRnTUJNUGpjZnNQVEt4YWJhbWJncnVtR0NESkhXMTZYaG9pUXpjRjN2Y0dTeFBSMXlxOTIwUHZIUVoycTZUaHJkX2FNRHhwU1hCNTBJUQ?oc=5",
+   "time": "2026-11-15T01:09:55Z",
+   "location": null,
+   "id": "0c7fc28f42e778fa"
   },
   {
    "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
@@ -1615,31 +1629,6 @@
    }
   },
   {
-   "title": "PM 2.5 เริ่มกลับมาแล้ว! กทม. พบค่าฝุ่นละอองสูงสุด 12 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ 1 จุด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wT2FweUNqZWxlam9iTWxULTVYZG94MjNreXN0T1hVTlFkeGVkOGEyQ0wwUXhQN0lfVnRhWGhfVC1DVURjSFlMZFJqTTBtdmQtRFdpWU5sVTF5QQ?oc=5",
-   "time": "2026-11-14T01:53:00Z",
-   "location": null,
-   "id": "0101a203a5e00f03",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.69 ลมหนาวแผ่ว ไทยตอนบนฝนเพิ่ม 18-19 พ.ย.ภาคใต้ฝนหนัก เตือนน้ำท่วม น้ำป่า ดินถล่ม",
    "summary": "",
    "category": "news",
@@ -1647,11 +1636,11 @@
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pQVJ6UUdSS0ZjWk43NDZqUllLeWVqYUN4azBBSnRMZ0tjMVB4eXJyMmY3S0tHSVRHci1Xem11ZlpocXpYLWMwb2R1MGlhSWs5V2J0VHNR?oc=5",
-   "time": "2026-11-14T01:38:00Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84VlRlNVJFVzZnUFJJN0trSjVwVE5IaTgzMlhibFl2MEVHSG9DeEUzRXl2TUc3QUlfUUNzZVVJY0JaSnBaeVJIOEVLRlBtZFViZjRn?oc=5",
+   "time": "2026-11-14T01:38:22Z",
    "location": null,
-   "id": "06fecd57eb4c424f"
+   "id": "6be9ad088b919f8d"
   },
   {
    "title": "อากาศวันนี้ ใต้ฝนถล่ม 70% จับตาพายุฝนลาก 5 วัน ก่อนไทย-กทม. รับลมหนาว",
@@ -1678,20 +1667,6 @@
    },
    "incident_id": "fr_news_ecde071f78e790071ead",
    "id": "ecde071f78e79007"
-  },
-  {
-   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
-   "time": "2026-11-14T01:12:42Z",
-   "location": null,
-   "id": "2f39d96fcb7ee273"
   },
   {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
@@ -1841,31 +1816,6 @@
    "time": "2026-11-13T13:00:44Z",
    "location": null,
    "id": "0c42365e6dd53f6c"
-  },
-  {
-   "title": "UPDATE: กรมชลประทาน เร่งระบายน้ำเมืองคอน รับมือฝนหนัก ลดเสี่ยงน้ำท่วมสนามบิน–เขตเมือง วันนี้ (13 พ.ย. 69) นายวิทยา แก้วมี อธิบดีกรมชลประทาน ติดตามการบริหารจัดการน้ำในพื้นที่จังหวัดนครศรีธรรมราชอย่างใกล้ชิด โดยเฉพาะบริเวณสนามบินนครศรีธรรมราชและเขตเทศบาลนครนคร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQaG9IY0NIZUMwcEFDemxKYl91WngyRTFLOS16X0Vzd1EzdzFlYWN6b09lQzEtSGFHLTYwUEpKMU9Zdzl3dVN4dUpjRmdGM3YyOTFvSmhGSUxlcXNBaXlfa3VydC15S0NBVlFmR2s1U1pXLUdXcjQzaWt4M1hIY3dmMmFqWFRRY0M5Z0p0WHRrRGo5MjNRdXZaMU96cmhMelNVZXpSYlFKZDZNUzVyRm5Kc2tLRGFvNEx3eGNQVDE1UmRTWWhnbC0wbXQzLWJTS2xZZWhRbDNsQVY1OXQ2My13RlRQcTdfNG9vN1pDbkd3MjJ0TmJWbFo4MG04MDBRY2gyd2o1MzVEUzU2MmRxYXhxZlo2Zy0yYUV0SWVSRGpXU0pRN3FqUjR3UlFrcmlYWGFmM2VCcjFLUkhXdi1EeVpRd3NVZUR2YlFTX0FFUkd6QWJ2Vkp5bmFSOXVidU1pdFNTbHpfWS1QbWo0SG5fVmNHdS1zVXdRSlhOUm9CSE5rbmc3SXNhTjZGMFp3UjNUbzZnZkpHb05TYS1jaTNHbHl2T3YydlVrQ051bFdETzJaaVYzSXhCT1BYZ2JDdnNQUzlXWWdqb1VBa2Ric1dCYWhRRUJTN3JJSk1YU05vU25JVnhybURRSW45aVJCX3J2a0tOejdnUzk1RUs3TnB5Y25FS0dnOTl1QzNWN0QyLWhtRTdwSm5iUnV0cFZsaDV2cXFvSjJZZmpTNzQ1VHJnZUdwRDJ4Um9iejF1NWdMMUxGdWdaeVVRQml6QkJXcWxFSzdlaHJuSEJDY0ZCbjdfcWVQR3JxanBsQUtKRGpUREt1RG0xamxSVGlIWmFEekg2eDQ2UWE3NEdlV3VHYTRRalpLOV9FN1Z5LTNqblJnVXZ3T2l0OFFQNDVTQTBSenQ1WV9xRlUyZlVwQWlFVmQxMUJxb092ekVQZEVhWGRIRldVaGtVNGY1TnMzMnprZkN2ODF1UmV3aE9oY1JSLTJ1VC1yS3g4b215VldqeWJlaDAtaW9Tal9pV0RSekFKWlZkdEhsLS1zMVUwend6NWVjY19xdlJtcWdDdmo4ZkkwZ0JLTDlWUUpELWFxV2ZRay1hMzY1eWhGeW5RNmE1VDhFRl9DcG9EcE8zaDhoWVlKcjNtUUJyQVhwY1BtLXViMWM4QVpHWWNvZnJJSkFrWklYQ0pMdVY5dnlCNWg1VXdoS29wRkZpTTJkTkhFOXhkaW4wRDJ5cUNuNmprckU2NWJDQnJ6cFpiQXJJODh5RnF4VVhQdTJPYmZ0Znc4?oc=5",
-   "time": "2026-11-13T12:45:39Z",
-   "location": null,
-   "id": "7817b03d72853dfe",
-   "area": {
-    "code": "TH80",
-    "level": "province",
-    "name": "จ.นครศรีธรรมราช",
-    "bbox": [
-     99.234,
-     7.838,
-     100.337,
-     9.323
-    ]
-   }
   }
  ]
 }
