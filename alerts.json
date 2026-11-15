@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T09:10:25Z",
+ "updated_at": "2026-11-15T09:21:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,17 +16,17 @@
   "other"
  ],
  "counts": {
-  "flood": 34,
+  "flood": 35,
   "flash_flood": 7,
-  "storm": 13,
+  "storm": 14,
   "landslide": 10,
-  "earthquake": 10,
+  "earthquake": 11,
   "wildfire": 4,
   "drought": 5,
   "pm25": 11,
   "heat": 1,
   "tsunami": 0,
-  "other": 3
+  "other": 2
  },
  "items": [
   {
@@ -162,6 +162,72 @@
    "id": "cec48c2db91f29d6"
   },
   {
+   "title": "ฝนถล่มกรุงช่วงบ่าย! น้ำท่วมขัง \"รัชดาฯ-เพชรบุรี\" รถติดสะสมยาวหลายจุด",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qM2FjdVh0ZC05Mll2UWM3TXFYc05CdFFZd21wTmpMcVBPMzZGbEY4djBlbU12OHJ3YlMzOGhhckRSbGI4eXdUOXpnREt2RGFBZkpxcXNB?oc=5",
+   "time": "2026-11-15T08:58:00Z",
+   "location": null,
+   "area": {
+    "code": "TH76",
+    "level": "province",
+    "name": "จ.เพชรบุรี",
+    "bbox": [
+     99.1,
+     12.564,
+     100.092,
+     13.343
+    ]
+   },
+   "incident_id": "fr_news_6aaa829d66d3aa2e4448",
+   "id": "6aaa829d66d3aa2e"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 217 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17442",
+   "time": "2026-11-15T08:56:46Z",
+   "magnitude": 3.0,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.336,
+    "lng": 96.213,
+    "precision": "epicentre"
+   },
+   "id": "ebfc174973c1007a"
+  },
+  {
+   "title": "15.35 น. (15 พ.ย.69) ถนนแจ้งวัฒนะ ขาเข้า ก่อนถึงวงเวียนบางเขน มีน้ำท่วมขัง เลนซ้าย รถติด ท้ายสะสมไปแยกหลักสี่ #ฝนตก #ฝนตกหนัก #น้ำท่วม #ถนนแจ้งวัฒนะ #ข่าวจราจรสวพFM91",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxPU3ZPRVBSRDdCYmRMeURCNW9VaVVfX3ZfbXVuU195TjAxakZDRGtvY0lRSlk5QW1wMXlQVkI2ZlJYenI2SEtub2ZneVpBMG5LRThDV2NmUUtta2VmcTRzYUh1ZUJpMEtrNU1tdFNoRV8wdDVIWFVhZ3R4ZTNXbGFLSmtXbzQ3RzlOOVRNVXkyQ1l0UGVac1hqWlJ2UnJYelVtYkRnYi0tcTNTMTdGdVlwcEhWNzMtSHNwY1FLNVJhRDFNSzdHWjFYMWoyeHMxdHVJMGNFRFFJUjZhdTctX21tMnBYekJ3TFFEV3Rld08wWnhhZDV1X1lIYy1LbXBlTGJuWGFtMVA0cXY0LUVIcE5Yem5vVlI5dFMxejdyMFM5TVRwLVpDcW02RnlNX3J2M21sNmNDUm16RlVCcGxlQVc4enVmVU1oallKNjk4YnpwbmUtdE9oYUZ4TnlqQzVyTHVEZ2lHUW5JZV9OV0Fob2ZqVVAyRmVfV3pGNWNYRkVXbG1fb0sybHlmN29yZGY3YmhFUHNyZ0VkTUlZdWhCTHFvVmlPOHNra2FrZkYzTERJLWc1eU9rVUJkOGJsN2paN0hEd1REMWJ3ZmxVbkJVMDlrMHpqUlVhTUw4LURubWQyR2pTSmhyeEhaZmJUdXIySEJUMzNyVGdVbTJIMkIyeWdUdC15cVM3alFRbEQ4ckJRTXlxS1dZUWZZZnpiM25LY0hrSkt4ZUJsSThpSUFiN3lUaWdJTnNPSWkwdUpmcHBOMTBlYm0zbHl4N0p4c19SWV9ERjk0WXJoSC1nS3BOOGZwSTNQSjYtRlh1ZDV5UTVBaG5lU3ZPclBVdVdUU3BjYVAyZnI1ZnktUVM1MGdhNkVYcS03Zk5zMlFmX0JfZDZBemEzZ0EtcWk4UGJmMXJNT2Y5WEV3eE43TUdjUEQ0V2VNV0dzaHJMLV9FWVZpRi0yQ3kwTDU3bEdHcDc3TWVhRU1NbXR0TmJiejZ2dkc2akFWejVfdDZVUGJkSG0wN2RzaXYyRy1zXzN1UW1MdXR3QzBqVm9IWlZySVk5cHlNUjh1eEdFVTJLdlZIT0RoWkhDaUZCOHBzcnAwZm5HQzlVVFZXdjc2aFdkcDFwUTZIQWZUbzZzRGlZOWdUVjQwa3Boc2RkOEdWcTAzYWpqQnZhUnRvWE9FcUlncFI3YnNvZkE?oc=5",
+   "time": "2026-11-15T08:43:24Z",
+   "location": {
+    "name": "แยกหลักสี่",
+    "lat": 13.8841934,
+    "lng": 100.5816608,
+    "precision": "place"
+   },
+   "incident_id": "fr_news_fdc0038ef0e94b566355",
+   "id": "fdc0038ef0e94b56"
+  },
+  {
    "title": "ตรงแยกเทียมร่วมมิตร น้ำท่วมสูง 2 เลนซ้าย 15.04 น. ถนนรัชดาภิเษก เข้าออก ผ่านแยกเทียมร่วมมิตร น้ำท่วมสูง ส่งผลให้การจราจรติดขัดอย่างหนัก #ฝนตก #ฝนตกหนัก #น้ำท่วม #ถนนรัชดาภิเษก #แยกเทียมร่วมมิตร #ข่าวจ",
    "summary": "",
    "category": "flooding",
@@ -278,31 +344,6 @@
    },
    "incident_id": "fr_news_3cd5ba93d0927c1c86c3",
    "id": "3cd5ba93d0927c1c"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
   },
   {
    "title": "ระทึก! แผ่นดินไหวเขย่าเวียดนาม ขนาด 3.6 “กองเฝ้าระวังแผ่นดินไหว” เฝ้าระวังผลกระทบใกล้ชิด",
@@ -1173,6 +1214,20 @@
    "id": "d9b6cb84ed4c2550"
   },
   {
+   "title": "สธ. เตือน ‘ซูเปอร์เอลนีโญ’ ดันวิกฤต PM2.5 ปี 70 รุนแรงกว่าเดิม ยกระดับคุมเข้ม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVHM3bWZFZ3JGcks1VndZRHNNRUR1VmYwcVlXSGtBQkpTU1FyNzFUQ1Q0WVBCUjZSUEZoQlF4WXpReUJ1R3J0a3hZaWREYnRqMjFPRlNjbk9qeGdFd2FBVzFTSFo?oc=5",
+   "time": "2026-11-14T08:24:37Z",
+   "location": null,
+   "id": "99bddd5dd9dd2b90"
+  },
+  {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
@@ -1334,20 +1389,6 @@
    "time": "2026-11-14T05:15:21Z",
    "location": null,
    "id": "11e9a975d4c1d423"
-  },
-  {
-   "title": "ปภ. เผย ‘เอกนิติ – ภราดร’ เตรียมประชุม คณะกรรมการป้องกันภัยพิบัติภาคกลาง 17 จังหวัด | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUa1UxSS10Qjk1UTI4c2ljR2stX2ZpTXhERU9UUkI2V1FOU2o0eXNfNzJXYmJvalhiZUdnRXVCTHN1S3hpTmQtSDZGRWV1QmQzYVNpZlRn?oc=5",
-   "time": "2026-11-14T04:09:58Z",
-   "location": null,
-   "id": "83009af6207a86ed"
   },
   {
    "title": "เกิดเหตุดินถล่มบนทางหลวง: ครูขี่มอเตอร์ไซค์ถูกฝังอยู่ใต้ก้อนหินและดิน",
