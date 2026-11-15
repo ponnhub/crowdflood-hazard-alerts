@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T02:22:14Z",
+ "updated_at": "2026-11-15T02:35:55Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 41,
   "flash_flood": 11,
   "storm": 13,
   "landslide": 11,
@@ -29,6 +29,20 @@
   "other": 3
  },
  "items": [
+  {
+   "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา | ข่าวหุ้นธุรกิจ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kb1FMWjhOQjBSdXJXZW8yRFFUa0NGMEphcWtBYndIWko2RG5JQkFsUGxxOU1ZSS1EMTNXU2JnU3J1QWtkUXNqTlBQM05HLWFyTUZfOWNR?oc=5",
+   "time": "2026-11-15T02:25:52Z",
+   "location": null,
+   "id": "e96f6c6d8a951d65"
+  },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
    "summary": "",
@@ -114,20 +128,6 @@
    "id": "82588281e3551dda"
   },
   {
-   "title": "กรมอุตุฯ เตือน 13 จังหวัดภาคใต้ฝนหนัก เสี่ยงน้ำท่วมฉับพลัน อ่าวไทยคลื่นสูง 2 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PTHA1bTF5SDh0OW8yd2ctY2V0OHczeXJhRDQ4bGY1V1Zsb1h5anV5SkdiaVZJWGkzWkoxZ3AwRXNObzVyVkZjc0RpeHRib012V3dyeEhR?oc=5",
-   "time": "2026-11-14T03:10:45Z",
-   "location": null,
-   "id": "857a909dfb60d9d8"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 5.2 ตอนเหนือของหมู่เกาะสุมาตรา ประเทศอินโดนีเซีย (Northern Sumatra, Indonesia)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.ภูเก็ต ประมาณ 816 กม.",
    "category": "official",
@@ -160,6 +160,20 @@
    "time": "2026-11-14T01:18:54Z",
    "location": null,
    "id": "4b8e60af9d1a97d2"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน 18 จังหวัด ฝนตกหนักถึงหนักมาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTGRnT3hGcF9DLXNrNGpfRjNYQmFFY09xTjRHcG9rZ1Vnc0VKeGdSazA3a1lXa1RmS0M1ZkdoTTE3SkhBZnNPdU9hTmhaQVZMNTU3UjZ1UFY3LVk0Y3hJRTNJNA?oc=5",
+   "time": "2026-11-13T23:58:00Z",
+   "location": null,
+   "id": "71a6f9ba02dd4726"
   },
   {
    "title": "กรมอุตุฯ เตือนใต้ฝนหนัก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย. ฝนถล่มหลายพื้นที่",
