@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T08:28:31Z",
+ "updated_at": "2026-11-15T08:36:08Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,9 +18,9 @@
  "counts": {
   "flood": 34,
   "flash_flood": 7,
-  "storm": 13,
+  "storm": 14,
   "landslide": 10,
-  "earthquake": 10,
+  "earthquake": 11,
   "wildfire": 4,
   "drought": 5,
   "pm25": 11,
@@ -146,6 +146,26 @@
    "time": "2026-11-13T23:21:38Z",
    "location": null,
    "id": "cec48c2db91f29d6"
+  },
+  {
+   "title": "ตรงแยกเทียมร่วมมิตร น้ำท่วมสูง 2 เลนซ้าย 15.04 น. ถนนรัชดาภิเษก เข้าออก ผ่านแยกเทียมร่วมมิตร น้ำท่วมสูง ส่งผลให้การจราจรติดขัดอย่างหนัก #ฝนตก #ฝนตกหนัก #น้ำท่วม #ถนนรัชดาภิเษก #แยกเทียมร่วมมิตร #ข่าวจ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMiswdBVV95cUxOMV8tVFV1bnRndVNXQTRLeGNKYThVZnc4djZDQnFfZzBOR2pxMEZNLXJnTm51YUxKR3BZRXNlVUllTVVKMlhxRGVXcV82bDBORUx4blc2Wm9YWUowX2RaTU56NHlIbFAtX0xlWFN1UFFLa2VIZjcyOXdJZlBOLW5yeHhpWGtqcWdlQnNfWTd3dlpPZENrNmFoQjF3RmVXNWpSTlVzUEdfclNhLWl1TW5pZDBzbWxXYmtqMG0xX3Vac25BR1VJTS1QSUpPQ2hVYzJEZzg0WmpqeE9OaHo5THJ5Y2JrN056MzJ6YkRhXzVUc0Vad2hEbzE1enFDVk5kVGdQV1ExOEk2b1pKX2hGY2F6NFg0amlBTVY4bWo3QlB5REk4LXhVZU94cFh2MkRSZXMzYnotbXJCcldDN1F4WFRDMjFZR1FEbE92M1l2UHplOFltVVM4bXluVG9KOXNYZWNhQlYzemg4aWJJN0VvUGZvTDM3MEhLUW1WWGZtQnJzQ1VMdHhFeU1vVDAxSDNEWWRNYkN5TEZ1QWJFR3dPQlhjMUJ3U3hEb01TYVRWYk9UMEFMZ2VQeFRuY3VpaC0yOWw3T0l3bk1nbUZKajd1U3VrVmpiYzlNZUZybGtoOHBfbVU0THdGdWZRZ1lWVGVPaThtaFljcGlTWkJ3eHJVaTBYVURqVlVaMm42QVpJb2gyR0RMb0RiTk90VnhNQ1BmVVBVRUh6MHI4eVV5d1Q3UmVNTGlKdjZJVU54eUdIbU5DQ01DWDFlMXRZN1dUWG43YlVFcWZKckNUMG9ESGdQU0p0bHhCU1p6Wm1icjNDWkU4MXlSamVON2p6cXliLVpxT0dveEgyNjBJR2NWVUNuWnc0N3o3SzVLcGo3RHExQkNuTjBHZkZDMGlmZnppaVNHNTllWWJndjY4SmpPblNCc0t3ajZFQlNmdnYwWWRXdDlqMERiSjZjcE1YUWlNLUVTMGVQbXRZZ3dUeloxeW1NVk5PVHM3bXh1Tkp3ZmloZ0oyZWRXZHROaGQ4RmpxZktGRHVIcDdTYm1OZjVENlRJaENrTUROWXZJVWlaejVLTHpQcTREaGlkSWFFUVdoOGZPTzBueWFOdl9fdzFmX3lmeUtwbnBzM3dZbmRrbFk2dFd1QWVVUHZ1U3hUaGVEMU9FdUQ1OEhJQzI1VkluVGtqMDludUhEb2xDWVBPV2xwcWVwb1BTWENqOWstRWxubG1PM3RkR3FuaUljTms3ZWxxdnh4dUg2Zw?oc=5",
+   "time": "2026-11-15T08:06:37Z",
+   "location": {
+    "name": "แยกเทียมร่วมมิตร",
+    "lat": 13.7670695,
+    "lng": 100.5864645,
+    "precision": "place"
+   },
+   "incident_id": "fr_news_62ae08be7def287d1a10",
+   "id": "62ae08be7def287d"
   },
   {
    "title": "ล่าสุด \"ราษฏร์บูรณะ บางคอแหลม บางกอกใหญ่\" โดยเฉพาะ \"ธนบุรี\" ฝนกระหน่ำ #ฝนตก #ฝนตกหนัก",
@@ -451,6 +471,20 @@
    "id": "1b21fdfbaa19dc1f"
   },
   {
+   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
+   "time": "2026-11-15T02:59:03Z",
+   "location": null,
+   "id": "4c6b3975edb06432"
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 292 กม.",
    "category": "official",
@@ -616,6 +650,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
+   "time": "2026-11-15T00:06:04Z",
+   "location": null,
+   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1600,20 +1648,6 @@
    },
    "incident_id": "fr_news_56181279b3131ff63234",
    "id": "56181279b3131ff6"
-  },
-  {
-   "title": "การจราจรบริเวณจุดเกิดดินถล่มบนทางหลวงหมายเลข 15D กลับมาเปิดให้บริการอีกครั้งแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1JnUjNIclVNeWFpaUNPcnZFUWRqZnRhUjNuRUZqWjV3YVJmdGV5ZlF3U2hNUmVhOTRXdmRTdjd5Ri1aYWI0OU5ITmhXX2t3ejd4MTN4R3V1WVA1OUIySFRZYVE2R0MyT0RQalNuWEtHdFVfNXVHbE1lOGZXbWRablBBczI?oc=5",
-   "time": "2026-11-13T13:24:46Z",
-   "location": null,
-   "id": "94fdbbfabcc9283b"
   },
   {
    "title": "‘ยศชนัน’ ผนึกทุกภาคส่วน เตรียมสู้ภัยครั้งประวัติศาสตร์ ‘ซุปเปอร์เอลนีโญ - PM 2.5’ ดีเดย์ 9 มาตรการรุก แก้ปัญหาหน้างาน เปิดแผนสกัดไฟป่าเรียลไทม์ครั้งแรกของไทย วันที่ 13 พฤศจิกายน 2569 ณ ห้องประชุม 1 อาคาร 3 ชั้น 5 กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ศ.ดร.ยศชนัน วงศ์สวัสดิ์ ร",
