@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-15T14:06:31Z",
+ "updated_at": "2026-11-15T14:22:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 31,
+  "flood": 32,
   "flash_flood": 7,
-  "storm": 14,
+  "storm": 18,
   "landslide": 8,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 2,
   "drought": 4,
-  "pm25": 11,
+  "pm25": 10,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -39,7 +39,7 @@
    "official": true,
    "source": "Facebook",
    "source_url": "https://news.google.com/rss/articles/CBMiywdBVV95cUxQblQ4ZWNOZjVVSjFjN0U1QTFJQzh1Tmp6dGdnMVE3dTBFN0lBLW9UbWZNNVJ4czRSQy1uWkt1WjhtLVg5eExiNVVDOGQ3VjVEWkhzWFFDeHIzNlZkaVhWdkpmdmRLYVZDUHBXNG5rUzVuaUttRWRYYTRxN3FZQTg1a1JndG5iTTRBazV6SDFjVTNMdWFPR20tcGJGdzFzbk03SXh4czh4N0JfRTdGT1A3TE1iX0c4NEY1U092M2tlc0hWNmJOSGhORnlwRjhvWFNqM0pBVnhjUlV1UV9OOVJzT2JwRFNwdXYzWEdUeU5BaXZkS3g2em9HeUZfUGlGcTVOWkJwV1VuVG1jeUZqMEZTTlVOQko4NkJrV0VJRUEzdWItNFhTME5uVHBTcmdGckNuWV94Y2dzaEN1VW43V1AxWXJEbkYtOEhDbi1hU0xEb21ETFk0ek5mNEREY21Uc2lsTEcwRWJmRy1xQV9LX3A3V1hfdXBkRzJHWkNRVjAtRDl4Z3VFM0lReTFic01aeF83TnBiVFUyelJIUGQ0bjY1LVl5UHJLUnFqRFlJMUc0Y2xHQlM4eDBlbXdheWtkeDFPdVJCNFJLSk13dFcyQlJ3V1lIa2ktYjVyc09ac1AxcXVheks5N0l6NFJzNWl1NXBmZlFiZ2xWeFo4SVhITEtFM01JTE1vSzg5QmtsWTBHMnFjY21kRkhtMzFTZE5NQ2R0a2JTWGdXV29kQmttTWdnSVMyYkM5OWlvcTNVYWktN1VCdTdFMU54UkZsSjhIRG8talR5T0J0N2ZoZkhSenZlQ1hUTG5DZ1FaeXFFdnZFRlpTczV5TlVnV2ZiRFpwTE1BLUFaSV8wMEEwdjVvUEZkTjVnTW5IMUZBaUcxXzN0RU5fVnoxM1piVHJxSmhuS21reUEySGlZWVpuaDJQUkl5S015VlFCcko1dTVNZTBJSHF6UkZ2MjNya1BfUzNoZDl1a00xWF9KdjdJTE83ZkJ6ejVpNW0tVElXTEZZOXlBU1IyREQ2ZURMMlFiMU1jdXV3emtxazJaOHJuNDBfaVJkRmpNdlIwRjdoQ2duSzdUWnZIQURxRmFMQ3AxMXpxR2ItLWNDR2EwOUhSVTE1WU5HRlh3VXhMSzBSdFEyeHdoUTk0R1h5TE9EUm5lbGwyTkdPX2pOenBsNkllUm5yN2V5LUdtbEhyMmZGUlNwRnMwc01peGpnSDZ3ZmVyc1N3UmdrQVVxTDQtTmdpdTdKdUpHSDduanVDRWhxVTFfZlFWeFd1QUhhb2R3RVJqcw?oc=5",
-   "time": "2026-11-15T10:41:47Z",
+   "time": "2026-11-15T14:00:22Z",
    "location": null,
    "id": "94d4785025fb2674"
   },
@@ -56,6 +56,20 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMijgdBVV95cUxQNUl5NnVnNmNrRExXdVRHOFJTRXZqaGU5Sk1NVVZ4SkRNY2E0QTRmVkkxYkc3QUNsZ1hVUlpDZzFxYmdjU3RxSDc4OWJpSjNxRWZ1ZG5tM1FtcWFSdTVDY0lOcGdzZGRxUDF2RGxFdFFpdEdSN3dFNVVMTkJFOVMtYkZiWFN3TmsxUkxwakFrZ3V5UGVtZmU5ZVpoRFpxM0lfTU1NOERyWkN6UEF4M1BCNGRZdDZiZUsyWjBzZVNQdV9FdGxxR2M2TUY1Qks1Ylo2NnU2Y1RlY3JoM0ttb3NoNmF2bEFWeEItQXRqUEJHU2JLV0lYczJzQ2h4UDZRbU5sVjMzQ08ycm1BbkxWLTdCOGs2eW5MYm1yRXBTcGY3SzNsS294TVNacFlkRG00SmxHRy1jWDgtU1NSOE9WbUE5aml1ZkpOQ182RHF0RUlSRmVKUDZ0ZlBkaEg0Q09mdUVLQ3dUMDVxa1pTT2F6WnVJVlV0a0NKU1dKTWEtRlZHQXJwQ3lmZjd3UGxnXzhIM2NuUmFvTDc4Wldkd0NxeXlvOGFUQ1l3b1R2SnRTVGQ5WXpLVTl4NFJNZXdwNXNia0JESGwySkFVWHB1Y2pYZmNhZ242emY5YlFKS2x1S25tdkhBSThHenNhVzB1b1NBUTNyNGw4RWUzaXpsbThiNnQxYU4wWGZwcjVFbnpod2J4UldIa2hjWmVsMTQ2cklid0UwTlBlaTNwM0JMdEZXRGxXUjh5dE5xTzNaa252WVU4YnM0ZDZkRDAwd09QSFhhUGZhQWp0a1BmQk9EaGt1ajNMd3VVV0N1a3ZaUmNvQTlGeTJlMDRLMmJXajJXUzVTMHdCY0ZwdE51WkswbzdrYk1oR3lVSmE3QUFDWUdBaVhkTWlzNVRQOVJLaVZUZzhiZkNhSmJQUkoxLVdsWW5hUFBCUEpFcWR2UUUzM0F6RkVnV3ZuVnZERnM4M3N6M09pRll0NGxTWC1tTHd2M21hYnVTR1QzelBPbUZXYW0zdjRHODg5bElLZ2ViWXJ6cXUzNkY3a1RweDFfd1VzVUxRQkJ1MUY2bUFrS1lZTzhBa21HTjRGWmJNM3g1LXBWd3pjUUtBcEMxZU56Z3BrLUhsSURxY3EzV2dMTC1veXRLbFh0QjFJdzVMc21YV2RHV2ZDQzFpQmdqNldpTDJGaWxCX0tMb0hSc2NqOFFaSFJZaUN3?oc=5",
+   "time": "2026-11-15T02:39:32Z",
+   "location": null,
+   "id": "4b9223f5c21059ef"
   },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
@@ -126,6 +140,52 @@
    "time": "2026-11-14T01:18:54Z",
    "location": null,
    "id": "4b8e60af9d1a97d2"
+  },
+  {
+   "title": "ถนนเพชรบุรี ระหว่างอโศก - พร้อมพงษ์ \"น้ำท่วม\" จากฝนตกหนัก #ฝนตก #น้ำท่วม Cr.มลทิรัตน์",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMiugdBVV95cUxPdnJINHphc1J2OUg3cGJJWm9ybkRoSWh5NTkxU002aDFOTF9qSXlSbFpyRnFLMjBJMDRLV0dyb0pSV1JzTFA4S3owLVBUam1qRUtqR0xIX2thTVNDYkdyTTZ1eU5lTWNOV2RCbWg2WTUtLWRhc2RQYVVuNWlQOTNfQ3N4dGN3bVc3b3VzWF9uS0t1T3kyZFd5RlFPRE9hSWZVeFdjUzRSMFNVb2o5VGlhNVMxRzUxR2M1aENmeVZlNG45N2Fza1pvWnBCZ0ZQNTV6LVV4Y3RCY2h6UVdCcDB6aUJCa1RNX0taNXFnRXAwdjBmOFMwa0RrQVA0LTF3TUJQRG1RbC1pcHY1LUFYWFBRSE9adE1vVkZRM1hjWWcxaXdhaTB3MEh6NG1FSmRpQjhyMTFqd1dwMURHQ3RpeGY5MlV1dHJRQjdlNjd4MWxKSGdxa3RsY2hxd29KZ2JaNUFnVFE3RFhKMlRHTWZTVFhXMEZuV1dSeE1DMG84YjVXTHRQTFZOekFudFlURmZvVlhQSS1JVmNNZDZwSjl4OGJKS1dOTE1WZVo3SzJRNWVSZmxuODZHSTFHY2taVkQ1X09aS0tWUks0WDN6eUp0THVtZGZ4VXkxdHoxSWVoWXpBbG9WNlNaNUNMUUd0UUxvLUc4QXdPU2NxU0dmNnV4ZVR3ZUFTQWNMQnFKOHAtOU1YTzVsZG11V1h6TUVhNm5iY18tZkQ3bE5CSGFtdzZNVTZCSkJzbkQ5bi1OOWJtbmtvVERLdGt2Z0ZSMnhPV2sydWNsamM3MnFZOHU5QVkzdFVKNnZ6NVNWOHlQUHM5WUJaZkJONU9IcDQ1SDByTDNVeUtVbDJnSGFPb1FtQWhZemxSbHY2d28tOC00cWNieFpDaU43Nm9jVEN5QVlCaVFmaHppT1ctRExzOHJERkFUTm9QakRqY1l6RlZ3NGVGTEV0YkpnWHh6eHdZODJKbTVueEhRVDQ2eWdFQ19TbjU4Z3c0ZElMajRjZ2FlOVVQcGhvYkFIbzdZZ1MzNUV3NnZKZURnbEg5RzAzanJqenFrOVM3dVFFY21xaDJyaEYtcEEybjI4V29qRGl0eHRNNjFfMGMxZXJveUxoNzhGRnYxQ2p4cllfbzFzc2JRQVowcE5uQk9lOGhiakR6VGlVZzlyQ0dKUTFxUDZFd091c1ZnTENrWkZZTFpXMURHNGUtUkJPUXdSWEc3OXZkLWpFR2c2VDlQUlBBdXdYd2tjZlVXelptYVV2SnZfX3dWd3c?oc=5",
+   "time": "2026-11-15T14:01:04Z",
+   "location": {
+    "name": "ถนนเพชรบุรี",
+    "lat": 13.75,
+    "lng": 100.56,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_dbd8deae1f1791a138bb",
+   "id": "dbd8deae1f1791a1"
+  },
+  {
+   "title": "# สยองน้ำสีรุ้ง! หนุ่มปราจีนเผยลุยน้ำท่วมบ่อขยะหัวหว้า 3 วัน ตรวจพบสารหนูในร่างกาย! “น้องเก่ง” ชาวจังหวัดปราจีนบุรี เปิดเผยประสบการณ์ชวนตกใจ ระหว่างให้สัมภาษณ์กับ ดร.ยุทธิยง ลิ้มเลิศวาที หรือ “พี่หมี”",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxObkNSeTZSTU1EUmdKdGdkOTdmZzlxckdodWlzNjcxUVNPSWROdUJzNmVrTXl1Tjc5bWNodVZ0RXgwdVJXeG04TmZuRXpGc1k0Z2szNFMzRkg1ekhiNjh2a19KcTI2blJneUt1bVVJTE1taElUNU5KWVRnVDZxQmJGUW5hb0VURG44RlFKZC00a2h4alZabnlsUjA4b080Qml0Ri05WGpmcHA4ZVFlcUppaC00a2FzN01RTEliVGQ3YkJXOXRiSFFONFhVY3E3TmlWbzFxTVlLOUM2bk5LWlBfc1ViMWxZNDhUakxfa19vSy1ISFVuWFBZSlg2RzBjc1Bra251cTZLYzkwaW9xUERCWWtUMzFPeUJtVGxNVzR3elFhMnlyUWdRajhyV2ZKRkFpeC1mbUVUVFJmTVNSWHV5SjBRWXVYSXJVVS1Ebm5kWVYxWUhna21scmU5WXZQMGhLc0dmMk94MGFWWlc1d0gxNEE0RGg4VmZoOTVRbEdrM250Tnd5Uy01UGFLOWZEcXdmMzhyQ05FaU42SGxmV0Ruang0Mk5rellCYjJnX2FTYl9meWV0RTVfVTFkQm9iSEZwYU1zdVBkVDQ3Vk9oa1Qwei1PcVFoc0ZMeGVGb21nNXJQYmhiNlpMV2JXamlRbTk4RURHSkxzbkZFb21Ia3pJd1Y1MVVvN1hHWDVQOVI5Vkp5T1JrY0FjcmgwX2ZoR1UxUlRPWU0wSFU4M2NKR1dEVDFlQWVES21zWEZRbFFRNHl1S1BkaGRSaTB4LTFxQlJtYTlUbWhYczdVVEtfWkxtU3BEUEgwLTJiSmUyUW9QMW0tc0otVzRVdkJ2WlNMREZVS1NucXQ4S3VBelFTZHpTR3hXS0F5R2FWMnVBTWJEVXM0T1NocHNLYTAyMWR1aEp1b3o3QU9JeGVFZWllSkxENU50QzJLZExEa0gyWXpyZG5vR0x5NFhwamtNUnE5aEdQSlpicTZ1dkstRk15eUdTQktPUEhOeW9oNGpabVE1dXlGbGZYdkNITURzeWtvSnk2R2MxRmxTbEdqUjNWVklIaldSNThkWU0yS2tBeEUyWGlaUlNiNW1KbTlZN2Z3T0d0dDNDbzMzVjlzbkd6V3o5dnQ3d3ZmeXVaQkdKNlRlNWthRE5QeG1NcmgwQUhHTktnMGF3NGpCN3gwbW9wTDBIZmFTWkY5QUtzTzFiM2FRMnZUdXNpZzZIZTlmNUk4Tm9XM0xFRWQ2V0VnX1J5ZzNxYUNKZml3MUIyeEd5a0x4THN6ZFEwMmM4TmFoN1NNOGtxN3N6cGtXY0VGTHViM1IydU1oQ2dHN3N6Z0E?oc=5",
+   "time": "2026-11-15T14:00:50Z",
+   "location": null,
+   "area": {
+    "code": "TH25",
+    "level": "province",
+    "name": "จ.ปราจีนบุรี",
+    "bbox": [
+     101.138,
+     13.584,
+     102.124,
+     14.462
+    ]
+   },
+   "incident_id": "fr_news_7f8442d3c9fef15171ed",
+   "id": "7f8442d3c9fef151"
   },
   {
    "title": "การดูแลความเป็นอยู่และแก้ไขปัญหาความเสี่ยงจากดินถล่มอย่างทันท่วงทีสำหรับชนกลุ่มน้อยโคตูในเมืองดานัง",
@@ -206,6 +266,20 @@
    "time": "2026-11-15T10:00:00Z",
    "location": null,
    "id": "9d7a411b3d28ede9"
+  },
+  {
+   "title": "อุตุฯ เตือน 18-22 พ.ย. ภาคใต้ฝนตกหนัก เช็กพื้นที่ไหนเสี่ยงบ้าง?",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ0ItdGNUQTNhVHJNXy1CRktNdXMwVmNKVmwtN1V3eWZrQXVmZWFuNlVyQnpXY2dLaFZDWXliM0R6YkN2RHlJajY1a05KSDRsRVE?oc=5",
+   "time": "2026-11-15T09:48:25Z",
+   "location": null,
+   "id": "66208b4fdb99c787"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.หางดง อ.ฮอด จ.เชียงใหม่ (Tambon Hang Dong, Amphoe Hot, ChiangMai)",
@@ -394,6 +468,26 @@
    "id": "62ae08be7def287d"
   },
   {
+   "title": "14.52 น. น้ำท่วมขัง หลังฝนตกหนัก ถนนรัชดาภิเษก ขาออก ก่อนถึงแยกเทียมร่วมมิตร รถติด สะสมหน้าโลตัส ฟอร์จูนทาวน์ กลับกัน ขาเข้ามาแยกเทียมร่วมมิตร ก็มีน้ำท่วม รถติดยาวเลยแยกรัชดาสุทธิสารแล้ว #ฝนตก #ฝนตกหน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxPcE1fZGdrQlU4UEs0aExBcnRyRlctZU85NkJoLUViVDdySHlORkQwV2JwQmg1T1NQOVcwSzhDLUViN0hvYzlJTHhUNHZBZndGdC1uOVkyaDQ5UlhiRUtlamNRTmUyWWZYQ2Utd2pyMVdjb2RBVzdPdmM4RnlWRFV2UC02dlJaWmlPVDlfNkNIVjl0Y2d3cFhnVXlnazJXNV9wUC1lLW9zRUJPX0thZjhYSm1iZ2VzMnZlTmZlQUZncjBZTUxQYVc5QlRLNUx3V19lclZId2Jkdkd5eWQtT2pRaDNmWlA0b0ViU3BpMXJFMUZxckFRSElvbWVMQ3BCSWpoTHA5TTVhSGEzaUhkN3BYZWpEMWwtY3FxdXRTaXVPQlVYZU5LMFJiR3QzUG94X25DMzVOTUJpVTVaTWFsNUJvb0FjaVBKaHdyTjFTMTdSN1BWMi1qdTVCUzA0SWYtYzJxUVROTlRJRmhuQlg1UjYzVDFYMmlsREJuZnY2YWRKbm0xUXZCSXNlQ3laekI0NmxiX1A5UFBSb0dsd0ZLUGEta0p5RmNGTmhWTFE0bk1XZkN2Y2s5cmkwZlEtRjF0NWlmbVh6UGg3SXYtekJaZ3Vuc2o1alRHNHNkZHM3V0ZFXzdVRTBreWdPa2xILVVyMUhia1NldUJXMmJXTkhYUm9PcjJvcUg5LWxSejFOdGdUMU16S3JXcU5oYTFyc29WRGtXZ29TcUFoWGZjS190OTJnNDRwT3h3UDJHQmVRdTJtVWlwU1JZRkJGWkVmMENNbF8tUXUtbW41QkF6WTB5Um1aaGVJd3dNNnBEcUNQQUlLekpwajZMdklKQ19pM2ZGcHJDa2NsWTAxcTBpVFp1YjFpbmU3RHVDaks1bkF3SzdqREZRTldyWFF3WEMyNmptbml4ZjVXYV9nTWVBblZmb0gzYXpTZ3lUUm9EX3JmdlM3VFhwWmkzSkk4TzY1SGt6cG5iT21mTTVCNlU2SVJvMjBCdVNRSi1OR0gtbmZWYXh0LTVUdHRXVzR0RF8xTFhlTUl6RTEzY0tYd1MwU0dFNVA0RXpHbkMxU0tKMjJ2VndFXzVEeFQ2cW8zU1hUSW1EdVZVQUNhM2pWZHYtTkt5OEhpVGx3NXlDNDdwQm5zTnNpVGgtUmhCSEFFejFqNFc4eGNtaTZ1MnI1U0ZiREh1U2FDUVJFQjUycG9CQm5Nc19LdVVxaTlneksyaVB0akhFVXVvWG9Ra1BWNXRlWHMtUHdHVXN1Z2ZRNHpoSGpQSw?oc=5",
+   "time": "2026-11-15T07:53:51Z",
+   "location": {
+    "name": "แยกเทียมร่วมมิตร",
+    "lat": 13.7670695,
+    "lng": 100.5864645,
+    "precision": "place"
+   },
+   "incident_id": "fr_news_587d2692fbc616c7cb29",
+   "id": "587d2692fbc616c7"
+  },
+  {
    "title": "ล่าสุด \"ราษฏร์บูรณะ บางคอแหลม บางกอกใหญ่\" โดยเฉพาะ \"ธนบุรี\" ฝนกระหน่ำ #ฝนตก #ฝนตกหนัก",
    "summary": "",
    "category": "flooding",
@@ -490,31 +584,6 @@
    },
    "incident_id": "fr_news_3cd5ba93d0927c1c86c3",
    "id": "3cd5ba93d0927c1c"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | กทม. ฝุ่น PM2.5 พุ่ง เขตลาดกระบังเกินมาตรฐาน เพิ่มรายงานวันละ 3 รอบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRm1wQm5iQ0ZieGVUdExYZ1Q1YmtrV21GTWwyUGxnTUVuc1I1N1hGay1QeDdjOVpoRzA2NlYwcmJMRThEY3VNX05OQlRYVDZvRkhJSjJ5WnVsbkxuZGZ5OUlqR1I?oc=5",
-   "time": "2026-11-15T06:47:08Z",
-   "location": null,
-   "id": "03ece8a5ea80cd34",
-   "area": {
-    "code": "TH1011",
-    "level": "amphoe",
-    "name": "เขตลาดกระบัง กรุงเทพมหานคร",
-    "bbox": [
-     100.709,
-     13.69,
-     100.879,
-     13.794
-    ]
-   }
   },
   {
    "title": "ชุมพรอ่วม! ฝนถล่มน้ำท่วมขังไร้ทางระบาย เกษตรกรวอนเร่งแก้ปัญหา ปลาดุก-กบตายสูญรายได้",
@@ -707,20 +776,6 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
-   "time": "2026-11-15T02:59:03Z",
-   "location": null,
-   "id": "4c6b3975edb06432"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
@@ -940,20 +995,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
@@ -1419,6 +1460,20 @@
    "location": null,
    "incident_id": "fr_news_ba52b1961dbfdea216ec",
    "id": "ba52b1961dbfdea2"
+  },
+  {
+   "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGptMUhmeE9QbTV0cU1uY2JvRGxJQmE4YnhTdDJ0b3RWX1dwS3hKdU9PdEJCeHFPcUl1RUlGWjVPcWVfalRuSi1TcDRxLTl4eWRLa2phSTNvdjlGR3ZJOExET0U3UU04YmZzdUZtVlI3UXZqMk9zT3p2Vm0zMWhEenNvX2xVejhlTThn?oc=5",
+   "time": "2026-11-14T09:12:52Z",
+   "location": null,
+   "id": "077cba84bf0edfc4"
   },
   {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
