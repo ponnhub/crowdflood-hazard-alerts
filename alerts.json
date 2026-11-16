@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T11:50:47Z",
+ "updated_at": "2026-11-16T12:11:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,11 +18,11 @@
  "counts": {
   "flood": 43,
   "flash_flood": 17,
-  "storm": 18,
+  "storm": 19,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 5,
+  "drought": 6,
   "pm25": 11,
   "heat": 1,
   "tsunami": 1,
@@ -238,6 +238,32 @@
    "id": "485622a0ddd637a3"
   },
   {
+   "title": "‘สุริยะ’ นำทีม เร่งเยียวยาน้ำท่วมราชบุรี ฟื้นฟูเกษตรกรหลังน้ำลด จ่อเสนอ ครม. ช่วยเพิ่ม 5,000 บาทต่อครัวเรือน วันที่ 16 พฤศจิกายน 2569 นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ ลงพื",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxPYXZra19vRkMtRXF5RVZNay1CUUtFcm9yR2pOeTk3d2F0RGUwck5hSk9NdEJXZVIzaUdjdVFNSG1KT2lBeUNsOVRUTGlySWkxSHBuM2lZYVY0a3B2M1NNZ25JSk5tRDY2OWxSZlluQmRrNTBZcmwwcHBXbEpscVZqZEJWVmJrV0NlMTBURUNRUHVZeWk0cFF6YWM1Vm5OS1FEbU9wbGRGX1hWbWFaTVVsdzZjdkxrQXIwS0UyYnJDZER2TU9sZjQ1aUNlX2EyVDdIZEdCcktVRkZiVThnVmxERUlGcjdLaHpNTktxdXl3eTRWcTVtYlhVckN6VFRLUlc0c0xXbUlzYmxrREcyam5ST1FLYlgzTFFNdTFzcTNjVDhpRUNIU2s4YXVCdV9CT29jRWhCWWlGUjJJMnBoWnF5dlpoaTc0Z2pfRFotQ0Z3R3JiSWptcTNtSHZtWDZ3ZkNKaTBsVmVudVd3RlVGWm4taVZ6Znh2ajhrZDkwWm9RejNQT2tUM2xkTjF0QWFETHBTMlNNZ19LZGZuWEhoaHVXYkdCSmxBVHBTX2hfMlAtajMtQkdnRkYzTWxfLVNpdlg1NzZLYXRUekQtZUJfNlUtSEwyakVmSGRfSGlxMkc3d2pRcDN3STc1azdIM0x2NThtWnJnbnozVF9fR2hVSWhvLWJiZUppYS01UFFhR0h4cm5VRkVlTG5xSHRaaFEtYV9PT0tvMXo3MTYxcXlCTFJHZDVSR1RTZ3pnT3g0NnVWMzVidFIxTnRJVmZ5aDBpWHhsWlk4UmN4emRzMGpUSUZCeGJvbnFYeE45dnhwUDhYbzQxSlNLaHVtWjFpblllbjV4Zk9hY1FfRlFnSElHZFpjZVc5cmpfX2xVUzZnX05TZ2g1elNxMnZWZVpaTjFzNXdOTTQ1ZndPWFc4dXl3bk9VSTVWVWVkcy1FbV90SXZJTHlGUGRWT1lySTJvQXFsdkM0dk5DMTdHN21Md0FXQkVwcGFKN2NRbGRIU1gyb1Z5V0ItZ0Vlc0QyRTBucThpV0RCZFFoSk5qOERuZC1hX2lqZmNVSy1MWElpV1l3MG9NbEJMX0REQXVXN2xEU0xjVk9Tc19zWXJXMzZHVzZDaTE5N09scDkxSGNZRjVqa2sxVVh5ZVRleVZWZ1VMUk1iZktIdS12c0FXSnRwLTM0WTg0MkVTTU5UWjYtM0U1bXdIUnRrZE11cy1pTmdkamxaQmU2dGYyd3JJU3otZFZmSUY2eVJ0QUtNNTk3S3VpMFVUUU1UaUFSMkVXeDBQWWJtdUpEWlRfcmJ5T2dBYWVLaHQ3Z0VTTkpvOUEwZkVZV1FIXzk?oc=5",
+   "time": "2026-11-16T11:20:11Z",
+   "location": null,
+   "area": {
+    "code": "TH70",
+    "level": "province",
+    "name": "จ.ราชบุรี",
+    "bbox": [
+     99.163,
+     13.149,
+     100.068,
+     13.961
+    ]
+   },
+   "incident_id": "fr_news_7e36465dce40a7eaa77c",
+   "id": "7e36465dce40a7ea"
+  },
+  {
    "title": "ผู้ว่าฯ ตรังลงพื้นที่อำเภอรัษฎา ติดตามน้ำท่วมหลังฝนหนัก เร่งช่วยชาวบ้าน 11 หมู่บ้าน",
    "summary": "",
    "category": "flooding",
@@ -280,10 +306,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xNVJZaEpRMG5aa2tmTDFoMUY2dXZJcHZPUWMzM1NoTHFOQWQ4dXREbEkwT0c0NmNtLWZfQTItTHk4T1ZQdklaaldhbnRsaEFMbnc?oc=5",
    "time": "2026-11-16T10:04:02Z",
    "location": null,
-   "id": "6ea3d859fc866354"
+   "id": "cb19eb5c26e6f45e"
   },
   {
    "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
@@ -1117,6 +1143,20 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
+   "location": null,
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -2087,6 +2127,20 @@
    "id": "e258d105b8777f8b"
   },
   {
+   "title": "สภาพอากาศวันนี้ 15 พ.ย. เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วม อ่าวไทยคลื่นสูงเกิน 3 เมตร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Makl6bHBkTU1oYWMtTldqd05qRkNsY2F2c054UnBKUVk1TkJmWXd1T0FCQVd6SDZZbkFwTDRTOFhSRWdJUU1LTE9Xd2d3NjhJRVZFdnYwczVreDZYN0NqWFlsRWJMNUpLSmc5M1ZBVlQwck5vTjlfczdWVVA?oc=5",
+   "time": "2026-11-15T01:21:20Z",
+   "location": null,
+   "id": "0ac54e993b988bb8"
+  },
+  {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
    "summary": "",
    "category": "flooding",
@@ -2387,32 +2441,6 @@
    },
    "incident_id": "fr_news_27c28a79ce76fec0afc2",
    "id": "27c28a79ce76fec0"
-  },
-  {
-   "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HRlc2djhwb1dsYWZBYVRPeDhTTHkwaEprbG5LVDRPWllfeFhtUlJ6WktQYmx0c2tkX0NXYllMRUhQWlpPa0p1QVRlNE9WRUk?oc=5",
-   "time": "2026-11-14T12:05:49Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_6777c8db0a8dcb681678",
-   "id": "6777c8db0a8dcb68"
   }
  ]
 }
