@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T07:14:02Z",
+ "updated_at": "2026-11-16T07:23:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 42,
-  "flash_flood": 8,
+  "flood": 43,
+  "flash_flood": 9,
   "storm": 19,
   "landslide": 9,
   "earthquake": 11,
@@ -25,10 +25,24 @@
   "drought": 4,
   "pm25": 12,
   "heat": 1,
-  "tsunami": 1,
-  "other": 1
+  "tsunami": 0,
+  "other": 2
  },
  "items": [
+  {
+   "title": "📣 ประกาศกรมอุตุฯ ฉ.3 🗓 18 - 22 พ.ย. 69 🌧 ภาคใต้ ฝนตกหนักถึงหนักมากในหลายพื้นที่ ⚠️ ระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก ❄ ภาคตะวันออกเฉียงเหนือ อุณหภูมิจะลดลง 2 - 4 องศาเซลเซียส ❄ ภาคเหนือ-ตะวันออก-กลาง-กรุงเทพฯ และปริมณฑล อุณหภูมิจะลดลง 1 - 3 องศาเซลเซียส",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMijAdBVV95cUxQQ2dVbThKby14bUpMOVdSRTNueWUyLU9oa0w1SERpZjJyRFlROWhNZDdTZW1yVXV1Zm16VFNyRWlUaktySm5oMjBLUDA5b1VaYlljM0N4SllTNFRtZGpGYWdhUXBtUE1pM0ZGWndVVE9hc0lLT3cyMXY5SnVmTlA1Tmh2bE43dlJnS29Zbk5zUmpfY3czVmlTMVpuUFl4NkYxQm93UUFUTG9qeTI0YXFKYV9XbDZfOUZZNHhPV21lT3NRdnNwWVRxeE4wRnphQXlqNS1wa1ViNDMteF9VOG5NOEpvQTlmd2RWRjJyRlA2SVg3UXJFcUcwRVBWTkZYRTI5NnhSRlFTNWYySzIwVlMzYTF0U3liTzgxNFZldjBBc3JDSWw3LTJleDA0bmgyTHNYU3U3NEJlcHdJZ3VxbXExWTZHRHRUNEhZcU9EbU1tODc3bVYwUlNpN3BEQjRBYzZMZVdDVUNGcS12Sl9ONEJHaXhQT0VpYkpUTF95bGROQzJqcGp5MEVnWXR1dzRxTnZuRTNQWGFkOWtXcFRTQkJwSHVzck1qSGl2dEF0MWlubmJKVmlxV0hDX3hyeHRhUTBYM0lucUlWUWszMElLc2FIOEEzT2VITS1wY3RhRTR3NnA1OGh1SWVsVzQ2MGNkMUNZSEdMTzNENGNfbWVFQl9hV0o5NURUNEw0WHhyVHF1S0dRZ0dQVmgxblZyWXpHbV91TjhZRW9aejZWQTd2QnNLYWZLeFZTV2J0dlI4WjJyOGFaT19NX3dNOVpCRFc3alJPQjdBaXozRnh5UkRnZ25HakRualZzYzlPcFB0LUJKbUQ1YWFFYVMtek83aGUzMXV6cDA0VzlmRW5uczhRZEY5MzZlbHFGVzNMN0hWanNvdTRBWWd0alZFUG5pN2dYcFJRMUxTRWNlU3NfQmZPeF96eUZsbFhpeHpNQmdnUHZLWVQ0OUtTVWhsbG5ZUWRnaE5wRGxBekxXdE1BWnlRS2VvZ3BfTFdxLU5iQk9Zc09WY3NIbDk5UThKalBJQnJjUmpGY0ltcExtckZmeTNYUU8tU2FyaXBCUXhWS2JSOU9LSVdHV3ZLNGNFWnFuaG9heFlmdGRrRXpOYV9aRkJ1WHVKR29YOVUxZVZyMTRoWHBpT3hacFlkUEEtU2d5c0Vqd0Vrdm4wMjBmZkdqN1NGVW9ieTlxRnkzR0JRNlFKag?oc=5",
+   "time": "2026-11-16T06:58:29Z",
+   "location": null,
+   "id": "3ed4d00720472d7d"
+  },
   {
    "title": "\"กรมอุตุฯ\" เผยไทยตอนบนอากาศหนาว เตือนภาคใต้ฝนฟ้าคะนอง 21 จังหวัด ฝนถล่ม ระวังลมแรง คลื่นสูงกว่า 3 เมตร",
    "summary": "",
@@ -153,6 +167,20 @@
    "id": "cae7569335e8259e"
   },
   {
+   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
+   "time": "2026-11-15T13:59:39Z",
+   "location": null,
+   "id": "6ec1447cbd11a063"
+  },
+  {
    "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนักถึงหนักมาก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -165,20 +193,6 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "393be7964f68963c"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
-   "time": "2026-11-15T09:16:04Z",
-   "location": null,
-   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
@@ -232,6 +246,20 @@
      11.034
     ]
    }
+  },
+  {
+   "title": "ปรับแผนรับมือภัยพิบัติภาคใต้ ดัน One Data เตือนภัยล่วงหน้า",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "other",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "Policy Watch",
+   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uakVNT1dfX1c4cjlFZi11M0VNX3M4ajc3VkVDUFV0R0xod3JZNmlGZjllc0lKMkZLbGhSVnIyMTBjVjBLNDdUc3AyOXJZNXM0VXFUdU1STTI3Skxzd0pEU1NTSWFsSW9u?oc=5",
+   "time": "2026-11-16T07:03:00Z",
+   "location": null,
+   "id": "203fd99ddc397725"
   },
   {
    "title": "ตรังอ่วม น้ำป่าหลากท่วมกลางดึก กระทบ 2 อำเภอ 11 หมู่บ้าน หลายโรงเรียนปิดเรียน",
@@ -1797,6 +1825,20 @@
    "id": "e258d105b8777f8b"
   },
   {
+   "title": "รัฐบาลโอนเงินช่วยน้ำท่วมแล้ว 1.3 หมื่นล้านบาท",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TjdMaHRnTUJNUGpjZnNQVEt4YWJhbWJncnVtR0NESkhXMTZYaG9pUXpjRjN2Y0dTeFBSMXlxOTIwUHZIUVoycTZUaHJkX2FNRHhwU1hCNTBJUQ?oc=5",
+   "time": "2026-11-15T01:09:55Z",
+   "location": null,
+   "id": "0c7fc28f42e778fa"
+  },
+  {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
    "summary": "",
    "category": "flooding",
@@ -1841,20 +1883,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "พยากรณ์อากาศสำหรับวันที่ 13 พฤศจิกายน: มีคำเตือนเรื่องน้ำท่วมฉับพลันและดินถล่มในจังหวัดที่เป็นภูเขา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNC1pRFdfclV2XzFhMHEyVkxUYkpCcHFiWFdIV2UwNXBRNld4QlphRTNnanJ5ZHJnOGFaV2JhV1lpaVQyZHlMRGgxejY3UjVsZTJZdTRBdHZjS1ZCNWw5VHd2aDR3SnE1S0Z3WGFIMGk3Yi13dC0zbzVBWmZvMTN0Ykw1cEdzNjhEYVNkbTlQajY?oc=5",
-   "time": "2026-11-15T00:06:04Z",
-   "location": null,
-   "id": "9074781a5cc0b2c2"
   },
   {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
