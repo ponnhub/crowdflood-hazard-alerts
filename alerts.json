@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T17:39:20Z",
+ "updated_at": "2026-11-16T17:50:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -418,10 +418,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xNVJZaEpRMG5aa2tmTDFoMUY2dXZJcHZPUWMzM1NoTHFOQWQ4dXREbEkwT0c0NmNtLWZfQTItTHk4T1ZQdklaaldhbnRsaEFMbnc?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
    "time": "2026-11-16T10:04:02Z",
    "location": null,
-   "id": "cb19eb5c26e6f45e"
+   "id": "6ea3d859fc866354"
   },
   {
    "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
