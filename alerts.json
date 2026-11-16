@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T05:22:27Z",
+ "updated_at": "2026-11-16T05:36:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,16 +16,16 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 9,
-  "storm": 19,
+  "flood": 40,
+  "flash_flood": 10,
+  "storm": 18,
   "landslide": 9,
   "earthquake": 11,
   "wildfire": 2,
   "drought": 5,
   "pm25": 11,
   "heat": 1,
-  "tsunami": 0,
+  "tsunami": 1,
   "other": 1
  },
  "items": [
@@ -181,18 +181,18 @@
    "id": "393be7964f68963c"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
+   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
    "summary": "",
    "category": "news",
-   "hazard_type": "flash_flood",
+   "hazard_type": "tsunami",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "ผู้จัดการออนไลน์",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NVcyNUphQWR0bTlPZW1RRDBBbWRoNDZkbUc2Y0FoMngzS0xLSmxnQ3RyV25TaWRKcHVOdHlrckVlZ3JJZEJ5eEtkQm9uOFJIYV9TT3FheXJsclAtbHV3RTY3RGw4aUE?oc=5",
-   "time": "2026-11-15T03:19:00Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
+   "time": "2026-11-15T09:16:04Z",
    "location": null,
-   "id": "cea01b4ba7519bea"
+   "id": "335a3293a1855c9b"
   },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
@@ -722,20 +722,6 @@
    "id": "f866f7d93154c046"
   },
   {
-   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย. เตือนภาคใต้ฝนตกหนักถึงหนักมาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45SWQ3YjZMeGpReGZJOWFMSlRHSGVieUlTT0h6ZnVYS3FRRnFEZW00MHN4NGhRTnpnZjRrWGRRcURlbV90OWhBcldqc25mUmpkTHJCUzRn?oc=5",
-   "time": "2026-11-15T18:06:55Z",
-   "location": null,
-   "id": "bdb615cc01654ee5"
-  },
-  {
    "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
    "summary": "",
    "category": "news",
@@ -860,6 +846,32 @@
    },
    "incident_id": "fr_news_7f8442d3c9fef15171ed",
    "id": "7f8442d3c9fef151"
+  },
+  {
+   "title": "กรุงเทพฯ อ่วม! ฝนกระหน่ำน้ำท่วมขังรอระบาย การจราจรเป็นอัมพาต",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORWx3alk2Z0pSYVhSenJXdXFkN3lRa3d1azhyMFozekpPVWhac3ZtblRGRTluUVRDODh6YXpwcXlWOU1wUjhXNnB3dm9XZGNfdGN2Mnd2RWNQeWFGVGd3RkNVaUNMQWZOMWFkSThoNmZjNm1ERUg2ZmVkTnNPNHN2WXdvOWR5SmdlT3MzSDlJeWRaekVRWmRUODV6aWNQc25CRmtoVVdfSzBOLTZpTExYYzFSZG52d3puaHl6SG1GV1J0eUQ3Wmp1QXpOd2drc3M1TmRSR3A0clF2Zw?oc=5",
+   "time": "2026-11-15T12:51:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_11aee6d86bb2e2b2567c",
+   "id": "11aee6d86bb2e2b2"
   },
   {
    "title": "การดูแลความเป็นอยู่และแก้ไขปัญหาความเสี่ยงจากดินถล่มอย่างทันท่วงทีสำหรับชนกลุ่มน้อยโคตูในเมืองดานัง",
@@ -1614,6 +1626,20 @@
    "id": "0c7fc28f42e778fa"
   },
   {
+   "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lWG9tVnhEMTFZLWpydWZYQlRJQkxJblJRX3JfYXIwVWtOc2hBa2RrRGM0SzdybHRvamk5LUFIMDY4bndLdDhhMDQ3cEtZUVoza2s3Zm03N1g?oc=5",
+   "time": "2026-11-15T01:05:53Z",
+   "location": null,
+   "id": "f937a3f8fceba5b2"
+  },
+  {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
    "summary": "",
    "category": "flooding",
@@ -1658,6 +1684,20 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
+  },
+  {
+   "title": "ใต้ยังไม่พ้นภัย ฝนถล่มยาวถึง22พ.ย. น้ำป่าทะลักหลังสวน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FSngzaXhCT1lNT2djQlFjVWkzNWs2N3lhN2ZfUUQ3Nkg0UG55Rlk2U0NxQ0pyQzdwUElIYWh1V2tRN3pUSHhVb1FWOVphdzg1ekU5aURhS3h3dw?oc=5",
+   "time": "2026-11-14T23:07:54Z",
+   "location": null,
+   "id": "3cb2846fcde574f8"
   },
   {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
