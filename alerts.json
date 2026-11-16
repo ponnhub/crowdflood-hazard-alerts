@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T01:00:08Z",
+ "updated_at": "2026-11-16T01:07:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,12 +18,12 @@
  "counts": {
   "flood": 36,
   "flash_flood": 9,
-  "storm": 20,
+  "storm": 21,
   "landslide": 9,
   "earthquake": 10,
   "wildfire": 2,
   "drought": 5,
-  "pm25": 11,
+  "pm25": 9,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -182,6 +182,31 @@
    "time": "2026-11-15T00:27:00Z",
    "location": null,
    "id": "e1d89245d3f8dfdc"
+  },
+  {
+   "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKcVdzdE8zSGtJbGNiUWxseUd3S2IwSEhweFFVVld3NUNMVmhXMW5GQzNOQWlvaDRVaXpFdEtIUjJDVVh5SjJybTc2N3oteXd2b1VJTkFqV0p5eUtLYXJXXzhseFQ?oc=5",
+   "time": "2026-11-14T13:24:42Z",
+   "location": null,
+   "id": "60a3f06ff76dcc18",
+   "area": {
+    "code": "TH86",
+    "level": "province",
+    "name": "จ.ชุมพร",
+    "bbox": [
+     98.632,
+     9.601,
+     99.519,
+     11.034
+    ]
+   }
   },
   {
    "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกต่อเนื่อง 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก",
@@ -1484,32 +1509,6 @@
    "id": "c063921d9fe0cbfa"
   },
   {
-   "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXRjbWVNYUpjMUJxanN6eHN6Nk90aG5MVTlUSVJfemNTQnM1ZlRGZnBvRzd6RXVNNUhnbm91aFhUMmRCc0EwWW5Tb3diVmNvdXZYTENSN2dzN190TnktcTFTQmdEYTFORGFtNzJETzZDLW1xX2dmMXB1X3ZCNGdUVXJFbGU2aWs5?oc=5",
-   "time": "2026-11-14T13:12:00Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_8387e55a0943f466e8af",
-   "id": "8387e55a0943f466"
-  },
-  {
    "title": "“สกลธี” นำทีม ปชป. ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม เตรียมยื่นฟ้องศาลปกครองสิ้นเดือนนี้",
    "summary": "",
    "category": "flooding",
@@ -1582,20 +1581,6 @@
    "id": "d842dc0a19219fd7"
   },
   {
-   "title": "ฝุ่น PM2.5 เริ่มมาแล้ว! กรุงเทพฯ-ปริมณฑล พุ่งเกินมาตรฐานระดับสีส้ม 9 พื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZUxld2pIR0R2SDAyUGhlUExITW55Q2x1UFFwWFFEb1M3QnA0TGtQUDd1LTFUSS11MG9sTmJaeUM1MW92bVdwdFdYcDdqZTBVQ2FtZkoyNWRDb21FQUJWSmMzNDBQbzVPOTFWd3FHRE82b0c4VzlZQU14cmM?oc=5",
-   "time": "2026-11-14T12:53:27Z",
-   "location": null,
-   "id": "e9248f4c23923a82"
-  },
-  {
    "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
    "summary": "",
    "category": "flooding",
@@ -1640,6 +1625,20 @@
    },
    "incident_id": "fr_news_27c28a79ce76fec0afc2",
    "id": "27c28a79ce76fec0"
+  },
+  {
+   "title": "PM2.5มาแล้วกทม.-ปริมณฑล เกินมาตรฐาน 9 พื้นที่ คาด 19–20 พ.ย. มีแนวโน้มสูงขึ้นอีก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UWZrc245bE1McGlDTm84UlU5RWktWmJzVjByR3R3NmNSajJFY25BNk1QdnNrMHFHS1ZDQzFNSmN6V0stVk5sN0V0R3FYMmpjc0w2ZDltdGU?oc=5",
+   "time": "2026-11-14T12:11:27Z",
+   "location": null,
+   "id": "80a823f7d9e6a924"
   },
   {
    "title": "ผู้ว่าฯ ชุมพร ลงพื้นที่หลังสวน ติดตามน้ำท่วม มอบถุงยังชีพ–อาหารกล่อง เร่งช่วยประชาชน",
@@ -1805,31 +1804,6 @@
    "id": "8ae2bd01300fa6c4"
   },
   {
-   "title": "ฝุ่น PM2.5 เกินเกณฑ์ 5 เขต กทม. มากสุด \"ลาดกระบัง-บางเขน\"",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kcVJBWFloR0g3VXJISGttYWF2Z3ZTWU9DWWtBM1Rfd0EzZGFkVkIwUnFqTHVsQ2ZDSHRFako3RUhzZUpTQXduTXdsaDZiNDJBRVRUZWJMTUM?oc=5",
-   "time": "2026-11-14T06:22:03Z",
-   "location": null,
-   "id": "bfb4213eac28a721",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "นครศรีธรรมราชลุ้นฝนตกหนัก น้ำป่าหลากน่ากลัว",
    "summary": "",
    "category": "flooding",
@@ -1882,20 +1856,6 @@
    "time": "2026-11-14T06:00:00Z",
    "location": null,
    "id": "3baba217cab7306c"
-  },
-  {
-   "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Rkltelc4U0lLVThOallvN1V4U0NySzJTLVN2WlhJa2ZESEhfTEx3MEtyMEltS29BODNYdlZDNUY0QjVSb2RpTlh5UlhXQlVLd0Z4ZEdBcXpTUQ?oc=5",
-   "time": "2026-11-14T05:52:16Z",
-   "location": null,
-   "id": "4765f5eaf5f21bd0"
   },
   {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
@@ -2039,6 +1999,20 @@
    },
    "incident_id": "fr_news_ecde071f78e790071ead",
    "id": "ecde071f78e79007"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย.2569 ใต้ฝนตกหนัก คลื่นสูงกว่า 2 เมตร ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUE5ibmJscnNWVjMyTnpRN05CcmlUVW9naWd4OEwtRDNvaWFwUE9ud0RHQ2hXOW84T1FwZXNyS09sYzR0ZURNV2hBR3JwbHVGSUJV?oc=5",
+   "time": "2026-11-14T01:12:42Z",
+   "location": null,
+   "id": "2f39d96fcb7ee273"
   },
   {
    "title": "หลายจังหวัดอ่วม ฝนถล่มใต้ \"ดิน-หิน\" สไลด์ ชุมพรท่วมโรงพยาบาล",
