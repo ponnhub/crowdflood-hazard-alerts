@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T16:25:12Z",
+ "updated_at": "2026-11-16T16:39:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -26,7 +26,7 @@
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
-  "other": 1
+  "other": 0
  },
  "items": [
   {
@@ -2198,20 +2198,6 @@
    },
    "incident_id": "fr_news_effc42c897c8181be940",
    "id": "effc42c897c8181b"
-  },
-  {
-   "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uMWhMUl9hMmhzWEFEdzZBem81S1pMTnhQUGhOUDg0QkZ0TkhtUHNwNXk5ZV8yQVpiVjdOaTMtZnUzMWQ3S3FZNjZBWnBROE9GM3dEd0N3?oc=5",
-   "time": "2026-11-14T16:36:39Z",
-   "location": null,
-   "id": "7b1c07ec6defea3a"
   }
  ]
 }
