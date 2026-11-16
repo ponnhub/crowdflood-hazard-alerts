@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T06:22:30Z",
+ "updated_at": "2026-11-16T06:41:54Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,13 +17,13 @@
  ],
  "counts": {
   "flood": 42,
-  "flash_flood": 9,
+  "flash_flood": 7,
   "storm": 19,
   "landslide": 9,
   "earthquake": 11,
   "wildfire": 1,
-  "drought": 6,
-  "pm25": 10,
+  "drought": 5,
+  "pm25": 12,
   "heat": 1,
   "tsunami": 1,
   "other": 1
@@ -244,6 +244,45 @@
      9.601,
      99.519,
      11.034
+    ]
+   }
+  },
+  {
+   "title": "คนกรุงต้องใส่แมสก์ ค่าฝุ่น PM 2.5 พุ่งสูง อากาศปิด ฝนน้อย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tcFYxM2FpVnBhNlluNThxZzFBb3JfalNBMjgyNS1mWFNKQVQxS3Q3ZUpycFNNSVZlTEZkZ0RBUFZQd3dMREdjeDRjWHV6YTN0aTFFN2pjVHp6ZFlmVEUtSjdGR3Q0QQ?oc=5",
+   "time": "2026-11-16T06:36:00Z",
+   "location": null,
+   "id": "407e03c9b2f35c16"
+  },
+  {
+   "title": "กทม.10 เขต ค่าฝุ่น PM 2.5 เกินมาตรฐานระดับสีส้ม เริ่มมีผลกระทบสุขภาพ เขตบางเขนมากสุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "spacebar.th",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeEMyQ0Z2Q3p1T21VbTM3cEVNWUZJeUZMal9aUEhROFZldFZMWmljX1NtdWN1MlprUi1GamhGOS1YejQwWlc5NDlTUk9CeDViNWUtc0kyYXZnUm44QlBGcXZZWE5hOVAtcFhzR0xzV3lwX1NlTzhUaXlOZ2NDRmxXcVcwS2pZS09YelpHdWpmNXltTzZaY2lKM1VB?oc=5",
+   "time": "2026-11-16T06:27:00Z",
+   "location": null,
+   "id": "36682ed795e2ccb9",
+   "area": {
+    "code": "TH1005",
+    "level": "amphoe",
+    "name": "เขตบางเขน กรุงเทพมหานคร",
+    "bbox": [
+     100.587,
+     13.844,
+     100.684,
+     13.9
     ]
    }
   },
@@ -709,20 +748,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
-   "time": "2026-11-15T23:08:25Z",
-   "location": null,
-   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -1762,20 +1787,6 @@
    "id": "0c7fc28f42e778fa"
   },
   {
-   "title": "อุตุฯ เตือนฉบับ 1 ภาคใต้ฝนถล่ม 18-22 พ.ย. ระวังน้ำท่วมฉับพลัน-น้ำป่าหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lWG9tVnhEMTFZLWpydWZYQlRJQkxJblJRX3JfYXIwVWtOc2hBa2RrRGM0SzdybHRvamk5LUFIMDY4bndLdDhhMDQ3cEtZUVoza2s3Zm03N1g?oc=5",
-   "time": "2026-11-15T01:05:53Z",
-   "location": null,
-   "id": "f937a3f8fceba5b2"
-  },
-  {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
    "summary": "",
    "category": "flooding",
@@ -1820,20 +1831,6 @@
     "precision": "epicentre"
    },
    "id": "7d20931e210f93de"
-  },
-  {
-   "title": "ใต้ยังไม่พ้นภัย ฝนถล่มยาวถึง22พ.ย. น้ำป่าทะลักหลังสวน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FSngzaXhCT1lNT2djQlFjVWkzNWs2N3lhN2ZfUUQ3Nkg0UG55Rlk2U0NxQ0pyQzdwUElIYWh1V2tRN3pUSHhVb1FWOVphdzg1ekU5aURhS3h3dw?oc=5",
-   "time": "2026-11-14T23:07:54Z",
-   "location": null,
-   "id": "3cb2846fcde574f8"
   },
   {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
