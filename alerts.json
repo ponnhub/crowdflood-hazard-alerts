@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T20:58:14Z",
+ "updated_at": "2026-11-16T21:06:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 39,
-  "flash_flood": 15,
-  "storm": 22,
+  "flash_flood": 13,
+  "storm": 21,
   "landslide": 8,
-  "earthquake": 10,
+  "earthquake": 9,
   "wildfire": 0,
   "drought": 6,
   "pm25": 10,
   "heat": 1,
-  "tsunami": 1,
+  "tsunami": 0,
   "other": 0
  },
  "items": [
@@ -114,20 +114,6 @@
    "id": "cc9ca814d8a0bf42"
   },
   {
-   "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZXdNWmhkYVpMMWcyQXBCTXZNUndicnduU1Q4QTdOMllmTVNoeDB5NmJDYnJkRmJfTTZoT2tIbTkzT20zbnB4UkJpdzV1NGxQalJaa1RjSXQ?oc=5",
-   "time": "2026-11-16T00:02:50Z",
-   "location": null,
-   "id": "f6c27ecaa6408f78"
-  },
-  {
    "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
    "summary": "",
    "category": "news",
@@ -168,20 +154,6 @@
    "time": "2026-11-15T09:26:21Z",
    "location": null,
    "id": "86ea0e7112949210"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
-   "time": "2026-11-15T09:16:04Z",
-   "location": null,
-   "id": "335a3293a1855c9b"
   },
   {
    "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
@@ -689,20 +661,6 @@
    },
    "incident_id": "fr_news_2e46894685c3db7cd941",
    "id": "2e46894685c3db7c"
-  },
-  {
-   "title": "เตือนเฝ้าระวังฝนหนักภาคใต้ 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01eHRZcDl0QVowVU5RUnBMZkI3Z0pGMk1rX2duMjVZQTA2ZmgxNzV2OTBldEhudVNUdnBfSV95QjBqSThISUJJcE5NV1c2RnJUdXg0?oc=5",
-   "time": "2026-11-16T07:43:00Z",
-   "location": null,
-   "id": "c86881a1801d72a8"
   },
   {
    "title": "ฤดูฝุ่นมาแล้ว! ส่องแผนรัฐรับมือ ‘ฝุ่น PM2.5’ ตั้งเป้าปี’70 ลด 5-10% จะทำได้หรือไม่",
@@ -1279,20 +1237,6 @@
    "time": "2026-11-15T23:08:25Z",
    "location": null,
    "id": "efdb6b206603bad4"
-  },
-  {
-   "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qazVfNDdhaE81ck12bUZzSmstb29aaUlOUWZYWTlaMkhCQnl1eDExU1lrb09VOW5FUnBTa05tSFB6VG50R21GWi04X3psUU02Q0t3?oc=5",
-   "time": "2026-11-15T23:00:00Z",
-   "location": null,
-   "id": "b68046a76f00cda4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
@@ -2079,20 +2023,6 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 187 แรงงานไทยในคุมาโมโตะปลอดภัย \"จุลพันธ์\" ติดตามเหตุแผ่นดินไหวใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XNHZjSXVUNUxVbzgyU0hRRVppTjNHZFJ1M2ptdXBXM1loOFJUNE5HY2ZDM2laYlZlcTdRSmhMS0xJc3NxNDROV1ljbVBud1BXYk9jNGJubTBMbm9nTk5zRW5TZW8?oc=5",
-   "time": "2026-11-15T02:59:03Z",
-   "location": null,
-   "id": "4c6b3975edb06432"
   },
   {
    "title": "แผ่นดินไหว ขนาด 3.3 ประเทศเมียนมา (Myanmar)",
