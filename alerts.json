@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T12:11:17Z",
+ "updated_at": "2026-11-16T12:21:21Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 43,
+  "flood": 41,
   "flash_flood": 17,
-  "storm": 19,
+  "storm": 18,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "ปภ. เตือน 15 จังหวัด เตรียมรับมือฝนถล่ม น้ำป่าไหลหลาก 18-22 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UGs5dV8yczUyU0VnX0JYVkJhV29IWktXSlN6ZjlxWF9oUVp0ZG9iRjQ5ejhyckdrb0pDMzliZGVneGEzYnlkTFRpWUdQeXpvSkdpYVBYM0IyUWotRnc?oc=5",
+   "time": "2026-11-16T12:12:08Z",
+   "location": null,
+   "id": "f3d4c78851f704a8"
+  },
   {
    "title": "กรมอุตุฯ เตือน ฉบับ 4 ภาคใต้รับมือฝนตกหนัก - ไทยตอนบน อากาศหนาวฮวบ",
    "summary": "",
@@ -42,20 +56,6 @@
    "time": "2026-11-16T11:45:48Z",
    "location": null,
    "id": "ea3349ebf6e4574e"
-  },
-  {
-   "title": "ปภ. เตือน 15 จังหวัด เตรียมรับมือฝนถล่ม น้ำป่าไหลหลาก 18-22 พ.ย. 69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UGs5dV8yczUyU0VnX0JYVkJhV29IWktXSlN6ZjlxWF9oUVp0ZG9iRjQ5ejhyckdrb0pDMzliZGVneGEzYnlkTFRpWUdQeXpvSkdpYVBYM0IyUWotRnc?oc=5",
-   "time": "2026-11-16T10:42:08Z",
-   "location": null,
-   "id": "f3d4c78851f704a8"
   },
   {
    "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
@@ -168,20 +168,6 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 21 จังหวัด เตือน ฝนตกหนัก น้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRT2xWY21RNGV0LVdhZzVJbUwxblBlNFRXRVZkc1BBZ1pseDIzcTExaEYxQmJqbmRKQ05kOEhHZDhJdTRkR21vTEFJVzVHNWN2U1FwSWtoNHVFYVFIdmxoR2dnMA?oc=5",
-   "time": "2026-11-15T23:34:00Z",
-   "location": null,
-   "id": "8a10b43202bc721f"
   },
   {
    "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
@@ -2395,52 +2381,6 @@
    },
    "incident_id": "fr_news_d842dc0a19219fd75335",
    "id": "d842dc0a19219fd7"
-  },
-  {
-   "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jQUpFN0p6S3B2SUJ6ekpYcHkzTFhyaWlBbjVCcmV5TUNMOElmS2wtWUZZME9MMTVSelp2Q1hMOXhDTWY5eGdhTEwwdm1yd3g3Q25TWWJVZmR4Uk9neUdLVlRXYk1uOUV3QzBSTw?oc=5",
-   "time": "2026-11-14T12:17:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_c029579b8b279a912d36",
-   "id": "c029579b8b279a91"
-  },
-  {
-   "title": "“สกลธี” ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม จ่อพาชาวบ้านฟ้องศาลปกครองสิ้นเดือนนี้",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54eVZ5SlAxVkJXNTc5cmxJUXZfbzd0emVpX0ZKclRfaGh0ZVdrRHJWOVhzakdSd3pnRF9nUl96TTM3NVVzVHd5cmM0aERnUzBTNVI3WXc1OWpkLXRp?oc=5",
-   "time": "2026-11-14T12:13:00Z",
-   "location": {
-    "name": "ถนนร่มเกล้า",
-    "lat": 13.77,
-    "lng": 100.74,
-    "precision": "road"
-   },
-   "incident_id": "fr_news_27c28a79ce76fec0afc2",
-   "id": "27c28a79ce76fec0"
   }
  ]
 }
