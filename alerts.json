@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T09:57:16Z",
+ "updated_at": "2026-11-16T10:12:30Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 43,
-  "flash_flood": 15,
+  "flood": 42,
+  "flash_flood": 16,
   "storm": 18,
-  "landslide": 8,
+  "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
   "drought": 5,
@@ -86,20 +86,6 @@
    "id": "7f96d9666aafd288"
   },
   {
-   "title": "อุตุแจ้งเตือน ฝนถล่ม5วัน ยาวถึง22พ.ย. ระวังน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "แนวหน้า",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TU1FqVVg1eUZKMnlIeXRNUnFmS21mVkN4ZlJtcFNObFFoWTBXZG5DbGRlcU1ZTjlFOG1lcVR4TXFFbWpzQUl0R1UtSW5EWnF5UUJ0SlFoTzJKa2hicWo2VlBuTV9VbTRBeUdNUlFtYjVjbER0dGc?oc=5",
-   "time": "2026-11-16T00:27:10Z",
-   "location": null,
-   "id": "b6d9187defd17227"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -142,6 +128,20 @@
    "id": "68212f177b3ae3cb"
   },
   {
+   "title": "กรมอุตุประกาศแล้ว! สภาพอากาศวันนี้ 14 พ.ย. 69 ระวังฝนตกหนัก น้ำป่าไหลหลาก | News In Thailand",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdU8xYVhXQXZsZzluSUxkb2lDTWYzemZOZlRsbmtGMm8yelRDZFo2TEVlblpxTkFiMFd1UzlxWDlYTVR3V09lSjJXd3daR2RMaG1EdTlB?oc=5",
+   "time": "2026-11-15T17:34:21Z",
+   "location": null,
+   "id": "cae7569335e8259e"
+  },
+  {
    "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
    "summary": "",
    "category": "news",
@@ -182,6 +182,20 @@
    "time": "2026-11-15T02:39:32Z",
    "location": null,
    "id": "4b9223f5c21059ef"
+  },
+  {
+   "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
+   "time": "2026-11-16T10:04:02Z",
+   "location": null,
+   "id": "6ea3d859fc866354"
   },
   {
    "title": "สิ้นสุดสถานการณ์น้ำท่วมแปดริ้ว ทุกตำบลแห้งหมดแล้ว หลังแช่ขังมายาวนานเกือบ 2 เดือน",
@@ -436,6 +450,26 @@
    "time": "2026-11-16T07:30:00Z",
    "location": null,
    "id": "7d86fa1bf8fcdcd8"
+  },
+  {
+   "title": "ตรังวิกฤตหนัก! ฝนถล่มน้ำป่าทะลักท่วม 2 อำเภอ รัษฎา-ห้วยยอด",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvNUtkdFlFMjdnQ25yMHY1Q2VkU1ItU2dUaHhnMlcxSWw5UFBETHBYTkhOcWg5bnpOUTdzM0VzMVVmRmNzRnlxSXVjb0ZfcWd5UXhMdlVvR09MVXJLUTcwTWh5aS1WWVV4V2Y0WTFfcXdPSm5VN3lFeG9TX3E?oc=5",
+   "time": "2026-11-16T07:17:09Z",
+   "location": {
+    "name": "อ.รัษฎา-ห้วยยอด",
+    "lat": 7.9100576,
+    "lng": 99.5427071,
+    "precision": "district"
+   },
+   "incident_id": "fr_news_7bba273420f5656a2873",
+   "id": "7bba273420f5656a"
   },
   {
    "title": "📣 ประกาศกรมอุตุฯ ฉ.3 🗓 18 - 22 พ.ย. 69 🌧 ภาคใต้ ฝนตกหนักถึงหนักมากในหลายพื้นที่ ⚠️ ระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก ❄ ภาคตะวันออกเฉียงเหนือ อุณหภูมิจะลดลง 2 - 4 องศาเซลเซียส ❄ ภาคเหนือ-ตะวันออก-กลา",
@@ -1281,20 +1315,6 @@
    },
    "incident_id": "fr_news_daf2d54502f3f4d04762",
    "id": "daf2d54502f3f4d0"
-  },
-  {
-   "title": "ยกของขึ้นที่สูงด่วน! เปิดรายชื่อ 7 จังหวัด พื้นที่เสี่ยงดินถล่ม - น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามนิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mYUp3Tkd4WFdnSlFNNi1JUzJUY0w0bGZ0c25DUlh5WnFYMjdGcGR6cFhGdXkzYXpjeWVsb0MyeXJrY1duWVZxQUZzWUVNUzJtdzhzcVhhWQ?oc=5",
-   "time": "2026-11-15T09:25:00Z",
-   "location": null,
-   "id": "e69a1a1aecbf7d10"
   },
   {
    "title": "แผ่นดินไหว ขนาด 1.7 ต.หางดง อ.ฮอด จ.เชียงใหม่ (Tambon Hang Dong, Amphoe Hot, ChiangMai)",
