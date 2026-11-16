@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T13:39:33Z",
+ "updated_at": "2026-11-16T13:50:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
+  "flood": 36,
   "flash_flood": 16,
-  "storm": 19,
-  "landslide": 9,
+  "storm": 20,
+  "landslide": 8,
   "earthquake": 11,
   "wildfire": 0,
-  "drought": 6,
+  "drought": 5,
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
@@ -39,7 +39,7 @@
    "official": true,
    "source": "bangkokbiznews",
    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10UGs5dV8yczUyU0VnX0JYVkJhV29IWktXSlN6ZjlxWF9oUVp0ZG9iRjQ5ejhyckdrb0pDMzliZGVneGEzYnlkTFRpWUdQeXpvSkdpYVBYM0IyUWotRnc?oc=5",
-   "time": "2026-11-16T12:12:08Z",
+   "time": "2026-11-16T13:42:09Z",
    "location": null,
    "id": "f3d4c78851f704a8"
   },
@@ -761,6 +761,20 @@
    "id": "9f43173471be0693"
   },
   {
+   "title": "ทหารและตำรวจกำลังช่วยเหลือประชาชนในจังหวัดกวางงายให้ผ่านพ้นผลกระทบจากน้ำท่วมและฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUFMOHpXcHhtck1aSE1LbVNxeTFKSHNiUTlQWnZwX0dTYk5FV2FLTW15QmhMbzRPVV9faDZ3d2lmOURlXzdTOVdRUUI1WlE2RGFaX3AwWjFiWDVKR0R2N040YjFmbmcxSlhsbWNwNUF5M040RnVnXzVCOUFJVzlvR1VzZGZYSUV3UU5RVTVudHFPcGlUTnc?oc=5",
+   "time": "2026-11-16T04:04:55Z",
+   "location": null,
+   "id": "213ecf4a17ff5ff3"
+  },
+  {
    "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
    "summary": "",
    "category": "news",
@@ -1124,20 +1138,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
-   "time": "2026-11-15T23:08:25Z",
-   "location": null,
-   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -2168,20 +2168,6 @@
    "id": "980f46b9dd80910d"
   },
   {
-   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
-   "time": "2026-11-14T14:47:37Z",
-   "location": null,
-   "id": "b94500e7135f6e20"
-  },
-  {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
    "summary": "",
    "category": "flooding",
@@ -2206,26 +2192,6 @@
    },
    "incident_id": "fr_news_4e1eff5b93924fff9b75",
    "id": "4e1eff5b93924fff"
-  },
-  {
-   "title": "สกลธีนำทีมปชป. เตรียมฟ้องศาลปกครอง จี้ กทม. เร่งเยียวยาน้ำท่วม ร่มเกล้า-คลองจั่น",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pY3BRUENvaVU4TV9QVDJ3cGY4YnhCNVhhZzZXQmJzUXN4SnRMU21CcjdELXd1WTdOMmFNV2xwLUdpTm53ZXFHSWpKN25QWnJPRHVjSDNvbmh4eDV6eThQbEpKWld6MExFZ2lIdGd3?oc=5",
-   "time": "2026-11-14T13:42:00Z",
-   "location": {
-    "name": "ถนนร่มเกล้า",
-    "lat": 13.77,
-    "lng": 100.74,
-    "precision": "road"
-   },
-   "incident_id": "fr_news_bd4ff7b0ac0408317d27",
-   "id": "bd4ff7b0ac040831"
   }
  ]
 }
