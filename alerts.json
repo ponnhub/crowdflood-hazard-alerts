@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T09:44:07Z",
+ "updated_at": "2026-11-16T09:57:16Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
-  "flash_flood": 16,
-  "storm": 19,
+  "flood": 43,
+  "flash_flood": 15,
+  "storm": 18,
   "landslide": 8,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 4,
+  "drought": 5,
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
@@ -72,31 +72,6 @@
    "id": "8cb49ec78dee74b3"
   },
   {
-   "title": "เตรียมร่มอีกรอบ กรมอุตุ เตือนอากาศวันนี้ กทม. ฝนตกหนัก ฟ้าคะนอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05TGkzZExIZFVNMzVXdUhna1FSaGFRNEJJZC1rZXk0NzdLczFXNVhPZ2MzU3BieXBTb2JGazFrbWlvX2d5OEZJTHFiNGtmZllBbWRVelJmbzdYTVN0WllwOHNzT1lzUQ?oc=5",
-   "time": "2026-11-16T00:50:20Z",
-   "location": null,
-   "id": "fab0dc6b5b3214b1",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.3",
    "summary": "",
    "category": "news",
@@ -109,6 +84,20 @@
    "time": "2026-11-16T00:27:43Z",
    "location": null,
    "id": "7f96d9666aafd288"
+  },
+  {
+   "title": "อุตุแจ้งเตือน ฝนถล่ม5วัน ยาวถึง22พ.ย. ระวังน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TU1FqVVg1eUZKMnlIeXRNUnFmS21mVkN4ZlJtcFNObFFoWTBXZG5DbGRlcU1ZTjlFOG1lcVR4TXFFbWpzQUl0R1UtSW5EWnF5UUJ0SlFoTzJKa2hicWo2VlBuTV9VbTRBeUdNUlFtYjVjbER0dGc?oc=5",
+   "time": "2026-11-16T00:27:10Z",
+   "location": null,
+   "id": "b6d9187defd17227"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
@@ -153,20 +142,6 @@
    "id": "68212f177b3ae3cb"
   },
   {
-   "title": "กรมอุตุประกาศแล้ว! สภาพอากาศวันนี้ 14 พ.ย. 69 ระวังฝนตกหนัก น้ำป่าไหลหลาก | News In Thailand",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdU8xYVhXQXZsZzluSUxkb2lDTWYzemZOZlRsbmtGMm8yelRDZFo2TEVlblpxTkFiMFd1UzlxWDlYTVR3V09lSjJXd3daR2RMaG1EdTlB?oc=5",
-   "time": "2026-11-15T17:34:21Z",
-   "location": null,
-   "id": "cae7569335e8259e"
-  },
-  {
    "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
    "summary": "",
    "category": "news",
@@ -207,6 +182,32 @@
    "time": "2026-11-15T02:39:32Z",
    "location": null,
    "id": "4b9223f5c21059ef"
+  },
+  {
+   "title": "สิ้นสุดสถานการณ์น้ำท่วมแปดริ้ว ทุกตำบลแห้งหมดแล้ว หลังแช่ขังมายาวนานเกือบ 2 เดือน",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "banmuang.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTTHZucU9GeU5BQllMQTYtTXM2UW5fRUVFb1NXd1hhT2Nqc0RCSHlHcmNSMjNKNE9mLWdBWnNNcGNPX09fWE5WWEtKUHdlcGNSLWtGXzJHT0k?oc=5",
+   "time": "2026-11-16T09:35:00Z",
+   "location": null,
+   "area": {
+    "code": "TH24",
+    "level": "province",
+    "name": "จ.ฉะเชิงเทรา",
+    "bbox": [
+     100.848,
+     13.182,
+     101.99,
+     13.977
+    ]
+   },
+   "incident_id": "fr_news_cf46e46a06a6ff5c993d",
+   "id": "cf46e46a06a6ff5c"
   },
   {
    "title": "เตือน 15 จว. กลาง-ใต้ ระวังน้ำท่วมฉับพลัน น้ำป่าหลาก ดินโคลนถล่ม 18-22 พ.ย.นี้",
@@ -940,6 +941,20 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
+   "location": null,
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
