@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T17:24:58Z",
+ "updated_at": "2026-11-16T17:39:20Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
+  "flood": 38,
   "flash_flood": 15,
-  "storm": 19,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 11,
   "wildfire": 0,
@@ -156,6 +156,20 @@
    "id": "8a10b43202bc721f"
   },
   {
+   "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนักถึงหนักมาก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVFFsQjZQZnBuOVFYM01TVFRJY1VwOEtib0tZY045OEVRYURicy15TmlNc3dkNzhmeDRNb1dkd3kyanM4VW84YlRrZUZsSlpCWElj?oc=5",
+   "time": "2026-11-15T09:26:21Z",
+   "location": null,
+   "id": "86ea0e7112949210"
+  },
+  {
    "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
    "summary": "",
    "category": "news",
@@ -182,6 +196,32 @@
    "time": "2026-11-15T02:39:32Z",
    "location": null,
    "id": "4b9223f5c21059ef"
+  },
+  {
+   "title": "วิพากษ์สื่อละเลยประเด็นน้ำท่วม บึงคู้บอนและผังเมืองใหม่ กทม. ขณะที่ค่าใช้จ่ายเลี้ยงสัตว์พุ่งสูง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTGFlRGRNQjRJRl9UMXBZMEgzckl0aG1vRjBXNW14cGlEcjdhVmFmdHU3ZVlicEthUHJFWDVzVV9FaXVJRVoxMG5udGRKaC1IN3c3Q3Q5RWVzanZuSVY3OVU0bWdwbzhXYldTczVB?oc=5",
+   "time": "2026-11-16T17:23:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_09e3be35522e9206f3b0",
+   "id": "09e3be35522e9206"
   },
   {
    "title": "“สุริยะ” ลงพื้นที่ราชบุรี เร่งเยียวยาน้ำท่วมเกษตรกรกว่า 5,800 ราย ดันมะพร้าวน้ำหอม GAP Monkey Free Plus สู่ตลาดส่งออก",
@@ -254,6 +294,20 @@
     "precision": "epicentre"
    },
    "id": "842b9d424a8304e6"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา ฉบับ 4 เช็กรายชื่อจังหวัดภาคใต้ฝนตกหนักต่อเนื่อง 18-22 พ.ย.69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": false,
+   "official": true,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxY3hSeV9rRVh1SkE1UjI1eGQxc1FucVpXY1A0X2s1MzlHSmt5bzlWWUZpMHlkRUNxZW1GcTB5QU4wUTIwdEt0WlRJRHlUbm9maHR0ZWxhY18?oc=5",
+   "time": "2026-11-16T12:57:41Z",
+   "location": null,
+   "id": "fa2b73468c6fdfb6"
   },
   {
    "title": "จังหวัด Khánh Bình ให้ความช่วยเหลือแก่ครัวเรือนที่บ้านเรือนถูกทำลายจากดินถล่ม",
