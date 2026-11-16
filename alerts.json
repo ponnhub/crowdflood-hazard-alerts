@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T05:12:22Z",
+ "updated_at": "2026-11-16T05:22:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 39,
   "flash_flood": 9,
-  "storm": 20,
+  "storm": 19,
   "landslide": 9,
   "earthquake": 11,
   "wildfire": 2,
@@ -153,6 +153,20 @@
    "id": "cae7569335e8259e"
   },
   {
+   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
+   "time": "2026-11-15T13:59:39Z",
+   "location": null,
+   "id": "6ec1447cbd11a063"
+  },
+  {
    "title": "กรมอุตุฯ เตือนภาคใต้รับมือฝนตกหนักถึงหนักมาก ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -179,20 +193,6 @@
    "time": "2026-11-15T03:19:00Z",
    "location": null,
    "id": "cea01b4ba7519bea"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMijgdBVV95cUxQNUl5NnVnNmNrRExXdVRHOFJTRXZqaGU5Sk1NVVZ4SkRNY2E0QTRmVkkxYkc3QUNsZ1hVUlpDZzFxYmdjU3RxSDc4OWJpSjNxRWZ1ZG5tM1FtcWFSdTVDY0lOcGdzZGRxUDF2RGxFdFFpdEdSN3dFNVVMTkJFOVMtYkZiWFN3TmsxUkxwakFrZ3V5UGVtZmU5ZVpoRFpxM0lfTU1NOERyWkN6UEF4M1BCNGRZdDZiZUsyWjBzZVNQdV9FdGxxR2M2TUY1Qks1Ylo2NnU2Y1RlY3JoM0ttb3NoNmF2bEFWeEItQXRqUEJHU2JLV0lYczJzQ2h4UDZRbU5sVjMzQ08ycm1BbkxWLTdCOGs2eW5MYm1yRXBTcGY3SzNsS294TVNacFlkRG00SmxHRy1jWDgtU1NSOE9WbUE5aml1ZkpOQ182RHF0RUlSRmVKUDZ0ZlBkaEg0Q09mdUVLQ3dUMDVxa1pTT2F6WnVJVlV0a0NKU1dKTWEtRlZHQXJwQ3lmZjd3UGxnXzhIM2NuUmFvTDc4Wldkd0NxeXlvOGFUQ1l3b1R2SnRTVGQ5WXpLVTl4NFJNZXdwNXNia0JESGwySkFVWHB1Y2pYZmNhZ242emY5YlFKS2x1S25tdkhBSThHenNhVzB1b1NBUTNyNGw4RWUzaXpsbThiNnQxYU4wWGZwcjVFbnpod2J4UldIa2hjWmVsMTQ2cklid0UwTlBlaTNwM0JMdEZXRGxXUjh5dE5xTzNaa252WVU4YnM0ZDZkRDAwd09QSFhhUGZhQWp0a1BmQk9EaGt1ajNMd3VVV0N1a3ZaUmNvQTlGeTJlMDRLMmJXajJXUzVTMHdCY0ZwdE51WkswbzdrYk1oR3lVSmE3QUFDWUdBaVhkTWlzNVRQOVJLaVZUZzhiZkNhSmJQUkoxLVdsWW5hUFBCUEpFcWR2UUUzM0F6RkVnV3ZuVnZERnM4M3N6M09pRll0NGxTWC1tTHd2M21hYnVTR1QzelBPbUZXYW0zdjRHODg5bElLZ2ViWXJ6cXUzNkY3a1RweDFfd1VzVUxRQkJ1MUY2bUFrS1lZTzhBa21HTjRGWmJNM3g1LXBWd3pjUUtBcEMxZU56Z3BrLUhsSURxY3EzV2dMTC1veXRLbFh0QjFJdzVMc21YV2RHV2ZDQzFpQmdqNldpTDJGaWxCX0tMb0hSc2NqOFFaSFJZaUN3?oc=5",
-   "time": "2026-11-15T02:39:32Z",
-   "location": null,
-   "id": "4b9223f5c21059ef"
   },
   {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
@@ -601,20 +601,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
-   "time": "2026-11-15T23:08:25Z",
-   "location": null,
-   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -1586,6 +1572,20 @@
    "id": "5e873afff09666bd"
   },
   {
+   "title": "กรมชลฯ ลดการระบายน้ำ 4 เขื่อนหลักวันนี้ รับภัยแล้ง Tutto Food Milano (u8r2gr2ide)",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Unisba Media",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk9mSVZGbmpsejRCRF9oZHo0Qm1BQmNORkdOV2I2ZEQ3T3M1STF4TTBfVUVpeWcxRTZ6Y21aazl5UTRwSWVqZkJwTTFOcG91M3BRQWRuenJLYXQ1NURLUHlwaEZxVGg1ZHdEaVBKQXpyNkhuU0VQam9wTXVDUmtmUg?oc=5",
+   "time": "2026-11-15T01:26:25Z",
+   "location": null,
+   "id": "e258d105b8777f8b"
+  },
+  {
    "title": "สภาพอากาศวันนี้ 15 พ.ย. เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วม อ่าวไทยคลื่นสูงเกิน 3 เมตร",
    "summary": "",
    "category": "news",
@@ -2147,20 +2147,6 @@
    "time": "2026-11-14T05:52:16Z",
    "location": null,
    "id": "4765f5eaf5f21bd0"
-  },
-  {
-   "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjBQOGg5czN0V1c1cllmSXN5Z2p5QXF2dVFnbmVnWDEwcVA3ZEFoTWpEQWl0MW9zS01lNkl2QU9sWXhIUkVBRW9WZHFXU1EwQnNSLWI1SDU4STQxUXQ0TDR2UU0xMGVSMU5zejBoNkc1LWg0S1hQM1JsSEx1QTg0QzdLbHJEa1dZMHZpQ0tQQ3A?oc=5",
-   "time": "2026-11-14T05:15:21Z",
-   "location": null,
-   "id": "11e9a975d4c1d423"
   }
  ]
 }
