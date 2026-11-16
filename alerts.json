@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T12:59:38Z",
+ "updated_at": "2026-11-16T13:05:18Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 39,
   "flash_flood": 17,
   "storm": 19,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 5,
+  "drought": 6,
   "pm25": 11,
   "heat": 1,
   "tsunami": 1,
@@ -114,20 +114,6 @@
    "id": "8cb49ec78dee74b3"
   },
   {
-   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
-   "time": "2026-11-16T01:41:43Z",
-   "location": null,
-   "id": "cc9ca814d8a0bf42"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -140,20 +126,6 @@
    "time": "2026-11-16T00:02:50Z",
    "location": null,
    "id": "f6c27ecaa6408f78"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับ3 เตือน ฝนตกหนักถึงหนักมาก 5 วัน ระวังอันตราย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YV9rMVRjU29Sb2lnY1VHSFRWbW9hQnhneXI4b1RqMFVwQVV4bDVpaU5tMWJYQ2VfT2pER00xZDJHdVJGendCUmstNmJCVkY2LVJFc3l2eWVJdWJsdHFEb0xWMA?oc=5",
-   "time": "2026-11-15T23:56:00Z",
-   "location": null,
-   "id": "0a8aba19ca14f6f1"
   },
   {
    "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
@@ -210,6 +182,20 @@
    "time": "2026-11-15T09:16:04Z",
    "location": null,
    "id": "335a3293a1855c9b"
+  },
+  {
+   "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMijgdBVV95cUxQNUl5NnVnNmNrRExXdVRHOFJTRXZqaGU5Sk1NVVZ4SkRNY2E0QTRmVkkxYkc3QUNsZ1hVUlpDZzFxYmdjU3RxSDc4OWJpSjNxRWZ1ZG5tM1FtcWFSdTVDY0lOcGdzZGRxUDF2RGxFdFFpdEdSN3dFNVVMTkJFOVMtYkZiWFN3TmsxUkxwakFrZ3V5UGVtZmU5ZVpoRFpxM0lfTU1NOERyWkN6UEF4M1BCNGRZdDZiZUsyWjBzZVNQdV9FdGxxR2M2TUY1Qks1Ylo2NnU2Y1RlY3JoM0ttb3NoNmF2bEFWeEItQXRqUEJHU2JLV0lYczJzQ2h4UDZRbU5sVjMzQ08ycm1BbkxWLTdCOGs2eW5MYm1yRXBTcGY3SzNsS294TVNacFlkRG00SmxHRy1jWDgtU1NSOE9WbUE5aml1ZkpOQ182RHF0RUlSRmVKUDZ0ZlBkaEg0Q09mdUVLQ3dUMDVxa1pTT2F6WnVJVlV0a0NKU1dKTWEtRlZHQXJwQ3lmZjd3UGxnXzhIM2NuUmFvTDc4Wldkd0NxeXlvOGFUQ1l3b1R2SnRTVGQ5WXpLVTl4NFJNZXdwNXNia0JESGwySkFVWHB1Y2pYZmNhZ242emY5YlFKS2x1S25tdkhBSThHenNhVzB1b1NBUTNyNGw4RWUzaXpsbThiNnQxYU4wWGZwcjVFbnpod2J4UldIa2hjWmVsMTQ2cklid0UwTlBlaTNwM0JMdEZXRGxXUjh5dE5xTzNaa252WVU4YnM0ZDZkRDAwd09QSFhhUGZhQWp0a1BmQk9EaGt1ajNMd3VVV0N1a3ZaUmNvQTlGeTJlMDRLMmJXajJXUzVTMHdCY0ZwdE51WkswbzdrYk1oR3lVSmE3QUFDWUdBaVhkTWlzNVRQOVJLaVZUZzhiZkNhSmJQUkoxLVdsWW5hUFBCUEpFcWR2UUUzM0F6RkVnV3ZuVnZERnM4M3N6M09pRll0NGxTWC1tTHd2M21hYnVTR1QzelBPbUZXYW0zdjRHODg5bElLZ2ViWXJ6cXUzNkY3a1RweDFfd1VzVUxRQkJ1MUY2bUFrS1lZTzhBa21HTjRGWmJNM3g1LXBWd3pjUUtBcEMxZU56Z3BrLUhsSURxY3EzV2dMTC1veXRLbFh0QjFJdzVMc21YV2RHV2ZDQzFpQmdqNldpTDJGaWxCX0tMb0hSc2NqOFFaSFJZaUN3?oc=5",
+   "time": "2026-11-15T02:39:32Z",
+   "location": null,
+   "id": "4b9223f5c21059ef"
   },
   {
    "title": "จังหวัด Khánh Bình ให้ความช่วยเหลือแก่ครัวเรือนที่บ้านเรือนถูกทำลายจากดินถล่ม",
@@ -1143,6 +1129,20 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
+   "location": null,
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -2213,6 +2213,20 @@
    "id": "980f46b9dd80910d"
   },
   {
+   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
+   "time": "2026-11-14T14:47:37Z",
+   "location": null,
+   "id": "b94500e7135f6e20"
+  },
+  {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
    "summary": "",
    "category": "flooding",
@@ -2329,32 +2343,6 @@
    },
    "incident_id": "fr_news_9d3c3fbacd9ca6bb7e82",
    "id": "9d3c3fbacd9ca6bb"
-  },
-  {
-   "title": "ดร.เสรี เตือนปี 70 ‘ร้อนจัด’ ที่สุดในรอบ 5 ปี ชี้ กทม. เสี่ยงท่วมสูง แนะจัด ‘ยา 3 ชุด’ รับมือพหุภัย",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "มติชน",
-   "source_url": "https://www.matichon.co.th/economy/news_5975886",
-   "time": "2026-11-14T13:04:41Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_rss_d9713948b035c4b79dc0",
-   "id": "d9713948b035c4b7"
   }
  ]
 }
