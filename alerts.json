@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T17:50:56Z",
+ "updated_at": "2026-11-16T18:08:05Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 15,
   "storm": 21,
   "landslide": 8,
-  "earthquake": 11,
+  "earthquake": 10,
   "wildfire": 0,
   "drought": 6,
   "pm25": 10,
@@ -222,6 +222,20 @@
    },
    "incident_id": "fr_news_09e3be35522e9206f3b0",
    "id": "09e3be35522e9206"
+  },
+  {
+   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
+   "time": "2026-11-16T16:47:58Z",
+   "location": null,
+   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "“สุริยะ” ลงพื้นที่ราชบุรี เร่งเยียวยาน้ำท่วมเกษตรกรกว่า 5,800 ราย ดันมะพร้าวน้ำหอม GAP Monkey Free Plus สู่ตลาดส่งออก",
@@ -1874,20 +1888,6 @@
    "id": "7ab21eae1c7b4a12"
   },
   {
-   "title": "ระทึก! แผ่นดินไหวเขย่าเวียดนาม ขนาด 3.6 “กองเฝ้าระวังแผ่นดินไหว” เฝ้าระวังผลกระทบใกล้ชิด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Q3JjVEpIaFJ5MzJoWGtlbkJfLVRQU1A4bTRlNW9aYXdHMFNiR1pxTk83OTlobTZaNnBqSUFaa1pwUjZQWWQ5WWl5aW5GTFdjY0ZFMFhB?oc=5",
-   "time": "2026-11-15T06:21:00Z",
-   "location": null,
-   "id": "b0837319e8e98bd9"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 70 กม.",
    "category": "official",
@@ -1952,20 +1952,6 @@
    },
    "incident_id": "fr_news_9d4a211d5cf83d1cff90",
    "id": "9d4a211d5cf83d1c"
-  },
-  {
-   "title": "ปีนี้น้ำท่วม แต่ปีหน้าเสี่ยง ‘ร้อนแล้ง’? ส่องผลกระทบ ‘เอลนีโญ’ สะเทือน GDP-ธุรกิจไทย และทางรอดรับมือ ‘วิกฤตโลกรวน’",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbWpFeXM4VnpyZmY0a2xIaFhHYVZ4SC1SRVE1NmZ1cUdKTDBmcnNkMGtzemp3YlEtdGtxMnI1b0h4VGhUSG5rR2ROYnlxXzlzQlkzcEU3MnIwQjVFVlkw?oc=5",
-   "time": "2026-11-15T04:55:29Z",
-   "location": null,
-   "id": "1d7c4dcb7bd77521"
   },
   {
    "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 13 ล้านบาท- กทม.จ่ายแล้ว 7 แสนราย สั่งเร่งตรวจสอบที่ยังค้างอยู่",
