@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T13:29:45Z",
+ "updated_at": "2026-11-16T13:39:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
+  "flood": 37,
   "flash_flood": 16,
   "storm": 19,
   "landslide": 9,
-  "earthquake": 12,
+  "earthquake": 11,
   "wildfire": 0,
   "drought": 6,
   "pm25": 10,
@@ -196,6 +196,26 @@
    "time": "2026-11-15T02:39:32Z",
    "location": null,
    "id": "4b9223f5c21059ef"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 1.9 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 67 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17448",
+   "time": "2026-11-16T13:22:24Z",
+   "magnitude": 1.9,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 20.024,
+    "lng": 97.886,
+    "precision": "epicentre"
+   },
+   "id": "842b9d424a8304e6"
   },
   {
    "title": "จังหวัด Khánh Bình ให้ความช่วยเหลือแก่ครัวเรือนที่บ้านเรือนถูกทำลายจากดินถล่ม",
@@ -1160,26 +1180,6 @@
    "id": "b7d452cc9113c470"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 1.9 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 98 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17446",
-   "time": "2026-11-15T21:26:33Z",
-   "magnitude": 1.9,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 21.062,
-    "lng": 99.222,
-    "precision": "epicentre"
-   },
-   "id": "14d9e7b3d69de569"
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 2.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 65 กม.",
    "category": "official",
@@ -2128,26 +2128,6 @@
    "id": "effc42c897c8181b"
   },
   {
-   "title": "แผ่นดินไหว ขนาด 2.3 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.พบพระ จ.ตาก ประมาณ 108 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17438",
-   "time": "2026-11-15T00:31:38Z",
-   "magnitude": 2.3,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 15.903,
-    "lng": 97.808,
-    "precision": "epicentre"
-   },
-   "id": "7d20931e210f93de"
-  },
-  {
    "title": "ดีอี หารือ ปภ. ยกระดับการแจ้งเหตุภัยพิบัติ หนุนระบบดิจิทัลรับมือสถานการณ์ เชื่อมการทำงานระหว่างรัฐ ช่วยเหลือ ปชช. ได้ทันท่วงที | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -2246,32 +2226,6 @@
    },
    "incident_id": "fr_news_bd4ff7b0ac0408317d27",
    "id": "bd4ff7b0ac040831"
-  },
-  {
-   "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "ข่าวสด",
-   "source_url": "https://www.khaosod.co.th/politics/news_10472702",
-   "time": "2026-11-14T13:31:25Z",
-   "location": null,
-   "area": {
-    "code": "TH1003",
-    "level": "amphoe",
-    "name": "เขตหนองจอก กรุงเทพมหานคร",
-    "bbox": [
-     100.787,
-     13.738,
-     100.939,
-     13.947
-    ]
-   },
-   "incident_id": "fr_rss_c063921d9fe0cbfa3a6a",
-   "id": "c063921d9fe0cbfa"
   }
  ]
 }
