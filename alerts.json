@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T05:36:35Z",
+ "updated_at": "2026-11-16T05:57:13Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,14 +18,14 @@
  "counts": {
   "flood": 40,
   "flash_flood": 10,
-  "storm": 18,
+  "storm": 19,
   "landslide": 9,
   "earthquake": 11,
   "wildfire": 2,
   "drought": 5,
-  "pm25": 11,
+  "pm25": 10,
   "heat": 1,
-  "tsunami": 1,
+  "tsunami": 0,
   "other": 1
  },
  "items": [
@@ -67,6 +67,20 @@
    "time": "2026-11-16T01:52:19Z",
    "location": null,
    "id": "8cb49ec78dee74b3"
+  },
+  {
+   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
+   "time": "2026-11-16T01:41:43Z",
+   "location": null,
+   "id": "cc9ca814d8a0bf42"
   },
   {
    "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.3",
@@ -181,20 +195,6 @@
    "id": "393be7964f68963c"
   },
   {
-   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
-   "time": "2026-11-15T09:16:04Z",
-   "location": null,
-   "id": "335a3293a1855c9b"
-  },
-  {
    "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา",
    "summary": "",
    "category": "news",
@@ -246,6 +246,34 @@
    "time": "2026-11-16T04:26:58Z",
    "location": null,
    "id": "9f43173471be0693"
+  },
+  {
+   "title": "จังหวัดกวางงาย: เหตุการณ์ดินถล่มรุนแรงบนทางหลวงหมายเลข 24C ก่อให้เกิดความเสี่ยงร้ายแรงต่อความปลอดภัยในการจราจร",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXhYcFc5UnM5WEtxa1RSR3lYODRfS2NGWlAzRXlQT0dncVBEU3lKUFpYOHBBQkllY0FtLVI0b3lIbHAtR2R5am5uNnkyeXczUUlERk01NkJzSVNOcmVQX3VmYm9NaUxMNDlOakJhd20yMkhtVTNkbkMzaUhYTDFZMExTVHg5VWJkWkVkdTJ1M1FXVDJ2UnVxZHZOLUJiOUMtQTAxdXNpNA?oc=5",
+   "time": "2026-11-16T04:04:52Z",
+   "location": null,
+   "id": "db36ed9492d7090f"
+  },
+  {
+   "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vdUN5YzA3UEMtMWY3U2hvUmpYMDVKX2NQbEtLOHd3aW5zcUZjbGd2V0ZzTjhacThHVDhHSGM0OGNuVUZhZElURmVoZVdPR3EyYWZNb1JGRk9HLUlVWTRfTW1SZXhpOENoX1o2dmRfSHdvTW1sb0E?oc=5",
+   "time": "2026-11-16T04:00:50Z",
+   "location": null,
+   "id": "b753d5a640089cbd"
   },
   {
    "title": "“บทเรียนครั้งใหญ่” วิกฤตน้ำท่วมปี’69 กทม. รื้อใหม่ระบบรับภัยพิบัติ",
@@ -720,6 +748,20 @@
    "time": "2026-11-15T18:09:46Z",
    "location": null,
    "id": "f866f7d93154c046"
+  },
+  {
+   "title": "พยากรณ์อากาศวันนี้ 14 พ.ย. เตือนภาคใต้ฝนตกหนักถึงหนักมาก | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45SWQ3YjZMeGpReGZJOWFMSlRHSGVieUlTT0h6ZnVYS3FRRnFEZW00MHN4NGhRTnpnZjRrWGRRcURlbV90OWhBcldqc25mUmpkTHJCUzRn?oc=5",
+   "time": "2026-11-15T18:06:55Z",
+   "location": null,
+   "id": "bdb615cc01654ee5"
   },
   {
    "title": "ตราเลงทำงานตลอดทั้งคืนเพื่อเคลียร์ดินถล่ม และพยายามอย่างเต็มที่เพื่อเปิดทางหลวงหมายเลข 1 อีกครั้ง",
@@ -2065,20 +2107,6 @@
    "id": "ba52b1961dbfdea2"
   },
   {
-   "title": "พายุฝนฟ้าคะนองทำให้เกิดดินถล่มในเมืองเจาฟู ส่งผลให้บ้านหลังหนึ่งพังถล่มลงไปในคลอง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGptMUhmeE9QbTV0cU1uY2JvRGxJQmE4YnhTdDJ0b3RWX1dwS3hKdU9PdEJCeHFPcUl1RUlGWjVPcWVfalRuSi1TcDRxLTl4eWRLa2phSTNvdjlGR3ZJOExET0U3UU04YmZzdUZtVlI3UXZqMk9zT3p2Vm0zMWhEenNvX2xVejhlTThn?oc=5",
-   "time": "2026-11-14T09:12:52Z",
-   "location": null,
-   "id": "077cba84bf0edfc4"
-  },
-  {
    "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
    "summary": "",
    "category": "news",
@@ -2091,20 +2119,6 @@
    "time": "2026-11-14T08:12:09Z",
    "location": null,
    "id": "296e768a75ef8e0a"
-  },
-  {
-   "title": "การซ่อมแซมดินทรุดและดินถล่มหลังพายุในโดซอนมีความคืบหน้าช้ามาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHdFMlVqcTN2OXY3U3dxaU5hQnphSzhmSkU5cmRud0ZPejdzVGNNRk1MOEZCbzhBVGdlU1RnQ2VNb1BwUmdTSUY5c0xPU2JCaTRiaWsxbl9lVE1mb0tseHNDcUVLSENLSFh4YTk1ME0td1pBMk9zeGUzSTJ4aDZaSVlSdFNIaGZQ?oc=5",
-   "time": "2026-11-14T07:08:05Z",
-   "location": null,
-   "id": "ed2fe855590f7924"
   },
   {
    "title": "14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
@@ -2147,20 +2161,6 @@
    "id": "6c5a65374171fc59"
   },
   {
-   "title": "ลาวไค: เหตุการณ์ดินถล่มบนทางหลวงหมายเลข 4D ทับครูหญิงที่กำลังขี่มอเตอร์ไซค์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUVIb2tVMHFZaUR1TDFEQ2V5dVl6VHdraWNKdUZXYnJmZ19ibXlfWF8zbkJZMzR1bzNsTEpvSXBDeW5vZDQtTTRwLXdXSUVjR2oxWHZyc3owOXRDdERScWFSZWNMUkx5d3VOeTRiUWh4NWlteTR1NXlNX3ZUaFR2NHo5VGU5VmgyZW1lVWNRbGNiZEZ1Z1FMWjlXMm40SUZvbGdZa25SNHFrdE0?oc=5",
-   "time": "2026-11-14T06:14:47Z",
-   "location": null,
-   "id": "21684a50440ac5b0"
-  },
-  {
    "title": "โลกร้อนซ้ำเติม “ซูเปอร์เอลนีโญ” ไฟป่าอินโดนีเซียแรงขึ้น ต้นเหตุอาเซียจมฝุ่น",
    "summary": "",
    "category": "news",
@@ -2173,20 +2173,6 @@
    "time": "2026-11-14T06:00:00Z",
    "location": null,
    "id": "3baba217cab7306c"
-  },
-  {
-   "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thaipost.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Rkltelc4U0lLVThOallvN1V4U0NySzJTLVN2WlhJa2ZESEhfTEx3MEtyMEltS29BODNYdlZDNUY0QjVSb2RpTlh5UlhXQlVLd0Z4ZEdBcXpTUQ?oc=5",
-   "time": "2026-11-14T05:52:16Z",
-   "location": null,
-   "id": "4765f5eaf5f21bd0"
   }
  ]
 }
