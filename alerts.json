@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T09:28:32Z",
+ "updated_at": "2026-11-16T09:44:07Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -26,7 +26,7 @@
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
-  "other": 2
+  "other": 1
  },
  "items": [
   {
@@ -70,20 +70,6 @@
    "time": "2026-11-16T01:52:19Z",
    "location": null,
    "id": "8cb49ec78dee74b3"
-  },
-  {
-   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
-   "time": "2026-11-16T01:41:43Z",
-   "location": null,
-   "id": "cc9ca814d8a0bf42"
   },
   {
    "title": "เตรียมร่มอีกรอบ กรมอุตุ เตือนอากาศวันนี้ กทม. ฝนตกหนัก ฟ้าคะนอง",
@@ -223,31 +209,43 @@
    "id": "4b9223f5c21059ef"
   },
   {
-   "title": "15 จว. กลาง-ใต้ ระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม 18-22 พ.ย.นี้",
+   "title": "เตือน 15 จว. กลาง-ใต้ ระวังน้ำท่วมฉับพลัน น้ำป่าหลาก ดินโคลนถล่ม 18-22 พ.ย.นี้",
    "summary": "",
    "category": "news",
    "hazard_type": "flash_flood",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00LVdBME9ETy1EbmlJYk9pSEJSNlBKQVg5cUNaYnBQTjBwdktnX1hKTjNRT0VIWmJ3RmhZQnRWQ3pRblBNcXJpUzV2a01GbjNGeTJZN0dwQkZJempEdEcwSUR3VnR2YWtjYkU5TTZB?oc=5",
-   "time": "2026-11-16T09:16:00Z",
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SNmR6NWZfelNvX0ptTGlsY1hQbU82NXUxT21OUXkyRHZjY1IybGVXRzFtS1FoWVJ6a2dCcVpQQi1ENjlMSWJjLXcwd1MteXlhVFdyUTh4enBWMUdTZkMwQ3pVMG9QQQ?oc=5",
+   "time": "2026-11-16T09:09:00Z",
    "location": null,
-   "id": "7cd730de1e70f3e7"
+   "id": "344622549e4e7cc2"
   },
   {
    "title": "ตรังวิกฤต! น้ำป่าหลากทะลักท่วม 2 อำเภอ 11 หมู่บ้าน-ทหารลุยฝ่ามืดช่วยอพยพชาวบ้าน",
    "summary": "",
-   "category": "news",
+   "category": "flooding",
    "hazard_type": "flash_flood",
-   "severity": "medium",
+   "severity": "low",
    "urgent": false,
    "official": false,
    "source": "แนวหน้า",
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40RDEwRlZXZ1VDUTgtQ0pYTzJGY0hwQ0RIYmF2RkdPVFVzWDN4V0RST0ZCMnJhUHhFUS1DY0liWW5TcFNiX2pYS1IwTFFyS2xrS0NwZkRjcFI1dw?oc=5",
    "time": "2026-11-16T08:57:29Z",
    "location": null,
+   "area": {
+    "code": "TH92",
+    "level": "province",
+    "name": "จ.ตรัง",
+    "bbox": [
+     99.246,
+     7.082,
+     99.949,
+     8.009
+    ]
+   },
+   "incident_id": "fr_news_c44cec36c4a9015af2a9",
    "id": "c44cec36c4a9015a"
   },
   {
@@ -439,20 +437,6 @@
    "id": "7d86fa1bf8fcdcd8"
   },
   {
-   "title": "ปรับแผนรับมือภัยพิบัติภาคใต้ ดัน One Data เตือนภัยล่วงหน้า",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "other",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Policy Watch",
-   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uakVNT1dfX1c4cjlFZi11M0VNX3M4ajc3VkVDUFV0R0xod3JZNmlGZjllc0lKMkZLbGhSVnIyMTBjVjBLNDdUc3AyOXJZNXM0VXFUdU1STTI3Skxzd0pEU1NTSWFsSW9u?oc=5",
-   "time": "2026-11-16T07:03:00Z",
-   "location": null,
-   "id": "203fd99ddc397725"
-  },
-  {
    "title": "📣 ประกาศกรมอุตุฯ ฉ.3 🗓 18 - 22 พ.ย. 69 🌧 ภาคใต้ ฝนตกหนักถึงหนักมากในหลายพื้นที่ ⚠️ ระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก ❄ ภาคตะวันออกเฉียงเหนือ อุณหภูมิจะลดลง 2 - 4 องศาเซลเซียส ❄ ภาคเหนือ-ตะวันออก-กลา",
    "summary": "",
    "category": "flooding",
@@ -633,18 +617,18 @@
    "id": "4c260508f1cb01b3"
   },
   {
-   "title": "กทม.อ่วม ฝุ่น PM2.5 พุ่ง 12 พื้นที่ “บางเขน” หนักสุด เตือนกระทบสุขภาพ",
+   "title": "PM2.5 กลับมาแล้ว! เช้านี้ กทม. 12 เขตเกินมาตรฐาน แตะระดับสีส้ม เริ่มกระทบสุขภาพ : อินโฟเควสท์",
    "summary": "",
    "category": "news",
    "hazard_type": "pm25",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92Z2JkLTBBcm1IUG5BandZN3Q3YWxsbWI1QjZmVWZxd2RiWmZnd1FVZDRfdm1LVGQ0elFYUThld2VtdnE2NHZKaW1QSFNMV0pHdFE?oc=5",
-   "time": "2026-11-16T03:50:17Z",
+   "source": "สำนักข่าวอินโฟเควสท์",
+   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RR2lXRjNwejRSS3MtNUlyWU4xUi03bGVkS0JhQlJldk1LcENtMHFNTU9mT0hGRFZZTmtDOUU3alB4TzRsZmgzWVBVdGdwRERE?oc=5",
+   "time": "2026-11-16T03:33:27Z",
    "location": null,
-   "id": "7c47851cb73a5384",
+   "id": "577015a75e02661f",
    "area": {
     "code": "TH10",
     "level": "province",
@@ -2038,6 +2022,20 @@
    },
    "incident_id": "fr_news_980f46b9dd80910dc5f2",
    "id": "980f46b9dd80910d"
+  },
+  {
+   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
+   "time": "2026-11-14T14:47:37Z",
+   "location": null,
+   "id": "b94500e7135f6e20"
   },
   {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
