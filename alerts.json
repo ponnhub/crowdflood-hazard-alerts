@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T10:56:04Z",
+ "updated_at": "2026-11-16T11:11:40Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -22,7 +22,7 @@
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 6,
+  "drought": 5,
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
@@ -98,6 +98,20 @@
    "time": "2026-11-16T01:52:19Z",
    "location": null,
    "id": "8cb49ec78dee74b3"
+  },
+  {
+   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
+   "time": "2026-11-16T01:41:43Z",
+   "location": null,
+   "id": "cc9ca814d8a0bf42"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
@@ -192,24 +206,10 @@
    "urgent": false,
    "official": false,
    "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xNVJZaEpRMG5aa2tmTDFoMUY2dXZJcHZPUWMzM1NoTHFOQWQ4dXREbEkwT0c0NmNtLWZfQTItTHk4T1ZQdklaaldhbnRsaEFMbnc?oc=5",
    "time": "2026-11-16T10:04:02Z",
    "location": null,
-   "id": "6ea3d859fc866354"
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNk9Bb3BvcHE2SkQwMHZGSHVRZi1zVXhpbWZxT0VFdVpHX0RXUXphdzNOZWJneHgwNUFKdFB3NkJIUVVNTnFIbVo5UEFHUkVabmE0Q21Vc0ZVMlFaQlJGMHB4VXVjV3hzNGtDekpHU3U2SjJsY0hqNDA2S042VGd1WWpvQkVyY1JoTV9TS0hXOFJVVFF6U2c?oc=5",
-   "time": "2026-11-16T10:03:47Z",
-   "location": null,
-   "id": "06c7c1e37a358803"
+   "id": "cb19eb5c26e6f45e"
   },
   {
    "title": "🌊 นฝ.นศท.มทบ.43 จัดกำลังพลเร่งช่วยเหลือประชาชนประสบอุทกภัย ขนย้ายสิ่งของหนีน้ำป่าไหลหลาก พร้อมเฝ้าระวังสถานการณ์อย่างใกล้ชิด ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 43 โดยหน่วยฝึกนักศึกษาวิชาทหาร มณฑลทหารบกที่ 43 ภายใต้การอำนวยการของ พ.ท.วิลิต จุลกะ ผู้บังคั",
@@ -250,6 +250,32 @@
    },
    "incident_id": "fr_news_cf46e46a06a6ff5c993d",
    "id": "cf46e46a06a6ff5c"
+  },
+  {
+   "title": "ฝนตกไม่ถึงชั่วโมง ตรังอ่วม 2 อำเภอน้ำท่วมกระทบหนัก",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObVRVT29VLUE0QTR4RnlfTEhGTXN6MzA5b3JxZlpEZTltN01nNmxBMWZYaDQwZjVTTkszR0JLMG1TbWZaQ0JzTVB3RUdSeHM0ZnpndFdFdG5yTG1pclFBVE9iSjJXc3N5TENuWk1RMExHQi0wMlpNN3MwaF9UMUxaWmNuLUg1dHBab2NfOUhsZU4wSjFuTXNHR2hvQzJKTXVXWGVMdFBPaWdCZFJiSnN2LW5Qb0ZtMUdWbGU2UUtic1RfbGdnaXZDNEVmZWMyeFh3VVJYdGw5OHJwTEUxLXFxWXhmQk5VVjZFMkVFZ0E0WjRhMmFSc2x6TGpzWnF6R3pIaUxJX3h3YXNVQVpHWXlKTFNfRjF1UQ?oc=5",
+   "time": "2026-11-16T09:29:00Z",
+   "location": null,
+   "area": {
+    "code": "TH92",
+    "level": "province",
+    "name": "จ.ตรัง",
+    "bbox": [
+     99.246,
+     7.082,
+     99.949,
+     8.009
+    ]
+   },
+   "incident_id": "fr_news_816dfbd80fe37de69b8a",
+   "id": "816dfbd80fe37de6"
   },
   {
    "title": "ตรังวิกฤต! น้ำป่าหลากทะลักท่วม 2 อำเภอ 11 หมู่บ้าน-ทหารลุยฝ่ามืดช่วยอพยพชาวบ้าน",
@@ -2059,20 +2085,6 @@
    "id": "980f46b9dd80910d"
   },
   {
-   "title": "จำเป็นต้องหาทางแก้ไขปัญหารอยแตกร้าวในกำแพงกันดินและดินถล่มบนคันดินของทางหลวงหมายเลข 24C โดยเร็ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclNta2NJRFh5SXQwYUFucEVCX2d4ZXhsRnNvY3VtcDNhSm1hN2pVWTJ5bUdXaG9WT05YS2N1OXNyTjdQRzBsMU45R1BMUDh3QTNOSkpjdmt4cmZseHhHcWpwaXZleDZhc296QWJpQlJsNXkwQW1jVmNBcjJvX090NWRLcDVRMEtnakdNLUF3T194Wm1SM3ZrWk1uRk5YbWxuU1E?oc=5",
-   "time": "2026-11-14T14:47:37Z",
-   "location": null,
-   "id": "b94500e7135f6e20"
-  },
-  {
    "title": "สกลธี นำทีม ปชป. เตรียมฟ้องศาลปกครอง จี้กทม. เยียวยาน้ำท่วม | Khaosod",
    "summary": "",
    "category": "flooding",
@@ -2313,32 +2325,6 @@
    },
    "incident_id": "fr_news_6777c8db0a8dcb681678",
    "id": "6777c8db0a8dcb68"
-  },
-  {
-   "title": "น้ำท่วมบางปะกงซ้ำซาก! เกษตรกรฉะเชิงเทราโค่นมะม่วง GI กว่า 85% เสียหาย คันดินสูง 3 เมตรยังเอาไม่อยู่ สูญรายได้กว่า 1 ล้าน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": false,
-   "official": false,
-   "source": "News1Live",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UDROVXJKb0UxbGtrLTFSZGI0WEJWaEp3RU9IdVZuS0RBNGNmcmVqMVptQXVuNkc1MHB2aXJxUUhDS2dwbzlJS21SeDNEeU4wdEFOVQ?oc=5",
-   "time": "2026-11-14T11:06:18Z",
-   "location": null,
-   "area": {
-    "code": "TH24",
-    "level": "province",
-    "name": "จ.ฉะเชิงเทรา",
-    "bbox": [
-     100.848,
-     13.182,
-     101.99,
-     13.977
-    ]
-   },
-   "incident_id": "fr_news_fa891900d7c8130d49b6",
-   "id": "fa891900d7c8130d"
   }
  ]
 }
