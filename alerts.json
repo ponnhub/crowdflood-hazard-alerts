@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T10:12:30Z",
+ "updated_at": "2026-11-16T10:25:28Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 42,
   "flash_flood": 16,
-  "storm": 18,
+  "storm": 17,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
@@ -29,6 +29,20 @@
   "other": 1
  },
  "items": [
+  {
+   "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxQTTZqcTl4NUVDVUZoZUNoNkhMYkdLQmlub0Fyb0NLNE9BanNzd054XzZBdDFMUHhDTUJjcUthUjVSWk5EaHZlamFoMFJuRmNmZXdPa1Z4aGpzZUU3bGd2U2hJTWhNMC1lcmJlZ3dWa3Izb0dzMmF6QUFWOVE4M2M0UHVFS0dTbW9TZ1Fsc3U5NnRyTl9CYTJ5VDdSNHFESk5wa2tUSHVBTUQ2WEN4RVdwNGVISDh2ZF9IQmEySGZUcFVuYzNTRUVPb2psbUxlcWluTHlCSUpvSk1aenhaUHdIUzF6N0xqWXJZMWNqN3FpQ1l1RloxMV9aOTJyZkxQTG52WDlpTHlHRTRJLU1DZk0zNFpvZHJwTVJUZVpiUXZnM0FUMUU0R3ZaZXE4d2txak9xQ3pLeDRrY2FLTXBNU25SRVdtVW9QTDM3S1RFY3RjemNTclR2V0hJeS1iV19zQVpFcEJkYl8tOUl0WGVrX2RfRGNWOU82ekcxSy1kTzlJVFdsU1JCREF5Z0VRWC1QaDRiM1VubkZSbTROUUNYbTQ5RmhaUk9YUnBYaTE2NDg4NDdkS2ZOTW5mU0QzU19kdzF3UGdFNWlDcmtJdGJldVpnbFJBU2hpdDlQZWh5VVRBclE5UnlNaWtvWXl0WkdWTndMUjhSWmdFdXNLb2RnWHhQYmM1UDBwRTZuTjZIajJWUnBJM1FIZnQyNDh5Zlpjelhud2VtQ2hKWG90MlJuSXdSaGFOMW5xckVBQUhtWFF4UlZlX0dfRjBYc04wTFg3bHpNWWZqZnAybGNDVkJwblEzUk4zako0eFRlRFU5ZzJvd1FSeGIydXVKVVBac19ZdUtQejV0Q0tpaThGaTNoblhnbVllV0o5cENvaTlqTWZrZVA1WlZaTWdLdmpfSVdtWE5MTm9PS2p0TDltS044NEhpOU9iYU1Wbkc4eU1LLVpHYUUwU0lyWUFnUm44cW9ybHFXOTFHa0pURHRXV3Jfbi0wZUNRSlA5WTVBeEUyaV9VTXpUWmVsMUhLRGNUVlNMbG1fWkx2ZkFrbmxuejdIWTZQNTJWSUhrV0pfcVJtYkFkcnc0MFdKZDdWS2JxamhiUk8xQ2xPN2pCVmg0MTNfNmFzN0FpMDdJbXBwWjVoTi1YUnlLX0hnYVB2Z2JPa0lBQkRPa3Jwank2Y1VOVGpiSGZuemhLSkdGNFJQUnFlZ2NVMXNIZjExZ3ZXLXB4ekNROTNnMEkzUFBDVXhYR2ZoenlMeDNzNHVHWWdDTGgwLW85elBFdTl6MWdIcTEzc1RxVHlNV0treURR?oc=5",
+   "time": "2026-11-16T10:18:11Z",
+   "location": null,
+   "id": "9b449712d8486234"
+  },
   {
    "title": "ปภ. เตือน 15 จังหวัด เตรียมรับมือฝนถล่ม น้ำป่าไหลหลาก 18-22 พ.ย. 69",
    "summary": "",
@@ -72,20 +86,6 @@
    "id": "8cb49ec78dee74b3"
   },
   {
-   "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.3",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxOR1JEZ2hSVXVFaDZtSmJqLWpfZFpGMlpIY2NMa1AzbnNmY0hHZ1Rqb3FwcjFaajlwX2R6VzE0NC0tMkFqVmJCa2hTeExEdWdrc2laQ0s1Nkc5NXBpUkNoUE1TSEZ2cm04QWtjWmswWmZhV3hjNGxHYzRxeVNienBOaHgtM1FyNVpnU0lPMTQ4QUM2NXplb1NlejNhS3Z6SkhjNlRwRWRTTUJIRXZ2TEtrd3lHS2s2Q3c2S2djZXo1NFljajBrZzktMHNxdGZvZFUtRkpPMEI4WTU0VzJnN0tVVmc5RUNpd1o4NHBFVHlseGZqUkZhNHY4OGl4UTJ0QWFtam1LV1FCeTkwYzdXVHBTR2tEQm9xbXRRYnpfSFA2dFN2TWxtMFI4NWw2RjFOT0dhaW1zYmRwSnNYbks3b0hmLVRLM2tmdDR0bUFUTmluSHkxVWFmb2U4a0RYM2dVQ3JjLURhVkVnLXVia1FLZlpWT19XNHI3MVoxQ1ppZGdQRTh3OUtBdHRQa0VtOEQ2aTB3bnJFNGJOemcycXRGU2xGclFXbUhxTGpGMmhxd2JOcHYwU2hVRGYxRlFVRGY4N1JDeVlBS1NkVE90b2NqMFkxSVp6SWQzQnhuQjZmVXJjam5rQUM2YTlLaVh1dnNfU25WTkRJS0wyT0FPMnM2TkVyRlZaajR3MGRtMm9sc1R1Ui1CNi1SblBRMy1fT1huTC1RREFDSmlOcXJ4OWhkUjAzSWg4LXFaNmVacnVGNW9QSXFCM1VpOEZlbkY0MnRjYVp5bUtJa01SOURsd2dKMWozR1cycEM4WTRGMTlrT2N5R0N2ZlVJMEk1SFp4UFVGMlZHdXNnWnVjd1M3eC1JbzA3UmJBUkZ0cUVHLXNtSWMyRV9fQWdBZ0VfN2RVVG9mbm1oaWxDV2pwOGxza1FLU3VtWEVXQlJudV9uWVRfNDE1dHNSQ0VYUDNfOVNCTVNocV9sVWd1ang1TDVsVE0xa3V1ZDRVVFdlZkRabUppY3JEaEVIY3F0TE1wc0JxTEs2YTFnUWZEYnlPYVJFX0hHREpmNDBWSDl6eHNGRG5yV2FKMjRpN0kydUlVRjdpYWlPSVMtdDY4SE9FNVoxYXBaeWNpOXNkdndndTMzTVBLbE1jR1NDY25GVi1LUGloUGRIT2hsRmlTYjRkeV9rWGN1NGtvNHJiTmpmRWl1UHE0RmkxbW5sRDhkZHc5Tm5fd1lldFN6RUZhLWhuc21PV1hUQ0NVU01EZHNGR3RBTzFnSzJrMkxVeHpCcDBiTGp4ZkNRaEYtaFFpdXBB?oc=5",
-   "time": "2026-11-16T00:27:43Z",
-   "location": null,
-   "id": "7f96d9666aafd288"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -126,20 +126,6 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
-  },
-  {
-   "title": "กรมอุตุประกาศแล้ว! สภาพอากาศวันนี้ 14 พ.ย. 69 ระวังฝนตกหนัก น้ำป่าไหลหลาก | News In Thailand",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdU8xYVhXQXZsZzluSUxkb2lDTWYzemZOZlRsbmtGMm8yelRDZFo2TEVlblpxTkFiMFd1UzlxWDlYTVR3V09lSjJXd3daR2RMaG1EdTlB?oc=5",
-   "time": "2026-11-15T17:34:21Z",
-   "location": null,
-   "id": "cae7569335e8259e"
   },
   {
    "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
@@ -196,6 +182,20 @@
    "time": "2026-11-16T10:04:02Z",
    "location": null,
    "id": "6ea3d859fc866354"
+  },
+  {
+   "title": "🌊 นฝ.นศท.มทบ.43 จัดกำลังพลเร่งช่วยเหลือประชาชนประสบอุทกภัย ขนย้ายสิ่งของหนีน้ำป่าไหลหลาก พร้อมเฝ้าระวังสถานการณ์อย่างใกล้ชิด ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 43 โดยหน่วยฝึกนักศึกษาวิชาทหาร มณฑลทหารบกที่ 43 ภายใต้การอำนวยการของ พ.ท.วิลิต จุลกะ ผู้บังคั",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxQcHFYQ094b0lrLTlUbFhGY0VvdTM3RTVmRjhjUUhWUGhmdWZGdi05bjItUzB4T1VIS0RqbVZzWXplaWtEam9UX1JDU00tSGZKbE80UjU3RkswLWJXWFJIY09ScEFGTjVObDgzaTN5VmJsRUM3bTVxbG5obGNsa1VlRGpQMWdrNm94NFlQcHQ3bWRWWkNNZWNpQk55T0RUS1NyMHdVNUl3VFVwaW15VnFGOWRkdkNtcG1LdDFNb3hFeUQzUnhrMWNYOWFQdWNOdVctcFdhME9EU2NVMXBocks0Z1lxelN2RHlLZ1ZhRDVZTnJYUE1OVmliU3FRNzlLdVE5SG1xNlQtT2NXcDZIbk5tbEh3X2txLWotdUhWejU0T05pcTB5WG96aHVMWDVuT3BfZUxwZS1qb0J2V1pmRC1XXzE4MW1oWnc2X0JyNG1KWllVRGhnbUxOcVRHQ0t5a2VTanlwYk5vODRVWFdxVnZ1VEx6aE4tM0w3dDVPZWJfd0Z2cjJQdWNYZHJWNVVPX0NXRi1Qa2N2R1VfdVpVM1o3MHJOR2V0REhqX09icE84aEtxWmZQbVF5cHZrcl82ejhTVlhyVnhHaGQyNy1jMl9zVklLa09wRlJFaVB3VFNlYmZQSDV5cjNYRXZEZjRLSWc3MmhpV2ozTEQ0XzlHMVpzZ19IMmM4bFliYW5MMUJuNmVkNXZNZTJYdUxlbDRBNjdPT09zQU5Nbl9qZVRzTmdvUXkwRE1nSTdCRnVyVnZsX3I5a0VRbkkzQklSampoOGw3THhUMzNfb3NXR1BXZUhnX3NBMTVjY3JlWjZkTEF6TmRKX2pNbW5tb1ZxNjJjM2V5QS04dUFzM2o0ei1zMmMxQ0VtX1A4UkpzeDZienFVRzY1RE9kV2Z3T3FNcGMwUGtxVVc1NGU4b1FxR2RWd2dfTGVNTnFsLUtBN05Dc0NjYW5lZnBsSC02a0wtZGNRLVE0dW0xcERxZENuVmZaSElLV3NmbHo1bWhkOG1uQWdIWGFoN1NjNUEzNzltNjhLQTczRFlaRE4wTjdCY1RFcm41YjdkU0tBcDRZQkJteDJGUWdqZDY5X3BfbG5aazlwaG51WDg1S1VKb1l1ZURKVVB6RXBGMkliUlBIQVR6ZU1mSUx2U3FCUElkY1BUcHl3YXNONm9OenYxT2JJVVBXeWdMdUhJTUN6LWtVbFpFMHpHWFFlWUxsWk43SW9pOVg0MjVsTjdPMUJPdl9TSndIX2luVFpvZC1Pek8xQkp4NzF5Z3dEQk1FNXN4TFdmOFlKanMxMmVENzU5MEJ6R21VZTBsVmZpU3hSSHN2WFo3aW1TbDAwN3RrdVhBb1BFd2NJNWs?oc=5",
+   "time": "2026-11-16T10:00:28Z",
+   "location": null,
+   "id": "6e2c713e9cbf3208"
   },
   {
    "title": "สิ้นสุดสถานการณ์น้ำท่วมแปดริ้ว ทุกตำบลแห้งหมดแล้ว หลังแช่ขังมายาวนานเกือบ 2 เดือน",
@@ -1957,20 +1957,6 @@
    "time": "2026-11-15T01:26:25Z",
    "location": null,
    "id": "e258d105b8777f8b"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 15 พ.ย. เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วม อ่าวไทยคลื่นสูงเกิน 3 เมตร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Makl6bHBkTU1oYWMtTldqd05qRkNsY2F2c054UnBKUVk1TkJmWXd1T0FCQVd6SDZZbkFwTDRTOFhSRWdJUU1LTE9Xd2d3NjhJRVZFdnYwczVreDZYN0NqWFlsRWJMNUpLSmc5M1ZBVlQwck5vTjlfczdWVVA?oc=5",
-   "time": "2026-11-15T01:21:20Z",
-   "location": null,
-   "id": "0ac54e993b988bb8"
   },
   {
    "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
