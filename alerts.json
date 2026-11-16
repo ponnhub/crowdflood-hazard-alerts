@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T16:59:12Z",
+ "updated_at": "2026-11-16T17:06:11Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,12 +17,12 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 15,
+  "flash_flood": 16,
   "storm": 19,
   "landslide": 8,
-  "earthquake": 10,
+  "earthquake": 11,
   "wildfire": 0,
-  "drought": 5,
+  "drought": 6,
   "pm25": 10,
   "heat": 1,
   "tsunami": 1,
@@ -382,6 +382,20 @@
    "time": "2026-11-16T10:03:47Z",
    "location": null,
    "id": "06c7c1e37a358803"
+  },
+  {
+   "title": "🌊 นฝ.นศท.มทบ.43 จัดกำลังพลเร่งช่วยเหลือประชาชนประสบอุทกภัย ขนย้ายสิ่งของหนีน้ำป่าไหลหลาก พร้อมเฝ้าระวังสถานการณ์อย่างใกล้ชิด ศูนย์บรรเทาสาธารณภัยมณฑลทหารบกที่ 43 โดยหน่วยฝึกนักศึกษาวิชาทหาร มณฑลทหารบกที่ 43 ภายใต้การอำนวยการของ พ.ท.วิลิต จุลกะ ผู้บังคั",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxQcHFYQ094b0lrLTlUbFhGY0VvdTM3RTVmRjhjUUhWUGhmdWZGdi05bjItUzB4T1VIS0RqbVZzWXplaWtEam9UX1JDU00tSGZKbE80UjU3RkswLWJXWFJIY09ScEFGTjVObDgzaTN5VmJsRUM3bTVxbG5obGNsa1VlRGpQMWdrNm94NFlQcHQ3bWRWWkNNZWNpQk55T0RUS1NyMHdVNUl3VFVwaW15VnFGOWRkdkNtcG1LdDFNb3hFeUQzUnhrMWNYOWFQdWNOdVctcFdhME9EU2NVMXBocks0Z1lxelN2RHlLZ1ZhRDVZTnJYUE1OVmliU3FRNzlLdVE5SG1xNlQtT2NXcDZIbk5tbEh3X2txLWotdUhWejU0T05pcTB5WG96aHVMWDVuT3BfZUxwZS1qb0J2V1pmRC1XXzE4MW1oWnc2X0JyNG1KWllVRGhnbUxOcVRHQ0t5a2VTanlwYk5vODRVWFdxVnZ1VEx6aE4tM0w3dDVPZWJfd0Z2cjJQdWNYZHJWNVVPX0NXRi1Qa2N2R1VfdVpVM1o3MHJOR2V0REhqX09icE84aEtxWmZQbVF5cHZrcl82ejhTVlhyVnhHaGQyNy1jMl9zVklLa09wRlJFaVB3VFNlYmZQSDV5cjNYRXZEZjRLSWc3MmhpV2ozTEQ0XzlHMVpzZ19IMmM4bFliYW5MMUJuNmVkNXZNZTJYdUxlbDRBNjdPT09zQU5Nbl9qZVRzTmdvUXkwRE1nSTdCRnVyVnZsX3I5a0VRbkkzQklSampoOGw3THhUMzNfb3NXR1BXZUhnX3NBMTVjY3JlWjZkTEF6TmRKX2pNbW5tb1ZxNjJjM2V5QS04dUFzM2o0ei1zMmMxQ0VtX1A4UkpzeDZienFVRzY1RE9kV2Z3T3FNcGMwUGtxVVc1NGU4b1FxR2RWd2dfTGVNTnFsLUtBN05Dc0NjYW5lZnBsSC02a0wtZGNRLVE0dW0xcERxZENuVmZaSElLV3NmbHo1bWhkOG1uQWdIWGFoN1NjNUEzNzltNjhLQTczRFlaRE4wTjdCY1RFcm41YjdkU0tBcDRZQkJteDJGUWdqZDY5X3BfbG5aazlwaG51WDg1S1VKb1l1ZURKVVB6RXBGMkliUlBIQVR6ZU1mSUx2U3FCUElkY1BUcHl3YXNONm9OenYxT2JJVVBXeWdMdUhJTUN6LWtVbFpFMHpHWFFlWUxsWk43SW9pOVg0MjVsTjdPMUJPdl9TSndIX2luVFpvZC1Pek8xQkp4NzF5Z3dEQk1FNXN4TFdmOFlKanMxMmVENzU5MEJ6R21VZTBsVmZpU3hSSHN2WFo3aW1TbDAwN3RrdVhBb1BFd2NJNWs?oc=5",
+   "time": "2026-11-16T10:00:28Z",
+   "location": null,
+   "id": "6e2c713e9cbf3208"
   },
   {
    "title": "กรุงเทพฯ อ่วมฝนกระหน่ำ เพชรบุรี-รามคำแหง-อโศกจมน้ำขัง",
@@ -859,31 +873,6 @@
    "id": "4c260508f1cb01b3"
   },
   {
-   "title": "PM2.5 กลับมาแล้ว! เช้านี้ กทม. 12 เขตเกินมาตรฐาน แตะระดับสีส้ม เริ่มกระทบสุขภาพ : อินโฟเควสท์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สำนักข่าวอินโฟเควสท์",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RR2lXRjNwejRSS3MtNUlyWU4xUi03bGVkS0JhQlJldk1LcENtMHFNTU9mT0hGRFZZTmtDOUU3alB4TzRsZmgzWVBVdGdwRERE?oc=5",
-   "time": "2026-11-16T03:33:27Z",
-   "location": null,
-   "id": "577015a75e02661f",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "อัปเดตด่วน! น้ำท่วมอำเภอรัษฎา จังหวัดตรัง ขยายวงกว้างกระทบ 4 ตำบล | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -1055,6 +1044,31 @@
    "id": "434de586370c4d50"
   },
   {
+   "title": "เช็กค่าฝุ่น PM2.5 กทม. เช้านี้ 16 พ.ย. พุ่ง 34.1 หลายเขตเกินมาตรฐาน เตือนกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1peEdJUlZXMlRuTUZ5S0h0enhCNnlLcDJucl9IR05ZcXIzWUNUOUt5dTRSbDZTdUpMdTM2anhkLXhDdVRteEJxeUdORXFvajRtMVRYbHNrcWM?oc=5",
+   "time": "2026-11-16T01:49:00Z",
+   "location": null,
+   "id": "81c4f8ded9b8198c",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "เช้านี้ค่าฝุ่น PM 2.5 กทม. เกินค่ามาตรฐาน 10 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ",
    "summary": "",
    "category": "news",
@@ -1182,6 +1196,20 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
+   "location": null,
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -1804,6 +1832,20 @@
    },
    "incident_id": "fr_news_7ab21eae1c7b4a1210c5",
    "id": "7ab21eae1c7b4a12"
+  },
+  {
+   "title": "ระทึก! แผ่นดินไหวเขย่าเวียดนาม ขนาด 3.6 “กองเฝ้าระวังแผ่นดินไหว” เฝ้าระวังผลกระทบใกล้ชิด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4Q3JjVEpIaFJ5MzJoWGtlbkJfLVRQU1A4bTRlNW9aYXdHMFNiR1pxTk83OTlobTZaNnBqSUFaa1pwUjZQWWQ5WWl5aW5GTFdjY0ZFMFhB?oc=5",
+   "time": "2026-11-15T06:21:00Z",
+   "location": null,
+   "id": "b0837319e8e98bd9"
   },
   {
    "title": "แผ่นดินไหว ขนาด 2.2 ประเทศเมียนมา (Myanmar)",
