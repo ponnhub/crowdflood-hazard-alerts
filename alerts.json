@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T08:27:51Z",
+ "updated_at": "2026-11-16T08:41:23Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,9 +20,9 @@
   "flash_flood": 12,
   "storm": 20,
   "landslide": 9,
-  "earthquake": 11,
+  "earthquake": 12,
   "wildfire": 0,
-  "drought": 4,
+  "drought": 5,
   "pm25": 12,
   "heat": 1,
   "tsunami": 1,
@@ -195,6 +195,26 @@
    "id": "4b9223f5c21059ef"
   },
   {
+   "title": "แผ่นดินไหว ขนาด 2.6 ประเทศเมียนมา (Myanmar)",
+   "summary": "ทางทิศตะวันตกเฉียงใต้ของ อ.ขุนยวม จ.แม่ฮ่องสอน ประมาณ 149 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17447",
+   "time": "2026-11-16T08:25:45Z",
+   "magnitude": 2.6,
+   "location": {
+    "name": "ประเทศเมียนมา (Myanmar)",
+    "lat": 18.638,
+    "lng": 96.546,
+    "precision": "epicentre"
+   },
+   "id": "297b5270633c3611"
+  },
+  {
    "title": "ตรังอ่วม! ฝนตกหนัก น้ำป่าหลาก ท่วม 2 อำเภอ \"ทหาร\" ระดมกำลังเข้าช่วยเหลือ \"ชาวบ้าน\" ขนย้ายสิ่งของ",
    "summary": "",
    "category": "flooding",
@@ -249,6 +269,20 @@
    "id": "e14d82b07d605440"
   },
   {
+   "title": "ตรังวิกฤตหนัก! ฝนถล่มน้ำป่าทะลักท่วม 2 อำเภอ รัษฎา-ห้วยยอด | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XV2w2X3kyYW54RnYtN2w4UWVncm5sV2loRmVmbXV2R0ZlWmwxeS1RT2l4ZmoyUEl5Rk8zR1FqQW9EcFczSnZOdXB5X3FOTEhXZUdNVTUyRHZwdU9fMlA1clVUWlJXMmd1SHRweE0ySGhkbjhBOW9Md3cwSjZ1UQ?oc=5",
+   "time": "2026-11-16T07:41:55Z",
+   "location": null,
+   "id": "1ee8f454f829c40b"
+  },
+  {
    "title": "วิกฤตโลกร้อน ใกล้จุดกู่ไม่กลับ จ่อร้อนทะลุ 2.7 องศาฯ ภัยพิบัติอาจเกินรับมือ",
    "summary": "",
    "category": "news",
@@ -261,26 +295,6 @@
    "time": "2026-11-16T07:30:00Z",
    "location": null,
    "id": "7d86fa1bf8fcdcd8"
-  },
-  {
-   "title": "ตรังวิกฤตหนัก! ฝนถล่มน้ำป่าทะลักท่วม 2 อำเภอ รัษฎา-ห้วยยอด | The Bangkok Insight",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMT1F1QzI3STlRNFNiM0NTd3Jya19WdXFNeUVWOXdQVnhKTTZYdGdxdDRhMFVDUHNzZ09MUF9sUGRQUkE4YXJiUWFDR2VXQ2pfckc1SlFR?oc=5",
-   "time": "2026-11-16T07:25:51Z",
-   "location": {
-    "name": "อ.รัษฎา-ห้วยยอด",
-    "lat": 7.9100576,
-    "lng": 99.5427071,
-    "precision": "district"
-   },
-   "incident_id": "fr_news_6f420cdb251a28ac3e42",
-   "id": "6f420cdb251a28ac"
   },
   {
    "title": "ปรับแผนรับมือภัยพิบัติภาคใต้ ดัน One Data เตือนภัยล่วงหน้า",
@@ -2281,6 +2295,20 @@
    },
    "incident_id": "fr_news_b1086b1f4c2b39130560",
    "id": "b1086b1f4c2b3913"
+  },
+  {
+   "title": "Ca Mau ตอบสนองต่อภัยแล้งและการรุกของน้ำเค็มที่เกิดจากปรากฏการณ์เอลนีโญ โดยให้ความสำคัญกับการรักษาความเป็นอยู่ที่ดีของประชาชนเป็นอันดับแรก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNiMlZ1d2pqZ2M0NTRhRnJEMXYzWlRrV1F3LUJMR1ZxQjVwSWRpNlNUaldiQkxyWTdnc2hNMmFHRDBLZm9NWXp6VE9vUXpmeDBiZG4xeXFJZXZrMFU3TXVvMkpfbFFBa1RIbVlLRHFLTE41OG9OYjUzT0VmS212Vm9JQWVQaEdna2cwQWhaWDE0MjM5ellfaGRPM1BIR0xL?oc=5",
+   "time": "2026-11-14T10:21:50Z",
+   "location": null,
+   "id": "01faa820f88e284e"
   },
   {
    "title": "อุโมงค์ระบายน้ำคลองทวีวัฒนา 2 กม. แก้น้ำท่วมฝั่งธนบุรี เปิดใช้ เม.ย.2570",
