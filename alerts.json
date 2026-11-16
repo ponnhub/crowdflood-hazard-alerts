@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T16:10:17Z",
+ "updated_at": "2026-11-16T16:25:12Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 37,
   "flash_flood": 16,
-  "storm": 20,
+  "storm": 19,
   "landslide": 8,
   "earthquake": 11,
   "wildfire": 0,
@@ -44,20 +44,6 @@
    "id": "f3d4c78851f704a8"
   },
   {
-   "title": "กรมอุตุฯ เตือน ฉบับ 4 ภาคใต้รับมือฝนตกหนัก - ไทยตอนบน อากาศหนาวฮวบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tLWw4dm5LWkVHUE1DQTFhbUloaWxjS3ZuOW9hS1lYb0NJbktrWV9BS1lPclZWNHdmcVcwYU5JekQ2VnBGTS1vTGFfLUg2aDFheWhQdk5NbjJobFByMTBJUEhJQTBlZw?oc=5",
-   "time": "2026-11-16T11:45:48Z",
-   "location": null,
-   "id": "ea3349ebf6e4574e"
-  },
-  {
    "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
    "summary": "",
    "category": "news",
@@ -81,7 +67,7 @@
    "official": true,
    "source": "LINE TODAY",
    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54TFpfbGhUTWdkLVBQLUd0N2RCVDdyUTBkd0NOb01fMkN6Ri1Ud01PTHF1QVZZOUVxc2dDUS1oOUVmWFdJVGRzbUxFMG5tNGpneHJ1cVFB?oc=5",
-   "time": "2026-11-16T10:14:10Z",
+   "time": "2026-11-16T10:15:39Z",
    "location": null,
    "id": "f141e06bcfaef058"
   },
@@ -887,31 +873,6 @@
    "id": "4c260508f1cb01b3"
   },
   {
-   "title": "PM2.5 กลับมาแล้ว! เช้านี้ กทม. 12 เขตเกินมาตรฐาน แตะระดับสีส้ม เริ่มกระทบสุขภาพ : อินโฟเควสท์",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สำนักข่าวอินโฟเควสท์",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RR2lXRjNwejRSS3MtNUlyWU4xUi03bGVkS0JhQlJldk1LcENtMHFNTU9mT0hGRFZZTmtDOUU3alB4TzRsZmgzWVBVdGdwRERE?oc=5",
-   "time": "2026-11-16T03:33:27Z",
-   "location": null,
-   "id": "577015a75e02661f",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "อัปเดตด่วน! น้ำท่วมอำเภอรัษฎา จังหวัดตรัง ขยายวงกว้างกระทบ 4 ตำบล | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -1081,6 +1042,31 @@
    "location": null,
    "incident_id": "fr_news_434de586370c4d509dcd",
    "id": "434de586370c4d50"
+  },
+  {
+   "title": "เช็กค่าฝุ่น PM2.5 กทม. เช้านี้ 16 พ.ย. พุ่ง 34.1 หลายเขตเกินมาตรฐาน เตือนกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1peEdJUlZXMlRuTUZ5S0h0enhCNnlLcDJucl9IR05ZcXIzWUNUOUt5dTRSbDZTdUpMdTM2anhkLXhDdVRteEJxeUdORXFvajRtMVRYbHNrcWM?oc=5",
+   "time": "2026-11-16T01:49:00Z",
+   "location": null,
+   "id": "81c4f8ded9b8198c",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "เช้านี้ค่าฝุ่น PM 2.5 กทม. เกินค่ามาตรฐาน 10 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ",
