@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T13:05:18Z",
+ "updated_at": "2026-11-16T13:29:45Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 17,
+  "flood": 38,
+  "flash_flood": 16,
   "storm": 19,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
   "drought": 6,
-  "pm25": 11,
+  "pm25": 10,
   "heat": 1,
   "tsunami": 1,
   "other": 1
@@ -114,6 +114,20 @@
    "id": "8cb49ec78dee74b3"
   },
   {
+   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
+   "time": "2026-11-16T01:41:43Z",
+   "location": null,
+   "id": "cc9ca814d8a0bf42"
+  },
+  {
    "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
    "summary": "",
    "category": "news",
@@ -154,20 +168,6 @@
    "time": "2026-11-15T23:34:00Z",
    "location": null,
    "id": "8a10b43202bc721f"
-  },
-  {
-   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
-   "time": "2026-11-15T13:59:39Z",
-   "location": null,
-   "id": "6ec1447cbd11a063"
   },
   {
    "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
@@ -264,6 +264,20 @@
    "id": "7e36465dce40a7ea"
   },
   {
+   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Q2F0RkwwV1dEcERGSi1lYmVqVTNmRWgta0d4ZDdTTmQ2X2NvT0JndERCTmNLZllQQXU3YjZDa0pVV3FLSVBXb21LQjRLbElTRmVnZFJ3?oc=5",
+   "time": "2026-11-16T11:15:24Z",
+   "location": null,
+   "id": "9ba2e5686cea8768"
+  },
+  {
    "title": "ผู้ว่าฯ ตรังลงพื้นที่อำเภอรัษฎา ติดตามน้ำท่วมหลังฝนหนัก เร่งช่วยชาวบ้าน 11 หมู่บ้าน",
    "summary": "",
    "category": "flooding",
@@ -282,20 +296,6 @@
    },
    "incident_id": "fr_news_6805fb6aeaf3416619c2",
    "id": "6805fb6aeaf34166"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Q2F0RkwwV1dEcERGSi1lYmVqVTNmRWgta0d4ZDdTTmQ2X2NvT0JndERCTmNLZllQQXU3YjZDa0pVV3FLSVBXb21LQjRLbElTRmVnZFJ3?oc=5",
-   "time": "2026-11-16T11:13:15Z",
-   "location": null,
-   "id": "9ba2e5686cea8768"
   },
   {
    "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
@@ -975,31 +975,6 @@
    "location": null,
    "incident_id": "fr_news_434de586370c4d509dcd",
    "id": "434de586370c4d50"
-  },
-  {
-   "title": "เช็กค่าฝุ่น PM2.5 กทม. เช้านี้ 16 พ.ย. พุ่ง 34.1 หลายเขตเกินมาตรฐาน เตือนกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1peEdJUlZXMlRuTUZ5S0h0enhCNnlLcDJucl9IR05ZcXIzWUNUOUt5dTRSbDZTdUpMdTM2anhkLXhDdVRteEJxeUdORXFvajRtMVRYbHNrcWM?oc=5",
-   "time": "2026-11-16T01:49:00Z",
-   "location": null,
-   "id": "81c4f8ded9b8198c",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "เช้านี้ค่าฝุ่น PM 2.5 กทม. เกินค่ามาตรฐาน 10 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ",
@@ -2297,52 +2272,6 @@
    },
    "incident_id": "fr_rss_c063921d9fe0cbfa3a6a",
    "id": "c063921d9fe0cbfa"
-  },
-  {
-   "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXRjbWVNYUpjMUJxanN6eHN6Nk90aG5MVTlUSVJfemNTQnM1ZlRGZnBvRzd6RXVNNUhnbm91aFhUMmRCc0EwWW5Tb3diVmNvdXZYTENSN2dzN190TnktcTFTQmdEYTFORGFtNzJETzZDLW1xX2dmMXB1X3ZCNGdUVXJFbGU2aWs5?oc=5",
-   "time": "2026-11-14T13:12:00Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_8387e55a0943f466e8af",
-   "id": "8387e55a0943f466"
-  },
-  {
-   "title": "“สกลธี” นำทีม ปชป. ลุยร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม เตรียมยื่นฟ้องศาลปกครองสิ้นเดือนนี้",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fbllha09IaW1aTTRiLTM4MUVUUENUQVMwTjVOTjIzTmhZN3FXTkxQcnZPb09sa3ZqakpBckdha3RzeWh4bFlWVWRoWlJUV2lmbzFUWURjQUMycmc?oc=5",
-   "time": "2026-11-14T13:08:44Z",
-   "location": {
-    "name": "ถนนร่มเกล้า",
-    "lat": 13.77,
-    "lng": 100.74,
-    "precision": "road"
-   },
-   "incident_id": "fr_news_9d3c3fbacd9ca6bb7e82",
-   "id": "9d3c3fbacd9ca6bb"
   }
  ]
 }
