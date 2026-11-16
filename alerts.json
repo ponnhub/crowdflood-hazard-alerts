@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T03:53:23Z",
+ "updated_at": "2026-11-16T04:07:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 36,
-  "flash_flood": 8,
-  "storm": 19,
+  "flood": 37,
+  "flash_flood": 9,
+  "storm": 20,
   "landslide": 9,
   "earthquake": 11,
-  "wildfire": 2,
+  "wildfire": 1,
   "drought": 5,
-  "pm25": 10,
+  "pm25": 11,
   "heat": 1,
   "tsunami": 0,
   "other": 1
@@ -181,6 +181,20 @@
    "id": "393be7964f68963c"
   },
   {
+   "title": "กรมอุตุฯ ประกาศฉบับ 1 เตือนภาคใต้ฝนตกหนักถึงหนักมาก อาจเกิดน้ำป่า คลื่นสูงเกิน 3 เมตร ชาวเรือควรเลี่ยงเดินเรือ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ผู้จัดการออนไลน์",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NVcyNUphQWR0bTlPZW1RRDBBbWRoNDZkbUc2Y0FoMngzS0xLSmxnQ3RyV25TaWRKcHVOdHlrckVlZ3JJZEJ5eEtkQm9uOFJIYV9TT3FheXJsclAtbHV3RTY3RGw4aUE?oc=5",
+   "time": "2026-11-15T03:19:00Z",
+   "location": null,
+   "id": "cea01b4ba7519bea"
+  },
+  {
    "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
    "summary": "",
    "category": "news",
@@ -209,6 +223,20 @@
    "id": "8ecadc60912d6f4d"
   },
   {
+   "title": "ถล่มยาวๆ 5 วัน กรมอุตุนิยมวิทยา เตือนฉบับที่ 1 ฝนตกหนักถึงหนักมาก เปิดชื่อจังหวัดพื้นที่เสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1samljcF9veHBhcVdMX0FxMEpUX2dPYzdkSmVmRmV6VlhjNENteHZwQnVMN004Y1Q2cW5wdng2QlBrZ3RIempLZHUxemUtOHlvQWRBZkVBNXhoN3gzbm1LZGV6MA?oc=5",
+   "time": "2026-11-15T00:27:00Z",
+   "location": null,
+   "id": "e1d89245d3f8dfdc"
+  },
+  {
    "title": "ฝนถล่มใต้! ชุมพรจมบาดาล ปภ.เตือนฝนตกหนัก น้ำป่าไหลหลาก | 14 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
    "summary": "",
    "category": "news",
@@ -232,6 +260,32 @@
      11.034
     ]
    }
+  },
+  {
+   "title": "“บทเรียนครั้งใหญ่” วิกฤตน้ำท่วมปี’69 กทม. รื้อใหม่ระบบรับภัยพิบัติ",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Policy Watch",
+   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZaWMwcU40eHVMV1NlZFFOMFhXT08xdVhIOU43QnRvMVFlNVdFYnpOTUU1Rmlia3BHVDhBSkE0aGZGM3FfamttcU1pMjk1T3NwTW9WTllCN0VmM2tsTW9vVHVIVFRXOHU4?oc=5",
+   "time": "2026-11-16T03:52:00Z",
+   "location": null,
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   },
+   "incident_id": "fr_news_4c260508f1cb01b303c0",
+   "id": "4c260508f1cb01b3"
   },
   {
    "title": "อัปเดตด่วน! น้ำท่วมอำเภอรัษฎา จังหวัดตรัง ขยายวงกว้างกระทบ 4 ตำบล | The Bangkok Insight",
@@ -1934,20 +1988,6 @@
    "id": "077cba84bf0edfc4"
   },
   {
-   "title": "ทำไมไฟป่าอินโดฯ ดับยาก? เมื่อเอเชียอาคเนย์กำลังลุกเป็นไฟ จากผลกระทบของภาวะโลกเดือด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "wildfire",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlNvQlc4Zl9yU2t5UmJxLTZxYnNSVkh3cm5mMHRULUFfTmhCMmxmUlItMWVMRTRFLVRFalBRLUFFblN1WHg4WWU2X0hqQ2g2WFlzaDVzc25MbmhCVHBodkY2dnlUTUFhdS0zYjI0YlJlN0taSlpxbld0TUtDS0dDc2ZtNkw?oc=5",
-   "time": "2026-11-14T08:12:09Z",
-   "location": null,
-   "id": "296e768a75ef8e0a"
-  },
-  {
    "title": "การซ่อมแซมดินทรุดและดินถล่มหลังพายุในโดซอนมีความคืบหน้าช้ามาก",
    "summary": "",
    "category": "news",
@@ -2028,6 +2068,20 @@
    "time": "2026-11-14T06:00:00Z",
    "location": null,
    "id": "3baba217cab7306c"
+  },
+  {
+   "title": "รัฐบาลคุมเข้มความปลอดภัยแรงงานทั่วประเทศ รับมือฮีทสโตรก-ฝนถล่ม-ฝุ่นพิษ จับตา 3 กลุ่มเสี่ยง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Rkltelc4U0lLVThOallvN1V4U0NySzJTLVN2WlhJa2ZESEhfTEx3MEtyMEltS29BODNYdlZDNUY0QjVSb2RpTlh5UlhXQlVLd0Z4ZEdBcXpTUQ?oc=5",
+   "time": "2026-11-14T05:52:16Z",
+   "location": null,
+   "id": "4765f5eaf5f21bd0"
   },
   {
    "title": "เหตุการณ์ดินถล่มลงมาบนถนน ทับครูคนหนึ่งในเมืองลาวไค",
