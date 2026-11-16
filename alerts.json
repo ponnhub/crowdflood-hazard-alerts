@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T14:06:32Z",
+ "updated_at": "2026-11-16T14:22:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
+  "flood": 38,
   "flash_flood": 16,
   "storm": 20,
   "landslide": 8,
@@ -336,20 +336,6 @@
    "id": "7e36465dce40a7ea"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก | The Bangkok Insight",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Q2F0RkwwV1dEcERGSi1lYmVqVTNmRWgta0d4ZDdTTmQ2X2NvT0JndERCTmNLZllQQXU3YjZDa0pVV3FLSVBXb21LQjRLbElTRmVnZFJ3?oc=5",
-   "time": "2026-11-16T11:15:24Z",
-   "location": null,
-   "id": "9ba2e5686cea8768"
-  },
-  {
    "title": "ผู้ว่าฯ ตรังลงพื้นที่อำเภอรัษฎา ติดตามน้ำท่วมหลังฝนหนัก เร่งช่วยชาวบ้าน 11 หมู่บ้าน",
    "summary": "",
    "category": "flooding",
@@ -368,6 +354,20 @@
    },
    "incident_id": "fr_news_6805fb6aeaf3416619c2",
    "id": "6805fb6aeaf34166"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
+   "time": "2026-11-16T11:02:02Z",
+   "location": null,
+   "id": "c95f91b02abd9393"
   },
   {
    "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
@@ -410,6 +410,26 @@
    "time": "2026-11-16T10:00:28Z",
    "location": null,
    "id": "6e2c713e9cbf3208"
+  },
+  {
+   "title": "กรุงเทพฯ อ่วมฝนกระหน่ำ เพชรบุรี-รามคำแหง-อโศกจมน้ำขัง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "อมรินทร์ทีวี ช่อง 34",
+   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQY2hDSjFUQWxDRkFlRGR4SFB3Wnp5MXhxVkhaTXp3R3lRbWdYaWVpVHl2eU82dktTdGRYOXhZVmlmaTl2emFsaWJhUU9VaGZnOFRDUGFfZjhwRGVjWVFEZkhSQXZVTW81Z3h6UlBmRmJXcDRCVFNHVFVBdDUxTnVfYkNGZXVvanNDRWxxMTFFR3RBZ1AyTkxhQU15WEJ3UlgxRW5mUW5HX2xBSFRscTdTT2FBNEFGN1NzdnZCdnliOGlWNms1cV96RUpvQlJfb05rNjhUNEF3N0N2QXl0M2hfSTh2dXdaMFRhcUZ3SW8yWUtNQjRVa2R0QWNzc2Z4X196eXdaZGZ6eVVqT0dqdkJ0SE1pRjJaZw?oc=5",
+   "time": "2026-11-16T09:46:00Z",
+   "location": {
+    "name": "ถนนรามคำแหง",
+    "lat": 13.76,
+    "lng": 100.645,
+    "precision": "road"
+   },
+   "incident_id": "fr_news_de01b50d796f98584c75",
+   "id": "de01b50d796f9858"
   },
   {
    "title": "ฝุ่น PM2.5 เริ่มพุ่ง! กทม.-ปริมณฑล พบเกินมาตรฐาน 9 พื้นที่ เตือน 19–20 พ.ย. ฝุ่นสะสมเพิ่มขึ้น",
