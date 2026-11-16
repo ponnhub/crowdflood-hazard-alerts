@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T12:40:51Z",
+ "updated_at": "2026-11-16T12:59:38Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
+  "flood": 40,
   "flash_flood": 17,
-  "storm": 20,
+  "storm": 19,
   "landslide": 9,
   "earthquake": 12,
   "wildfire": 0,
-  "drought": 6,
+  "drought": 5,
   "pm25": 11,
   "heat": 1,
   "tsunami": 1,
@@ -182,6 +182,20 @@
    "time": "2026-11-15T23:34:00Z",
    "location": null,
    "id": "8a10b43202bc721f"
+  },
+  {
+   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
+   "time": "2026-11-15T13:59:39Z",
+   "location": null,
+   "id": "6ec1447cbd11a063"
   },
   {
    "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
@@ -741,34 +755,6 @@
    "id": "9f43173471be0693"
   },
   {
-   "title": "ทหารและตำรวจกำลังช่วยเหลือประชาชนในจังหวัดกวางงายให้ผ่านพ้นผลกระทบจากน้ำท่วมและฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUFMOHpXcHhtck1aSE1LbVNxeTFKSHNiUTlQWnZwX0dTYk5FV2FLTW15QmhMbzRPVV9faDZ3d2lmOURlXzdTOVdRUUI1WlE2RGFaX3AwWjFiWDVKR0R2N040YjFmbmcxSlhsbWNwNUF5M040RnVnXzVCOUFJVzlvR1VzZGZYSUV3UU5RVTVudHFPcGlUTnc?oc=5",
-   "time": "2026-11-16T04:04:55Z",
-   "location": null,
-   "id": "213ecf4a17ff5ff3"
-  },
-  {
-   "title": "จังหวัดกวางงาย: เหตุการณ์ดินถล่มรุนแรงบนทางหลวงหมายเลข 24C ก่อให้เกิดความเสี่ยงร้ายแรงต่อความปลอดภัยในการจราจร",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXhYcFc5UnM5WEtxa1RSR3lYODRfS2NGWlAzRXlQT0dncVBEU3lKUFpYOHBBQkllY0FtLVI0b3lIbHAtR2R5am5uNnkyeXczUUlERk01NkJzSVNOcmVQX3VmYm9NaUxMNDlOakJhd20yMkhtVTNkbkMzaUhYTDFZMExTVHg5VWJkWkVkdTJ1M1FXVDJ2UnVxZHZOLUJiOUMtQTAxdXNpNA?oc=5",
-   "time": "2026-11-16T04:04:52Z",
-   "location": null,
-   "id": "db36ed9492d7090f"
-  },
-  {
    "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
    "summary": "",
    "category": "news",
@@ -1157,20 +1143,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
-   "time": "2026-11-15T23:08:25Z",
-   "location": null,
-   "id": "efdb6b206603bad4"
   },
   {
    "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
@@ -2383,32 +2355,6 @@
    },
    "incident_id": "fr_rss_d9713948b035c4b79dc0",
    "id": "d9713948b035c4b7"
-  },
-  {
-   "title": "อัปเดตล่าสุด 14 พ.ย. 2569 ยอดลงทะเบียนช่วยเหลือผู้ประสบอุทกภัย \"น้ำท่วม กทม.\"",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KakJZbjloT1lTRnpGSWxXMFFxUlN1RVMycElOb211Y3MzMmRiZTMyN0hRbjgxaF9Cb0wybUpnUU1US1FCdUF3Uy16ZU5nN0RvNmFIdEljRHFGRDQ?oc=5",
-   "time": "2026-11-14T12:55:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_d842dc0a19219fd75335",
-   "id": "d842dc0a19219fd7"
   }
  ]
 }
