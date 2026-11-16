@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-16T15:54:27Z",
+ "updated_at": "2026-11-16T16:10:17Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 37,
   "flash_flood": 16,
-  "storm": 21,
+  "storm": 20,
   "landslide": 8,
   "earthquake": 11,
   "wildfire": 0,
@@ -268,20 +268,6 @@
     "precision": "epicentre"
    },
    "id": "842b9d424a8304e6"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา ฉบับ 4 เช็กรายชื่อจังหวัดภาคใต้ฝนตกหนักต่อเนื่อง 18-22 พ.ย.69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxY3hSeV9rRVh1SkE1UjI1eGQxc1FucVpXY1A0X2s1MzlHSmt5bzlWWUZpMHlkRUNxZW1GcTB5QU4wUTIwdEt0WlRJRHlUbm9maHR0ZWxhY18?oc=5",
-   "time": "2026-11-16T12:57:41Z",
-   "location": null,
-   "id": "fa2b73468c6fdfb6"
   },
   {
    "title": "จังหวัด Khánh Bình ให้ความช่วยเหลือแก่ครัวเรือนที่บ้านเรือนถูกทำลายจากดินถล่ม",
