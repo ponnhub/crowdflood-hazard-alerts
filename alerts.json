@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T10:36:48Z",
+ "updated_at": "2026-11-17T10:52:25Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 47,
-  "flash_flood": 14,
-  "storm": 22,
-  "landslide": 7,
+  "flood": 45,
+  "flash_flood": 13,
+  "storm": 23,
+  "landslide": 8,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 7,
@@ -29,6 +29,20 @@
   "other": 0
  },
  "items": [
+  {
+   "title": "กรมอุตุฯ เตือนฉบับ 5 ฝนตกหนักภาคใต้ 18-22 พฤศจิกายน 69 ส่วนวันนี้ กรุงเทพและปริมณฑล มีฝนฟ้าคะนองร้อยละ 40 ของพื้นที่ กับมีลมกระโชกแรงบางแห่ง https://www.fm91bkk.com/newsarticle/82205 #กรมอุตุนิยมวิทยา #ฝนตกหนัก #ฝนตกหนักภาคใต้ #กทม #ข่าวสวพFM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOWXprRHQtcFlpSE5WUTE0VUxEWkdXRnpPWmhyZXNRY2MzbGFzWlA0cVljUVBFc3VsSlV5RUk3d2xxM01MZnRkeEFRbGc2QS1DcUVtT1BzQ3VzQU9FcEN1TjZTdlNXX2N5RXRYYlVUTkViZWVoNzdnZ2d4OGdXUTU5SVJyTXdhbTNlODkzUVhaOFFHM29pYlVJUUNWVzdSc2trWXJVVXFFeGJqTG5zeXpucXBPaVpfVjdtWDF6bDNBYzBPRWNVZFRlQ3B6NVgxb0J0ZW1EbUNHUE1sQ0o2ZVVSeGp4RTE2R24zM2ZjVzZBQkFZdVhtOS1DZWt6UEZJSkpjck00LW9pZ1RxZTZfQ3F3ZTlrVy1jUF9TcjRZVHRpbTY0NmRYZmY1alJLWFh1LTE2UHVnWlNxY0FKd3ZkcGFpSVVYcEJxRUY0OXVyN2MwMTNIY0VIR29lTklrcXd1ZFg4blcyajNNMnFsOEVESDBmcnpEVHN6M2pOVmh4b1V2Tkw2dU10dW9BcXcwbURDZ0xQRkszOTNQVHJoSGJGMlZZTHRRR1BKbHZCZE85R1Q2LU1UemhnS1duWjZfeEdrVTRPRXZ3bU85TWNYZ3JXTF9BZnJ1YnoxZVYtUnRybDZZRkJhenFjZFh5eXB6MEdTVkdacGg4N1c2eVRlQTJ1SmxiajNwbG81ZWQ4UE1KUkRLY3hHNlhqcmQzQ3huUTlEb3Z5TEtxUkZGQjd4VkVfNFMxZTJXaHlaeENyQWdSNDlwUU9FWXlNcVRJekdIUzB6cWlGaWZ3TEVKYkNXVlpfOGE4a2ZpUnBlSktOWWFOV19sSHlENnNyX3VFUmRfa1hMY0lhMHpNNi1oWXkxVlBhazVDNXZLdzN2Y0NzY2NtbFZzVWxwbHNyaGVyOTc5R2lxSkpFSTI0RUk3V3I2UTNhMkE1b1I0YkxGTVVaaWNBVHU2UEhqZTN1U1VUa3JXMlBrelJmOEZQZ1U3NFZmMEhNdjlWMVpsak5uTERxMkFxUTNBNmRESXNhdEladUlNVTNUTmF0NmZ3MEh2RWRRcml5WmdEZzVCNGhwTFlzR1EwMElXdnU3TjU3WFBveTd3aFpodHBHNjVfSklvYkV0anhsWTdxMWtwUEpCTV9oOGQ1dmY0M1BmM3R2eHpHVXlybmpSVmlFcVhTdHlHZjZMMk5Sal9KRlZMNHBmNnVERGhLdGpneFpHQQ?oc=5",
+   "time": "2026-11-17T10:27:33Z",
+   "location": null,
+   "id": "b7162c504b49c8d1"
+  },
   {
    "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง | The Bangkok Insight",
    "summary": "",
@@ -70,20 +84,6 @@
    "time": "2026-11-17T08:09:26Z",
    "location": null,
    "id": "cdcfee4de7630b82"
-  },
-  {
-   "title": "กรมอุตุฯ เตือนฉบับ 5 ฝนตกหนักภาคใต้ 18-22 พฤศจิกายน 69 ส่วนวันนี้ กรุงเทพและปริมณฑล มีฝนฟ้าคะนองร้อยละ 40 ของพื้นที่ กับมีลมกระโชกแรงบางแห่ง https://www.fm91bkk.com/newsarticle/82205 #กรมอุตุนิยมวิทยา #ฝนตกหนัก #ฝนตกหนักภาคใต้ #กทม #ข่าวสวพFM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOWXprRHQtcFlpSE5WUTE0VUxEWkdXRnpPWmhyZXNRY2MzbGFzWlA0cVljUVBFc3VsSlV5RUk3d2xxM01MZnRkeEFRbGc2QS1DcUVtT1BzQ3VzQU9FcEN1TjZTdlNXX2N5RXRYYlVUTkViZWVoNzdnZ2d4OGdXUTU5SVJyTXdhbTNlODkzUVhaOFFHM29pYlVJUUNWVzdSc2trWXJVVXFFeGJqTG5zeXpucXBPaVpfVjdtWDF6bDNBYzBPRWNVZFRlQ3B6NVgxb0J0ZW1EbUNHUE1sQ0o2ZVVSeGp4RTE2R24zM2ZjVzZBQkFZdVhtOS1DZWt6UEZJSkpjck00LW9pZ1RxZTZfQ3F3ZTlrVy1jUF9TcjRZVHRpbTY0NmRYZmY1alJLWFh1LTE2UHVnWlNxY0FKd3ZkcGFpSVVYcEJxRUY0OXVyN2MwMTNIY0VIR29lTklrcXd1ZFg4blcyajNNMnFsOEVESDBmcnpEVHN6M2pOVmh4b1V2Tkw2dU10dW9BcXcwbURDZ0xQRkszOTNQVHJoSGJGMlZZTHRRR1BKbHZCZE85R1Q2LU1UemhnS1duWjZfeEdrVTRPRXZ3bU85TWNYZ3JXTF9BZnJ1YnoxZVYtUnRybDZZRkJhenFjZFh5eXB6MEdTVkdacGg4N1c2eVRlQTJ1SmxiajNwbG81ZWQ4UE1KUkRLY3hHNlhqcmQzQ3huUTlEb3Z5TEtxUkZGQjd4VkVfNFMxZTJXaHlaeENyQWdSNDlwUU9FWXlNcVRJekdIUzB6cWlGaWZ3TEVKYkNXVlpfOGE4a2ZpUnBlSktOWWFOV19sSHlENnNyX3VFUmRfa1hMY0lhMHpNNi1oWXkxVlBhazVDNXZLdzN2Y0NzY2NtbFZzVWxwbHNyaGVyOTc5R2lxSkpFSTI0RUk3V3I2UTNhMkE1b1I0YkxGTVVaaWNBVHU2UEhqZTN1U1VUa3JXMlBrelJmOEZQZ1U3NFZmMEhNdjlWMVpsak5uTERxMkFxUTNBNmRESXNhdEladUlNVTNUTmF0NmZ3MEh2RWRRcml5WmdEZzVCNGhwTFlzR1EwMElXdnU3TjU3WFBveTd3aFpodHBHNjVfSklvYkV0anhsWTdxMWtwUEpCTV9oOGQ1dmY0M1BmM3R2eHpHVXlybmpSVmlFcVhTdHlHZjZMMk5Sal9KRlZMNHBmNnVERGhLdGpneFpHQQ?oc=5",
-   "time": "2026-11-17T07:24:11Z",
-   "location": null,
-   "id": "b7162c504b49c8d1"
   },
   {
    "title": "ปภ. เตือน 15 จังหวัดภาคกลาง-ใต้ เฝ้าระวังน้ำท่วมฉับพลัน 18 - 22 พ.ย. 69",
@@ -252,6 +252,34 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
+  },
+  {
+   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
+   "time": "2026-11-15T13:59:39Z",
+   "location": null,
+   "id": "6ec1447cbd11a063"
+  },
+  {
+   "title": "อุตุฯ เตือน ใต้ฝนตกหนัก 18-22 พ.ย. ไทยตอนบนเย็น ลมแรง อีสานอุณหภูมิลด 4 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aDB3YUtzWWVmMnZsY01wNVcxcWlRRzhUcnVFa2F5NlFDNnFJc081R1ZyZ2VVTGgtWDJjdzQwR1VxRnMteXZoTWVsbGVGbG9zc2hwLW9CbmI2SU5aNW52V0M1VV8wdw?oc=5",
+   "time": "2026-11-17T10:35:22Z",
+   "location": null,
+   "id": "1d01a745cfe8efbc"
   },
   {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
@@ -2018,20 +2046,6 @@
    "id": "c1c7f621a61a24bc"
   },
   {
-   "title": "หลางซอน: หินถล่มลงมาขวางหน้าบ้าน น้ำท่วมสูงขึ้นด้านหลังบ้าน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EazQ1U0hhTHJLNkFFZjhNQWkzSzhKUkhqU2hZOGJHU2w1Mk0weWhkXy1ZUG5mWl9HdzE5QnZGQ09RaktDYXpOUV96SEtKUUM3UFFUZHJyNlViYmVpUlJiWnhzajJKdmthdFVVekZ3NUQzQUZuMm8w?oc=5",
-   "time": "2026-11-15T23:17:17Z",
-   "location": null,
-   "id": "268e9c02488e9695"
-  },
-  {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
    "summary": "",
    "category": "news",
@@ -2044,20 +2058,6 @@
    "time": "2026-11-15T23:08:25Z",
    "location": null,
    "id": "efdb6b206603bad4"
-  },
-  {
-   "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qazVfNDdhaE81ck12bUZzSmstb29aaUlOUWZYWTlaMkhCQnl1eDExU1lrb09VOW5FUnBTa05tSFB6VG50R21GWi04X3psUU02Q0t3?oc=5",
-   "time": "2026-11-15T23:00:00Z",
-   "location": null,
-   "id": "b68046a76f00cda4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
@@ -2247,32 +2247,6 @@
    },
    "incident_id": "fr_news_11aee6d86bb2e2b2567c",
    "id": "11aee6d86bb2e2b2"
-  },
-  {
-   "title": "กรุงเทพมหานครเร่งแก้ปัญหาน้ำท่วมเขตประเวศ สร้างประตูระบายน้ำและขยายบึงหนองบอน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Head Topics",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rQmI5T3RyeWN6TEM1ajU4TkROV25SMXl4UEhDY0hYOS0tRTVfOWp0ckpoUWVNa1RoQkRJRlE3YjFWRVFrQmxKQ0VacU9iVVIxeTJ3NGVMX3NlVkI4NktlTHl4NG4xYzNJVl9TS29n?oc=5",
-   "time": "2026-11-15T10:48:00Z",
-   "location": null,
-   "area": {
-    "code": "TH1032",
-    "level": "amphoe",
-    "name": "เขตประเวศ กรุงเทพมหานคร",
-    "bbox": [
-     100.634,
-     13.656,
-     100.713,
-     13.738
-    ]
-   },
-   "incident_id": "fr_news_b1146708a7cf8751bf63",
-   "id": "b1146708a7cf8751"
   }
  ]
 }
