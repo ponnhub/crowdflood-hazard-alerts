@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T13:54:28Z",
+ "updated_at": "2026-11-17T14:13:08Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,11 +16,11 @@
   "other"
  ],
  "counts": {
-  "flood": 44,
+  "flood": 41,
   "flash_flood": 15,
   "storm": 23,
-  "landslide": 8,
-  "earthquake": 7,
+  "landslide": 7,
+  "earthquake": 8,
   "wildfire": 2,
   "drought": 7,
   "pm25": 9,
@@ -251,32 +251,32 @@
    "id": "68212f177b3ae3cb"
   },
   {
-   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
-   "time": "2026-11-15T13:59:39Z",
-   "location": null,
-   "id": "6ec1447cbd11a063"
-  },
-  {
-   "title": "อธิบดี ปค.สั่งด่วน! นายอำเภอภาคใต้เตรียมรับมือฝนหนัก 18–22 พ.ย. เฝ้าระวังน้ำท่วมฉับพลัน 24 ชม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
+   "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBranBaTzV1UE5Kb0JGemVCdzMtcGJFYjV3ZzlPWUNyTWdoWm9BM1IwZk5nUTVIbHZTQ0llU3A5OW9IRWpWOGtkbDd0eExzV21LdE4teHdMaGk?oc=5",
-   "time": "2026-11-17T12:51:00Z",
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SM0UyYTJmMEFMbjM2djJ0bGo1RW5COUhmYU14dk52SjYxaHFINVZGUm1Oa3habUR1LWlYdWtfZUU0V20weENFUjFwdTROV0FRTVhXUmpyLXV6al9vczAwWm1NRlhqdw?oc=5",
+   "time": "2026-11-17T13:14:00Z",
    "location": null,
-   "id": "21c53def3d1e62a5"
+   "id": "e383961894cef064"
+  },
+  {
+   "title": "ยกย่องฮีโร่หนุ่มปั่นจักรยานกว่า 5 โล เคลียร์ทางให้รถกู้ภัยวันเกิด ‘แผ่นดินไหว’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nWHlZRDdGUjBJS0J4OEJZcTFxS202UEF2ZEpxSHlhTTlXMGdFUEhpcnhWS1I1TGhLbkg0aENfcmZ6aURZTHpLX0kxeXhBamdmYlNZ?oc=5",
+   "time": "2026-11-17T12:08:25Z",
+   "location": null,
+   "id": "c6b60b005b62823d"
   },
   {
    "title": "กรมอุตุนิยมวิทยา ฉบับ 6 เช็กพื้นที่ฝนตกหนักภาคใต้ ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.69",
@@ -2194,78 +2194,6 @@
    },
    "incident_id": "fr_rss_c295d811e166c952f2c8",
    "id": "c295d811e166c952"
-  },
-  {
-   "title": "ฟ้าคำราม ฝนถล่มกรุงเทพฯอ่วม! ชั่วโมงเดียวน้ำท่วมขังถนนรอการระบาย | 15 พ.ย. 69 | ไทยรัฐนิวส์โชว์",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MMGtvVmUxY2pMdWpCZjJuaVpPX3FYVGw5NVV1NW9MTEM0bmNtTEpjZktZYnl4ZFlfMzUyTldJQXVmV2RvNV9VZFJLY3VmRTBUS05xRWJVQW92QQ?oc=5",
-   "time": "2026-11-15T14:11:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_74aeb815d801226a3f83",
-   "id": "74aeb815d801226a"
-  },
-  {
-   "title": "ถนนเพชรบุรี ระหว่างอโศก - พร้อมพงษ์ \"น้ำท่วม\" จากฝนตกหนัก #ฝนตก #น้ำท่วม Cr.มลทิรัตน์",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiugdBVV95cUxPdnJINHphc1J2OUg3cGJJWm9ybkRoSWh5NTkxU002aDFOTF9qSXlSbFpyRnFLMjBJMDRLV0dyb0pSV1JzTFA4S3owLVBUam1qRUtqR0xIX2thTVNDYkdyTTZ1eU5lTWNOV2RCbWg2WTUtLWRhc2RQYVVuNWlQOTNfQ3N4dGN3bVc3b3VzWF9uS0t1T3kyZFd5RlFPRE9hSWZVeFdjUzRSMFNVb2o5VGlhNVMxRzUxR2M1aENmeVZlNG45N2Fza1pvWnBCZ0ZQNTV6LVV4Y3RCY2h6UVdCcDB6aUJCa1RNX0taNXFnRXAwdjBmOFMwa0RrQVA0LTF3TUJQRG1RbC1pcHY1LUFYWFBRSE9adE1vVkZRM1hjWWcxaXdhaTB3MEh6NG1FSmRpQjhyMTFqd1dwMURHQ3RpeGY5MlV1dHJRQjdlNjd4MWxKSGdxa3RsY2hxd29KZ2JaNUFnVFE3RFhKMlRHTWZTVFhXMEZuV1dSeE1DMG84YjVXTHRQTFZOekFudFlURmZvVlhQSS1JVmNNZDZwSjl4OGJKS1dOTE1WZVo3SzJRNWVSZmxuODZHSTFHY2taVkQ1X09aS0tWUks0WDN6eUp0THVtZGZ4VXkxdHoxSWVoWXpBbG9WNlNaNUNMUUd0UUxvLUc4QXdPU2NxU0dmNnV4ZVR3ZUFTQWNMQnFKOHAtOU1YTzVsZG11V1h6TUVhNm5iY18tZkQ3bE5CSGFtdzZNVTZCSkJzbkQ5bi1OOWJtbmtvVERLdGt2Z0ZSMnhPV2sydWNsamM3MnFZOHU5QVkzdFVKNnZ6NVNWOHlQUHM5WUJaZkJONU9IcDQ1SDByTDNVeUtVbDJnSGFPb1FtQWhZemxSbHY2d28tOC00cWNieFpDaU43Nm9jVEN5QVlCaVFmaHppT1ctRExzOHJERkFUTm9QakRqY1l6RlZ3NGVGTEV0YkpnWHh6eHdZODJKbTVueEhRVDQ2eWdFQ19TbjU4Z3c0ZElMajRjZ2FlOVVQcGhvYkFIbzdZZ1MzNUV3NnZKZURnbEg5RzAzanJqenFrOVM3dVFFY21xaDJyaEYtcEEybjI4V29qRGl0eHRNNjFfMGMxZXJveUxoNzhGRnYxQ2p4cllfbzFzc2JRQVowcE5uQk9lOGhiakR6VGlVZzlyQ0dKUTFxUDZFd091c1ZnTENrWkZZTFpXMURHNGUtUkJPUXdSWEc3OXZkLWpFR2c2VDlQUlBBdXdYd2tjZlVXelptYVV2SnZfX3dWd3c?oc=5",
-   "time": "2026-11-15T14:01:04Z",
-   "location": {
-    "name": "ถนนเพชรบุรี",
-    "lat": 13.75,
-    "lng": 100.56,
-    "precision": "road"
-   },
-   "incident_id": "fr_news_dbd8deae1f1791a138bb",
-   "id": "dbd8deae1f1791a1"
-  },
-  {
-   "title": "# สยองน้ำสีรุ้ง! หนุ่มปราจีนเผยลุยน้ำท่วมบ่อขยะหัวหว้า 3 วัน ตรวจพบสารหนูในร่างกาย! “น้องเก่ง” ชาวจังหวัดปราจีนบุรี เปิดเผยประสบการณ์ชวนตกใจ ระหว่างให้สัมภาษณ์กับ ดร.ยุทธิยง ลิ้มเลิศวาที หรือ “พี่หมี”",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxObkNSeTZSTU1EUmdKdGdkOTdmZzlxckdodWlzNjcxUVNPSWROdUJzNmVrTXl1Tjc5bWNodVZ0RXgwdVJXeG04TmZuRXpGc1k0Z2szNFMzRkg1ekhiNjh2a19KcTI2blJneUt1bVVJTE1taElUNU5KWVRnVDZxQmJGUW5hb0VURG44RlFKZC00a2h4alZabnlsUjA4b080Qml0Ri05WGpmcHA4ZVFlcUppaC00a2FzN01RTEliVGQ3YkJXOXRiSFFONFhVY3E3TmlWbzFxTVlLOUM2bk5LWlBfc1ViMWxZNDhUakxfa19vSy1ISFVuWFBZSlg2RzBjc1Bra251cTZLYzkwaW9xUERCWWtUMzFPeUJtVGxNVzR3elFhMnlyUWdRajhyV2ZKRkFpeC1mbUVUVFJmTVNSWHV5SjBRWXVYSXJVVS1Ebm5kWVYxWUhna21scmU5WXZQMGhLc0dmMk94MGFWWlc1d0gxNEE0RGg4VmZoOTVRbEdrM250Tnd5Uy01UGFLOWZEcXdmMzhyQ05FaU42SGxmV0Ruang0Mk5rellCYjJnX2FTYl9meWV0RTVfVTFkQm9iSEZwYU1zdVBkVDQ3Vk9oa1Qwei1PcVFoc0ZMeGVGb21nNXJQYmhiNlpMV2JXamlRbTk4RURHSkxzbkZFb21Ia3pJd1Y1MVVvN1hHWDVQOVI5Vkp5T1JrY0FjcmgwX2ZoR1UxUlRPWU0wSFU4M2NKR1dEVDFlQWVES21zWEZRbFFRNHl1S1BkaGRSaTB4LTFxQlJtYTlUbWhYczdVVEtfWkxtU3BEUEgwLTJiSmUyUW9QMW0tc0otVzRVdkJ2WlNMREZVS1NucXQ4S3VBelFTZHpTR3hXS0F5R2FWMnVBTWJEVXM0T1NocHNLYTAyMWR1aEp1b3o3QU9JeGVFZWllSkxENU50QzJLZExEa0gyWXpyZG5vR0x5NFhwamtNUnE5aEdQSlpicTZ1dkstRk15eUdTQktPUEhOeW9oNGpabVE1dXlGbGZYdkNITURzeWtvSnk2R2MxRmxTbEdqUjNWVklIaldSNThkWU0yS2tBeEUyWGlaUlNiNW1KbTlZN2Z3T0d0dDNDbzMzVjlzbkd6V3o5dnQ3d3ZmeXVaQkdKNlRlNWthRE5QeG1NcmgwQUhHTktnMGF3NGpCN3gwbW9wTDBIZmFTWkY5QUtzTzFiM2FRMnZUdXNpZzZIZTlmNUk4Tm9XM0xFRWQ2V0VnX1J5ZzNxYUNKZml3MUIyeEd5a0x4THN6ZFEwMmM4TmFoN1NNOGtxN3N6cGtXY0VGTHViM1IydU1oQ2dHN3N6Z0E?oc=5",
-   "time": "2026-11-15T14:00:50Z",
-   "location": null,
-   "area": {
-    "code": "TH25",
-    "level": "province",
-    "name": "จ.ปราจีนบุรี",
-    "bbox": [
-     101.138,
-     13.584,
-     102.124,
-     14.462
-    ]
-   },
-   "incident_id": "fr_news_7f8442d3c9fef15171ed",
-   "id": "7f8442d3c9fef151"
   }
  ]
 }
