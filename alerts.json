@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T10:22:00Z",
+ "updated_at": "2026-11-17T10:36:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,10 +16,10 @@
   "other"
  ],
  "counts": {
-  "flood": 46,
-  "flash_flood": 13,
-  "storm": 21,
-  "landslide": 8,
+  "flood": 47,
+  "flash_flood": 14,
+  "storm": 22,
+  "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 7,
@@ -254,18 +254,30 @@
    "id": "68212f177b3ae3cb"
   },
   {
-   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
    "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
-   "time": "2026-11-15T13:59:39Z",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "แนวหน้า",
+   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWRUEtbVJ4Z2NBMXc5YlRkZk4tVTVuUHh0R3NWZW9Cc2VuLThpMU5hWDdWWkJBUXI1TkRaZmlmWXVZZGRvdEFocmltM3c0R2V3eEJWUkVFXzgwU0ttTXlVZ2lPRG5KZW9HVUE?oc=5",
+   "time": "2026-11-17T10:16:50Z",
    "location": null,
-   "id": "6ec1447cbd11a063"
+   "area": {
+    "code": "TH11",
+    "level": "province",
+    "name": "จ.สมุทรปราการ",
+    "bbox": [
+     100.444,
+     13.478,
+     100.959,
+     13.717
+    ]
+   },
+   "incident_id": "fr_news_8d420d4e7acea505005f",
+   "id": "8d420d4e7acea505"
   },
   {
    "title": "ประมงราชบุรี เร่งฟื้นฟูแหล่งน้ำหลังน้ำท่วม ปล่อยปลากะพง 1 หมื่นตัว ไล่ล่า \"ปลาหมอคางดำ\"",
@@ -498,6 +510,31 @@
    "location": null,
    "incident_id": "fr_news_0c8c6a5bf76d559ff641",
    "id": "0c8c6a5bf76d559f"
+  },
+  {
+   "title": "กทม. เตือน 19-20 พ.ย. นี้ ค่าฝุ่น PM2.5 จ่อพุ่งสูง เปิดคลินิกมลพิษ 8 แห่งดูแลฟรี",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTjR0ak55VEoyakpKdVhfRnl2WEN2V3IwLThxMkZ1aERxdi0tLThRQ3dEaHc4VTRYMEUwN2NGaENHM3R4T3RsRnVzQklMTVZpZnBId1I1TVpySFBsbGlHdVp1NEotR2pMak85S1RTSnpDVmRvaWx6bXhJUWc?oc=5",
+   "time": "2026-11-17T05:05:06Z",
+   "location": null,
+   "id": "d3d9f5184368a702",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "อบจ.ปทุมฯผนึก ทางหลวง-ทน.รังสิต ล้างท่อระบายน้ำแก้ท่วม",
@@ -822,6 +859,32 @@
    },
    "incident_id": "fr_news_64c06d51569400d3fc1e",
    "id": "64c06d51569400d3"
+  },
+  {
+   "title": "ฝนฟ้าอากาศเช้านี้ 17 พ.ย.69 | น้ำป่าหลาก ชาวบ้าน 2 อำเภอ เดือดร้อนหนัก จ.ตรัง",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flash_flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "www.ch7.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11blRGeGhwRTJlUWxPeG54NXgyWHdEOXQ0ZGdWam90TmpIRXZ5QnJMSEhCRlhDcXNfd0o3bnBRajEtRkRBUVNlZ3plRQ?oc=5",
+   "time": "2026-11-17T01:47:38Z",
+   "location": null,
+   "area": {
+    "code": "TH92",
+    "level": "province",
+    "name": "จ.ตรัง",
+    "bbox": [
+     99.246,
+     7.082,
+     99.949,
+     8.009
+    ]
+   },
+   "incident_id": "fr_news_bfa8844064731f2a56e6",
+   "id": "bfa8844064731f2a"
   },
   {
    "title": "อย่ามาดูไบแถวนี้!! ต่อให้กรุงเทพฯ มีตึกสูงที่สุดในโลก แต่ประชาชนยังหาเช้ากินค่ำ น้ำยังท่วม ฝุ่นยังพิษ รถยังติด | TOJO NEWS",
@@ -1861,31 +1924,6 @@
    "id": "7cfb0ecf7dedc97f"
   },
   {
-   "title": "ฝุ่น PM2.5 วันนี้ 16 พ.ย. 2569 กทม. 10 พื้นที่เกินมาตรฐาน บางเขนสูงสุด",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aYTdXTEdqYzkwaEFpcjFRaEpQSTBMOUNLOFphODZNNUVOMjZRd3hWajFuUDRqMGI5UURtM2c2LVA5RUQtQXprR2FrNkpoWkw3SVdOVXRqZ0ZyNDI1?oc=5",
-   "time": "2026-11-16T02:14:00Z",
-   "location": null,
-   "id": "a0c5d6720c8cf43a",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "ฝุ่น PM2.5 กทม.เกินเกณฑ์ 10 เขต บางเขนหนักสุด! เตือนลดกิจกรรมกลางแจ้ง",
    "summary": "",
    "category": "news",
@@ -1964,6 +2002,34 @@
    "location": null,
    "incident_id": "fr_news_8762d228a8f95b28511f",
    "id": "8762d228a8f95b28"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
+   "time": "2026-11-16T00:18:48Z",
+   "location": null,
+   "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "หลางซอน: หินถล่มลงมาขวางหน้าบ้าน น้ำท่วมสูงขึ้นด้านหลังบ้าน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EazQ1U0hhTHJLNkFFZjhNQWkzSzhKUkhqU2hZOGJHU2w1Mk0weWhkXy1ZUG5mWl9HdzE5QnZGQ09RaktDYXpOUV96SEtKUUM3UFFUZHJyNlViYmVpUlJiWnhzajJKdmthdFVVekZ3NUQzQUZuMm8w?oc=5",
+   "time": "2026-11-15T23:17:17Z",
+   "location": null,
+   "id": "268e9c02488e9695"
   },
   {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
@@ -2207,32 +2273,6 @@
    },
    "incident_id": "fr_news_b1146708a7cf8751bf63",
    "id": "b1146708a7cf8751"
-  },
-  {
-   "title": "ภูเก็ตฝนถล่ม น้ำท่วมขังถนนหลายสาย จราจรติดขัด William Shatner (77bQShJUyV)",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Unisba Media",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmZUNlRiVWFFSW5UOUZFc2V4bWhjbmZXTFFNTFJmMUQ0WlU5ejRCaXZlN0h5TElIZnYxZF9HSUVxN0k4aWFESVQyNmFkQ0R2aXJScXBoR2VvT09FZWE3aEpEbGtTWDJ1eTB2bGlDaHBpQ0hqeEFFNVRpaDRPSkczVDEya0JDYTg?oc=5",
-   "time": "2026-11-15T10:33:14Z",
-   "location": null,
-   "area": {
-    "code": "TH83",
-    "level": "province",
-    "name": "จ.ภูเก็ต",
-    "bbox": [
-     98.262,
-     7.767,
-     98.441,
-     8.199
-    ]
-   },
-   "incident_id": "fr_news_daf2d54502f3f4d04762",
-   "id": "daf2d54502f3f4d0"
   }
  ]
 }
