@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T12:07:10Z",
+ "updated_at": "2026-11-17T12:26:36Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,8 +18,8 @@
  "counts": {
   "flood": 45,
   "flash_flood": 15,
-  "storm": 21,
-  "landslide": 8,
+  "storm": 23,
+  "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 7,
@@ -69,18 +69,18 @@
    "id": "b7162c504b49c8d1"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง | The Bangkok Insight",
+   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HVnBOUDU4alVMaXVlZGU1ZzV0YlllcjJsX2U1cXFFSWs2Tms2M0dIUU5JbnZHYmRhdWlFMDJNelhja2V0STVDYVdQby1QZm9sVncwWXRB?oc=5",
-   "time": "2026-11-17T10:12:35Z",
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZUmV2QkdqbTkyeFlYbXVFSVA0MkVmTnlFUEVvTG5VUjhfZUR6d200RmwwNUNLWW5NVUhUV1JwdTd4cmJUYWhjeGFiazFuN0lrRlNhWklZczBFazBLWHZ1YmkwUXYycDlPaG1heW92ZkY4akpwOEZGdzdMaDE?oc=5",
+   "time": "2026-11-17T10:01:13Z",
    "location": null,
-   "id": "505d56eafb8a9ddd"
+   "id": "64d142963f33a6b4"
   },
   {
    "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
@@ -195,20 +195,6 @@
    "id": "c72e52a4b1366260"
   },
   {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 5 เตือน ฝนตกหนักถึงหนักมาก 18-22 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQU4zRXlXMEhBNm9KdEdBcUZjQXVHY0t5aHN3SjNna3NRMTVvQmVQbGFyelNOWERNV2o2Z0UteEV0QW9ueVVzNFFJWVBzaExJWHhGNHVwTVMwcnQ4YTVtb1FSVQ?oc=5",
-   "time": "2026-11-16T23:55:00Z",
-   "location": null,
-   "id": "79077aeada9ba3f6"
-  },
-  {
    "title": "ปภ. เตือน 15 จังหวัด เตรียมรับมือฝนถล่ม น้ำป่าไหลหลาก 18-22 พ.ย. 69",
    "summary": "",
    "category": "news",
@@ -265,18 +251,18 @@
    "id": "68212f177b3ae3cb"
   },
   {
-   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "title": "กรมอุตุนิยมวิทยา ฉบับ 6 เช็กพื้นที่ฝนตกหนักภาคใต้ ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.69",
    "summary": "",
    "category": "news",
-   "hazard_type": "landslide",
+   "hazard_type": "storm",
    "severity": "high",
-   "urgent": true,
+   "urgent": false,
    "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
-   "time": "2026-11-15T13:59:39Z",
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQ1U5WGN3ZWpVM3dYRUhyUElaekZUWUpjQk8wUkgtZnZLejcwdzVweWhQcTdtQThDQXV0RVYzWFJHUWZTOUU3b1RXekE5RFBpNjROZmNuZnU?oc=5",
+   "time": "2026-11-17T12:00:13Z",
    "location": null,
-   "id": "6ec1447cbd11a063"
+   "id": "9a6efdc71ae25bd9"
   },
   {
    "title": "ระทึก ล้อรถพ่วงหลุด กลิ้งพุ่งชนกระบะจอดติดไฟแดงพัง คนขับไม่รู้ตัวขับไปต่ออีก 12 กม.",
@@ -1888,6 +1874,20 @@
    "id": "84a3d23b7bea86c8"
   },
   {
+   "title": "ทหารและตำรวจกำลังช่วยเหลือประชาชนในจังหวัดกวางงายให้ผ่านพ้นผลกระทบจากน้ำท่วมและฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUFMOHpXcHhtck1aSE1LbVNxeTFKSHNiUTlQWnZwX0dTYk5FV2FLTW15QmhMbzRPVV9faDZ3d2lmOURlXzdTOVdRUUI1WlE2RGFaX3AwWjFiWDVKR0R2N040YjFmbmcxSlhsbWNwNUF5M040RnVnXzVCOUFJVzlvR1VzZGZYSUV3UU5RVTVudHFPcGlUTnc?oc=5",
+   "time": "2026-11-16T04:04:55Z",
+   "location": null,
+   "id": "213ecf4a17ff5ff3"
+  },
+  {
    "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
    "summary": "",
    "category": "news",
@@ -2072,6 +2072,20 @@
    "location": null,
    "incident_id": "fr_news_8762d228a8f95b28511f",
    "id": "8762d228a8f95b28"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
+   "time": "2026-11-16T00:18:48Z",
+   "location": null,
+   "id": "c1c7f621a61a24bc"
   },
   {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
