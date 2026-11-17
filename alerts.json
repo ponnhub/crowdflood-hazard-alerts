@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T22:38:54Z",
+ "updated_at": "2026-11-17T22:54:08Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 39,
   "flash_flood": 17,
-  "storm": 25,
+  "storm": 24,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -221,20 +221,6 @@
    "time": "2026-11-16T01:41:43Z",
    "location": null,
    "id": "cc9ca814d8a0bf42"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZXdNWmhkYVpMMWcyQXBCTXZNUndicnduU1Q4QTdOMllmTVNoeDB5NmJDYnJkRmJfTTZoT2tIbTkzT20zbnB4UkJpdzV1NGxQalJaa1RjSXQ?oc=5",
-   "time": "2026-11-16T00:02:50Z",
-   "location": null,
-   "id": "f6c27ecaa6408f78"
   },
   {
    "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
@@ -2208,32 +2194,6 @@
    "time": "2026-11-15T23:08:25Z",
    "location": null,
    "id": "efdb6b206603bad4"
-  },
-  {
-   "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxPSk1nYmx6aFowN2pKc0loTm5LTTEtV3dTWV9XS0dGdncwbTlJaFdtUEh4VW4teGkwbElkVzN2WVRVU1VlLWx1aDdubnlsaTQ5YXlYQ3ZNWnVPaWtvRXRkTGdrSENUZlhCQzVxMDdnSm1VbmZkb19GaVljbzJaS19aTlo5MjlLdW5reF9JZ3Y2cTV6MnY4MlJPb0VZbEd0ZTFiMHFPN2xsWHNVdWs3THBSOTdNeTFubWxyTUhVbUVHNVUwVXpPcURDUlRyMzhmSE52VTFHeTVwYnFJa3dGWTdNTzJPejlLOTVhekdyNEZtSUtJdmxiMzJUSGpaWlAyb21Ra0wxc0NLMlYwN1hLbUQ1VmM0QnNZRVNzYTZqUGYzSDRXWHBhd1BfM2tzd1cwZE9iamJEX0NDT3NfZVlzMVRjTXBJdTVaaUZscVlLMUJNbXZ0VS1jX2pDRjBKTFp2YkdNTThXNVQ0Q2xreGZrbWlqZFRqOFhISjBsYTFVYVRfNlRkWUFJanNDZVU4QVV5MlljaU5YMHZYWm9YakdhQ1htUEY3a0JrT19SQWFSZXhhMm12R05aMl9CLVAweVNnUm9maHBRVkVmSmw5VGotaDBwVUlBUGJWcXNtVlJTakhxcV9tWXdkb2hTQ2tiVmg5eDg1UzZZVzJmdGd2N1gzX2FKbUstR1FWVkxsR0NiYVlmUzhRM1JVYlc3MlhqMENSQnZQRGVtY0czVDhJYlRSYm0wR0cwUFJ3Q3dlYzFxVFFwZ1Y0aThHOEE2Q05OaWstVU41blYyTThoQmJKMVNIS2x5dXRIUmhjd1F4MzN5UEFHaFZqTHJRQmg1OWJURFdWbDdjejNVSjhwdHBfM3FsZElIbFRoOGZzdk1Iby1KdnV0VGtmQ1dvX2NsYkFzRS1mWmM3NlZ0bUQtQTlnbVU2a3VGYXB5M3dsNlZSNkIyZm53a0hyNk9hVjdJbDJXOEhVMDlHX1lxREtOWlg4SnJMX1RxcUtzUmEzZ2RnaWVKVk53QnNaX2pjSFlscklyN254cFV3VmFyNkpYeE1kZkNheHF4enlMem9XX0xMRDFiMmhOcjB3aXR4WElVb2xEVGNObzlFdW1JSTlOU0FHSFplLVEzem9BanlVSWM2NS1IRnVMTzVidEVwcWlF?oc=5",
-   "time": "2026-11-15T22:50:37Z",
-   "location": null,
-   "area": {
-    "code": "TH1103",
-    "level": "amphoe",
-    "name": "อ.บางพลี จ.สมุทรปราการ",
-    "bbox": [
-     100.629,
-     13.511,
-     100.793,
-     13.717
-    ]
-   },
-   "incident_id": "fr_news_b7d452cc9113c4704a72",
-   "id": "b7d452cc9113c470"
   }
  ]
 }
