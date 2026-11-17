@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T00:50:25Z",
+ "updated_at": "2026-11-17T01:07:49Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,16 +16,16 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 41,
   "flash_flood": 15,
-  "storm": 20,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 9,
   "wildfire": 0,
   "drought": 6,
   "pm25": 10,
   "heat": 1,
-  "tsunami": 1,
+  "tsunami": 0,
   "other": 0
  },
  "items": [
@@ -114,6 +114,20 @@
    "id": "f141e06bcfaef058"
   },
   {
+   "title": "ปภ.เตือน 15 จังหวัด ภาคกลาง-ภาคใต้ เสี่ยงน้ำท่วมฉับพลัน น้ำป่า 18-22 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NHZTNjZ2enZ1WFVyamNuUnlUc2hyTzEwYzdxYXAtWHp6eFRJWWlORXloVmhWaVp1dm1YenpDaTNQbFNNcXR5NGVmWVZKN21hRHpMbEFuaVI?oc=5",
+   "time": "2026-11-16T08:55:21Z",
+   "location": null,
+   "id": "258ec293ad5705ed"
+  },
+  {
    "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
    "summary": "",
    "category": "news",
@@ -170,20 +184,6 @@
    "id": "86ea0e7112949210"
   },
   {
-   "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "tsunami",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mb2p4bDJLX3lxN0pBY09CN0VBQl9Gbmd4X1RDTElwSmlyWjdfSjJVRnRhYjE4NlNIRmFHR3dJZnRKMzdYVC1zeEFseVRVb3J5aVpCUVNXelZfUThlek5iMk5GUXU?oc=5",
-   "time": "2026-11-15T09:16:04Z",
-   "location": null,
-   "id": "335a3293a1855c9b"
-  },
-  {
    "title": "กรมอุตุนิยมวิทยา. . 📢 ประกาศกรมอุตุฯ ฉ.1 มีผลกระทบ 18 - 22 พ.ย. 69 ⛈ ภาคใต้ มีฝนตกหนักถึงหนักมากในหลายพื้นที่ โดยเฉพาะฝั่งอ่าวไทย คลื่นลมในทะเลอันดามันและอ่าวไทยจะมีกำลังแรงขึ้น อ่าวไทยตอนล่างมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร ❄ ภาคเ",
    "summary": "",
    "category": "news",
@@ -196,6 +196,46 @@
    "time": "2026-11-15T02:39:32Z",
    "location": null,
    "id": "4b9223f5c21059ef"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 17 พ.ย. เตือน 40 จังหวัดฝนตกหนัก ลมกระโชกแรง ทะเลคลื่นสูง | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oTThVUHNlclN6MElYMHR4NFFhSU9JRHFaOEE1S3ZVOU1uZkh2bXRheXlHeGJLZ3ZsUDNRa1ljVHBheFpTaDZIdlR3ZFdOWG0tbEQtSjdB?oc=5",
+   "time": "2026-11-17T00:52:32Z",
+   "location": null,
+   "id": "3838cf648d0effa5"
+  },
+  {
+   "title": "ตรังเร่งกู้วิกฤตน้ำท่วม! ระดมกำลังช่วยชาวบ้าน 5 ตำบลอพยพขึ้นที่สูง - น้ำท่วม | ตรัง ข่าว",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Head Topics",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tSlNmMlBtb1ZJRTlUWHYwaS1kejI0NkpfdjZoS1RtTjM3dC1yOEprZEFTYTVNYk1zVHM4YjBUOGFMeTBBVDlWZ0VHbFFqbGw5SUJtZ2dQcUZidWxQalBrTUVocURGLU9jNm9EVVl3?oc=5",
+   "time": "2026-11-17T00:46:00Z",
+   "location": null,
+   "area": {
+    "code": "TH92",
+    "level": "province",
+    "name": "จ.ตรัง",
+    "bbox": [
+     99.246,
+     7.082,
+     99.949,
+     8.009
+    ]
+   },
+   "incident_id": "fr_news_43aedf10d9816e5b5c4b",
+   "id": "43aedf10d9816e5b"
   },
   {
    "title": "ตรังเร่งกู้วิกฤตน้ำท่วม! ระดมกำลังช่วยชาวบ้าน 5 ตำบลอพยพขึ้นที่สูง",
@@ -2206,32 +2246,6 @@
    "time": "2026-11-15T01:26:25Z",
    "location": null,
    "id": "e258d105b8777f8b"
-  },
-  {
-   "title": "“ศบภ.ทภ.4 ช่วยเหลือผู้ประสบอุทกภัย จ.ชุมพร” จากสถานการณ์อุทกภัย น้ำป่าไหลหลาก ดินโคลนถล่ม น้ำล้นตลิ่ง และน้ำท่วมขังในหลายพื้นที่ ศบภ.ทภ.4 ลงพื้นที่เข้าช่วยเหลือประชาชนที่ได้รับผลกระทบจากเหตุการณ์ฝนตกห",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi_wdBVV95cUxPRXAwOEN5bktNZzJBbllkTHBhMzlaXzFpSlE4ZFNqMUcyNXFrSE1WOTgzMWQ1VVdHQUJmSzRTTkVtUUxOeHA1Y0VZbS14b1h6QTVTeTUzRk5MY2ZhbktlWDJZcWFhTkl1ejZGaWI3V0E0YWJyTmp2d1ZwMUllVkRvVkFzdG1BMHpNaC02WFNmZXhna2JaNHBqbEFuUlJyNHZQejFnWVQxUFhwXzVTMDNtUy1fUjdtUmZFRUdwNHBWNmtOREp3b29GbHNpZmttcmNzQnVUN0JobWlNNFFXNmZpQ0pJdEFzSlRtQ3lUNXpfN0dnb2FWVnVYWlJJcmk1NnVFZms5MzlUbWF1QUxKdDBQS05DZWI5bjE2QkhNeTVuTGRFUUt2MXBXaHo2ZkpmQ1ZTTlhIeGplRTA2Yi1aemFJYldxYlJ4azBodjBHbEZSTnhyR0oxeGVJVXoyMmhsdEctNlM5d3hMYWZTdmN4cTdzak9YNGlUcHZSYmNSRGxRa0dJdVAzVklZSno5M3JjTk93SDByNHpkbW9jWGlFTVBmTWtHVlRDUzdvcE9FZVNxSGZxZGFCNng4Z0l0YkYwdG53amZrWl9oTlpzbU84SjFSdTB4Z1cyc09HY0QtU21mOElxUEM2ZjgxbEdDNVFTVzNyNWJ5Z1BrRHZtYzhLbUgyLU1Ed0prUUo2aHR2YnBpTlJ0RWV2c3kyV0NkeHhWUFExU3Y0OWRkekVxOXBDanhyUjViQTNRaWYxVWxkY0pxNnA2anpWUVhKSEtwR2o3Qm13Q296aXdXVFhNek1YaUVqT1MzeFlES1ZXY0g0VTF1SmM1S2JMYm5WWkZQN2RBUDZKMmFnbGhkMVpVcHA0NVNlLVhncVFrWlJfb0lCZDZyejhmODhNZENvNE42aGhnTEpkYkRQbjEteXl4YUx2Y0ZjWG8xTG52YkJ4QWdTMlJjZnFvaEZ0eXFEcVBSd3F0TjRONVBPTjY0aHAycFRsWlhlWnBGRXZROUdjcU93Ylp1Yk44SWRRRFp5aExqLUhmQ1J3U3FQU0F3VjNNWWpqbUstMndOblIxQkxZOEdJb1JSZEQwcWEyMnBTNkc3Mmw3bkY1dTZwS2REUlYzbGF6a3FhcFA0VVRybzBueTBSNHdfaUE0N3pjbFdhLXdEa2toYjFlcEh5UE85cnZMTkZWR0tOSWpVREJlVTkzcFdFUnY1cGw4YkdqODhXZnZ3V1owUWVzYnh1dmRScW1xYk5YMXJqVVpSR0RPdzdReHRzMkg0Zk5hNl9LdlUzTHV6Q21BemNPX0hLb3RYX1VIc0VSazNFY0lfSDlPTldISWFuUjF4a0ZhYVdzX01QaVctT1kwY1E?oc=5",
-   "time": "2026-11-15T01:00:29Z",
-   "location": null,
-   "area": {
-    "code": "TH86",
-    "level": "province",
-    "name": "จ.ชุมพร",
-    "bbox": [
-     98.632,
-     9.601,
-     99.519,
-     11.034
-    ]
-   },
-   "incident_id": "fr_news_effc42c897c8181be940",
-   "id": "effc42c897c8181b"
   }
  ]
 }
