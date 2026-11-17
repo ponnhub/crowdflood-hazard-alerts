@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T10:52:25Z",
+ "updated_at": "2026-11-17T11:06:12Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 45,
-  "flash_flood": 13,
-  "storm": 23,
+  "flood": 44,
+  "flash_flood": 11,
+  "storm": 21,
   "landslide": 8,
   "earthquake": 7,
   "wildfire": 2,
@@ -56,20 +56,6 @@
    "time": "2026-11-17T10:12:35Z",
    "location": null,
    "id": "505d56eafb8a9ddd"
-  },
-  {
-   "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxPR1JBUEYzcURGSThuMW9VMGZ2eEhIcDdmSFZlX3JPX0ZkQTFBYzg2bUtOUEozX3NMV3g3WTY5TjBodU16Z3NpYjJUWUFMU0hqUVllbDlQSzlIdkJSU1hWaHg2N1NqN05rYnRZQ3oxZnFWSFhrZlVJZVhhSWRGSk5DWm84TUs2YW1oNW5zZFpGZWtYOUt5d21DUzZlYUdjTzNmZU8xSmVkYU1ZYTVURW9LTTFkY3lUM2xEME9Gc1FTbFJKRW1VNUhjd0E0SkRzTHFaRnRiVzdVd2NGLWt2UFNCYW5Fa3VLdDd3NEVZNTJsSzVRYlRsWHNtaFJvc0VCQjllcGxzUXlRNXExM3kzUHI0M1ZhcFNtcFJsWjlqanVweUZhSjlDWXJ2bENtVFc4bmU1eWh2bThhQTk0VkpQdnQ4dFNzY0UyTms4OVpiVHpmWFBJLVk5ZThOTTEwc2dEU0F3VlRmOVlla21hd0hGQzdBaGVSd2hYcDhJNHkzTE44YVdmcnRsSlQ4R2dDRmU3b3drWWFDT2x1RWRPYTI1VUNBM2U3bWJHUmdXTkhjeDRqUlJ1eTJ4VmVLMjl1aUNDb3E3Zm5weXBXRHAyYW5Oei1yUFFzcjFLa2pLcWc3VkhrUnVkUGprVVhKWC1HOUdBSGM3ZnQ5d3pobEZEcmFDY1ZqMXdaSGF2OV9iX1JhZ0pPSE1ZWkhvOFYxR0JZbUdldHlGcGVSVlNSY2F3RkpJTFk5SGl5ZWFuV3I0ZE9QZzdmeHZSQlFtUFJUMjdpUWZjOTlZNGpkaEFJcnhFdC1LdTdwdUt6OXA5SlFZUVM5X2pvaHUwU2V6T2ZyS01oNEI0YlZYSFRMeXBjM1ZUV2kxT2VlUHpyczNvUE51S1pYei1jdWhsNGNLc3ZDYXNmU2lxd2FWamVzcEZkMlRjaXRBRFYzdFVZX19PeTF4ajZwNHRDdjl6VWgtQVh6WTFVSWNTZDZLVUlxSTlrb0lyVmg0VGc3VUI0NHV3eEJQR2ZIQmFFZkdkYkp1RU9ZX3VhMHBQdDFIUTY4aDVNQ1UtT0VfUTRKc1Vfek4tTWE2TzRoc3lvcXZFY3NPcDJteVRtbDkwZnZxUDBWV0N2VEpQVGh0YktlUms4UTZ2cEs0WkE?oc=5",
-   "time": "2026-11-17T08:47:41Z",
-   "location": null,
-   "id": "61357ac6fa07e323"
   },
   {
    "title": "⚠️ เตือน !!! 18-22 พ.ย. 69 ภาคใต้ฝนตกหนักถึงหนักมาก ไทยตอนบนมีฝนฟ้าคะนองช่วงแรก จากนั้นอุณหภูมิลดลง #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
@@ -142,20 +128,6 @@
    "id": "efddca7f0f4dc013"
   },
   {
-   "title": "เตือนภาคใต้ฝนตกหนัก18-22พ.ย.69 #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMizAdBVV95cUxPdzhTSFdyb3BrV1Z6cXhYUndPQmNzTV84eks2aXlXbTBITVpHd1M0UkhwdkJ0clhjdm1kdV83MG9XUy1paEVHWFZGNFZwWmk2Q3FyMk5PbWYxUHplN0J2Y0JYTkRKcHlwRlNKRHJEbXVMdTFGcDVvdHhnWXNZeHItYmg5NHg5UFJQYXUxU3E4SWpRTWRTS05EZmtxT2N6VXpsQnpyOFNpY21yV1N6QnJrM1ZwQnJkWmYyOXJIRlpyREFRVUpoR29ubm11SFJmSU9XT2lPLUJTNnBYbDJCeU9oMDhNMkRzdVdLS0RYUUQ1SFJWemctTWw5bUxmd1RUWlczZGEtSzBESmdtcTljQmE5VTlTV3NxeXdPR2J2YzRsMEJZbU9Rck1hV3ZYb2E0eU5Wc2FWSVdJcEdjenhURDVwTnRMekdxSDdYUDBucXZsb1FFY0lZcUw2SDc0X29TYzNvbWpOLUVabGRMSHRQVlZSZUM2cmJkM1Y4cUdGN09TTC1WcGc5OWhMdFhzU0E1d1IzWlg5WG5wZ0hFTjR0dEwxN0FFR3ByY0lleXV4bDBtek0ySlVuVE5iX2czT2ZOVnd0dHhUMHAzTndEVlZDOFp5ajdPTlBHWGdVekVPR1RiSTFNRXNOeUVreW1jb2Z2ZEkxVVBJckFKRllydi1XWDNiM1ctc3d2YWVXTk4xRkg1d1BTZzNnbmxMT29oci1TbHA5cHNnRDh0bnlMRjJWb19YUkpwLUFURGlvMnJVSW9HaDAwdDg4RVhJVUllNkJzSDZRUm9Wd3NGN3dHR2xPcEhwS3ZSck9xWWhnNWdGaFh2ZWpFQnE1U2llMGpoX1Nha2U2emVTbnhQV0xuRXRNZUtUbnNPc2NLV1YwT2FyZmhJSDhUay1MMk5hRGxTb0xjaUNRUjc1RkFBNGhyajNWNDdmOU5BQ2J6VTdieEZlVGRtci1PR1pwR0oxTm5aRERFOVNCV2N3aThmODBkZGZCODQ4emFXQmx5MURCOUdfV2NabU9GMzEtdU5Sa2xZQW9OTHJiLXNYTTVoOV9wQWRmVTNRZjhmUldESjZRaE1WdGpmbkNLeTVXY2NLeXYyUHkzUGxGeXZHZDBqM2dRZjNYV1BrMEZKdmo4Q1VpMmtVWnNjVXdHNEttMTB2SHdjaUdwY1hYaEQ2XzFFcVY3bHdlaHhKOWVzcHZPSGlvcHE2U1Q2UlpzSWxNbGZGOW56ZTY1Y0FmMU1JUjlzajdDZXJYUU9qMVA2LVZ3T2FQMl9tMGM0ZXZTeUtVQXU1ajgwRjY?oc=5",
-   "time": "2026-11-17T02:23:11Z",
-   "location": null,
-   "id": "ca0a2ac95671f894"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉบับที่ 5 ภาคใต้รับมือฝนตกหนัก 18-22 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -226,20 +198,6 @@
    "id": "cc9ca814d8a0bf42"
   },
   {
-   "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZXdNWmhkYVpMMWcyQXBCTXZNUndicnduU1Q4QTdOMllmTVNoeDB5NmJDYnJkRmJfTTZoT2tIbTkzT20zbnB4UkJpdzV1NGxQalJaa1RjSXQ?oc=5",
-   "time": "2026-11-16T00:02:50Z",
-   "location": null,
-   "id": "f6c27ecaa6408f78"
-  },
-  {
    "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
    "summary": "",
    "category": "news",
@@ -280,6 +238,20 @@
    "time": "2026-11-17T10:35:22Z",
    "location": null,
    "id": "1d01a745cfe8efbc"
+  },
+  {
+   "title": "อุตุฯ ฉบับ 6 ภาคใต้ฝนถล่ม เช็ก 6 จังหวัดฝนตกหนัก เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DLV9qQkR3S2FaZHlpaHNockxwdnlNMzNPWGx5M0QtbklGeUZqaFl2dWZfT29hWEZ1cjR5X2VlMHUwVFNMOHRDMVdZWnJLVVFNb2lFcGNhUHo?oc=5",
+   "time": "2026-11-17T10:35:00Z",
+   "location": null,
+   "id": "932aa01cd382ed2f"
   },
   {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
@@ -635,20 +607,6 @@
    "id": "e84c51acb71db7fd"
   },
   {
-   "title": "ฝนถล่มหนัก น้ำป่าหลากจากเขา เฝ้าระวังพื้นที่ลุ่มต่ำ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "one31.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Q0g5aGJ6X05HUUkyMzktSVg3RVRvN0Y2dmtvU0pXS1ExbUpfTHpOOWxWWkxBLXNTMDNncm9IUjE5ejJQT2lWUW53WDFnV0w5?oc=5",
-   "time": "2026-11-17T04:11:36Z",
-   "location": null,
-   "id": "23abe908679a4555"
-  },
-  {
    "title": "“สุริยะ” มั่นใจ “เจ้าพระยา 2” แก้น้ำท่วมระยะยาว ย้ำเร่งสร้างความเข้าใจประชาชน หลังชาวนครนายกค้านโครงการ",
    "summary": "",
    "category": "flooding",
@@ -939,20 +897,6 @@
    },
    "incident_id": "fr_news_eaa2143cc82c1a643233",
    "id": "eaa2143cc82c1a64"
-  },
-  {
-   "title": "พยากรณ์อากาศวันนี้ 17 พ.ย.69 18-22 พ.ย. ลมหนาวระลอกใหม่ ปกคลุมไทยตอนบน ใต้ฝนถล่มหนัก เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92SkFnWUpVd2UyQ21MaUFYVldIanZrZlVlTlptVHJtdFNJVk5ubVB5T0FZM1FWemZIUFZYRXJ5STdjMnJEeUdDV3VVYTFuckNqekE?oc=5",
-   "time": "2026-11-17T01:37:17Z",
-   "location": null,
-   "id": "369a0e41e03055e3"
   },
   {
    "title": "เมืองหลางซอนประกาศภาวะฉุกเฉินเนื่องจากดินถล่ม",
@@ -2030,20 +1974,6 @@
    "location": null,
    "incident_id": "fr_news_8762d228a8f95b28511f",
    "id": "8762d228a8f95b28"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
-   "time": "2026-11-16T00:18:48Z",
-   "location": null,
-   "id": "c1c7f621a61a24bc"
   },
   {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
