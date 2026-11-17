@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T14:23:11Z",
+ "updated_at": "2026-11-17T14:40:35Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -20,7 +20,7 @@
   "flash_flood": 15,
   "storm": 23,
   "landslide": 7,
-  "earthquake": 8,
+  "earthquake": 7,
   "wildfire": 2,
   "drought": 7,
   "pm25": 9,
@@ -67,6 +67,20 @@
    "time": "2026-11-17T10:27:33Z",
    "location": null,
    "id": "b7162c504b49c8d1"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZUmV2QkdqbTkyeFlYbXVFSVA0MkVmTnlFUEVvTG5VUjhfZUR6d200RmwwNUNLWW5NVUhUV1JwdTd4cmJUYWhjeGFiazFuN0lrRlNhWklZczBFazBLWHZ1YmkwUXYycDlPaG1heW92ZkY4akpwOEZGdzdMaDE?oc=5",
+   "time": "2026-11-17T10:01:13Z",
+   "location": null,
+   "id": "64d142963f33a6b4"
   },
   {
    "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
@@ -151,20 +165,6 @@
    "time": "2026-11-17T03:00:00Z",
    "location": null,
    "id": "efddca7f0f4dc013"
-  },
-  {
-   "title": "เตือนภาคใต้ฝนตกหนัก18-22พ.ย.69 #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMizAdBVV95cUxPdzhTSFdyb3BrV1Z6cXhYUndPQmNzTV84eks2aXlXbTBITVpHd1M0UkhwdkJ0clhjdm1kdV83MG9XUy1paEVHWFZGNFZwWmk2Q3FyMk5PbWYxUHplN0J2Y0JYTkRKcHlwRlNKRHJEbXVMdTFGcDVvdHhnWXNZeHItYmg5NHg5UFJQYXUxU3E4SWpRTWRTS05EZmtxT2N6VXpsQnpyOFNpY21yV1N6QnJrM1ZwQnJkWmYyOXJIRlpyREFRVUpoR29ubm11SFJmSU9XT2lPLUJTNnBYbDJCeU9oMDhNMkRzdVdLS0RYUUQ1SFJWemctTWw5bUxmd1RUWlczZGEtSzBESmdtcTljQmE5VTlTV3NxeXdPR2J2YzRsMEJZbU9Rck1hV3ZYb2E0eU5Wc2FWSVdJcEdjenhURDVwTnRMekdxSDdYUDBucXZsb1FFY0lZcUw2SDc0X29TYzNvbWpOLUVabGRMSHRQVlZSZUM2cmJkM1Y4cUdGN09TTC1WcGc5OWhMdFhzU0E1d1IzWlg5WG5wZ0hFTjR0dEwxN0FFR3ByY0lleXV4bDBtek0ySlVuVE5iX2czT2ZOVnd0dHhUMHAzTndEVlZDOFp5ajdPTlBHWGdVekVPR1RiSTFNRXNOeUVreW1jb2Z2ZEkxVVBJckFKRllydi1XWDNiM1ctc3d2YWVXTk4xRkg1d1BTZzNnbmxMT29oci1TbHA5cHNnRDh0bnlMRjJWb19YUkpwLUFURGlvMnJVSW9HaDAwdDg4RVhJVUllNkJzSDZRUm9Wd3NGN3dHR2xPcEhwS3ZSck9xWWhnNWdGaFh2ZWpFQnE1U2llMGpoX1Nha2U2emVTbnhQV0xuRXRNZUtUbnNPc2NLV1YwT2FyZmhJSDhUay1MMk5hRGxTb0xjaUNRUjc1RkFBNGhyajNWNDdmOU5BQ2J6VTdieEZlVGRtci1PR1pwR0oxTm5aRERFOVNCV2N3aThmODBkZGZCODQ4emFXQmx5MURCOUdfV2NabU9GMzEtdU5Sa2xZQW9OTHJiLXNYTTVoOV9wQWRmVTNRZjhmUldESjZRaE1WdGpmbkNLeTVXY2NLeXYyUHkzUGxGeXZHZDBqM2dRZjNYV1BrMEZKdmo4Q1VpMmtVWnNjVXdHNEttMTB2SHdjaUdwY1hYaEQ2XzFFcVY3bHdlaHhKOWVzcHZPSGlvcHE2U1Q2UlpzSWxNbGZGOW56ZTY1Y0FmMU1JUjlzajdDZXJYUU9qMVA2LVZ3T2FQMl9tMGM0ZXZTeUtVQXU1ajgwRjY?oc=5",
-   "time": "2026-11-17T02:23:11Z",
-   "location": null,
-   "id": "ca0a2ac95671f894"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉบับที่ 5 ภาคใต้รับมือฝนตกหนัก 18-22 พ.ย.นี้",
@@ -2154,26 +2154,6 @@
    },
    "incident_id": "fr_news_b7d452cc9113c4704a72",
    "id": "b7d452cc9113c470"
-  },
-  {
-   "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
-   "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.เมือง จ.แม่ฮ่องสอน ประมาณ 335 กม.",
-   "category": "official",
-   "hazard_type": "earthquake",
-   "severity": "medium",
-   "urgent": false,
-   "official": true,
-   "source": "กรมอุตุนิยมวิทยา",
-   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17444",
-   "time": "2026-11-15T14:32:03Z",
-   "magnitude": 4.0,
-   "location": {
-    "name": "ประเทศเมียนมา (Myanmar)",
-    "lat": 19.991,
-    "lng": 94.856,
-    "precision": "epicentre"
-   },
-   "id": "bf6aba7eebaa9957"
   }
  ]
 }
