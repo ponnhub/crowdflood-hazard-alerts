@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T12:42:59Z",
+ "updated_at": "2026-11-17T12:52:53Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 45,
+  "flood": 44,
   "flash_flood": 15,
-  "storm": 23,
+  "storm": 22,
   "landslide": 8,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 6,
-  "pm25": 9,
+  "pm25": 10,
   "heat": 0,
   "tsunami": 0,
   "other": 0
@@ -277,6 +277,31 @@
    "time": "2026-11-17T12:00:13Z",
    "location": null,
    "id": "9a6efdc71ae25bd9"
+  },
+  {
+   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-17T11:34:58Z",
+   "location": null,
+   "id": "2f86748662fb0155",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ระทึก ล้อรถพ่วงหลุด กลิ้งพุ่งชนกระบะจอดติดไฟแดงพัง คนขับไม่รู้ตัวขับไปต่ออีก 12 กม.",
@@ -595,6 +620,31 @@
    "id": "9e80485aa84906cb"
   },
   {
+   "title": "กทม. เตือน 19-20 พ.ย. นี้ ค่าฝุ่น PM2.5 จ่อพุ่งสูง เปิดคลินิกมลพิษ 8 แห่งดูแลฟรี | The Bangkok Insight",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRSHN6cjVWR0gteHNERWYxS05FRjlELTloaDdxYWxuQ0psT3lxOS1pbDJnaFlfaWtFQnlGNWQtZzNaYjNKWXZYNmtmbWxOWmRXbjFxZlh3?oc=5",
+   "time": "2026-11-17T05:06:48Z",
+   "location": null,
+   "id": "99bbfe7e0e5b09ad",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "ปภ. - ออมสิน โอนเยียวยาน้ำท่วมต่อเนื่อง สะสมกว่า 1.32 หมื่นล้านบาท ครอบคลุม 56 จังหวัด วันนี้โอนเพิ่มอีก 26,813 ครัวเรือน รวม 168.67 ล้านบาท ใน 17 จังหวัด และ กทม. | สวพ.FM91",
    "summary": "",
    "category": "flooding",
@@ -608,31 +658,6 @@
    "location": null,
    "incident_id": "fr_news_0c8c6a5bf76d559ff641",
    "id": "0c8c6a5bf76d559f"
-  },
-  {
-   "title": "กทม. เตือน 19-20 พ.ย. นี้ ค่าฝุ่น PM2.5 จ่อพุ่งสูง เปิดคลินิกมลพิษ 8 แห่งดูแลฟรี",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTjR0ak55VEoyakpKdVhfRnl2WEN2V3IwLThxMkZ1aERxdi0tLThRQ3dEaHc4VTRYMEUwN2NGaENHM3R4T3RsRnVzQklMTVZpZnBId1I1TVpySFBsbGlHdVp1NEotR2pMak85S1RTSnpDVmRvaWx6bXhJUWc?oc=5",
-   "time": "2026-11-17T05:05:06Z",
-   "location": null,
-   "id": "d3d9f5184368a702",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "อบจ.ปทุมฯผนึก ทางหลวง-ทน.รังสิต ล้างท่อระบายน้ำแก้ท่วม",
@@ -1132,31 +1157,6 @@
    "id": "9f0fe232a4497239"
   },
   {
-   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
-   "time": "2026-11-16T22:48:52Z",
-   "location": null,
-   "id": "2f86748662fb0155",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -1453,20 +1453,6 @@
    "time": "2026-11-16T10:04:02Z",
    "location": null,
    "id": "6ea3d859fc866354"
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNk9Bb3BvcHE2SkQwMHZGSHVRZi1zVXhpbWZxT0VFdVpHX0RXUXphdzNOZWJneHgwNUFKdFB3NkJIUVVNTnFIbVo5UEFHUkVabmE0Q21Vc0ZVMlFaQlJGMHB4VXVjV3hzNGtDekpHU3U2SjJsY0hqNDA2S042VGd1WWpvQkVyY1JoTV9TS0hXOFJVVFF6U2c?oc=5",
-   "time": "2026-11-16T10:03:47Z",
-   "location": null,
-   "id": "06c7c1e37a358803"
   },
   {
    "title": "กรุงเทพฯ อ่วมฝนกระหน่ำ เพชรบุรี-รามคำแหง-อโศกจมน้ำขัง",
@@ -2008,6 +1994,31 @@
    "id": "7cfb0ecf7dedc97f"
   },
   {
+   "title": "ฝุ่น PM2.5 วันนี้ 16 พ.ย. 2569 กทม. 10 พื้นที่เกินมาตรฐาน บางเขนสูงสุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aYTdXTEdqYzkwaEFpcjFRaEpQSTBMOUNLOFphODZNNUVOMjZRd3hWajFuUDRqMGI5UURtM2c2LVA5RUQtQXprR2FrNkpoWkw3SVdOVXRqZ0ZyNDI1?oc=5",
+   "time": "2026-11-16T02:14:00Z",
+   "location": null,
+   "id": "a0c5d6720c8cf43a",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "ฝุ่น PM2.5 กทม.เกินเกณฑ์ 10 เขต บางเขนหนักสุด! เตือนลดกิจกรรมกลางแจ้ง",
    "summary": "",
    "category": "news",
@@ -2088,18 +2099,18 @@
    "id": "8762d228a8f95b28"
   },
   {
-   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
    "summary": "",
    "category": "news",
-   "hazard_type": "storm",
+   "hazard_type": "drought",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
-   "time": "2026-11-16T00:18:48Z",
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
    "location": null,
-   "id": "c1c7f621a61a24bc"
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
@@ -2263,32 +2274,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "กรุงเทพฯ อ่วม! ฝนกระหน่ำน้ำท่วมขังรอระบาย การจราจรเป็นอัมพาต",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORWx3alk2Z0pSYVhSenJXdXFkN3lRa3d1azhyMFozekpPVWhac3ZtblRGRTluUVRDODh6YXpwcXlWOU1wUjhXNnB3dm9XZGNfdGN2Mnd2RWNQeWFGVGd3RkNVaUNMQWZOMWFkSThoNmZjNm1ERUg2ZmVkTnNPNHN2WXdvOWR5SmdlT3MzSDlJeWRaekVRWmRUODV6aWNQc25CRmtoVVdfSzBOLTZpTExYYzFSZG52d3puaHl6SG1GV1J0eUQ3Wmp1QXpOd2drc3M1TmRSR3A0clF2Zw?oc=5",
-   "time": "2026-11-15T12:51:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_11aee6d86bb2e2b2567c",
-   "id": "11aee6d86bb2e2b2"
   }
  ]
 }
