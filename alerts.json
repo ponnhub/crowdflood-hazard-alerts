@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T17:09:48Z",
+ "updated_at": "2026-11-17T17:29:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 15,
+  "flood": 40,
+  "flash_flood": 14,
   "storm": 22,
   "landslide": 7,
   "earthquake": 7,
@@ -336,31 +336,6 @@
    "time": "2026-11-17T10:35:00Z",
    "location": null,
    "id": "932aa01cd382ed2f"
-  },
-  {
-   "title": "📌อัปเดตข้อมูล ณ วันที่ 17 พ.ย. 69 เวลา 17.00 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก วันที่ 18 - 22 พ.ย. 69 ⛈️ ❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxNbVZlYXRDWkVxZnh3V21BSmdlMFZTR1FYNUl1bGNhYUdfamxaWWp1bXVlc0hOLUFKdnJKX1lrUG1fSXNPYjhoQjdpa2RiMTkwT1RFbmRWN2VEVVAwbmRKTjY5ZTJXbjJLaWZpT0MwNktLOWVnTnhoX2lOdjI4N3RvdGhZQy1MaGRNWUxYWmlYNk15Y1d0T0pIZVhndk9QZ1NvM2RSbnZvaXRaNVRZa0QyZVJWaWxHMy1kaHZsVVlOcWhxSFNQY0RUX1JWLUtJdGVsellYQTUyaHlSNDg1X0dydDJVcVUwVHF1QnlPdnhYTEtqWjhMV2RMQ0tGSnRUUHpUOS1hNml4dWRlRlpJR1VUR1U5X3BUQXFsR1QyRVlFY0JCeE9aQ2lwdTlrbUx5LVdRVTBRTzNzQU0tUWdRcGZ0MkpXWTZ2Zm5ZU1JuRjkyREpwbF8xelNqY3o4Vm1QeVR1RXlEako3QWVkRFVPV2NBUGx2SFlUYlI5NXp3Mm5JVnRMWmU0VXBkZW9nNmpCQWc4T2pIdGtkNmJGa3lLc2t2ZzZoMG9SOV9pUGtmVWd2MHl1aTQtRW9kbV94eGY0MWp6aGNBX1g2aHZWUHg0cDhXX3c5bGM2ZlBPQnozcDlvNDBzZTgtSXRyc1N2amczTmZreHFaNkQ1UGFQMldva3BhV0xxLVd6S2x6cWFpR2dXR2FtcUU1emFiSXAydm5mNkg3TnRCVzdMbmJyb2hzSDNJSmhSaVpmeDl2LXZUQ0FxUVJJcnZZVWFLcmZ6a1ZYU3liS2FSV0VJLUc2a010YTI2MzJUY0dFY1RXbnp4TmtWVHE0Q3RqUnFFZ2VCSUxHa09RMXRKVGRSZUNhWW01cmJ0eW53eXMyX0loTklqazN2VE9ZM2psNGJBUmZpazZ0UXVyeUFmQVFKTEpMQzdEZTY1WWhNbkJ2OVJMaVhLYTRraHJ5NGJNem12M2VVUWpwaVF5dkxEUTlhX254ay0tVWUzVVlqTEs3Z2NLWVh2ZDcxWEd0TVR0X0ZVTjRwM3R3dlZnREppRWhuOU45aVppMVdaWWhtSElLcG5yVHgtMkVzSDVudm5BZmcwLTBwVzl2UEpqZ3F5S0ZGM2x0U2lIYlQ0Q0ZxOThGQQ?oc=5",
-   "time": "2026-11-17T10:18:10Z",
-   "location": null,
-   "id": "332c5cde90f48994",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
@@ -716,20 +691,6 @@
    "id": "e84c51acb71db7fd"
   },
   {
-   "title": "ฝนถล่มหนัก น้ำป่าหลากจากเขา เฝ้าระวังพื้นที่ลุ่มต่ำ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "one31.net",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Q0g5aGJ6X05HUUkyMzktSVg3RVRvN0Y2dmtvU0pXS1ExbUpfTHpOOWxWWkxBLXNTMDNncm9IUjE5ejJQT2lWUW53WDFnV0w5?oc=5",
-   "time": "2026-11-17T04:11:36Z",
-   "location": null,
-   "id": "23abe908679a4555"
-  },
-  {
    "title": "กรมอุตุนิยมวิทยา. . ⚠️ เน้นย้ำภาคใต้ 18 - 22 ฝนตกหนักถึงหนักมาก ⛈️ 18 - 22 ภาคใต้ฝนตกต่อเนื่อง ฝนหนักถึงหนักมาก ในหลายพื้นที่ 🌡️ ไทยตอนบน อุณหภูมิลดลง ภาคอีสาน ลดลง 2 - 4°C ภาคเหนือ กลาง ตะวันออก กรุงเทพฯและปริมณฑล ลดลง 1 - 3°C #กรมอุตุนิยมวิทยา #พยากรณ์อา",
    "summary": "",
    "category": "news",
@@ -928,6 +889,20 @@
    "location": null,
    "incident_id": "fr_news_b4d509c0f262d8b1e5aa",
    "id": "b4d509c0f262d8b1"
+  },
+  {
+   "title": "ใต้ฝนถล่มหนัก 19–22 พ.ย. นี้ เตือน 5 จังหวัดเสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UEFNQlJiQjU1NTlyaWM0UnlHVnEyeWtrYk5iTFVXMkh2Q0pEOG53M0xBeUZra2JQYzJmWURGSE0ybkxZVFFVaEs5cEozTGxYc1VTMjh3?oc=5",
+   "time": "2026-11-17T02:30:00Z",
+   "location": null,
+   "id": "ce6b54bfce4519b8"
   },
   {
    "title": "เกิดแผ่นดินไหวรุนแรงอีกครั้งในอินโดนีเซีย และมีแรงสั่นสะเทือนตามมาไกลถึงออสเตรเลีย",
@@ -2097,6 +2072,20 @@
    "location": null,
    "incident_id": "fr_news_8762d228a8f95b28511f",
    "id": "8762d228a8f95b28"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
+   "time": "2026-11-16T00:18:48Z",
+   "location": null,
+   "id": "c1c7f621a61a24bc"
   },
   {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
