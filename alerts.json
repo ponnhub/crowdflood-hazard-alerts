@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T23:42:47Z",
+ "updated_at": "2026-11-17T23:55:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
-  "flash_flood": 18,
+  "flood": 42,
+  "flash_flood": 17,
   "storm": 24,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
-  "drought": 6,
+  "drought": 5,
   "pm25": 9,
   "heat": 0,
   "tsunami": 0,
@@ -95,6 +95,20 @@
    "time": "2026-11-17T08:09:26Z",
    "location": null,
    "id": "cdcfee4de7630b82"
+  },
+  {
+   "title": "ปภ. เตือน 15 จังหวัดภาคกลาง-ใต้ เฝ้าระวังน้ำท่วมฉับพลัน 18 - 22 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DMF9GRGlJbDBTeGsxcVZYQ2sxU0lBRjBxaUlkSEtvQ2NkenRxbmRGX2J2Y3hBa1pOeFRzb1JINDdJSG9nc25XU0JOTk1yOVdIUkdPZmJJeWI?oc=5",
+   "time": "2026-11-17T06:38:13Z",
+   "location": null,
+   "id": "a1cfae4d8633c2ff"
   },
   {
    "title": "ด่วน! ปภ. เตือน 15 จังหวัด รับมือฝนหนักถึงหนักมาก เสี่ยงน้ำป่าไหลหลาก-ดินโคลนถล่ม",
@@ -195,20 +209,6 @@
    "id": "f141e06bcfaef058"
   },
   {
-   "title": "ปภ.เตือน 15 จังหวัด ภาคกลาง-ภาคใต้ เสี่ยงน้ำท่วมฉับพลัน น้ำป่า 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NHZTNjZ2enZ1WFVyamNuUnlUc2hyTzEwYzdxYXAtWHp6eFRJWWlORXloVmhWaVp1dm1YenpDaTNQbFNNcXR5NGVmWVZKN21hRHpMbEFuaVI?oc=5",
-   "time": "2026-11-16T08:55:21Z",
-   "location": null,
-   "id": "258ec293ad5705ed"
-  },
-  {
    "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
    "summary": "",
    "category": "news",
@@ -221,20 +221,6 @@
    "time": "2026-11-16T01:41:43Z",
    "location": null,
    "id": "cc9ca814d8a0bf42"
-  },
-  {
-   "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pamVrQ2lOdGQ5Yjd5NDVHQkNKaTVIV1d5VkN4S19QMGRwWU5FMDVFZFhrYmsxTTNITnNOcFBQMHUwYVhPSE1XNzBWVVZhb2NnRC1NMXk5bWhoSUVnWWhQTGw2Yw?oc=5",
-   "time": "2026-11-15T23:51:00Z",
-   "location": null,
-   "id": "68212f177b3ae3cb"
   },
   {
    "title": "พาณิชย์ยะลา บุกตรวจสต็อกน้ำดื่ม - ไข่ไก่ เตรียมความพร้อมรับมือน้ำท่วม มั่นใจสินค้าเพียงพอไม่ขาดแคลน จ.ยะลา",
@@ -724,6 +710,20 @@
    "location": null,
    "incident_id": "fr_news_9e80485aa84906cbe68b",
    "id": "9e80485aa84906cb"
+  },
+  {
+   "title": "น้ำท่วมในมาเลเซียทำให้ประชาชนกว่า 2,500 คนต้องอพยพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1hNUS1VVmM5M2F6Sk9oUFE4OEpmX01jYkJ5aDlDMU4zVDJndXV1aE1oVWx3Yzg4TUd4SVlyVk9mdmhRTWVVTFFZM0EtbklhNk1xTzhjRnNQZWNraF9WOENjU2picHQ2QTBKcnUyWHRkMU1qbTVtSVRCbG9TMm54cGtuWWM3QQ?oc=5",
+   "time": "2026-11-17T05:40:54Z",
+   "location": null,
+   "id": "98fab031c31079a6"
   },
   {
    "title": "ปภ. - ออมสิน โอนเยียวยาน้ำท่วมต่อเนื่อง สะสมกว่า 1.32 หมื่นล้านบาท ครอบคลุม 56 จังหวัด วันนี้โอนเพิ่มอีก 26,813 ครัวเรือน รวม 168.67 ล้านบาท ใน 17 จังหวัด และ กทม. | สวพ.FM91",
