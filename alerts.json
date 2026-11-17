@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T15:13:16Z",
+ "updated_at": "2026-11-17T15:22:46Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
+  "flood": 41,
   "flash_flood": 15,
-  "storm": 21,
+  "storm": 22,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -67,6 +67,20 @@
    "time": "2026-11-17T10:27:33Z",
    "location": null,
    "id": "b7162c504b49c8d1"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZUmV2QkdqbTkyeFlYbXVFSVA0MkVmTnlFUEVvTG5VUjhfZUR6d200RmwwNUNLWW5NVUhUV1JwdTd4cmJUYWhjeGFiazFuN0lrRlNhWklZczBFazBLWHZ1YmkwUXYycDlPaG1heW92ZkY4akpwOEZGdzdMaDE?oc=5",
+   "time": "2026-11-17T10:01:13Z",
+   "location": null,
+   "id": "64d142963f33a6b4"
   },
   {
    "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
@@ -221,6 +235,34 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
+  },
+  {
+   "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "bangkokbiznews",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SM0UyYTJmMEFMbjM2djJ0bGo1RW5COUhmYU14dk52SjYxaHFINVZGUm1Oa3habUR1LWlYdWtfZUU0V20weENFUjFwdTROV0FRTVhXUmpyLXV6al9vczAwWm1NRlhqdw?oc=5",
+   "time": "2026-11-17T13:14:00Z",
+   "location": null,
+   "id": "e383961894cef064"
+  },
+  {
+   "title": "อธิบดี ปค.สั่งด่วน! นายอำเภอภาคใต้เตรียมรับมือฝนหนัก 18–22 พ.ย. เฝ้าระวังน้ำท่วมฉับพลัน 24 ชม.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "สยามรัฐ",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBranBaTzV1UE5Kb0JGemVCdzMtcGJFYjV3ZzlPWUNyTWdoWm9BM1IwZk5nUTVIbHZTQ0llU3A5OW9IRWpWOGtkbDd0eExzV21LdE4teHdMaGk?oc=5",
+   "time": "2026-11-17T12:51:00Z",
+   "location": null,
+   "id": "21c53def3d1e62a5"
   },
   {
    "title": "ยกย่องฮีโร่หนุ่มปั่นจักรยานกว่า 5 โล เคลียร์ทางให้รถกู้ภัยวันเกิด ‘แผ่นดินไหว’",
@@ -2072,20 +2114,6 @@
    "location": null,
    "incident_id": "fr_news_8762d228a8f95b28511f",
    "id": "8762d228a8f95b28"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVSnhJMFNZSkhuYnhSQl9BNUFVaHgxRVoxd2NlT3UzVGVrMUstanBNS2RBRDBjSncwZVdQSTVYS241ZFk3TDdFX1JzY212ZUtCeVBSZENOaTlEVTEwWDhlT1lIMFFkX3NzWmttOXROZGdQQTVUc1EzdnEyTFE?oc=5",
-   "time": "2026-11-16T00:18:48Z",
-   "location": null,
-   "id": "c1c7f621a61a24bc"
   },
   {
    "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
