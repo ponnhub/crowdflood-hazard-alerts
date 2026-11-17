@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T14:40:35Z",
+ "updated_at": "2026-11-17T14:56:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 40,
   "flash_flood": 15,
-  "storm": 23,
+  "storm": 22,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -235,20 +235,6 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
-  },
-  {
-   "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SM0UyYTJmMEFMbjM2djJ0bGo1RW5COUhmYU14dk52SjYxaHFINVZGUm1Oa3habUR1LWlYdWtfZUU0V20weENFUjFwdTROV0FRTVhXUmpyLXV6al9vczAwWm1NRlhqdw?oc=5",
-   "time": "2026-11-17T13:14:00Z",
-   "location": null,
-   "id": "e383961894cef064"
   },
   {
    "title": "ยกย่องฮีโร่หนุ่มปั่นจักรยานกว่า 5 โล เคลียร์ทางให้รถกู้ภัยวันเกิด ‘แผ่นดินไหว’",
