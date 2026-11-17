@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T15:50:47Z",
+ "updated_at": "2026-11-17T16:10:47Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 40,
   "flash_flood": 15,
-  "storm": 23,
+  "storm": 22,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -67,20 +67,6 @@
    "time": "2026-11-17T10:27:33Z",
    "location": null,
    "id": "b7162c504b49c8d1"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZUmV2QkdqbTkyeFlYbXVFSVA0MkVmTnlFUEVvTG5VUjhfZUR6d200RmwwNUNLWW5NVUhUV1JwdTd4cmJUYWhjeGFiazFuN0lrRlNhWklZczBFazBLWHZ1YmkwUXYycDlPaG1heW92ZkY4akpwOEZGdzdMaDE?oc=5",
-   "time": "2026-11-17T10:01:13Z",
-   "location": null,
-   "id": "64d142963f33a6b4"
   },
   {
    "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
