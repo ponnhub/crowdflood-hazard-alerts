@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T09:28:41Z",
+ "updated_at": "2026-11-17T09:41:56Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,8 +18,8 @@
  "counts": {
   "flood": 45,
   "flash_flood": 13,
-  "storm": 21,
-  "landslide": 7,
+  "storm": 20,
+  "landslide": 8,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 6,
@@ -184,20 +184,6 @@
    "id": "f3d4c78851f704a8"
   },
   {
-   "title": "กรมอุตุฯ เตือน ฉบับ 4 ภาคใต้รับมือฝนตกหนัก - ไทยตอนบน อากาศหนาวฮวบ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tLWw4dm5LWkVHUE1DQTFhbUloaWxjS3ZuOW9hS1lYb0NJbktrWV9BS1lPclZWNHdmcVcwYU5JekQ2VnBGTS1vTGFfLUg2aDFheWhQdk5NbjJobFByMTBJUEhJQTBlZw?oc=5",
-   "time": "2026-11-16T11:45:48Z",
-   "location": null,
-   "id": "ea3349ebf6e4574e"
-  },
-  {
    "title": "ปภ. แจ้งเตือน! 15 จังหวัด ภาคกลางและภาคใต้ เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม และน้ำท่วมขัง ช่วงวันที่ 18 – 22 พ.ย 69 | สวพ.FM91",
    "summary": "",
    "category": "news",
@@ -238,6 +224,46 @@
    "time": "2026-11-15T23:51:00Z",
    "location": null,
    "id": "68212f177b3ae3cb"
+  },
+  {
+   "title": "เตือนภัยน้ำท่วมฉับพลันและดินถล่มในจังหวัดกวางงายและลำดง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJlQW51VVRMQjR1Y0Q3aTZkYlY1cXk4bWJGcVViaktydEFWVTd2V2dpeFQwYVotU1AwWjRrbk1Kc2NjTTVfa3dPYkpkV3ItOC1wVXhjMnF0a3pDVkotVHJLV08zZW40X0p3WkdUX3ZpVFFReXBOOTNlb1M4S2JSWGRJMEc0eGdwbGlmVkQ5SQ?oc=5",
+   "time": "2026-11-15T13:59:39Z",
+   "location": null,
+   "id": "6ec1447cbd11a063"
+  },
+  {
+   "title": "ประมงราชบุรี เร่งฟื้นฟูแหล่งน้ำหลังน้ำท่วม ปล่อยปลากะพง 1 หมื่นตัว ไล่ล่า \"ปลาหมอคางดำ\"",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "กรม ประชาสัมพันธ์",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mUDY3S1FEbE5jbDNPcmdKY09LaFZTVWNnbG00UDNUdkJxU3lDYWNQSFFyLXUxT2dWb2FDZFYyZm1BZGwtNHQzU0xteGkzZVZiNVlSbGFXZ1E1RXBmR3phdEVKLWlucWFObE90U3hqRjVLNE5RWXZXdmhwcF8?oc=5",
+   "time": "2026-11-17T09:17:22Z",
+   "location": null,
+   "area": {
+    "code": "TH70",
+    "level": "province",
+    "name": "จ.ราชบุรี",
+    "bbox": [
+     99.163,
+     13.149,
+     100.068,
+     13.961
+    ]
+   },
+   "incident_id": "fr_news_b801bc074375cff224e0",
+   "id": "b801bc074375cff2"
   },
   {
    "title": "นายกฯ ห่วงฝนตกหนักภาคใต้-ปัญหาสารหนูในแม่น้ำสาย สั่งการ ครม. เร่งเตรียมรับมือน้ำท่วม ดูแลคุณภาพน้ำประปาเชียงราย จัดหาน้ำดื่มสะอาดให้เพียงพอสำหรับประชาชน . วันนี้ (17 พ.ย.69) นายอนุทิน ชาญวีรกูล นายกรั",
@@ -1897,20 +1923,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "หลางซอน: หินถล่มลงมาขวางหน้าบ้าน น้ำท่วมสูงขึ้นด้านหลังบ้าน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EazQ1U0hhTHJLNkFFZjhNQWkzSzhKUkhqU2hZOGJHU2w1Mk0weWhkXy1ZUG5mWl9HdzE5QnZGQ09RaktDYXpOUV96SEtKUUM3UFFUZHJyNlViYmVpUlJiWnhzajJKdmthdFVVekZ3NUQzQUZuMm8w?oc=5",
-   "time": "2026-11-15T23:17:17Z",
-   "location": null,
-   "id": "268e9c02488e9695"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
