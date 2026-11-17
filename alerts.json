@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T19:21:28Z",
+ "updated_at": "2026-11-17T19:42:10Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 40,
-  "flash_flood": 18,
-  "storm": 24,
+  "flood": 41,
+  "flash_flood": 17,
+  "storm": 25,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
-  "drought": 6,
-  "pm25": 10,
+  "drought": 7,
+  "pm25": 9,
   "heat": 0,
   "tsunami": 0,
   "other": 0
@@ -81,6 +81,20 @@
    "time": "2026-11-17T08:09:26Z",
    "location": null,
    "id": "cdcfee4de7630b82"
+  },
+  {
+   "title": "ปภ. เตือน 15 จังหวัดภาคกลาง-ใต้ เฝ้าระวังน้ำท่วมฉับพลัน 18 - 22 พ.ย. 69",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DMF9GRGlJbDBTeGsxcVZYQ2sxU0lBRjBxaUlkSEtvQ2NkenRxbmRGX2J2Y3hBa1pOeFRzb1JINDdJSG9nc25XU0JOTk1yOVdIUkdPZmJJeWI?oc=5",
+   "time": "2026-11-17T06:38:13Z",
+   "location": null,
+   "id": "a1cfae4d8633c2ff"
   },
   {
    "title": "ด่วน! ปภ. เตือน 15 จังหวัด รับมือฝนหนักถึงหนักมาก เสี่ยงน้ำป่าไหลหลาก-ดินโคลนถล่ม",
@@ -179,20 +193,6 @@
    "time": "2026-11-16T10:14:10Z",
    "location": null,
    "id": "f141e06bcfaef058"
-  },
-  {
-   "title": "ปภ.เตือน 15 จังหวัด ภาคกลาง-ภาคใต้ เสี่ยงน้ำท่วมฉับพลัน น้ำป่า 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NHZTNjZ2enZ1WFVyamNuUnlUc2hyTzEwYzdxYXAtWHp6eFRJWWlORXloVmhWaVp1dm1YenpDaTNQbFNNcXR5NGVmWVZKN21hRHpMbEFuaVI?oc=5",
-   "time": "2026-11-16T08:55:21Z",
-   "location": null,
-   "id": "258ec293ad5705ed"
   },
   {
    "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
@@ -654,6 +654,21 @@
    "time": "2026-11-17T06:06:56Z",
    "location": null,
    "id": "c392b6beff5418f4"
+  },
+  {
+   "title": "อนุทิน ห่วงฝนตกหนักภาคใต้ กำชับครม.รับมือน้ำท่วม-ดูแลคุณภาพน้ำประปาเชียงราย | Khaosod",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNcGJMVHN2Wnp0a3VtSmY4SEZuTmNjMEdESF9ieXZsRGlXNmNqaWdFeTFlOWd1blU4MFMzS29vVmpuQXcwelFIOUJQclBzZUJIdHhyZHRB?oc=5",
+   "time": "2026-11-17T06:00:00Z",
+   "location": null,
+   "incident_id": "fr_news_8832c96db84ed7e6ecde",
+   "id": "8832c96db84ed7e6"
   },
   {
    "title": "09.05 น. ถนนกาญจนาภิเษก มุ่งหน้าด่านบางขุนเทียนพระราม 2 ฝนตกหนักมาก และช่วงหน้าหมู่บ้านดี.เค. มีงานก่อสร้างด้วย และเริ่มมีน้ำท่วมขังบริเวณพื้นผิวจราจรส่งผลให้รถชะลอตัวติดขัด ท้ายแถวสะสมต่างระดับบางแค ",
@@ -1623,31 +1638,6 @@
    "id": "344622549e4e7cc2"
   },
   {
-   "title": "กรมฝนหลวงพร้อมรับมือฝุ่น PM 2.5 ตั้งหน่วยเคลื่อนที่เร็วที่นครสวรรค์ ช่วยพื้นที่ขาดน้ำ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EeVlNdjNROGFqS1M1czBkRnNidWxiUF9GYzVQUER3RzJ0VzR6amprRGlSNkNRNWVEZUM2dGh0aDZ4ZEdzUUwtOUYxaURRVExrYlRNSGNJS1VvTko4VWVWZzFRXzJNMms?oc=5",
-   "time": "2026-11-16T09:00:00Z",
-   "location": null,
-   "id": "6a40862e46593f16",
-   "area": {
-    "code": "TH60",
-    "level": "province",
-    "name": "จ.นครสวรรค์",
-    "bbox": [
-     99.086,
-     15.052,
-     100.831,
-     16.191
-    ]
-   }
-  },
-  {
    "title": "ตรังวิกฤต! น้ำป่าหลากทะลักท่วม 2 อำเภอ 11 หมู่บ้าน-ทหารลุยฝ่ามืดช่วยอพยพชาวบ้าน",
    "summary": "",
    "category": "flooding",
@@ -2218,6 +2208,20 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
+  },
+  {
+   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "LINE TODAY",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
+   "time": "2026-11-15T23:08:25Z",
+   "location": null,
+   "id": "efdb6b206603bad4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
