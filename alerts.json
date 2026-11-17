@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T16:42:19Z",
+ "updated_at": "2026-11-17T16:59:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 40,
-  "flash_flood": 17,
-  "storm": 24,
+  "flash_flood": 15,
+  "storm": 23,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -53,20 +53,6 @@
      8.681
     ]
    }
-  },
-  {
-   "title": "กรมอุตุฯ เตือนฉบับ 5 ฝนตกหนักภาคใต้ 18-22 พฤศจิกายน 69 ส่วนวันนี้ กรุงเทพและปริมณฑล มีฝนฟ้าคะนองร้อยละ 40 ของพื้นที่ กับมีลมกระโชกแรงบางแห่ง https://www.fm91bkk.com/newsarticle/82205 #กรมอุตุนิยมวิทยา #ฝนตกหนัก #ฝนตกหนักภาคใต้ #กทม #ข่าวสวพFM91",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOWXprRHQtcFlpSE5WUTE0VUxEWkdXRnpPWmhyZXNRY2MzbGFzWlA0cVljUVBFc3VsSlV5RUk3d2xxM01MZnRkeEFRbGc2QS1DcUVtT1BzQ3VzQU9FcEN1TjZTdlNXX2N5RXRYYlVUTkViZWVoNzdnZ2d4OGdXUTU5SVJyTXdhbTNlODkzUVhaOFFHM29pYlVJUUNWVzdSc2trWXJVVXFFeGJqTG5zeXpucXBPaVpfVjdtWDF6bDNBYzBPRWNVZFRlQ3B6NVgxb0J0ZW1EbUNHUE1sQ0o2ZVVSeGp4RTE2R24zM2ZjVzZBQkFZdVhtOS1DZWt6UEZJSkpjck00LW9pZ1RxZTZfQ3F3ZTlrVy1jUF9TcjRZVHRpbTY0NmRYZmY1alJLWFh1LTE2UHVnWlNxY0FKd3ZkcGFpSVVYcEJxRUY0OXVyN2MwMTNIY0VIR29lTklrcXd1ZFg4blcyajNNMnFsOEVESDBmcnpEVHN6M2pOVmh4b1V2Tkw2dU10dW9BcXcwbURDZ0xQRkszOTNQVHJoSGJGMlZZTHRRR1BKbHZCZE85R1Q2LU1UemhnS1duWjZfeEdrVTRPRXZ3bU85TWNYZ3JXTF9BZnJ1YnoxZVYtUnRybDZZRkJhenFjZFh5eXB6MEdTVkdacGg4N1c2eVRlQTJ1SmxiajNwbG81ZWQ4UE1KUkRLY3hHNlhqcmQzQ3huUTlEb3Z5TEtxUkZGQjd4VkVfNFMxZTJXaHlaeENyQWdSNDlwUU9FWXlNcVRJekdIUzB6cWlGaWZ3TEVKYkNXVlpfOGE4a2ZpUnBlSktOWWFOV19sSHlENnNyX3VFUmRfa1hMY0lhMHpNNi1oWXkxVlBhazVDNXZLdzN2Y0NzY2NtbFZzVWxwbHNyaGVyOTc5R2lxSkpFSTI0RUk3V3I2UTNhMkE1b1I0YkxGTVVaaWNBVHU2UEhqZTN1U1VUa3JXMlBrelJmOEZQZ1U3NFZmMEhNdjlWMVpsak5uTERxMkFxUTNBNmRESXNhdEladUlNVTNUTmF0NmZ3MEh2RWRRcml5WmdEZzVCNGhwTFlzR1EwMElXdnU3TjU3WFBveTd3aFpodHBHNjVfSklvYkV0anhsWTdxMWtwUEpCTV9oOGQ1dmY0M1BmM3R2eHpHVXlybmpSVmlFcVhTdHlHZjZMMk5Sal9KRlZMNHBmNnVERGhLdGpneFpHQQ?oc=5",
-   "time": "2026-11-17T10:27:33Z",
-   "location": null,
-   "id": "b7162c504b49c8d1"
   },
   {
    "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
@@ -153,6 +139,20 @@
    "id": "e96f6c6d8a951d65"
   },
   {
+   "title": "กรมอุตุฯ เตือนฉบับ 5 ฝนตกหนักภาคใต้ 18-22 พฤศจิกายน 69 ส่วนวันนี้ กรุงเทพและปริมณฑล มีฝนฟ้าคะนองร้อยละ 40 ของพื้นที่ กับมีลมกระโชกแรงบางแห่ง https://www.fm91bkk.com/newsarticle/82205 #กรมอุตุนิยมวิทยา #ฝนตกหนัก #ฝนตกหนักภาคใต้ #กทม #ข่าวสวพFM91",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOWXprRHQtcFlpSE5WUTE0VUxEWkdXRnpPWmhyZXNRY2MzbGFzWlA0cVljUVBFc3VsSlV5RUk3d2xxM01MZnRkeEFRbGc2QS1DcUVtT1BzQ3VzQU9FcEN1TjZTdlNXX2N5RXRYYlVUTkViZWVoNzdnZ2d4OGdXUTU5SVJyTXdhbTNlODkzUVhaOFFHM29pYlVJUUNWVzdSc2trWXJVVXFFeGJqTG5zeXpucXBPaVpfVjdtWDF6bDNBYzBPRWNVZFRlQ3B6NVgxb0J0ZW1EbUNHUE1sQ0o2ZVVSeGp4RTE2R24zM2ZjVzZBQkFZdVhtOS1DZWt6UEZJSkpjck00LW9pZ1RxZTZfQ3F3ZTlrVy1jUF9TcjRZVHRpbTY0NmRYZmY1alJLWFh1LTE2UHVnWlNxY0FKd3ZkcGFpSVVYcEJxRUY0OXVyN2MwMTNIY0VIR29lTklrcXd1ZFg4blcyajNNMnFsOEVESDBmcnpEVHN6M2pOVmh4b1V2Tkw2dU10dW9BcXcwbURDZ0xQRkszOTNQVHJoSGJGMlZZTHRRR1BKbHZCZE85R1Q2LU1UemhnS1duWjZfeEdrVTRPRXZ3bU85TWNYZ3JXTF9BZnJ1YnoxZVYtUnRybDZZRkJhenFjZFh5eXB6MEdTVkdacGg4N1c2eVRlQTJ1SmxiajNwbG81ZWQ4UE1KUkRLY3hHNlhqcmQzQ3huUTlEb3Z5TEtxUkZGQjd4VkVfNFMxZTJXaHlaeENyQWdSNDlwUU9FWXlNcVRJekdIUzB6cWlGaWZ3TEVKYkNXVlpfOGE4a2ZpUnBlSktOWWFOV19sSHlENnNyX3VFUmRfa1hMY0lhMHpNNi1oWXkxVlBhazVDNXZLdzN2Y0NzY2NtbFZzVWxwbHNyaGVyOTc5R2lxSkpFSTI0RUk3V3I2UTNhMkE1b1I0YkxGTVVaaWNBVHU2UEhqZTN1U1VUa3JXMlBrelJmOEZQZ1U3NFZmMEhNdjlWMVpsak5uTERxMkFxUTNBNmRESXNhdEladUlNVTNUTmF0NmZ3MEh2RWRRcml5WmdEZzVCNGhwTFlzR1EwMElXdnU3TjU3WFBveTd3aFpodHBHNjVfSklvYkV0anhsWTdxMWtwUEpCTV9oOGQ1dmY0M1BmM3R2eHpHVXlybmpSVmlFcVhTdHlHZjZMMk5Sal9KRlZMNHBmNnVERGhLdGpneFpHQQ?oc=5",
+   "time": "2026-11-17T04:46:06Z",
+   "location": null,
+   "id": "b7162c504b49c8d1"
+  },
+  {
    "title": "กรมอุตุฯเตือนภาคใต้ 18-22 พ.ย.69 ฝนถล่ม ระวังน้ำท่วมฉับพลัน น้ำหลาก",
    "summary": "",
    "category": "news",
@@ -221,20 +221,6 @@
    "time": "2026-11-16T01:41:43Z",
    "location": null,
    "id": "cc9ca814d8a0bf42"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศ ฉ.3 ภาคใต้รับมือฝนตกหนัก เสี่ยงน้ำท่วม 18-22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VZXdNWmhkYVpMMWcyQXBCTXZNUndicnduU1Q4QTdOMllmTVNoeDB5NmJDYnJkRmJfTTZoT2tIbTkzT20zbnB4UkJpdzV1NGxQalJaa1RjSXQ?oc=5",
-   "time": "2026-11-16T00:02:50Z",
-   "location": null,
-   "id": "f6c27ecaa6408f78"
   },
   {
    "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
@@ -1429,20 +1415,6 @@
    "id": "6805fb6aeaf34166"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
-   "time": "2026-11-16T11:02:02Z",
-   "location": null,
-   "id": "c95f91b02abd9393"
-  },
-  {
    "title": "ฉะเชิงเทราน้ำท่วมคลี่คลาย บ้านเรือนแห้งเกือบทั้งหมด หลังชาวบ้านเผชิญน้ำนานเกือบ 2 เดือน",
    "summary": "",
    "category": "flooding",
@@ -2167,20 +2139,6 @@
    "time": "2026-11-15T23:08:25Z",
    "location": null,
    "id": "efdb6b206603bad4"
-  },
-  {
-   "title": "เหลือเวลาอีก 2 วัน \"ภาคใต้\" มีฝนตกหนักมาก เตรียมรับมือน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qazVfNDdhaE81ck12bUZzSmstb29aaUlOUWZYWTlaMkhCQnl1eDExU1lrb09VOW5FUnBTa05tSFB6VG50R21GWi04X3psUU02Q0t3?oc=5",
-   "time": "2026-11-15T23:00:00Z",
-   "location": null,
-   "id": "b68046a76f00cda4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
