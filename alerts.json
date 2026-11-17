@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-17T02:13:04Z",
+ "updated_at": "2026-11-17T02:28:06Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,15 +16,15 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
+  "flood": 37,
   "flash_flood": 12,
-  "storm": 19,
+  "storm": 18,
   "landslide": 9,
   "earthquake": 8,
   "wildfire": 0,
-  "drought": 6,
-  "pm25": 0,
-  "heat": 1,
+  "drought": 0,
+  "pm25": 10,
+  "heat": 2,
   "tsunami": 1,
   "other": 0
  },
@@ -140,34 +140,6 @@
    "time": "2026-11-16T01:41:43Z",
    "location": null,
    "id": "cc9ca814d8a0bf42"
-  },
-  {
-   "title": "ไทยปักหมุด COP31 ทวงสัญญาประเทศพัฒนาแล้ว ดึงเงินทุน- ยกระดับเตือนภัยพิบัติ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pamVrQ2lOdGQ5Yjd5NDVHQkNKaTVIV1d5VkN4S19QMGRwWU5FMDVFZFhrYmsxTTNITnNOcFBQMHUwYVhPSE1XNzBWVVZhb2NnRC1NMXk5bWhoSUVnWWhQTGw2Yw?oc=5",
-   "time": "2026-11-15T23:51:00Z",
-   "location": null,
-   "id": "68212f177b3ae3cb"
-  },
-  {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 21 จังหวัด เตือน ฝนตกหนัก น้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRT2xWY21RNGV0LVdhZzVJbUwxblBlNFRXRVZkc1BBZ1pseDIzcTExaEYxQmJqbmRKQ05kOEhHZDhJdTRkR21vTEFJVzVHNWN2U1FwSWtoNHVFYVFIdmxoR2dnMA?oc=5",
-   "time": "2026-11-15T23:34:00Z",
-   "location": null,
-   "id": "8a10b43202bc721f"
   },
   {
    "title": "โพสต์ทั้งหมด | เขย่าหนัก! เผยสาเหตุ แผ่นดินไหวรุนแรง 7.3 ริกเตอร์ ในเม็กซิโก ล่าสุดประกาศเตือนสึนามิแล้ว",
@@ -304,6 +276,31 @@
    "id": "9f0fe232a4497239"
   },
   {
+   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-16T22:48:52Z",
+   "location": null,
+   "id": "2f86748662fb0155",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "แผ่นดินไหว ขนาด 3.0 ประเทศเมียนมา (Myanmar)",
    "summary": "ทางทิศตะวันตกเฉียงเหนือของ อ.ปางมะผ้า จ.แม่ฮ่องสอน ประมาณ 69 กม.",
    "category": "official",
@@ -322,20 +319,6 @@
     "precision": "epicentre"
    },
    "id": "1ed4a3e4a95ca709"
-  },
-  {
-   "title": "ปรากฏการณ์เอลนีโญที่รุนแรงมากกำลังก่อให้เกิดความเสี่ยงต่อภัยแล้งในหลายพื้นที่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0MtZE5YMms1aXVZUG93LTlPd2VhVUFZNnk2dzEwcEp5WmE1YTZOc1NIZExXMDR1ZlN2RlRVQWlodERKNFFPWEduYXU3elVldE5ydVk2UVAteU4wQXhNeDNBaDM1MXFXWEhYSEhqQ2JpekFCS241SEhjZHk2STJSUWtKR05YcUE?oc=5",
-   "time": "2026-11-16T19:04:48Z",
-   "location": null,
-   "id": "a277e09670b2eee1"
   },
   {
    "title": "จบวิกฤต! “แปดริ้ว” น้ำท่วมเกือบ 2 เดือนลดลงเกือบหมด เหลือทุ่งนา-ที่ลุ่ม แม่น้ำบางปะกงยังขุ่น",
@@ -590,20 +573,6 @@
    "id": "6ea3d859fc866354"
   },
   {
-   "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNk9Bb3BvcHE2SkQwMHZGSHVRZi1zVXhpbWZxT0VFdVpHX0RXUXphdzNOZWJneHgwNUFKdFB3NkJIUVVNTnFIbVo5UEFHUkVabmE0Q21Vc0ZVMlFaQlJGMHB4VXVjV3hzNGtDekpHU3U2SjJsY0hqNDA2S042VGd1WWpvQkVyY1JoTV9TS0hXOFJVVFF6U2c?oc=5",
-   "time": "2026-11-16T10:03:47Z",
-   "location": null,
-   "id": "06c7c1e37a358803"
-  },
-  {
    "title": "กรุงเทพฯ อ่วมฝนกระหน่ำ เพชรบุรี-รามคำแหง-อโศกจมน้ำขัง",
    "summary": "",
    "category": "flooding",
@@ -622,6 +591,20 @@
    },
    "incident_id": "fr_news_de01b50d796f98584c75",
    "id": "de01b50d796f9858"
+  },
+  {
+   "title": "ฝุ่น PM2.5 เริ่มพุ่ง! กทม.-ปริมณฑล พบเกินมาตรฐาน 9 พื้นที่ เตือน 19–20 พ.ย. ฝุ่นสะสมเพิ่มขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "www.topnews.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ENGZkYVJKVl93RXFiNFI2MGllaGhhZGhBd0o3R3pWVEg5R3Fjb1BGY2R1dTh2UktjRVNtVU9tU1lVUFhvUGdYRl9TZGd1WWc?oc=5",
+   "time": "2026-11-16T09:37:04Z",
+   "location": null,
+   "id": "73234ce3f0456c07"
   },
   {
    "title": "สิ้นสุดสถานการณ์น้ำท่วมแปดริ้ว ทุกตำบลแห้งหมดแล้ว หลังแช่ขังมายาวนานเกือบ 2 เดือน",
@@ -789,6 +772,20 @@
    "id": "2e46894685c3db7c"
   },
   {
+   "title": "ฤดูฝุ่นมาแล้ว! ส่องแผนรัฐรับมือ ‘ฝุ่น PM2.5’ ตั้งเป้าปี’70 ลด 5-10% จะทำได้หรือไม่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "springnews",
+   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHZmF4c0gyeVU0UlU1NHBpWmpVcHFWaVQ0Qmc4TE96cEFyNDM1UHl4SEZ3RTZkdlB5dU9GNW5ya0p3aF80Y1NmYUpCNi1TbkJuZ2dfZ01qV3BTY0lzTTZkRlZ4ZWpHaW5uS045cWJEZw?oc=5",
+   "time": "2026-11-16T07:42:00Z",
+   "location": null,
+   "id": "e14d82b07d605440"
+  },
+  {
    "title": "ตรังวิกฤตหนัก! ฝนถล่มน้ำป่าทะลักท่วม 2 อำเภอ รัษฎา-ห้วยยอด | The Bangkok Insight",
    "summary": "",
    "category": "flooding",
@@ -826,7 +823,7 @@
    "title": "วิกฤตโลกร้อน ใกล้จุดกู่ไม่กลับ จ่อร้อนทะลุ 2.7 องศาฯ ภัยพิบัติอาจเกินรับมือ",
    "summary": "",
    "category": "news",
-   "hazard_type": "drought",
+   "hazard_type": "heat",
    "severity": "medium",
    "urgent": false,
    "official": false,
@@ -922,6 +919,31 @@
    },
    "incident_id": "fr_news_37c660b51b10a37aff0f",
    "id": "37c660b51b10a37a"
+  },
+  {
+   "title": "กทม.10 เขต ค่าฝุ่น PM 2.5 เกินมาตรฐานระดับสีส้ม เริ่มมีผลกระทบสุขภาพ เขตบางเขนมากสุด",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "spacebar.th",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeEMyQ0Z2Q3p1T21VbTM3cEVNWUZJeUZMal9aUEhROFZldFZMWmljX1NtdWN1MlprUi1GamhGOS1YejQwWlc5NDlTUk9CeDViNWUtc0kyYXZnUm44QlBGcXZZWE5hOVAtcFhzR0xzV3lwX1NlTzhUaXlOZ2NDRmxXcVcwS2pZS09YelpHdWpmNXltTzZaY2lKM1VB?oc=5",
+   "time": "2026-11-16T06:27:00Z",
+   "location": null,
+   "id": "36682ed795e2ccb9",
+   "area": {
+    "code": "TH1005",
+    "level": "amphoe",
+    "name": "เขตบางเขน กรุงเทพมหานคร",
+    "bbox": [
+     100.587,
+     13.844,
+     100.684,
+     13.9
+    ]
+   }
   },
   {
    "title": "สถานีประชาชน - บทเรียนน้ำท่วมหาดใหญ่ สู่การรับมือ",
@@ -1044,20 +1066,6 @@
    "id": "67cc44ed4fad37a8"
   },
   {
-   "title": "ลุ้นลมหนาวรับลอยกระทง จับตาฝนหนักถล่มภาคใต้ เตือน 5 จังหวัดเสี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lOWRoXzRoLUFCdnpYOHBJX25iXzlyRTRDcDc3Y0FTVW1uVG0tbGZOZXRIY0JUN0NvUDJXTzc0dTNXbE94VmhJX1puUDc1SE5mVWgybW1R?oc=5",
-   "time": "2026-11-16T03:00:00Z",
-   "location": null,
-   "id": "6593af03da976aa3"
-  },
-  {
    "title": "อัปเดตด่วน! น้ำท่วมอำเภอรัษฎา จังหวัดตรัง ขยายวงกว้างกระทบ 4 ตำบล",
    "summary": "",
    "category": "flooding",
@@ -1104,6 +1112,31 @@
    "id": "7cfb0ecf7dedc97f"
   },
   {
+   "title": "ฝุ่น PM2.5 กทม.เกินเกณฑ์ 10 เขต บางเขนหนักสุด! เตือนลดกิจกรรมกลางแจ้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ททบ. 5",
+   "source_url": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxNczltem5GRFRGVlY3VUNpRnBmWlNRQWsyR1haNjNsMDBYMzU3eURiU3lOeDlMUDVKODQxY1QzRnktQ0lET21lV2g0dkt4aURmcFJKb1FlU0dwR0x2eGFBTzhvdmpydU9UYnNOdXpaVURINzIxUkYyeVlmNHRFN0kzaHF6M21NeEhQMkU1QmVmekZyeTdaRzJ0TmF3VEU1dUJuY1Mxc0JSZWlXcDhlQ2t2QW5tYWZQamFHUUlHbmtZRGU4WlFaN2lSZFItaEJtakFZRXlySjYweEU5VWpQQUY5Q3lqU1lDNTdsam9fVUVSdmp5WGlTY0ZTbnBQNDFRMEtqd09uTzRKaFZ3ZkJ0anhCTmRidW5yWk9nSVV3aTNrV21zejVELXhlem9lNHBZZ1J2Q1BSLWFGNTNyOFZyTGt3M3BRMjFLVFItUHlUWjQ1eDBqUGRnUVB0NTMxOWEwbmxTWjEzQmhYX3cyODBhcl9aSm5vcXFfd2ZqREJTSEhpWUFmTmdYVUd3emhyY3N2dDlZQTg5NldhTV9zRXFsRWEyVGcyVUpTa195Zlo2ektfV3I5RWYxQmxPUkM1YXZqSEN5TS1yNFZnSmhBUGxLZFVsdUdrUXRwSzFRdC15Ry1abE8zMzcwTGx4N3NGZzRzc21lekUybXdSTlEtSmQtdENxR01mcDVVV1o3VjZ1Q0dib0xTblRkT3ZQTFdrRUFKZHF5SjNKeXF3R1RoWXZOOGE4YUc1SDM0cFhteWhkNWFKZGd1WmdCeC11WEJ5RlRiUmlZMEd0dEkyUXhzdHNQZVI3a2NqMWNrcExmdWxHeTZ0X3hRUUFOZXNwRVBWTjV4ejVUQkh6RENYSkQ4RTR0VktDNmhBWUtrQ0FTY3FnQmw2bF9TR01TSEF4YVJzd0ZQeUNoY3RXbU9nUUdWc0c3V2g3eGNWdHBQRnJjemJTeUFOdHJkanBDT2VGNnlTaTI2eUxmSWNhbVVtNFk?oc=5",
+   "time": "2026-11-16T02:12:00Z",
+   "location": null,
+   "id": "55b8cca6923475ce",
+   "area": {
+    "code": "TH1005",
+    "level": "amphoe",
+    "name": "เขตบางเขน กรุงเทพมหานคร",
+    "bbox": [
+     100.587,
+     13.844,
+     100.684,
+     13.9
+    ]
+   }
+  },
+  {
    "title": "กทม.ฝนตกหนักเมื่อวานนี้ ซ้ำรอยจุดเดิม-ภาคใต้ ฝนตกหนักวันนี้",
    "summary": "",
    "category": "flooding",
@@ -1117,6 +1150,56 @@
    "location": null,
    "incident_id": "fr_news_434de586370c4d509dcd",
    "id": "434de586370c4d50"
+  },
+  {
+   "title": "เช้านี้ค่าฝุ่น PM 2.5 กทม. เกินค่ามาตรฐาน 10 พื้นที่ เริ่มมีผลกระทบต่อสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzSWhWSDJ4TTJkTEZ0emJKWTZjZkdielF1cnZxNjlnSzk5TG5zUm9wV1VSLW1VS3UzYU1yRVRjejNJMEFVdVhSQWJEaURHcU50SnZLOEN1bzVhUWZjNVVCaXNkZw?oc=5",
+   "time": "2026-11-16T01:10:00Z",
+   "location": null,
+   "id": "1abb9be612dba213",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
+   "title": "10 เขต กทม.ฝุ่น PM2.5 เกินเกณฑ์ระดับสีส้ม มากสุด \"เขตบางเขน\"",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vWm9hejRkWTlGdE83MlIxZk1Vd2xxQXR3U3BCTzlrMnQwS080UERUSWZDM0dueEhxUmhTNUdaQmlROGxDendoMnlvMmVZd2F3eGhpMkF6dlE?oc=5",
+   "time": "2026-11-16T00:32:19Z",
+   "location": null,
+   "id": "c78abe686499a12b",
+   "area": {
+    "code": "TH1005",
+    "level": "amphoe",
+    "name": "เขตบางเขน กรุงเทพมหานคร",
+    "bbox": [
+     100.587,
+     13.844,
+     100.684,
+     13.9
+    ]
+   }
   },
   {
    "title": "ภาคใต้ฝนตกหนัก สูงสุด 60% กรมอุตุเผยเหนือ-อีสานอากาศเย็นตอนเช้า กทม.ต่ำสุด 25 องศาเซลเซียส",
@@ -1134,6 +1217,31 @@
    "id": "8762d228a8f95b28"
   },
   {
+   "title": "🟡😐 เช้านี้คุณภาพอากาศ กทม. อยู่ในเกณฑ์ปานกลาง 😑 PM2.5 ค่าเฉลี่ย 34.1 มคก./ลบ.ม. ☁️📡 ศูนย์ข้อมูลคุณภาพอากาศ กทม. รายงานสถานการณ์ฝุ่นละอองขนาดไม่เกิน 2.5 ไมครอน (PM 2.5) ในกรุงเทพมหานคร ประจำวันที่ 16 พฤศจิกายน 2569 เวลา 07.00 น. 🔍ค่าเฉลี่ยของกรุงเทพมหาน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMijAdBVV95cUxPeGhpSDJKYk0wUEllMUY2U3FnekZiWEtGMEpaNlFuUFdCNmhhUm1wdC1LU0F4LUlEbTRyWGVfTFhzcFNJR2R5Rmt4dkJrNVRUeDRBM3VWbFN5c2lHMXZYaV9UWXRONFRZaGVYRmpvTG5WNm05UTdlUDBUelhhb2w3R3hiVWpBMGdBdGh4Ump6UElfTEY1eXhVX1UycHlnd0Q1N2swWjVIV29felhhQ0dVR1E5ckU5ZG52QlFHdy1Ub3Z3cnM1ZldoZzJYM1BBOUFpQWxBakt4ZmxrekFzTkFzMHNwZ3lGbFNyUEhCeGFneVFGM3EtQ3B4enV5TU0xVzdBNjFVbThoYkQ5M2ZBdzFtMy1SVXAxUEhxakEtREpSRUVueDhyQkhvRWpsWHhaUDI3VnBYaTlINU84eE41WVRnRnNta1FZUElnRkc2UEViTHdtUElYdlpncGVsS0tkNDh0cWxBVlZPUjZ2N1otSXNraURsbUotTlc3d2ZKOUpOM0dCMnF2b003cTIyYkg0WGV4cmVyamxuUFNUQjIwZVZ1MVZFam1FY1A3MU53WW8yYzR3MldmZUFWSC1iNEsxVDA5VTFzMVJkU0s2SVNRWWVndTRTWkNjTVdYTnJVRkZoNWF1NHpldmhGYTE3ZVItS0RicjI0bXB1OURQekFxU2diQnNyWUVDVzF3bWp6VDFtX1Y1UUhwNFg1bmdJTDJQMzBOZENjRFdLMzVoVzRROGJmSG1fTWhOc1R4MnJjeS05blctbXVZYkJ5VFoxLUFNN08tYzRUMlZnVnV2RGFjTE1LMFFUbXk1V0lucGI5d0FLaC01Q0piUGRnSjlIdmt6X29rSUZaaUpKMWFoM0U0cFhwRkpmUEduQjM1aWJGYXJueTFodTRHT2lkQU15eTNHX1ZiVWxvOGRjclJQbG9xaWhkY01hT1d5RGpOZFhzdmVyTjYtLVZPWWxwZlBzWWtEcnplM3l2QmRiNThqcU1RMUFLcUQ1YlFuTUJaMHd3eVd0bnVhUFhuV25WM1Q2RkpWTFFzem1Kb0hTMktZaFdKU19vdjlOTGNCb3d6Rms4VXFqVnJlM3RUak5UQTFrdHA3YXVoUEhFUmZHOUQyLURwWFkyaFROOEdKelp2aVpiSlBLYzRNMlBQMWQ2NFo1Z1loNnVyNXBVN0Jkc3FPX2xEZXctS0YzODVaNmZObmg1Tg?oc=5",
+   "time": "2026-11-16T00:25:49Z",
+   "location": null,
+   "id": "4dc1720054a28647",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "สภาพอากาศวันนี้ 16 พ.ย. เตือน 21 จังหวัดยังมีฝนฟ้าคะนอง ระวังน้ำท่วม ทะเลคลื่นสูง",
    "summary": "",
    "category": "news",
@@ -1146,20 +1254,6 @@
    "time": "2026-11-16T00:18:48Z",
    "location": null,
    "id": "c1c7f621a61a24bc"
-  },
-  {
-   "title": "โพสต์ทั้งหมด | 14 พฤศจิกายน 2498 วันพระบิดาแห่งฝนหลวง รำลึกพระอัจฉริยภาพในหลวง ร.9 ทรงจุดประกาย \"เทคโนโลยีฝนหลวง\" ช่วยเหลือชาวไทยจากภัยแล้งนับไม่ถ้วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VQnlvdWF2UzFHVFVISjFNT1FSN3V4M1ByNk9lR1EwbWlIa1JKUW9LLUt0MFhBTzhWWHA2VlYwTnZ5aGg4RlZoQzJyQ0pVNjlPQlhHSTBRNHpydUZ5VjJpNlR4d0c?oc=5",
-   "time": "2026-11-15T23:08:25Z",
-   "location": null,
-   "id": "efdb6b206603bad4"
   },
   {
    "title": "24 ชั่วโมงข่าว 91 ประจำวันที่ 15 พฤศจิกายน 2569 >> สน.วิภาวดี ตั้งด่านเป่าเมา แต่เจอของใหญ่ รวบรถหลุดจำนำซุกปืนพร้อมกระสุน-ป้ายทะเบียนสวมรอย 2 ป้าย >> ฝนถล่มบางพลี ต้นมะขามเทศยักษ์โค่นทับหนุ่มส่งแก๊สว",
@@ -1206,20 +1300,6 @@
     "precision": "epicentre"
    },
    "id": "499b0f2857e9ffb4"
-  },
-  {
-   "title": "บราซิล: รัฐอะมาโซนาสเผชิญภัยแล้งรุนแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem9kNUhYcjhnMFJSOXpGTE1HejEzUUtaaEhhczFWMFExcXFEamwtWXV1eGpuVlJ5V3dtR3VRcUlhVS14eXFiOE52WDhZRktXZEZrNE1Jb25mYS1mYVA4TldoTzFTVGJIN180RDVXYldnRTNETkdKckNjaEFQSHhVYUotN2tuNkx0cTItQWtoaw?oc=5",
-   "time": "2026-11-15T18:09:46Z",
-   "location": null,
-   "id": "f866f7d93154c046"
   },
   {
    "title": "แผ่นดินไหว ขนาด 4.0 ประเทศเมียนมา (Myanmar)",
@@ -1426,6 +1506,20 @@
    "id": "daf2d54502f3f4d0"
   },
   {
+   "title": "เตือนฝุ่น PM2.5 กทม. -ปริมณฑลเกินมาตรฐาน 9 พื้นที่ 19–20 พ.ย. 69 แนวโน้มสูงขึ้น",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11NWdlOXV0cFp4cFBLNzBvM3VTZUFEWmwxa2d5ZkNYcFpmMl9XQ1N3Mmd0aC1lRDZ2R3BEclJFeE9aQ1F3U21vSGN1YVBEUWVTcUYzMlMwX0l4Z2o2OE5nd0xDRHBXTmQ0Nzdz?oc=5",
+   "time": "2026-11-15T10:00:00Z",
+   "location": null,
+   "id": "9d7a411b3d28ede9"
+  },
+  {
    "title": "ยกของขึ้นที่สูงด่วน! เปิดรายชื่อ 7 จังหวัด พื้นที่เสี่ยงดินถล่ม - น้ำป่าไหลหลาก",
    "summary": "",
    "category": "news",
@@ -1550,6 +1644,20 @@
    },
    "incident_id": "fr_news_b87384f07f0d615366df",
    "id": "b87384f07f0d6153"
+  },
+  {
+   "title": "เตือนฝุ่น PM2.5 กทม.-ปริมณฑล เกินมาตรฐาน กระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thaipost.net",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aRmFjVjFoeGtJZkFBWFZqeEtDdTY2LTBCQ2U5dk96UFQzX01TVUhCMEtQVm1GQVZtazVIY3pDRVU5Vm9ySGYwUWRsM2NqZ0Jhbmt0SC1EVF8?oc=5",
+   "time": "2026-11-15T08:32:04Z",
+   "location": null,
+   "id": "03db65781e9a2fe8"
   },
   {
    "title": "กรุงเทพอ่วม! ฝนตกหนัก น้ำท่วมหลายจุด ถนนเพชรบุรี รถติดยาว แนะผู้ใช้ทางระมัดระวัง",
@@ -1912,32 +2020,6 @@
    },
    "incident_id": "fr_news_1b21fdfbaa19dc1f3225",
    "id": "1b21fdfbaa19dc1f"
-  },
-  {
-   "title": "เช็กด่วน! รัฐบาลโอนเงินเยียวยาน้ำท่วมแล้วกว่า 1.3 หมื่นล้าน ครอบคลุม 1.76 ล้านครัวเรือน กทม. จ่ายแล้วกว่า 7 แสนราย สัปดาห์หน้าเตรียมโอนค่าซ่อมบ้าน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93N1dyUlVwNG1jTjd0TGRRVklSbHdQRWNGTUF1Y2ZIM0ZHOVdwVVV0eXVHV25vZjNUU1kzdXI5Zk8yYnQxQ3ktVjVYRnlNTUU?oc=5",
-   "time": "2026-11-15T02:18:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_c00ba0d552d3b007df13",
-   "id": "c00ba0d552d3b007"
   }
  ]
 }
