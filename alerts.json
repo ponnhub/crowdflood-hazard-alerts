@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T00:29:39Z",
+ "updated_at": "2026-11-18T00:43:32Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -18,7 +18,7 @@
  "counts": {
   "flood": 41,
   "flash_flood": 17,
-  "storm": 24,
+  "storm": 21,
   "landslide": 7,
   "earthquake": 7,
   "wildfire": 2,
@@ -67,20 +67,6 @@
      8.681
     ]
    }
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 18 พ.ย. แจ้งเตือน 48 จังหวัดฝนตกหนัก ลมกระโชกแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZUmV2QkdqbTkyeFlYbXVFSVA0MkVmTnlFUEVvTG5VUjhfZUR6d200RmwwNUNLWW5NVUhUV1JwdTd4cmJUYWhjeGFiazFuN0lrRlNhWklZczBFazBLWHZ1YmkwUXYycDlPaG1heW92ZkY4akpwOEZGdzdMaDE?oc=5",
-   "time": "2026-11-17T10:01:13Z",
-   "location": null,
-   "id": "64d142963f33a6b4"
   },
   {
    "title": "NEWS UPDATE : ใต้เตรียมรับมือ! ฝนหนักถึงหนักมาก 18–22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน–น้ำป่าไหลหลาก กรมอุตุนิยมวิทยาเตือนภาคใต้รับมือฝนตกต่อเนื่องช่วงวันที่ 18–22 พฤศจิกายน 2569 โดยจะมีฝนหนักหลายพื้นที่และหนักมากบางแห่ง ขอให้ประชาชนในพื้นที่ลุ่ม ลาดเชิงเขา และใกล้ทาง",
@@ -348,20 +334,6 @@
    },
    "incident_id": "fr_rss_be9e0b95e8f1e2ffdece",
    "id": "be9e0b95e8f1e2ff"
-  },
-  {
-   "title": "อุตุฯ เตือน ใต้ฝนตกหนัก 18-22 พ.ย. ไทยตอนบนเย็น ลมแรง อีสานอุณหภูมิลด 4 องศา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "bangkokbiznews",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aDB3YUtzWWVmMnZsY01wNVcxcWlRRzhUcnVFa2F5NlFDNnFJc081R1ZyZ2VVTGgtWDJjdzQwR1VxRnMteXZoTWVsbGVGbG9zc2hwLW9CbmI2SU5aNW52V0M1VV8wdw?oc=5",
-   "time": "2026-11-17T10:35:22Z",
-   "location": null,
-   "id": "1d01a745cfe8efbc"
   },
   {
    "title": "อุตุฯ ฉบับ 6 ฝนถล่มภาคใต้ เช็ก 6 จังหวัดรับมือฝนตกหนัก 18 พ.ย.เสี่ยงน้ำท่วมฉับพลัน",
@@ -2168,44 +2140,29 @@
    "id": "434de586370c4d50"
   },
   {
-   "title": "10 เขต กทม.ฝุ่น PM2.5 เกินเกณฑ์ระดับสีส้ม มากสุด \"เขตบางเขน\"",
+   "title": "ฝุ่น PM2.5 กรุงเทพฯ เช้านี้เกินมาตรฐาน 10 เขต “บางเขนสูงสุด”",
    "summary": "",
    "category": "news",
    "hazard_type": "pm25",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vWm9hejRkWTlGdE83MlIxZk1Vd2xxQXR3U3BCTzlrMnQwS080UERUSWZDM0dueEhxUmhTNUdaQmlROGxDendoMnlvMmVZd2F3eGhpMkF6dlE?oc=5",
-   "time": "2026-11-16T00:32:19Z",
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByQzAzSWdhVEk4TFh4eXo0cWVlR1lVWUpiajNIUUd4MmZHZUpZSDZZdU5HenM1a3cxQWNudndHYzVadEJwRkdVZ0tvbmlkTnFvZGlz?oc=5",
+   "time": "2026-11-16T00:59:00Z",
    "location": null,
-   "id": "c78abe686499a12b",
+   "id": "1a44dd20d52c7a13",
    "area": {
-    "code": "TH1005",
-    "level": "amphoe",
-    "name": "เขตบางเขน กรุงเทพมหานคร",
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
     "bbox": [
-     100.587,
-     13.844,
-     100.684,
-     13.9
+     100.328,
+     13.493,
+     100.939,
+     13.955
     ]
    }
-  },
-  {
-   "title": "ภาคใต้ฝนตกหนัก สูงสุด 60% กรมอุตุเผยเหนือ-อีสานอากาศเย็นตอนเช้า กทม.ต่ำสุด 25 องศาเซลเซียส",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Matichon Online",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NDljT1Z5Qk5jaGc2UlFkeVFGUXRDWmZHNi1teDdPVnl5NzQ2aXZhSU5ZT1pIX3JvLTR2LTVFQnhGekcxM2U0X2kzd3NrOGlMRXloeWtJSHQ?oc=5",
-   "time": "2026-11-16T00:30:34Z",
-   "location": null,
-   "incident_id": "fr_news_8762d228a8f95b28511f",
-   "id": "8762d228a8f95b28"
   }
  ]
 }
