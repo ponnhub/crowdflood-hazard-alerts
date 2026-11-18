@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T05:06:45Z",
+ "updated_at": "2026-11-18T05:26:14Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
+  "flood": 39,
   "flash_flood": 16,
-  "storm": 22,
+  "storm": 20,
   "landslide": 4,
   "earthquake": 7,
   "wildfire": 1,
@@ -70,20 +70,6 @@
    "time": "2026-11-18T00:49:40Z",
    "location": null,
    "id": "13999e8be8f44753"
-  },
-  {
-   "title": "กรมอุตุฯ ประกาศฉบับที่ 7 เตือน ฝนตกหนักถึงหนักมาก น้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KLUs5T2VURXl2dkFOVmZfd25BQ1pBVWc5SG5Ra3FQejdnZzBSZk5sVHBZOXZSNmdLdXZHRnFfRWtXcXo2ZGZKbGxkT285NFBPdnFnRGxqTjZYNl9NVUs1SDNUWQ?oc=5",
-   "time": "2026-11-18T00:00:00Z",
-   "location": null,
-   "id": "bce411cd21bd4608"
   },
   {
    "title": "ปภ. ส่ง Cell Broadcast เตือนน้ำล้นตลิ่ง ต.อ่าวลึกใต้ จ.กระบี่ ยกของขึ้นที่สูงด่วน",
@@ -259,6 +245,20 @@
    },
    "incident_id": "fr_news_4f03f7df4eccb6f2e048",
    "id": "4f03f7df4eccb6f2"
+  },
+  {
+   "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ตอนล่างฝนเพิ่มขึ้น ฝนตกหนักถึงหนักมาก ระวังฝนสะสมต่อเนื่",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxQRm43cGk3TUJVc2s2eHNrcXl6eUNFQkZqU1l3Ml8yTHlXOXN1enFpVGhCS0pBRjdTSGJ6SmRHNnB3VE1MNF9KOFQ2d0hKZmd0aHpSdUd1enZnM0Q3bnROS3lha19CTmxBWV9pZVpnckpXOU1aek9ESDE3Q0lUQ1Zibk91RHY2QmZ0OTF4TTVRMkdqSTk3NlVBOEpnYW5HNEVDY0dhNnF3VDRHTnhEOHFXYktGQ2xFM3VlNjVzWXBtQlpJWGFxV0VmMWZ5c1RsRDdUNmREbk9ONzBocFc1b0lWMGU1bk9IUlFXWW8wRVFJXzctV0l0RkJQXzd6NC1hRE9PZ09jREZYSW04OHpVaE1tTGd4blZUaXB5c2hWUld1TWw5VExwajRrQ2xIWDVIcGVTV1NJc1dsdHdaa1BUNC1EOWFOX1RXRGdrb2pNbnFwcjR5NDlpckFFZHZaTTY5Q1A5NldpM2hZYjg1MlI1cHpubzgtOHR0RkVpOURSaV9Lb0ZxeEV3eXZtZzdCSTVMNk81WDEzOHF4TkNRajdKM2NuSmExTnRBMUlCc1RRcjE4VE12TEpTc3FuT2R6X1hacGwySG9Bc0gyb3JaUk0tdnhLQ1l1VTdUa0k3TEdjcTNtZC1BSzFqa2JFUUJ5VXNNWi12QmowMmZPVmlkUGVKMF9vQVZiSGRNZlJqV0REVWxGYlVPQWljWWNIVkF6M2g2NUxYbTEtUUtqNEd3T0FyUlJYcjgxU2hHY3RRTU5iYzBIQ0hrb21SdVlGMXRFWlpRRXZ1aEsxR1JLX1JuUHNLY19BYXN5MGJMVDhLc25UaE02aHE5SngzZlJkaDBxb2d3ZjFaYjRudzVlY3ZraXNQM19YVlF4M0dBcGN2cklJd1hiNDlraWV3Tm9rUng4RlVHcU1hZFdqUVVpOTBsWHo1YldjWkhZUlhpNW1mVTNpNVRIMk5iLUoyVkRjQ1JiSHducEFEXzFfTlN2dS1KSkstTUI0b2JHM0JEVHJpa2ZyVVNpMjJWZl9WbFgxVno2d1U0bmlBZ2V0V1l5bHpCWmptc1JNcDlEdnRnbHZMd3FJLXRLelZfV3gwdEhFdjVTMXRGNG9CdjQzRWtTTWV2UjgtTkJQakVEVV9DUDlpUkwwZVVHX1VvdnYwclVBRVhnTUZvODVvY2FYYWF4UmhMNkRIN1VQWkRtQnNpRVRIYzhveF83VTJqQndiOVp1cy00S1hsTWdjV2tLOHNaQlZmSnZiQ3FFNzVrVjVOcUpPeUxuV1NaM3ZFaXo5OXNnODJ0VXNrZE5ndEF0TnRR?oc=5",
+   "time": "2026-11-18T04:41:33Z",
+   "location": null,
+   "id": "fc606d463def7a8f"
   },
   {
    "title": "หาดใหญ่เตรียมพร้อมที่จอดรถ อพยพกลุ่มเปราะบาง รับมือฝนตกหนัก 19-22 พ.ย. หวั่นเกิดน้ำท่วม",
@@ -445,21 +445,6 @@
    "id": "a89857ee9f5055b6"
   },
   {
-   "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ตอนล่างฝนเ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "storm",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxQRm43cGk3TUJVc2s2eHNrcXl6eUNFQkZqU1l3Ml8yTHlXOXN1enFpVGhCS0pBRjdTSGJ6SmRHNnB3VE1MNF9KOFQ2d0hKZmd0aHpSdUd1enZnM0Q3bnROS3lha19CTmxBWV9pZVpnckpXOU1aek9ESDE3Q0lUQ1Zibk91RHY2QmZ0OTF4TTVRMkdqSTk3NlVBOEpnYW5HNEVDY0dhNnF3VDRHTnhEOHFXYktGQ2xFM3VlNjVzWXBtQlpJWGFxV0VmMWZ5c1RsRDdUNmREbk9ONzBocFc1b0lWMGU1bk9IUlFXWW8wRVFJXzctV0l0RkJQXzd6NC1hRE9PZ09jREZYSW04OHpVaE1tTGd4blZUaXB5c2hWUld1TWw5VExwajRrQ2xIWDVIcGVTV1NJc1dsdHdaa1BUNC1EOWFOX1RXRGdrb2pNbnFwcjR5NDlpckFFZHZaTTY5Q1A5NldpM2hZYjg1MlI1cHpubzgtOHR0RkVpOURSaV9Lb0ZxeEV3eXZtZzdCSTVMNk81WDEzOHF4TkNRajdKM2NuSmExTnRBMUlCc1RRcjE4VE12TEpTc3FuT2R6X1hacGwySG9Bc0gyb3JaUk0tdnhLQ1l1VTdUa0k3TEdjcTNtZC1BSzFqa2JFUUJ5VXNNWi12QmowMmZPVmlkUGVKMF9vQVZiSGRNZlJqV0REVWxGYlVPQWljWWNIVkF6M2g2NUxYbTEtUUtqNEd3T0FyUlJYcjgxU2hHY3RRTU5iYzBIQ0hrb21SdVlGMXRFWlpRRXZ1aEsxR1JLX1JuUHNLY19BYXN5MGJMVDhLc25UaE02aHE5SngzZlJkaDBxb2d3ZjFaYjRudzVlY3ZraXNQM19YVlF4M0dBcGN2cklJd1hiNDlraWV3Tm9rUng4RlVHcU1hZFdqUVVpOTBsWHo1YldjWkhZUlhpNW1mVTNpNVRIMk5iLUoyVkRjQ1JiSHducEFEXzFfTlN2dS1KSkstTUI0b2JHM0JEVHJpa2ZyVVNpMjJWZl9WbFgxVno2d1U0bmlBZ2V0V1l5bHpCWmptc1JNcDlEdnRnbHZMd3FJLXRLelZfV3gwdEhFdjVTMXRGNG9CdjQzRWtTTWV2UjgtTkJQakVEVV9DUDlpUkwwZVVHX1VvdnYwclVBRVhnTUZvODVvY2FYYWF4UmhMNkRIN1VQWkRtQnNpRVRIYzhveF83VTJqQndiOVp1cy00S1hsTWdjV2tLOHNaQlZmSnZiQ3FFNzVrVjVOcUpPeUxuV1NaM3ZFaXo5OXNnODJ0VXNrZE5ndEF0TnRR?oc=5",
-   "time": "2026-11-17T23:03:22Z",
-   "location": null,
-   "incident_id": "fr_news_fc606d463def7a8f785b",
-   "id": "fc606d463def7a8f"
-  },
-  {
    "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
    "summary": "",
    "category": "news",
@@ -520,20 +505,6 @@
    },
    "incident_id": "fr_rss_be9e0b95e8f1e2ffdece",
    "id": "be9e0b95e8f1e2ff"
-  },
-  {
-   "title": "อุตุฯ ฉบับ 6 ฝนถล่มภาคใต้ เช็ก 6 จังหวัดรับมือฝนตกหนัก 18 พ.ย.เสี่ยงน้ำท่วมฉับพลัน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DLV9qQkR3S2FaZHlpaHNockxwdnlNMzNPWGx5M0QtbklGeUZqaFl2dWZfT29hWEZ1cjR5X2VlMHUwVFNMOHRDMVdZWnJLVVFNb2lFcGNhUHo?oc=5",
-   "time": "2026-11-17T10:35:00Z",
-   "location": null,
-   "id": "932aa01cd382ed2f"
   },
   {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
@@ -785,6 +756,20 @@
    "location": null,
    "incident_id": "fr_rss_acbc3b84c9ebe60e4e8f",
    "id": "acbc3b84c9ebe60e"
+  },
+  {
+   "title": "เสริมสร้างการสนับสนุนด้านโลจิสติกส์และเทคนิคสำหรับการรับมือกับอุทกภัย",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNW9Xb3Nka3dhdExQZ2JXR1hYQXFPaGlsU0w5VEZ0dzIzaXg2UGdyQ0lxZ19pS1hJWXdlMUlZaU1DNjd4OE5CUXlpUHA4bTNyeUhJU2FobXhJQkdRa2tJTGVUOUJTMGF6dkVtSHJmdmNVYkpXUnRRVXl3VVNLTkxJdzdR?oc=5",
+   "time": "2026-11-17T06:07:08Z",
+   "location": null,
+   "id": "5d4929fa4cb36ff1"
   },
   {
    "title": "เนื่องจากปรากฏการณ์เอลนีโญทวีความรุนแรงขึ้น จังหวัดฮาติ๋งจึงได้เตรียมแผนรับมือภัยแล้ง การขาดแคลนน้ำ และไฟป่าอย่างเป็นเชิงรุก",
