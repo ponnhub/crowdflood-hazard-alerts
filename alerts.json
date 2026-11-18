@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T01:37:00Z",
+ "updated_at": "2026-11-18T01:53:33Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,7 +17,7 @@
  ],
  "counts": {
   "flood": 41,
-  "flash_flood": 17,
+  "flash_flood": 16,
   "storm": 22,
   "landslide": 6,
   "earthquake": 7,
@@ -139,20 +139,6 @@
    "id": "b7162c504b49c8d1"
   },
   {
-   "title": "กรมอุตุฯเตือนภาคใต้ 18-22 พ.ย.69 ฝนถล่ม ระวังน้ำท่วมฉับพลัน น้ำหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thansettakij",
-   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94Mi1SQlUwekNRQTlmRjZUZnlUWlZORDlVTi15QVdQSEpKUjB6WW1HWDNycElfZlhjeWpoNV9zVmFmQzdXZ2JkS0dfSWh5RWc5UVFMRGtWcjgwQjJr?oc=5",
-   "time": "2026-11-17T03:00:00Z",
-   "location": null,
-   "id": "efddca7f0f4dc013"
-  },
-  {
    "title": "กรมอุตุฯ ประกาศ ฉบับที่ 5 ภาคใต้รับมือฝนตกหนัก 18-22 พ.ย.นี้",
    "summary": "",
    "category": "news",
@@ -209,29 +195,18 @@
    "id": "258ec293ad5705ed"
   },
   {
-   "title": "ค่าฝุ่นวันนี้ 18 พ.ย. 69 กทม. PM 2.5 อยู่ในเกณฑ์คุณภาพอากาศดี สีฟ้า ระดับดีมาก หลายเขต",
+   "title": "เตือนใต้ฝนหนักระวังน้ำท่วมฉับพลัน ไทยตอนบนรอรับลมหนาว",
    "summary": "",
    "category": "news",
-   "hazard_type": "pm25",
+   "hazard_type": "flood",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YS3ZicWpYT29TUWdNZF9hVEQ4a256bHA3cXlYU2hiamFEaF80RmZ0UzRuNnBaY1lWeW40V3N4VXlVdmRReGIxQlZoYld0SDM0anVTQ01qVFZqWFBHTzVsM3ctQQ?oc=5",
-   "time": "2026-11-18T01:21:56Z",
+   "source": "THE BETTER",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WWtPQ185ZnNXVF9UaGtESVlBeWVPYzdvU3h4cE9JNGdjUDJnaFNUdE1uSm15MzBWbExHNnlldHNjOWFBYXN0WUktYm1OUjdZb210Z2Z3?oc=5",
+   "time": "2026-11-18T01:32:37Z",
    "location": null,
-   "id": "e991694e8e9d3fdd",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
+   "id": "5d60d513d0019e08"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 32 จังหวัด ฝนตกหนัก ลมกระโชกแรง",
@@ -272,20 +247,6 @@
    },
    "incident_id": "fr_news_a89857ee9f5055b688e8",
    "id": "a89857ee9f5055b6"
-  },
-  {
-   "title": "จับตา! วันนี้ฝนถล่ม \"ภาคใต้\" 10 จังหวัด เตือนระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "เดลินิวส์",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80Z2dlNEozUWhkZ2haQTdSTlJvM2N0NjA5MWYxNS1tNkRSUThaNEV5MkhOWFJmVl9GNU1oeUU3V1lwX256UnFyMWNkb0hSSHhDYjE0?oc=5",
-   "time": "2026-11-17T23:02:57Z",
-   "location": null,
-   "id": "3ba6a2e82f79c84d"
   },
   {
    "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
@@ -920,6 +881,31 @@
    "time": "2026-11-17T03:12:00Z",
    "location": null,
    "id": "2b79f78e954abad5"
+  },
+  {
+   "title": "ค่าฝุ่นวันนี้ 17 พ.ย. 69 กทม. PM 2.5 อยู่ในเกณฑ์คุณภาพอากาศดี สีเขียวหลายเขต",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thairath.co.th",
+   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOczQ3Y2xHSThLeXQzenNBNW9fWlF0UGstSW1wOEJqNmF3WlkxRjZleDRCT1RLc0NFdTFxMGViXzIwQk0yVG5BelVrdjA0eEpiUEVlRW5MVmgwQVRXRU5pVHJUbw?oc=5",
+   "time": "2026-11-17T02:56:52Z",
+   "location": null,
+   "id": "d3d2d27974731149",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "ฝนตกหนัก! ถนนกาญจนาภิเษก บางแค - บางขุนเทียน รถติดมาก | สวพ.FM91",
