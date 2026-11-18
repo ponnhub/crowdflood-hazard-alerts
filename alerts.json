@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T00:43:32Z",
+ "updated_at": "2026-11-18T00:51:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -19,7 +19,7 @@
   "flood": 41,
   "flash_flood": 17,
   "storm": 21,
-  "landslide": 7,
+  "landslide": 6,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 5,
@@ -193,20 +193,6 @@
    "time": "2026-11-16T08:55:21Z",
    "location": null,
    "id": "258ec293ad5705ed"
-  },
-  {
-   "title": "จังหวัดเกียลายออกประกาศเตือนภัยน้ำท่วมฉับพลันและดินถล่มใน 23 ตำบลและอำเภอ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnVUUkRSWE5zaXEyWE9mYjBfVS1nRWs3NG1scGpuMEwyRnU5U2EtbmRoUEk5Ym5uejFvWkRCWTZrM1RjeXQ3cWI3MmV6MWRrQThmVWpIUmt4SmxSb0s5a3JBTUxYcGM3T0Vlenl1MEE0cVNXaGNPbHlERHJURHUyaWlYZVA?oc=5",
-   "time": "2026-11-16T01:41:43Z",
-   "location": null,
-   "id": "cc9ca814d8a0bf42"
   },
   {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 32 จังหวัด ฝนตกหนัก ลมกระโชกแรง",
