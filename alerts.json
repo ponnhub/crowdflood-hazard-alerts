@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T06:54:39Z",
+ "updated_at": "2026-11-18T07:10:59Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,18 +17,43 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 16,
+  "flash_flood": 15,
   "storm": 22,
-  "landslide": 4,
+  "landslide": 5,
   "earthquake": 7,
   "wildfire": 1,
   "drought": 6,
   "pm25": 8,
-  "heat": 1,
-  "tsunami": 1,
+  "heat": 2,
+  "tsunami": 3,
   "other": 0
  },
  "items": [
+  {
+   "title": "🚢 เรือ M.V. SEAFDEC เทียบท่าเรือน้ำลึกภูเก็ต เตรียมพร้อมนำเจ้าหน้าที่และอุปกรณ์ออกเดินทางสู่ทะเลอันดามัน เพื่อปฏิบัติภารกิจวางทุ่นตรวจวัดคลื่นสึนามิ เสริมประสิทธิภาพระบบเฝ้าระวังและเตือนภัย เพื่อความปลอดภัยของประชาชน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxOeUtVdUpZQlNvcG9FVWdYYWRoS2Y3cFNpQVY0QV8zbGhvMjJyODRYSjRTOUUtNG5xMVdIV0FiS2Y3b0Q4SVl2Qy15Z2hwQVRSV1ZPYnVLZDVWWlNqUVAxQWhpcE80amttYVA5QU1GdGYtQ0NQVU9sSkk5Y2pzcUR3NDFrVHRxVWlfWUlHMkxsbDFQMGRxNkdhRUF5NUFqdEVZaGxDNUhuQng2UzY5cExwbmlRQXctRjliS3Q4SlRoMUdObmFRV1NuLTFLNWlXV1pYem1PX2N2VjNXdjZ4a0x1b2NnTkkxQWhIUjdObXp3cms3eUtHUjJGRGktZ3lNTDQxaFdIenJwcE10TEZrQXRhZ2xPWlJMcTQ0anBKN0tuZ2t4RzZJU1YyR0FjWTQ3TncweUQxdEx2UFcydnVwQjVOQnF3ODlCa1JTTUNKbFhlQzVkWVAwblV6N0w2eWpOTHhNd091aVRmSEIxTlJUdWYwZURDSGE2MWoxN2ZkVkFLd0VCQWs3VGNpbjZCNGRPV1BLTlV5dW9kVHNrZC1fYllkM0RnY3ZFRFBMYWdnbW9iQ1l3WGR6RWp1M2VLc0k4Smlpay12NExTN1ZCWGlKR3dlMVViT01qWnF2N2QxZEtsS0Y2ZTVQYnBldy02UENpeHh3RmVfb0k4STBONVVINU40cUN4MWl4Q1Y4TmtZTnkwR0pNVFVXWWtPNFZRRDNJU2hhTDBKeVZrZXBsVHoyczJFbzY1eERtckdBcTV3U0NDa0JTZDBPN1FNSmk4NzVHWTM2X01jZXRoaF9WZ0RJY25CcWozcGhlTHBETmtadkNmR18zSDNRakRMbXNudk9LazVBU1pfTUZiLWlLTHFqZ2VsNWhndXVTNDVHTk1uUGRac2tZQUI0SW92MDE1TVFQVVIyQTl0NDRydTZCSDVueFdaV3o1TWpPc01XLVRueFJ5MjVGZjRFdVNQdWQ0SkRiWUpidjJ5cEQ5a1Z1N0hNLTRBZ2hGdThmNVFFbTY1OHBjWGdYVzdjYkF4dG1nLWJiMEpFdnBfUnVkSldIQVVmYTl2Sy1QN2YyN1hhMFdyc2g5YzNtMTRVRmFYcFBsT3hYdHF6a3p5cWdjRVhSMi1wQ1hpTkxyMmhPaUhmZVRVWVl6S1lsdS1SSkJHQ0dZNEo4SmtOYUR2akFyT1hmdmxBZy16ZU5SRW9mRThtREJSRUQ0TTllUEFBbHkxaTFkRQ?oc=5",
+   "time": "2026-11-18T07:01:18Z",
+   "location": null,
+   "id": "a7a0a9e8d114a32a",
+   "area": {
+    "code": "TH83",
+    "level": "province",
+    "name": "จ.ภูเก็ต",
+    "bbox": [
+     98.262,
+     7.767,
+     98.441,
+     8.199
+    ]
+   }
+  },
   {
    "title": "ญี่ปุ่นนำทัพพัฒนาระบบเตือนภัยล่วงหน้าทั่วเอเชีย พร้อมจี้นานาชาติร่วมลงขันเงินทุนรับมือโลกร้อน",
    "summary": "",
@@ -119,10 +144,10 @@
    "urgent": true,
    "official": true,
    "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMilwdBVV95cUxNTGlnMEkxeldfYW9ZdnN1WnozajJRN1JjWDRUZ0M5dmh1WjdfM0EwTTBVZHJuY0tzdkJ0bDJOUHZsN0RQTTBrRGQwWXpJU2pVNVlqM3d4LURMeEF3ZVUxdVF2TDFQaDI5RVhGUkdqaHp0MGU5Q0tmUjQ1b3R3TW1YdWZGd2YwQTg5a3FncGVyN3AyWUh5VEN5bE5WZ1BtR2ZLcDJNdnQ0dXVxWlRJczhvbTdqREgtZjBtM1BLZnlOSjVzOHdKaE4teVBwakd1cFp6a1BRWG5rZU0zVGV0VVVsTjFmaUQ4c2EydktxMWpRSkQ0TEUzNHJzcEdxT0c0bk9yRk9DRUVjSERqM3JOQXF6dkp5LXVqTXJrWVR6bGZTN3E2Z0pfXzd4Tm5fNDlOa0dvbVA0N2R4VDdZcXhBbUtqc0JfUGNwT2Fhb21zT1JRY3cwNlp6bWZJZ09IZ0pzdnNDZzJQWk1seVhVUE5BXzNVSWxrazlLd3lpc0RSN0J3dUFSVno1aklGOVVGWDE1TW1RNEtHZDU3T2pHb2RlUDVFdDV6UkczZ3pWSWZxaVdLV1hDRlZrN1RySksyZW13dE9ZUThFOEpldDRBQ0F1MnlKaC1ldDc3ZEV5YXFXZnZKVHhMYWRaV183alNDZjFnNDdtUHdDT3VJQnZsV2pXVUE1VXBpblo0RmZhZTJNdDk2Mmd5U0owWDFzWDhsMHhsOUx1MmxuUG5EVW1JS2VSTVN1eUFKZG42Q3BDbldnODQ0YmR3dzJGUUcwV0pyNXRVTHlfSDQyN1RKZXhWalBsNlFiMEg2VVBkVWRQTjFtUGxHTmxsSkFwT2xJcThOTE9lUXlTM1czY1dNUTkxSS1tVEtPVHhXUWo5N2JTSDBxcXRUQnVqSU5rdWxFVXA4eE5nMjY4MWxoUVI0OVBpT05BQkRPcXdFN0pZX0tpWU5xZDhwUFBBcWxtRzQyUDhSSzlKYkNxYkZFdFozN0VESGJFdEo4OXZmcUNreU1OaWNFRWw3V3hFU0owQXNIaHo1aEU3YXgzTkNkYWlSU1lxeGhLNVk1dzJmenFRZ3dwTmRWSGgtYTRZZEJtWERQMnA0RGJQQmlKSUc4aDZkaV96ZDd5MTVsSEJ4OGoySXE1VTEzNXgtVGtRWVNmRUhuYWlBTDVLQk5yVUVhZ05KZnNDZVREdjZ1N0JLamQzWVhtTV9KVl9Wb3BQOC1OV2V3?oc=5",
-   "time": "2026-11-17T08:09:26Z",
+   "source_url": "https://news.google.com/rss/articles/CBMilgdBVV95cUxNTkVXMmRHNGJ0MVRDTGg0TFZuNS1LX2xsd2ZyU2xTU24yZGFNai1SVUJnNjNKR0x0a0lRdzNXNWlRdlkwM0tyR0dlOGk4ZHJiT2NHaG9GQ1BSRmN0NlNfQ2Y5b3Rta1JCN05lSkkyNjlnZ2Zmb3pweVJaV0YzNUI1U051My05WTAwUjA2N3h6QlphNl9vZU01RzJlSFlzNmVjUm5KR3RjcVZUN0VfRUtCWXB6SjlWYVVQUTVBdmwtLTlPejhheW0tWTZVWnVxd3FhTHprSURTUmtKYVZnSlhTbzFZQ0tRQjFJQ2N6SkRnRTlTZXVMQjNIM01nazZpVVNUUnBuU01TQ1A5Y19ITi1tUktrVTNYeWZhZzRLaFExLWlhZFFjcmtqZVlxVHBxaWdYQldxM2lLUFdIU011YUJpOHNrazNoLTJiVldZYkZqc0RwNnZPaTFlRGxQMnZzX2wzUm9NaGloMElPN0VyQkNXMGszN1hmeG9qUExsZ05SYkw2RXFYckh6NTZsR3lnak9GSEt0b21lblVOd2pMUDVqaHRSME9pckxPS1ZBLXdxUF9fV01zZUhBczdLWV9DSkltM1FCeXI5aENya2NTbllnNTN4cEwzMU55ZVVjWW5yMmZzZnhZX2dFWVZRdmlReTZwTzZpNHBUSEtDWTlkOElvQ0RETlJ5QTFuTld5N2JOWnBoYXdEQzNtWW5LaFdSWEhaSUFmNnNZS0VTbkJxQmZxd3FxZmc2Vld2N0JBYzBrR0ZSTEhienRLdmgwTFM1cGNKWDFSUU1CbTBWUl9kNmozNXdSRDNfUVJZTTdkYjFRUjE4WUdKUlUzQUt5c2gzLWRUcnRiUnJNWWZPdXlYbXZiWWZTRUFZRHhtd1NrQ3VpS0lrY3BHZWlVNzNWZUJPTHJsN3FGNnJNcHNyakZYZjhGWGVVU2VfLTI1bFVRdnpmcnlSWUpQanhXNUxDdmJUdHNfOERMc1ZyWmNuR0QzRFRFUW9NMkEtam5GbEZPUEh4REc1ejN1aC02ak5kWV9RSVAwaXpxQ3pGMnZnVmJzV05JZWp4Q24wT0xoWDZINHB3M2Fod19sVUZ4VnB6dU80S19hMDR2NUZ1ZEF6NHQ5cXR1aUZLZUl3S1E4OWdnYlNlUWxzMVQ2TmtKelFaSEo1aE1HYmVoaDkzVUtqNmluejFTWHpRc09lX3pwU0c5RS16UGxSanM2WlE?oc=5",
+   "time": "2026-11-17T08:26:11Z",
    "location": null,
-   "id": "cdcfee4de7630b82"
+   "id": "86529adb91483a32"
   },
   {
    "title": "ด่วน! ปภ. เตือน 15 จังหวัด รับมือฝนหนักถึงหนักมาก เสี่ยงน้ำป่าไหลหลาก-ดินโคลนถล่ม",
@@ -195,6 +220,45 @@
    "id": "258ec293ad5705ed"
   },
   {
+   "title": "ซ้อมวิ่ง 28 กม. เกือบเอาชีวิตไม่รอด! รู้จักฮีทสโตรก ภัยร้ายที่อาจทำไตวายเฉียบพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "spacebar.th",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CM25TbHlSZGNzQnRLTHpvUEdtZlNvakdIeFdUaXJaQ2ZRUFdTdEsyb3JpWVVpQ3VuLVRMVnA2SlJYc0dEcS1icWtlS0d0aDJEMmw4ektxX0ZRalRaYlc0NDBkcWtBRHA1WXVpQUU4cGIzbEZKbGl6dlJnQzc?oc=5",
+   "time": "2026-11-18T06:55:00Z",
+   "location": null,
+   "id": "dfbd59a17c968dce"
+  },
+  {
+   "title": "จังหวัดภูเก็ต ร่วมขับเคลื่อนระบบเฝ้าระวังและแจ้งเดือนภัยสึนามิเปิดเวทีประชาสัมพันธ์การวางทุ่นตรวจวัดคลื่นสึนามิในมหาสมุทรอินเดียและทะเลอันดามัน ประจำปี 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMipghBVV95cUxQRjFLb1RpN1dqWGVuVGtWc1RodWQxMVU1aUVSSWdvSU9CM0RaTVJlb0g5ZFVwTEpIUUFEWFh2N3RDNjFCaS15VGxrOUlCWnpmR2VLOTZRNVdVN1Nxb05ZbE5GMkIwQ3hQZXJqTGJmQ2xDZW1ZWHQ5aU9JMWxsWTNMRjlJdzNPN3FndmFTQVdMVDA3N1VCWTBGZ1BkdlZnb3cxTnlnd2ZHYVhoSjBtV04tUm5ucVFzNkJKQTlzTVdsM3hNb2M4YkkwYnEzSVZRRnBnR2lvVnRNMEpTejFwVWpuVlh5RFpEcktYTExWZWN0UFc3MVI4WE9UU3lXRG1wWHlWbktCWUZVbDRxQmk4VGFGNzJGTTl2U1ZZdGIwWEM4YWZMbVFRcXBGOVBOdERvQW8zMG9hM2xjOTc2YXpRMFJZZVRVZFpUQldQY2hDMWhnMG93TVRRMkhJY0Q5bjhYQWxneU41WVE1d2VVb0ZHMzJEZWtfNjlVU1l1X3I0LUh6UU9UZVdPblFSQUs3ZVM0Y3ctdHJoUTFiMzZzc0ltQlBtWE1DdE9jOVB3dzdvdXhhWUJHNzhzdU5tME9Fa01UWXZ4ZlI0ZDZmMlFnVTA4UVFqQzMyUzJvYmZZa05pR0xRcXBVampZb2pOMk9vUlF3enJIdkFKRmtXRzdZekk2b1hMR2ltR0gxXzdJWkF2TW52UnpsZTBLMmo2VTYwd2hjUUUwWWtYb0pDRnVVVTYxX1NydUsxT2tzMmY5aFFBYURjSWw4alQtWHBMRWNTdDBBTHJDX1ZYY1VqeDNDS0dPT2MyTm0wTURneFdIYnZnZ21uYmdQcVVhS05sM2NFdmdEbTk0QjVhWm1Lc2VHU3ktcWltNC1rZDBfZ1BjOG5XVDdiaFV0MkNIQkh1ZnN0ZWdMdGlHR1dUeXhva0xyV0diUHpUWGJlNGhpTEZHbXhwZkhzNDlmZnFzTnJBUm1pWHVFVWZNR29PNzRoT2hXU09zTXFIWmFJbGFfM2JoTERHU2xJMEtFWnRWcjdGazdydXl1TWJRZ0FXOU5iVldzTjZ3MXhnR2RMWW1Db0xDdWJMNzN3WlYySUJBX0F3S2l3RUVxVkk0NnpFTE1kUTJibzFZb29mNVlsc2taRThJVmUxaHJkQzE4bDRENW9fSzJpT0lyUHhwdzhmaFNzQ3hZNXZPaGNrM2ZMM2RsV21hdGsxanVpUm9NUEZ6eVp3TTRvbHJJOXVRSGs0dUpBQkxXMHl6SUdxTWJTdW9PR2V5a1lFeWFscEUtTHY2eUhtR0prd0V3VHZxamtXWk1UX1owRzhuQUo2RjlfMXBTTUtOaWhERzlKdTJlV05XdklRRHdjUFRIT1dycGVrRU1mWVlkSXQ1bV9WY2RURE12SWZEZ2pSOF9IWThQYS1MWWc?oc=5",
+   "time": "2026-11-18T06:43:02Z",
+   "location": null,
+   "id": "bf0b1737971c362d",
+   "area": {
+    "code": "TH83",
+    "level": "province",
+    "name": "จ.ภูเก็ต",
+    "bbox": [
+     98.262,
+     7.767,
+     98.441,
+     8.199
+    ]
+   }
+  },
+  {
    "title": "นิวซีแลนด์ประกาศยกเลิกเตือนสึนามิชายฝั่งเกาะเหนือ หลังพบคลื่นผิดปกตินอกชายฝั่งเนเปียร์",
    "summary": "",
    "category": "news",
@@ -207,6 +271,20 @@
    "time": "2026-11-18T05:41:26Z",
    "location": null,
    "id": "4e88f24477ee6db4"
+  },
+  {
+   "title": "ครูอาจารย์ต้องฝ่าฟันอุปสรรคจากดินถล่มและถนนที่เต็มไปด้วยโคลน เพื่อเดินทางไปสอนนักเรียนในเขตภูเขาของจังหวัดกวางตรี",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2piWmlHYkhHNldkN042MXZHNVdKXzJiaWtzU2NuSHRuMWZqV0tyTGZnZlB2UUo1VVQ5Y3pvb1c2cy1lX3plRndKaU04Vzd2ZHhVMHZ3WFExc1lkUXB1TG1nRDRCUEN1dWpVaXZTREVmMHkxT2tNZGd0UEh5YURyYUdEdHZ0am43YmZ4ejNjb3ZsUk9mTG1iQjZxdFJSTzFJ?oc=5",
+   "time": "2026-11-18T05:25:44Z",
+   "location": null,
+   "id": "938b7a1d53e74767"
   },
   {
    "title": "ถ้าน้ำท่วม พัทลุงพร้อมไหม ?",
@@ -419,6 +497,20 @@
    }
   },
   {
+   "title": "อุตุฯ เตือนฉบับ 7 ใต้ตอนล่างฝนตกหนัก 18-22 พ.ย. ระวังท่วมฉับพลัน อีสานเย็นลง 2-4 องศา",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Matichon Online",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SSkE0ZHJ6ei1mX2xSV3JWUTNBZWlNcEpNZjVEbzIxaFJYYlVlYW1kd2ppRnhQMjZySHBXeVdSOFYzaFhMTm9hX1pIYjZSWndfNkdRNzNXaV8?oc=5",
+   "time": "2026-11-18T00:39:53Z",
+   "location": null,
+   "id": "2331d1cf905cd991"
+  },
+  {
    "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 32 จังหวัด ฝนตกหนัก ลมกระโชกแรง",
    "summary": "",
    "category": "news",
@@ -521,18 +613,29 @@
    "id": "be9e0b95e8f1e2ff"
   },
   {
-   "title": "อุตุฯ ฉบับ 6 ฝนถล่มภาคใต้ เช็ก 6 จังหวัดรับมือฝนตกหนัก 18 พ.ย.เสี่ยงน้ำท่วมฉับพลัน",
+   "title": "📌อัปเดตข้อมูล ณ วันที่ 17 พ.ย. 69 เวลา 17.00 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก วันที่ 18 - 22 พ.ย. 69 ⛈️ ❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.",
    "summary": "",
    "category": "news",
    "hazard_type": "storm",
    "severity": "medium",
    "urgent": false,
    "official": false,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DLV9qQkR3S2FaZHlpaHNockxwdnlNMzNPWGx5M0QtbklGeUZqaFl2dWZfT29hWEZ1cjR5X2VlMHUwVFNMOHRDMVdZWnJLVVFNb2lFcGNhUHo?oc=5",
-   "time": "2026-11-17T10:35:00Z",
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxNbVZlYXRDWkVxZnh3V21BSmdlMFZTR1FYNUl1bGNhYUdfamxaWWp1bXVlc0hOLUFKdnJKX1lrUG1fSXNPYjhoQjdpa2RiMTkwT1RFbmRWN2VEVVAwbmRKTjY5ZTJXbjJLaWZpT0MwNktLOWVnTnhoX2lOdjI4N3RvdGhZQy1MaGRNWUxYWmlYNk15Y1d0T0pIZVhndk9QZ1NvM2RSbnZvaXRaNVRZa0QyZVJWaWxHMy1kaHZsVVlOcWhxSFNQY0RUX1JWLUtJdGVsellYQTUyaHlSNDg1X0dydDJVcVUwVHF1QnlPdnhYTEtqWjhMV2RMQ0tGSnRUUHpUOS1hNml4dWRlRlpJR1VUR1U5X3BUQXFsR1QyRVlFY0JCeE9aQ2lwdTlrbUx5LVdRVTBRTzNzQU0tUWdRcGZ0MkpXWTZ2Zm5ZU1JuRjkyREpwbF8xelNqY3o4Vm1QeVR1RXlEako3QWVkRFVPV2NBUGx2SFlUYlI5NXp3Mm5JVnRMWmU0VXBkZW9nNmpCQWc4T2pIdGtkNmJGa3lLc2t2ZzZoMG9SOV9pUGtmVWd2MHl1aTQtRW9kbV94eGY0MWp6aGNBX1g2aHZWUHg0cDhXX3c5bGM2ZlBPQnozcDlvNDBzZTgtSXRyc1N2amczTmZreHFaNkQ1UGFQMldva3BhV0xxLVd6S2x6cWFpR2dXR2FtcUU1emFiSXAydm5mNkg3TnRCVzdMbmJyb2hzSDNJSmhSaVpmeDl2LXZUQ0FxUVJJcnZZVWFLcmZ6a1ZYU3liS2FSV0VJLUc2a010YTI2MzJUY0dFY1RXbnp4TmtWVHE0Q3RqUnFFZ2VCSUxHa09RMXRKVGRSZUNhWW01cmJ0eW53eXMyX0loTklqazN2VE9ZM2psNGJBUmZpazZ0UXVyeUFmQVFKTEpMQzdEZTY1WWhNbkJ2OVJMaVhLYTRraHJ5NGJNem12M2VVUWpwaVF5dkxEUTlhX254ay0tVWUzVVlqTEs3Z2NLWVh2ZDcxWEd0TVR0X0ZVTjRwM3R3dlZnREppRWhuOU45aVppMVdaWWhtSElLcG5yVHgtMkVzSDVudm5BZmcwLTBwVzl2UEpqZ3F5S0ZGM2x0U2lIYlQ0Q0ZxOThGQQ?oc=5",
+   "time": "2026-11-17T10:18:10Z",
    "location": null,
-   "id": "932aa01cd382ed2f"
+   "id": "332c5cde90f48994",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
@@ -1400,20 +1503,6 @@
    "id": "1ed4a3e4a95ca709"
   },
   {
-   "title": "รัฐบาลจังหวัดเกียไลระดมทรัพยากรทั้งหมดเพื่อรับมือกับน้ำท่วมและฝนตกหนัก โดยเพิ่มมาตรการรักษาความปลอดภัยที่จุดตรวจตลอด 24 ชั่วโมง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dIN2k1NVFGS1FsZUhqMUxDRFRaVG9RaExXVVA4N0FpbDk0eUZoZ0UtVzdxNU5uemtuZTRadFlDbkpIRFBST1VxUGRFZEdmb3YtUXRmQVVUM2ktS2IxRlhiSnR6WFBnd1pDeGNxVHF5MWxsbzVEdUppMW5UT2lUNS1BeFp1UGtzRFFXblMzejBwUQ?oc=5",
-   "time": "2026-11-16T19:48:47Z",
-   "location": null,
-   "id": "046ff36fd856265c"
-  },
-  {
    "title": "ปรากฏการณ์เอลนีโญที่รุนแรงมากกำลังก่อให้เกิดความเสี่ยงต่อภัยแล้งในหลายพื้นที่",
    "summary": "",
    "category": "news",
@@ -1999,21 +2088,6 @@
    },
    "incident_id": "fr_news_7bba273420f5656a2873",
    "id": "7bba273420f5656a"
-  },
-  {
-   "title": "📣 ประกาศกรมอุตุฯ ฉ.3 🗓 18 - 22 พ.ย. 69 🌧 ภาคใต้ ฝนตกหนักถึงหนักมากในหลายพื้นที่ ⚠️ ระวังน้ำท่วมฉับพลันและน้ำป่าไหลหลาก ❄ ภาคตะวันออกเฉียงเหนือ อุณหภูมิจะลดลง 2 - 4 องศาเซลเซียส ❄ ภาคเหนือ-ตะวันออก-กลา",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMijAdBVV95cUxQQ2dVbThKby14bUpMOVdSRTNueWUyLU9oa0w1SERpZjJyRFlROWhNZDdTZW1yVXV1Zm16VFNyRWlUaktySm5oMjBLUDA5b1VaYlljM0N4SllTNFRtZGpGYWdhUXBtUE1pM0ZGWndVVE9hc0lLT3cyMXY5SnVmTlA1Tmh2bE43dlJnS29Zbk5zUmpfY3czVmlTMVpuUFl4NkYxQm93UUFUTG9qeTI0YXFKYV9XbDZfOUZZNHhPV21lT3NRdnNwWVRxeE4wRnphQXlqNS1wa1ViNDMteF9VOG5NOEpvQTlmd2RWRjJyRlA2SVg3UXJFcUcwRVBWTkZYRTI5NnhSRlFTNWYySzIwVlMzYTF0U3liTzgxNFZldjBBc3JDSWw3LTJleDA0bmgyTHNYU3U3NEJlcHdJZ3VxbXExWTZHRHRUNEhZcU9EbU1tODc3bVYwUlNpN3BEQjRBYzZMZVdDVUNGcS12Sl9ONEJHaXhQT0VpYkpUTF95bGROQzJqcGp5MEVnWXR1dzRxTnZuRTNQWGFkOWtXcFRTQkJwSHVzck1qSGl2dEF0MWlubmJKVmlxV0hDX3hyeHRhUTBYM0lucUlWUWszMElLc2FIOEEzT2VITS1wY3RhRTR3NnA1OGh1SWVsVzQ2MGNkMUNZSEdMTzNENGNfbWVFQl9hV0o5NURUNEw0WHhyVHF1S0dRZ0dQVmgxblZyWXpHbV91TjhZRW9aejZWQTd2QnNLYWZLeFZTV2J0dlI4WjJyOGFaT19NX3dNOVpCRFc3alJPQjdBaXozRnh5UkRnZ25HakRualZzYzlPcFB0LUJKbUQ1YWFFYVMtek83aGUzMXV6cDA0VzlmRW5uczhRZEY5MzZlbHFGVzNMN0hWanNvdTRBWWd0alZFUG5pN2dYcFJRMUxTRWNlU3NfQmZPeF96eUZsbFhpeHpNQmdnUHZLWVQ0OUtTVWhsbG5ZUWRnaE5wRGxBekxXdE1BWnlRS2VvZ3BfTFdxLU5iQk9Zc09WY3NIbDk5UThKalBJQnJjUmpGY0ltcExtckZmeTNYUU8tU2FyaXBCUXhWS2JSOU9LSVdHV3ZLNGNFWnFuaG9heFlmdGRrRXpOYV9aRkJ1WHVKR29YOVUxZVZyMTRoWHBpT3hacFlkUEEtU2d5c0Vqd0Vrdm4wMjBmZkdqN1NGVW9ieTlxRnkzR0JRNlFKag?oc=5",
-   "time": "2026-11-16T06:58:29Z",
-   "location": null,
-   "incident_id": "fr_news_3ed4d00720472d7db643",
-   "id": "3ed4d00720472d7d"
   }
  ]
 }
