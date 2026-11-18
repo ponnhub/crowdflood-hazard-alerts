@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T05:26:14Z",
+ "updated_at": "2026-11-18T05:42:27Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 39,
-  "flash_flood": 16,
-  "storm": 20,
+  "flood": 38,
+  "flash_flood": 17,
+  "storm": 21,
   "landslide": 4,
   "earthquake": 7,
   "wildfire": 1,
@@ -30,18 +30,18 @@
  },
  "items": [
   {
-   "title": "ญี่ปุ่นนำทัพพัฒนาระบบเตือนภัยล่วงหน้าทั่วเอเชีย พร้อมจี้นานาชาติร่วมลงขันเงินทุนรับมือโลกร้อน : อินโฟเควสท์",
+   "title": "ญี่ปุ่นนำทัพพัฒนาระบบเตือนภัยล่วงหน้าทั่วเอเชีย พร้อมจี้นานาชาติร่วมลงขันเงินทุนรับมือโลกร้อน",
    "summary": "",
    "category": "news",
    "hazard_type": "heat",
    "severity": "high",
    "urgent": true,
    "official": true,
-   "source": "สำนักข่าวอินโฟเควสท์",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbEVsRHFWei1DSXlCMG8wZWRrTjFyUy1wb2xaSjNkcTI4cExhdmlxQmFPTElXTlFtWXY0eE1YRnZrdUhCUzJNMTNDeVlxdWFs?oc=5",
-   "time": "2026-11-18T03:57:52Z",
+   "source": "RYT9",
+   "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04Nm5kVEFwYkVfanJpd0pWU2xRUGdaUVFDaFhxNlNleTVPdVpuS1VpSXh4NndHN0xES1RLSVFENlNacXVUUndneDJn?oc=5",
+   "time": "2026-11-18T05:24:44Z",
    "location": null,
-   "id": "0ad220cdc0f5f912"
+   "id": "e3c479b73b0c7ceb"
   },
   {
    "title": "“กรมอุตุฯ” ประกาศฉบับที่ 7 เตือนไทยฝนตกหนัก 18-22 พ.ย. ระวังลมแรง คลื่นสูงกว่า 3 เมตร เสี่ยงน้ำท่วม-น้ำป่า",
@@ -507,6 +507,20 @@
    "id": "be9e0b95e8f1e2ff"
   },
   {
+   "title": "อุตุฯ ฉบับ 6 ฝนถล่มภาคใต้ เช็ก 6 จังหวัดรับมือฝนตกหนัก 18 พ.ย.เสี่ยงน้ำท่วมฉับพลัน",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DLV9qQkR3S2FaZHlpaHNockxwdnlNMzNPWGx5M0QtbklGeUZqaFl2dWZfT29hWEZ1cjR5X2VlMHUwVFNMOHRDMVdZWnJLVVFNb2lFcGNhUHo?oc=5",
+   "time": "2026-11-17T10:35:00Z",
+   "location": null,
+   "id": "932aa01cd382ed2f"
+  },
+  {
    "title": "‘ผู้การสมุทรปราการ’นำทีมจิตอาสาฟื้นฟู‘โรงเรียนบางบ่อวิทยาคม’หลังน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -756,20 +770,6 @@
    "location": null,
    "incident_id": "fr_rss_acbc3b84c9ebe60e4e8f",
    "id": "acbc3b84c9ebe60e"
-  },
-  {
-   "title": "เสริมสร้างการสนับสนุนด้านโลจิสติกส์และเทคนิคสำหรับการรับมือกับอุทกภัย",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNW9Xb3Nka3dhdExQZ2JXR1hYQXFPaGlsU0w5VEZ0dzIzaXg2UGdyQ0lxZ19pS1hJWXdlMUlZaU1DNjd4OE5CUXlpUHA4bTNyeUhJU2FobXhJQkdRa2tJTGVUOUJTMGF6dkVtSHJmdmNVYkpXUnRRVXl3VVNLTkxJdzdR?oc=5",
-   "time": "2026-11-17T06:07:08Z",
-   "location": null,
-   "id": "5d4929fa4cb36ff1"
   },
   {
    "title": "เนื่องจากปรากฏการณ์เอลนีโญทวีความรุนแรงขึ้น จังหวัดฮาติ๋งจึงได้เตรียมแผนรับมือภัยแล้ง การขาดแคลนน้ำ และไฟป่าอย่างเป็นเชิงรุก",
@@ -1723,6 +1723,20 @@
    },
    "incident_id": "fr_news_816dfbd80fe37de69b8a",
    "id": "816dfbd80fe37de6"
+  },
+  {
+   "title": "เตือน 15 จว. กลาง-ใต้ ระวังน้ำท่วมฉับพลัน น้ำป่าหลาก ดินโคลนถล่ม 18-22 พ.ย.นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SNmR6NWZfelNvX0ptTGlsY1hQbU82NXUxT21OUXkyRHZjY1IybGVXRzFtS1FoWVJ6a2dCcVpQQi1ENjlMSWJjLXcwd1MteXlhVFdyUTh4enBWMUdTZkMwQ3pVMG9QQQ?oc=5",
+   "time": "2026-11-16T09:09:00Z",
+   "location": null,
+   "id": "344622549e4e7cc2"
   },
   {
    "title": "ตรังวิกฤต! น้ำป่าหลากทะลักท่วม 2 อำเภอ 11 หมู่บ้าน-ทหารลุยฝ่ามืดช่วยอพยพชาวบ้าน",
