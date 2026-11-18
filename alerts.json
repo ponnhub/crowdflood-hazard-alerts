@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T07:28:55Z",
+ "updated_at": "2026-11-18T07:38:01Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 36,
-  "flash_flood": 14,
+  "flood": 37,
+  "flash_flood": 13,
   "storm": 22,
   "landslide": 4,
-  "earthquake": 6,
+  "earthquake": 7,
   "wildfire": 1,
-  "drought": 7,
+  "drought": 6,
   "pm25": 8,
   "heat": 2,
   "tsunami": 3,
@@ -271,6 +271,20 @@
    "time": "2026-11-18T05:41:26Z",
    "location": null,
    "id": "4e88f24477ee6db4"
+  },
+  {
+   "title": "ครูอาจารย์ต้องฝ่าฟันอุปสรรคจากดินถล่มและถนนที่เต็มไปด้วยโคลน เพื่อเดินทางไปสอนนักเรียนในเขตภูเขาของจังหวัดกวางตรี",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2piWmlHYkhHNldkN042MXZHNVdKXzJiaWtzU2NuSHRuMWZqV0tyTGZnZlB2UUo1VVQ5Y3pvb1c2cy1lX3plRndKaU04Vzd2ZHhVMHZ3WFExc1lkUXB1TG1nRDRCUEN1dWpVaXZTREVmMHkxT2tNZGd0UEh5YURyYUdEdHZ0am43YmZ4ejNjb3ZsUk9mTG1iQjZxdFJSTzFJ?oc=5",
+   "time": "2026-11-18T05:25:44Z",
+   "location": null,
+   "id": "938b7a1d53e74767"
   },
   {
    "title": "ถ้าน้ำท่วม พัทลุงพร้อมไหม ?",
@@ -535,6 +549,20 @@
    "time": "2026-11-17T13:14:00Z",
    "location": null,
    "id": "e383961894cef064"
+  },
+  {
+   "title": "ยกย่องฮีโร่หนุ่มปั่นจักรยานกว่า 5 โล เคลียร์ทางให้รถกู้ภัยวันเกิด ‘แผ่นดินไหว’",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "เดลินิวส์",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nWHlZRDdGUjBJS0J4OEJZcTFxS202UEF2ZEpxSHlhTTlXMGdFUEhpcnhWS1I1TGhLbkg0aENfcmZ6aURZTHpLX0kxeXhBamdmYlNZ?oc=5",
+   "time": "2026-11-17T12:08:25Z",
+   "location": null,
+   "id": "c6b60b005b62823d"
   },
   {
    "title": "กรมอุตุนิยมวิทยา ฉบับ 6 เช็กพื้นที่ฝนตกหนักภาคใต้ ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.69",
@@ -903,6 +931,20 @@
    "location": null,
    "incident_id": "fr_news_9e80485aa84906cbe68b",
    "id": "9e80485aa84906cb"
+  },
+  {
+   "title": "น้ำท่วมในมาเลเซียทำให้ประชาชนกว่า 2,500 คนต้องอพยพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1hNUS1VVmM5M2F6Sk9oUFE4OEpmX01jYkJ5aDlDMU4zVDJndXV1aE1oVWx3Yzg4TUd4SVlyVk9mdmhRTWVVTFFZM0EtbklhNk1xTzhjRnNQZWNraF9WOENjU2picHQ2QTBKcnUyWHRkMU1qbTVtSVRCbG9TMm54cGtuWWM3QQ?oc=5",
+   "time": "2026-11-17T05:40:54Z",
+   "location": null,
+   "id": "98fab031c31079a6"
   },
   {
    "title": "ปภ. - ออมสิน โอนเยียวยาน้ำท่วมต่อเนื่อง สะสมกว่า 1.32 หมื่นล้านบาท ครอบคลุม 56 จังหวัด วันนี้โอนเพิ่มอีก 26,813 ครัวเรือน รวม 168.67 ล้านบาท ใน 17 จังหวัด และ กทม. | สวพ.FM91",
@@ -1724,20 +1766,6 @@
    "id": "6805fb6aeaf34166"
   },
   {
-   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
-   "time": "2026-11-16T11:02:02Z",
-   "location": null,
-   "id": "c95f91b02abd9393"
-  },
-  {
    "title": "ฉะเชิงเทราน้ำท่วมคลี่คลาย บ้านเรือนแห้งเกือบทั้งหมด หลังชาวบ้านเผชิญน้ำนานเกือบ 2 เดือน",
    "summary": "",
    "category": "flooding",
@@ -2023,34 +2051,6 @@
    },
    "incident_id": "fr_news_1ee8f454f829c40b0889",
    "id": "1ee8f454f829c40b"
-  },
-  {
-   "title": "ดินถล่มและหินถล่มลงสู่พื้นที่อยู่อาศัย: เมืองหลางซอนประกาศภาวะฉุกเฉินเนื่องจากภัยพิบัติทางธรรมชาติ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjZaU3pkUUNHUVdhNE0xZ3h5YjNVTGRTc2VXMTBKVEpub1BBd1VDTm5PZjdPYzBNNHlFbk5oMEJRZVVhQkN5enF4VWZfWTEzRDhQXzdXVGhLcmEyWm1kLUNLVGYzeUJWejRvLXJVYWhIYTRFSC1jX0prUlBlbm5MZTZJYlFGSHlMbGRjMUVjRTVHMDY3SUNtSHZVYlFSOUtJTTJfN3J0RG0?oc=5",
-   "time": "2026-11-16T07:37:56Z",
-   "location": null,
-   "id": "d3597725fd6d206b"
-  },
-  {
-   "title": "วิกฤตโลกร้อน ใกล้จุดกู่ไม่กลับ จ่อร้อนทะลุ 2.7 องศาฯ ภัยพิบัติอาจเกินรับมือ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mQWxDNERCM3lzaUdrWkl3ODFSSUhhbmtpUzFkOThNekU0U0Y3Nm9LdWZfd21Udi1YM3M1QXRuaTd6MWdzS2s1ZXJvTktOb0tNS0NB?oc=5",
-   "time": "2026-11-16T07:30:00Z",
-   "location": null,
-   "id": "7d86fa1bf8fcdcd8"
   }
  ]
 }
