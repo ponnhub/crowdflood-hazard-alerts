@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T03:44:58Z",
+ "updated_at": "2026-11-18T03:56:04Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,14 +16,14 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
+  "flood": 37,
   "flash_flood": 16,
   "storm": 20,
   "landslide": 6,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 6,
-  "pm25": 9,
+  "pm25": 8,
   "heat": 0,
   "tsunami": 0,
   "other": 0
@@ -249,6 +249,31 @@
    "id": "8603763abd6077e3"
   },
   {
+   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-18T02:12:02Z",
+   "location": null,
+   "id": "2f86748662fb0155",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
+  },
+  {
    "title": "เตือนใต้ฝนหนักระวังน้ำท่วมฉับพลัน ไทยตอนบนรอรับลมหนาว",
    "summary": "",
    "category": "news",
@@ -354,31 +379,6 @@
    "time": "2026-11-17T12:08:25Z",
    "location": null,
    "id": "c6b60b005b62823d"
-  },
-  {
-   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
-   "time": "2026-11-17T11:34:58Z",
-   "location": null,
-   "id": "2f86748662fb0155",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "ระทึก ล้อรถพ่วงหลุด กลิ้งพุ่งชนกระบะจอดติดไฟแดงพัง คนขับไม่รู้ตัวขับไปต่ออีก 12 กม.",
@@ -737,6 +737,31 @@
    "location": null,
    "incident_id": "fr_news_0c8c6a5bf76d559ff641",
    "id": "0c8c6a5bf76d559f"
+  },
+  {
+   "title": "กทม. เตือน 19-20 พ.ย. นี้ ค่าฝุ่น PM2.5 จ่อพุ่งสูง เปิดคลินิกมลพิษ 8 แห่งดูแลฟรี",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTjR0ak55VEoyakpKdVhfRnl2WEN2V3IwLThxMkZ1aERxdi0tLThRQ3dEaHc4VTRYMEUwN2NGaENHM3R4T3RsRnVzQklMTVZpZnBId1I1TVpySFBsbGlHdVp1NEotR2pMak85S1RTSnpDVmRvaWx6bXhJUWc?oc=5",
+   "time": "2026-11-17T05:05:06Z",
+   "location": null,
+   "id": "d3d9f5184368a702",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "อบจ.ปทุมฯผนึก ทางหลวง-ทน.รังสิต ล้างท่อระบายน้ำแก้ท่วม",
@@ -1982,82 +2007,6 @@
    "time": "2026-11-16T04:00:50Z",
    "location": null,
    "id": "b753d5a640089cbd"
-  },
-  {
-   "title": "“บทเรียนครั้งใหญ่” วิกฤตน้ำท่วมปี’69 กทม. รื้อใหม่ระบบรับภัยพิบัติ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "Policy Watch",
-   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZaWMwcU40eHVMV1NlZFFOMFhXT08xdVhIOU43QnRvMVFlNVdFYnpOTUU1Rmlia3BHVDhBSkE0aGZGM3FfamttcU1pMjk1T3NwTW9WTllCN0VmM2tsTW9vVHVIVFRXOHU4?oc=5",
-   "time": "2026-11-16T03:52:00Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_4c260508f1cb01b303c0",
-   "id": "4c260508f1cb01b3"
-  },
-  {
-   "title": "กทม.อ่วม ฝุ่น PM2.5 พุ่ง 12 พื้นที่ “บางเขน” หนักสุด เตือนกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzU0IwVVdWYjUxQVRqb0JoemdHbTNsV1NlanZJN2VtVEctY3pXREd0ZEpSaUlEcTNXQ2VMYm1KTXZIZnlheDQ1aG1lR0pBUmJOSUdR?oc=5",
-   "time": "2026-11-16T03:50:17Z",
-   "location": null,
-   "id": "6112843e065c40d9",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
-  },
-  {
-   "title": "PM2.5 กลับมาแล้ว! เช้านี้ กทม. 12 เขตเกินมาตรฐาน แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "RYT9",
-   "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5meTZ5bWIyWnR4NUZ2NUpVMHZmb3puYWRSOE1LaTJNSkdoVUdZUGpESGtNV01IRW83SEoxVC1HV0N4a0pqRWlocHVn?oc=5",
-   "time": "2026-11-16T03:50:13Z",
-   "location": null,
-   "id": "66b8d92a75ac4d80",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   }
  ]
 }
