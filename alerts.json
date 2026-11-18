@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T10:00:09Z",
+ "updated_at": "2026-11-18T10:12:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 35,
+  "flood": 36,
   "flash_flood": 9,
-  "storm": 23,
+  "storm": 24,
   "landslide": 4,
-  "earthquake": 6,
+  "earthquake": 7,
   "wildfire": 1,
-  "drought": 6,
+  "drought": 5,
   "pm25": 7,
   "heat": 2,
   "tsunami": 5,
@@ -232,6 +232,26 @@
    "time": "2026-11-18T09:51:20Z",
    "location": null,
    "id": "a9379048815a8616"
+  },
+  {
+   "title": "แผ่นดินไหว ขนาด 3.3 มณฑลยูนนาน, ประเทศจีน (Yunnan, China)",
+   "summary": "ทางทิศตะวันออกเฉียงเหนือของ อ.แม่สาย จ.เชียงราย ประมาณ 283 กม.",
+   "category": "official",
+   "hazard_type": "earthquake",
+   "severity": "medium",
+   "urgent": false,
+   "official": true,
+   "source": "กรมอุตุนิยมวิทยา",
+   "source_url": "https://earthquake.tmd.go.th/inside-info.html?earthquake=17452",
+   "time": "2026-11-18T09:48:39Z",
+   "magnitude": 3.3,
+   "location": {
+    "name": "มณฑลยูนนาน, ประเทศจีน (Yunnan, China)",
+    "lat": 22.938,
+    "lng": 100.38,
+    "precision": "epicentre"
+   },
+   "id": "7e8d82ab6c7ac5fe"
   },
   {
    "title": "มหาดไทย เดินหน้ายกระดับเฝ้าระวังสึนามิ จับมือภาคีเครือข่าย ปภ. ร่วม 8 หน่วยงาน เฝ้าระวังและดูแลทุ่นตรวจวัดคลื่นสึนามิในมหาสมุทรอินเดียและทะเลอันดามัน",
@@ -545,6 +565,20 @@
    "time": "2026-11-18T02:30:00Z",
    "location": null,
    "id": "8603763abd6077e3"
+  },
+  {
+   "title": "อุตุฯ เตือน 18-22 พ.ย. ภาคใต้ฝนตกหนัก เช็กพื้นที่ไหนเสี่ยงบ้าง?",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WMXhzV01YRzQwd3N3bFo2VXF1dWRCNzF1UnZNQnJqVUVpQW1NNVg2R3Vadk1CVkMzZHNRbkpuTEtUb1dJWE5kV2F2djgtMDBiLUNF?oc=5",
+   "time": "2026-11-18T02:20:21Z",
+   "location": null,
+   "id": "5ab352baf3e4100c"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -1099,6 +1133,20 @@
    "location": null,
    "incident_id": "fr_news_9e80485aa84906cbe68b",
    "id": "9e80485aa84906cb"
+  },
+  {
+   "title": "น้ำท่วมในมาเลเซียทำให้ประชาชนกว่า 2,500 คนต้องอพยพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1hNUS1VVmM5M2F6Sk9oUFE4OEpmX01jYkJ5aDlDMU4zVDJndXV1aE1oVWx3Yzg4TUd4SVlyVk9mdmhRTWVVTFFZM0EtbklhNk1xTzhjRnNQZWNraF9WOENjU2picHQ2QTBKcnUyWHRkMU1qbTVtSVRCbG9TMm54cGtuWWM3QQ?oc=5",
+   "time": "2026-11-17T05:40:54Z",
+   "location": null,
+   "id": "98fab031c31079a6"
   },
   {
    "title": "ปภ. - ออมสิน โอนเยียวยาน้ำท่วมต่อเนื่อง สะสมกว่า 1.32 หมื่นล้านบาท ครอบคลุม 56 จังหวัด วันนี้โอนเพิ่มอีก 26,813 ครัวเรือน รวม 168.67 ล้านบาท ใน 17 จังหวัด และ กทม. | สวพ.FM91",
@@ -1881,6 +1929,20 @@
    "id": "6805fb6aeaf34166"
   },
   {
+   "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TNN Thailand",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
+   "time": "2026-11-16T11:00:24Z",
+   "location": null,
+   "id": "6ea3d859fc866354"
+  },
+  {
    "title": "ฉะเชิงเทราน้ำท่วมคลี่คลาย บ้านเรือนแห้งเกือบทั้งหมด หลังชาวบ้านเผชิญน้ำนานเกือบ 2 เดือน",
    "summary": "",
    "category": "flooding",
@@ -1905,34 +1967,6 @@
    },
    "incident_id": "fr_news_b6ffe3ee98a3857d21a5",
    "id": "b6ffe3ee98a3857d"
-  },
-  {
-   "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnU0FSV2VtUFh3UWVWb0dSOVhYWmFyTEhpcDVwVzhxM1VTRnhtcmhkR0thS0JwcXJzaTBMNVhHejliamNfV2RGaHFwY19kN1dRNExz?oc=5",
-   "time": "2026-11-16T10:04:02Z",
-   "location": null,
-   "id": "6ea3d859fc866354"
-  },
-  {
-   "title": "การตอบสนองเชิงรุกต่อภัยพิบัติทางธรรมชาติที่เกิดจากปรากฏการณ์เอลนีโญในปี 2026-2027",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "drought",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNk9Bb3BvcHE2SkQwMHZGSHVRZi1zVXhpbWZxT0VFdVpHX0RXUXphdzNOZWJneHgwNUFKdFB3NkJIUVVNTnFIbVo5UEFHUkVabmE0Q21Vc0ZVMlFaQlJGMHB4VXVjV3hzNGtDekpHU3U2SjJsY0hqNDA2S042VGd1WWpvQkVyY1JoTV9TS0hXOFJVVFF6U2c?oc=5",
-   "time": "2026-11-16T10:03:47Z",
-   "location": null,
-   "id": "06c7c1e37a358803"
   }
  ]
 }
