@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T02:23:19Z",
+ "updated_at": "2026-11-18T02:41:48Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,8 +16,8 @@
   "other"
  ],
  "counts": {
-  "flood": 41,
-  "flash_flood": 17,
+  "flood": 40,
+  "flash_flood": 16,
   "storm": 20,
   "landslide": 6,
   "earthquake": 7,
@@ -137,20 +137,6 @@
    "time": "2026-11-17T05:21:52Z",
    "location": null,
    "id": "dd0abf6cc65a3366"
-  },
-  {
-   "title": "“กรมอุตุ” เตือนใต้ฝนหนัก 18-22 พ.ย. เสี่ยงน้ำท่วมฉับพลัน ไทยตอนบนเย็นลง 1-4 องศา | ข่าวหุ้นธุรกิจ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kb1FMWjhOQjBSdXJXZW8yRFFUa0NGMEphcWtBYndIWko2RG5JQkFsUGxxOU1ZSS1EMTNXU2JnU3J1QWtkUXNqTlBQM05HLWFyTUZfOWNR?oc=5",
-   "time": "2026-11-17T05:17:10Z",
-   "location": null,
-   "id": "e96f6c6d8a951d65"
   },
   {
    "title": "กรมอุตุฯ ประกาศ ฉบับที่ 5 ภาคใต้รับมือฝนตกหนัก 18-22 พ.ย.นี้",
@@ -997,20 +983,6 @@
    "id": "b4d509c0f262d8b1"
   },
   {
-   "title": "ใต้ฝนถล่มหนัก 19–22 พ.ย. นี้ เตือน 5 จังหวัดเสี่ยงน้ำท่วม",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TrueID",
-   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UEFNQlJiQjU1NTlyaWM0UnlHVnEyeWtrYk5iTFVXMkh2Q0pEOG53M0xBeUZra2JQYzJmWURGSE0ybkxZVFFVaEs5cEozTGxYc1VTMjh3?oc=5",
-   "time": "2026-11-17T02:30:00Z",
-   "location": null,
-   "id": "ce6b54bfce4519b8"
-  },
-  {
    "title": "เกิดแผ่นดินไหวรุนแรงอีกครั้งในอินโดนีเซีย และมีแรงสั่นสะเทือนตามมาไกลถึงออสเตรเลีย",
    "summary": "",
    "category": "news",
@@ -1141,6 +1113,20 @@
    },
    "incident_id": "fr_news_43aedf10d9816e5b5c4b",
    "id": "43aedf10d9816e5b"
+  },
+  {
+   "title": "สภาพอากาศวันนี้ 17 พ.ย. เตือน 40 จังหวัดฝนตกหนัก ลมกระโชกแรง ทะเลคลื่นสูง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53bXhNX1hGOVRfekFCTFItSk1jQWFhMHhqbVZjblpnQXNyM2dTNHF2cVBiUE9YOElMVE9nWVJFSzJrT2MyTi1jVEhvY0Rfd2FlbTMyXzliX29kNFoxdlJGYWR5S3liWEZ0NnZid3VuRFNjNEhFdmpmVGVHNjE?oc=5",
+   "time": "2026-11-17T00:45:13Z",
+   "location": null,
+   "id": "ac95f4ac59a7399c"
   },
   {
    "title": "ตรังเร่งกู้วิกฤตน้ำท่วม! ระดมกำลังช่วยชาวบ้าน 5 ตำบลอพยพขึ้นที่สูง",
@@ -1955,20 +1941,6 @@
    "id": "84a3d23b7bea86c8"
   },
   {
-   "title": "ทหารและตำรวจกำลังช่วยเหลือประชาชนในจังหวัดกวางงายให้ผ่านพ้นผลกระทบจากน้ำท่วมและฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUFMOHpXcHhtck1aSE1LbVNxeTFKSHNiUTlQWnZwX0dTYk5FV2FLTW15QmhMbzRPVV9faDZ3d2lmOURlXzdTOVdRUUI1WlE2RGFaX3AwWjFiWDVKR0R2N040YjFmbmcxSlhsbWNwNUF5M040RnVnXzVCOUFJVzlvR1VzZGZYSUV3UU5RVTVudHFPcGlUTnc?oc=5",
-   "time": "2026-11-16T04:04:55Z",
-   "location": null,
-   "id": "213ecf4a17ff5ff3"
-  },
-  {
    "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
    "summary": "",
    "category": "news",
@@ -2079,6 +2051,20 @@
    "id": "67cc44ed4fad37a8"
   },
   {
+   "title": "ลุ้นลมหนาวรับลอยกระทง จับตาฝนหนักถล่มภาคใต้ เตือน 5 จังหวัดเสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lOWRoXzRoLUFCdnpYOHBJX25iXzlyRTRDcDc3Y0FTVW1uVG0tbGZOZXRIY0JUN0NvUDJXTzc0dTNXbE94VmhJX1puUDc1SE5mVWgybW1R?oc=5",
+   "time": "2026-11-16T03:00:00Z",
+   "location": null,
+   "id": "6593af03da976aa3"
+  },
+  {
    "title": "อัปเดตด่วน! น้ำท่วมอำเภอรัษฎา จังหวัดตรัง ขยายวงกว้างกระทบ 4 ตำบล",
    "summary": "",
    "category": "flooding",
@@ -2097,32 +2083,6 @@
    },
    "incident_id": "fr_news_527ab10c55da898d05c6",
    "id": "527ab10c55da898d"
-  },
-  {
-   "title": "น้ำป่าทะลักตรังกลางดึก! ท่วมหนัก 2 อำเภอ ชาวบ้านขนของหนีวุ่น",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.tnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95YmEwVG1ONXBBU19KTV9vR3lTV0VqVm81RWIzT0F4VjB0bV85eGFZLW9qd1NzcC0zSTVQTUlOV09aWHhQeXI0QTFCVzJwdFNyRlVuQm9mdlh5UDdBVUE?oc=5",
-   "time": "2026-11-16T02:40:00Z",
-   "location": null,
-   "area": {
-    "code": "TH92",
-    "level": "province",
-    "name": "จ.ตรัง",
-    "bbox": [
-     99.246,
-     7.082,
-     99.949,
-     8.009
-    ]
-   },
-   "incident_id": "fr_news_7cfb0ecf7dedc97fcf90",
-   "id": "7cfb0ecf7dedc97f"
   }
  ]
 }
