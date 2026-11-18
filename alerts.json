@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T10:36:51Z",
+ "updated_at": "2026-11-18T10:44:29Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,15 +17,15 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 10,
-  "storm": 23,
+  "flash_flood": 9,
+  "storm": 24,
   "landslide": 5,
   "earthquake": 7,
   "wildfire": 1,
   "drought": 5,
   "pm25": 7,
   "heat": 2,
-  "tsunami": 6,
+  "tsunami": 7,
   "other": 0
  },
  "items": [
@@ -42,6 +42,34 @@
    "time": "2026-11-18T10:35:12Z",
    "location": null,
    "id": "ba802f00fb402361"
+  },
+  {
+   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ใน 22 พื้นที่ของจังหวัดฟู้โถ ในอีก 6 ชั่วโมงข้างหน้า ในวันที่ 18 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdxcGEwQXFlMEpUdDhGcFNhQURsbWlMbGIyOHZoNFV0ZzlQR25VZV9kcG9ieThBR3FXWGlKbzZ1djJJbWVYS3JyXzZvS2Naa3M3Q2dGY20xLXd2bmJuSXNhczRuZlFJMlNEYkxtR3JTbjNZMGJRVEZXRzB2THpPbG5keURTdHMxMjZBR0lkV2VNRE54VnNZNUF0Zk1vckt5MTJXUVZjZU4xdnBJR193SnBsSmRzMHJ6?oc=5",
+   "time": "2026-11-18T10:35:11Z",
+   "location": null,
+   "id": "097c35a698e5bb40"
+  },
+  {
+   "title": "ประกาศกรมอุตุฯเตือน 6 จว.ภาคใต้ พรุ่งนี้ 19 พ.ย.69 ฝนตกหนัก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Thansettakij",
+   "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55b2pyQjkyYk1IWWs4cFZNeEVJTnAtel9KZjlPelJGXzR6NkNuMUVpLVNJVGQ2azJMRFkzSWdkLUdxa2IyMTJ0TW5weW9BUGhVdjBYN3ZobUQyTnh1?oc=5",
+   "time": "2026-11-18T10:35:00Z",
+   "location": null,
+   "id": "a30b9f9f03ea7c2b"
   },
   {
    "title": "ภูเก็ตเดินหน้าติดตั้งทุ่นเตือนภัยสึนามิ 2 จุดในอันดามัน ผนึก 9 หน่วยงานดูแลระบบเฝ้าระวัง",
@@ -95,6 +123,20 @@
    "time": "2026-11-18T08:45:00Z",
    "location": null,
    "id": "d49b6c750f63fbaf"
+  },
+  {
+   "title": "ปชส. จังหวัดภูเก็ต. . 🌊 ภูเก็ตพร้อมรับมือสึนามิ! เสริมระบบเฝ้าระวัง–แจ้งเตือนภัย ครอบคลุม 6 จังหวัดฝั่งอันดามัน นายโชตินรินทร์ เกิดสม ผู้ว่าราชการจังหวัดภูเก็ต เปิดเผยถึงความพร้อมของจังหวัดภูเก็ตในการเฝ้าระวังและรับมือภัยสึนามิ โดยปัจจุบันจังหวัดภูเก็ตมีหอเตือนภัยสึนามิ จำนวน 19 หอ ค",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "tsunami",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Facebook",
+   "source_url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxQQ3VPSzQybWVnYTRSUzczRWJqNl9xeXRob3hIWmt4UEJkTTBXUlRUYUt5NFFwSjEtQWIweTJlX0EtLU4zak94SHVxbXJDM1dIZjQyelpvT21KbFczUU9Na0s2bV8xR09TaXBXaGtnM19RQTFyeDcwWGdPcE9NdUtzN2tkeFFyYXlidUdMTEJOd3FYandieXA4dXNvUGZoWmM4dTNkcEdtemV6ZXYxXzBycTQ0bTJLSnRBTnlzZXJnYW1nbEV2cUs2RkZ6bF92TThzNnFqUVlZZEFoUXVSa19GRGJzd2tmM3c5N1lhSlJrS1NZUk5PSWpYRC1PbFQ5akdqelNrU2ExME5qUnVNZHpIa2xZb19Tb0l5emNHeVh2NURhRHRISUlhVlVFVFNBQlNoTGVlRjA4cFVqU3YtcDVhcVhuMFZKcE5tTjNLZENLem1qbWVBeXhZVkRGTi03cWR1Tnc3V0FUMnNvcFdSM2VwN2hWZzQ1SE5oQmNTVXhFUG9oblV3bGpGZERPdXQtTWpqanpEVU84MWNFS0U2c2ZFckE0SnV3UXktMXo1WTZXSzZtSGtNSUNhaDBQVWRuMWtwLUFpdlRqRjNfTGl5eHV6YTBINzUtUWJYc0VPT0N6bS1ZbUZFcTE0ckxIcTNkQ0VGeUdBUGQ2YVpIWXprNmZkTkFRSzVjZEVyN2FjSEdQY0dBV2R5T0xHSFRURDNRTkFqREFJczE2cU5mWEZmcGtxVG9jaV9Sd01hRmFPZGwxanRkOHdCSTlzSkdHdzJmaDZzUGhLZl9YNVg5VEswX3J0V0hiRklUX2dwNE42OGZRb0lQLW5ZeXR4QmhKYTlwckFsX1hyM19rQVEwUkpRTmYxZmMxVkxFNW5jbUNjbXBVYWxOSkVTN3BjLVo4ek5JcHpJM1QwbDZtM1VRU3Y0cUFSM3ViZVN0Und0SHdGQ3AtUnFCZUxQQ3puUTBGTkl6am85Z09hSjdZOEJzMTZrMHZQdVBUV2hUZEhxcGRRRFdFZExjaUFvdmVoRDRqUDBrLW5yX1U1SHFLS3ExbkxHLWN1MXNmaUNRZmMxQ0o2a25WbjFPWW85d1dYZXZ1WHlxY1drM3ppaHBTcTh1ZEhhZlJNcDVsTDdxcjdQRW9YVHJNUkUtckQ0SkpGLWphLXhFZC1UWUI1YzQ0YXBEc1Z5UmpxZHFwYXN0SWZsSDdDWXNWeGh1T2pESjhnU0tZQ2xRcmx0SzlmejlwRmpvQ29PVDNOUUdFN3E2SWhwOGpaU0FQOFVobTNIdEZ3MklGT1JYTDNYRW51N3JzeTA2bWdXeTZLX1pPRUNyVkdGb2hia1YxcWE?oc=5",
+   "time": "2026-11-18T08:25:34Z",
+   "location": null,
+   "id": "5b08d913ef987b21"
   },
   {
    "title": "🚢 เรือ M.V. SEAFDEC เทียบท่าเรือน้ำลึกภูเก็ต เตรียมพร้อมนำเจ้าหน้าที่และอุปกรณ์ออกเดินทางสู่ทะเลอันดามัน เพื่อปฏิบัติภารกิจวางทุ่นตรวจวัดคลื่นสึนามิ เสริมประสิทธิภาพระบบเฝ้าระวังและเตือนภัย เพื่อความปลอดภัยของประชาชน",
@@ -511,20 +553,6 @@
    "time": "2026-11-18T05:41:26Z",
    "location": null,
    "id": "4e88f24477ee6db4"
-  },
-  {
-   "title": "ครูอาจารย์ต้องฝ่าฟันอุปสรรคจากดินถล่มและถนนที่เต็มไปด้วยโคลน เพื่อเดินทางไปสอนนักเรียนในเขตภูเขาของจังหวัดกวางตรี",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2piWmlHYkhHNldkN042MXZHNVdKXzJiaWtzU2NuSHRuMWZqV0tyTGZnZlB2UUo1VVQ5Y3pvb1c2cy1lX3plRndKaU04Vzd2ZHhVMHZ3WFExc1lkUXB1TG1nRDRCUEN1dWpVaXZTREVmMHkxT2tNZGd0UEh5YURyYUdEdHZ0am43YmZ4ejNjb3ZsUk9mTG1iQjZxdFJSTzFJ?oc=5",
-   "time": "2026-11-18T05:25:44Z",
-   "location": null,
-   "id": "938b7a1d53e74767"
   },
   {
    "title": "ถ้าน้ำท่วม พัทลุงพร้อมไหม ?",
@@ -1966,20 +1994,6 @@
    },
    "incident_id": "fr_news_6805fb6aeaf3416619c2",
    "id": "6805fb6aeaf34166"
-  },
-  {
-   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flash_flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "The Bangkok Insight",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
-   "time": "2026-11-16T11:02:02Z",
-   "location": null,
-   "id": "c95f91b02abd9393"
   },
   {
    "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
