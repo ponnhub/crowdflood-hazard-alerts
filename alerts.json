@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T03:56:04Z",
+ "updated_at": "2026-11-18T04:10:58Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,19 +16,33 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
+  "flood": 36,
   "flash_flood": 16,
-  "storm": 20,
-  "landslide": 6,
+  "storm": 18,
+  "landslide": 5,
   "earthquake": 7,
   "wildfire": 2,
   "drought": 6,
   "pm25": 8,
-  "heat": 0,
+  "heat": 1,
   "tsunami": 0,
   "other": 0
  },
  "items": [
+  {
+   "title": "ญี่ปุ่นนำทัพพัฒนาระบบเตือนภัยล่วงหน้าทั่วเอเชีย พร้อมจี้นานาชาติร่วมลงขันเงินทุนรับมือโลกร้อน : อินโฟเควสท์",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "heat",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "สำนักข่าวอินโฟเควสท์",
+   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbEVsRHFWei1DSXlCMG8wZWRrTjFyUy1wb2xaSjNkcTI4cExhdmlxQmFPTElXTlFtWXY0eE1YRnZrdUhCUzJNMTNDeVlxdWFs?oc=5",
+   "time": "2026-11-18T03:57:52Z",
+   "location": null,
+   "id": "0ad220cdc0f5f912"
+  },
   {
    "title": "“กรมอุตุฯ” ประกาศฉบับที่ 7 เตือนไทยฝนตกหนัก 18-22 พ.ย. ระวังลมแรง คลื่นสูงกว่า 3 เมตร เสี่ยงน้ำท่วม-น้ำป่า",
    "summary": "",
@@ -139,20 +153,6 @@
    "id": "dd0abf6cc65a3366"
   },
   {
-   "title": "กรมอุตุฯ ประกาศ ฉบับที่ 5 ภาคใต้รับมือฝนตกหนัก 18-22 พ.ย.นี้",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": true,
-   "official": true,
-   "source": "Thai PBS",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NnpXNUQwaWwtRUlEa0JoS3B1VW13Nl9qNkI2UXlaN3RUQ3JQSDZJMmd3cnhwa2IzUHdGV3VtVHo0aEJPUVltcnBxMm9VbFVhTkx5MzV6UHA?oc=5",
-   "time": "2026-11-17T00:06:22Z",
-   "location": null,
-   "id": "c72e52a4b1366260"
-  },
-  {
    "title": "ปภ. เตือน 15 จังหวัด เตรียมรับมือฝนถล่ม น้ำป่าไหลหลาก 18-22 พ.ย. 69",
    "summary": "",
    "category": "news",
@@ -193,6 +193,32 @@
    "time": "2026-11-16T08:55:21Z",
    "location": null,
    "id": "258ec293ad5705ed"
+  },
+  {
+   "title": "หาดใหญ่เตรียมพร้อมที่จอดรถ อพยพกลุ่มเปราะบาง รับมือฝนตกหนัก 19-22 พ.ย. หวั่นเกิดน้ำท่วม",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "storm",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "มติชน",
+   "source_url": "https://www.matichon.co.th/region/news_5979975",
+   "time": "2026-11-18T03:53:38Z",
+   "location": null,
+   "area": {
+    "code": "TH90",
+    "level": "province",
+    "name": "จ.สงขลา",
+    "bbox": [
+     100.057,
+     6.296,
+     101.104,
+     7.936
+    ]
+   },
+   "incident_id": "fr_rss_e6652e66e5f0a2b94435",
+   "id": "e6652e66e5f0a2b9"
   },
   {
    "title": "เงินเยียวยาน้ำท่วม กทม. ล่าสุด อนุมัติแล้ว 7.5 แสนครัวเรือน เช็กสถานะได้เลย",
@@ -311,20 +337,6 @@
      13.955
     ]
    }
-  },
-  {
-   "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 32 จังหวัด ฝนตกหนัก ลมกระโชกแรง",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "ข่าวสด",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CbFpuaXJ5MF9JZVJjYVVwQkU2TXlhNXhEYmU0QjV5dGtnUmNmZjlwcTRUZW9jVVZoRVZCN3V6ZXpsZ3BQN1ZseG5VamFlTjFBbjNKMVN6Tjg1RXhtTjdEN0ZSQQ?oc=5",
-   "time": "2026-11-17T23:38:00Z",
-   "location": null,
-   "id": "9f80f43c7d295794"
   },
   {
    "title": "พาณิชย์ยะลา บุกตรวจสต็อกน้ำดื่ม - ไข่ไก่ เตรียมความพร้อมรับมือน้ำท่วม มั่นใจสินค้าเพียงพอไม่ขาดแคลน จ.ยะลา",
@@ -848,20 +860,6 @@
    "id": "23abe908679a4555"
   },
   {
-   "title": "กรมอุตุนิยมวิทยา. . ⚠️ เน้นย้ำภาคใต้ 18 - 22 ฝนตกหนักถึงหนักมาก ⛈️ 18 - 22 ภาคใต้ฝนตกต่อเนื่อง ฝนหนักถึงหนักมาก ในหลายพื้นที่ 🌡️ ไทยตอนบน อุณหภูมิลดลง ภาคอีสาน ลดลง 2 - 4°C ภาคเหนือ กลาง ตะวันออก กรุงเทพฯและปริมณฑล ลดลง 1 - 3°C #กรมอุตุนิยมวิทยา #พยากรณ์อา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxOMWpIYmVTQ0pjLTJKQmkwS2tYVG9WQ3Q3dEFDSUFmSzIzZFg3VUZ6UzhYaldkYW11dmVQTmhwTlhtMzdWTEg2aElkMGJwcTZXQWNuOHVZbzNTcnp0VFhPMEVEWmQzdVdyZEdyUDBSTmdoX2RERUtPdUNaeVZEUHdiREhlRTBoYVV2YmQ0RDduQUNtdlZVX043WDhHY2oxRGs4THdSYVJNZjN3UWRtNU5UMkwtN2V6b19HeDRMb092MDdNVHBYN0RWcjlZQW4yWS1YV01FaF9mVmVxSFRLbW9xb1RkeFRTdFk2N25QTmVQRmpCX3JLRS1QSGtEdGF2ekxXQVpPcXk4anBuTDljekFUcFBoaWVfenpfbXVaVFNpQkswaExhSmJYY1RpNWdhSERHdlFLb3dHRTZqdzl3Q1pMYmFaNVhobUhkcThKV0JveEx4T2hBZTJnT0tLWTF6Sm5wemlTX0ctUW5rV21ETFl2T2NqUTJFMi1JcDh6Y3JpNzlXSHMyWVk1bEk2R1BIWVA5OThDalQ1Q29uRkt6QnBwZXJfblJydDctMDJNamFPMHJZMXYxRlREOWU3OUVIbVFVQ05YSHAyQm9raUNFdzcwcGRTU2N1OEdSU0t2aE5hUWwtSU9CRnJXTF82dEdpeDFqbzZpQ1prS3hYVEZOSWgwZE03c3IwZFNNcWU5REpEME9lVEluTFJBOFN6Ymw1NzBhX0hnVUZKUGd1R2FJOVJUS1VXSXoyWjlTZ0t3VHdETTdkd0ttQ3k2Y19mM294OGZ6MXNPYzJzRUhQczYybGFiVTFJM08wOHh4WkswbHZCMEl5d1VVZlByeGlpZzhxTnBZb2VKemxxb1BabTZDLXNBbE1NN0JycXltcmI5TDQ0VGMwUWJuWTgwd1cwNWYwZ08xVzVHdWxBWmx5WWZPU0hyT1hMQVg0MXJxMEk0MnFsLTV2MkVSZEY0c0d6LU1VWDBNVXlmUzNoN3FKWi1IRnNwZVgyZEE5VE9OV2I5Ujh1M1JvUE4zU20wT1BHenhPZmIyY0ZmaHlVcGh2Y0FlNWZERVJUYThnYmxGem0xRHNINVJLbzZ3LUtpX016VnNkN0YzamtTc091MUVQbS11dktNdjRmUjUwSDdvaUcwTXMwUHB5T1dJSzc5dUdnMHdMSjB5T09JV3ItY19CSExVYTJEMHd3?oc=5",
-   "time": "2026-11-17T04:10:14Z",
-   "location": null,
-   "id": "d2612c28170a89ef"
-  },
-  {
    "title": "“สุริยะ” มั่นใจ “เจ้าพระยา 2” แก้น้ำท่วมระยะยาว ย้ำเร่งสร้างความเข้าใจประชาชน หลังชาวนครนายกค้านโครงการ",
    "summary": "",
    "category": "flooding",
@@ -1254,6 +1252,20 @@
     "precision": "epicentre"
    },
    "id": "1ed4a3e4a95ca709"
+  },
+  {
+   "title": "รัฐบาลจังหวัดเกียไลระดมทรัพยากรทั้งหมดเพื่อรับมือกับน้ำท่วมและฝนตกหนัก โดยเพิ่มมาตรการรักษาความปลอดภัยที่จุดตรวจตลอด 24 ชั่วโมง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dIN2k1NVFGS1FsZUhqMUxDRFRaVG9RaExXVVA4N0FpbDk0eUZoZ0UtVzdxNU5uemtuZTRadFlDbkpIRFBST1VxUGRFZEdmb3YtUXRmQVVUM2ktS2IxRlhiSnR6WFBnd1pDeGNxVHF5MWxsbzVEdUppMW5UT2lUNS1BeFp1UGtzRFFXblMzejBwUQ?oc=5",
+   "time": "2026-11-16T19:48:47Z",
+   "location": null,
+   "id": "046ff36fd856265c"
   },
   {
    "title": "ปรากฏการณ์เอลนีโญที่รุนแรงมากกำลังก่อให้เกิดความเสี่ยงต่อภัยแล้งในหลายพื้นที่",
@@ -1953,60 +1965,6 @@
    "time": "2026-11-16T04:26:58Z",
    "location": null,
    "id": "9f43173471be0693"
-  },
-  {
-   "title": "สาบานได้ว่าฤดูหนาว! กทม.ฝนถล่ม น้ำท่วมถนน หมู่บ้านท่วมอีก ทำชาวบ้านผวา",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "CH3Plus.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd05CQ3ZEWkNhOTlxd2llcU1OR0VjUHBjeXVweGxzNEhaSmQzd1R3WlZWSmVNbXRTbEM1RlZ4dkFWTDlOM3NmenozUDRqYzE0QzhqSXQ0ZHEwdw?oc=5",
-   "time": "2026-11-16T04:06:59Z",
-   "location": null,
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   },
-   "incident_id": "fr_news_84a3d23b7bea86c81dcb",
-   "id": "84a3d23b7bea86c8"
-  },
-  {
-   "title": "ทหารและตำรวจกำลังช่วยเหลือประชาชนในจังหวัดกวางงายให้ผ่านพ้นผลกระทบจากน้ำท่วมและฝนตกหนัก",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUFMOHpXcHhtck1aSE1LbVNxeTFKSHNiUTlQWnZwX0dTYk5FV2FLTW15QmhMbzRPVV9faDZ3d2lmOURlXzdTOVdRUUI1WlE2RGFaX3AwWjFiWDVKR0R2N040YjFmbmcxSlhsbWNwNUF5M040RnVnXzVCOUFJVzlvR1VzZGZYSUV3UU5RVTVudHFPcGlUTnc?oc=5",
-   "time": "2026-11-16T04:04:55Z",
-   "location": null,
-   "id": "213ecf4a17ff5ff3"
-  },
-  {
-   "title": "เหตุการณ์ดินถล่มบนช่องเขาลุงปาจำเป็นต้องได้รับการแก้ไขอย่างเร่งด่วน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vdUN5YzA3UEMtMWY3U2hvUmpYMDVKX2NQbEtLOHd3aW5zcUZjbGd2V0ZzTjhacThHVDhHSGM0OGNuVUZhZElURmVoZVdPR3EyYWZNb1JGRk9HLUlVWTRfTW1SZXhpOENoX1o2dmRfSHdvTW1sb0E?oc=5",
-   "time": "2026-11-16T04:00:50Z",
-   "location": null,
-   "id": "b753d5a640089cbd"
   }
  ]
 }
