@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T10:24:20Z",
+ "updated_at": "2026-11-18T10:36:51Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,8 +17,8 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 9,
-  "storm": 25,
+  "flash_flood": 10,
+  "storm": 23,
   "landslide": 5,
   "earthquake": 7,
   "wildfire": 1,
@@ -29,6 +29,20 @@
   "other": 0
  },
  "items": [
+  {
+   "title": "มีการออกประกาศเตือนภัยน้ำท่วมฉับพลัน ดินถล่ม และดินทรุดตัว ใน 11 พื้นที่ของจังหวัดกวางนิง ในช่วง 6 ชั่วโมงข้างหน้าของวันที่ 18 พฤศจิกายน 2569",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "landslide",
+   "severity": "high",
+   "urgent": true,
+   "official": true,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0YteXI3OEhMZXpHQnIyRHBRcE9qa0VlclFvdWhDSnFGRWZKb3gwWmxTbjUxWnNxd3ZJeEdINkFubDF0QXlqbGpLcUw0dmJkV3M0YVZVVGcxbmJHQjRuSkVZdFdPMzYyS3c3ZVM4QTVXb3prTFo2ZVAxVlNoZUdPZmVyZC1raFRFLXMtaEVSdktuY1RQNDVVQWh1ZzRlTFh1MlFSLUh5aC1wVS0zbVVYeFA5b1d3SzE5MkJzeQ?oc=5",
+   "time": "2026-11-18T10:35:12Z",
+   "location": null,
+   "id": "ba802f00fb402361"
+  },
   {
    "title": "ภูเก็ตเดินหน้าติดตั้งทุ่นเตือนภัยสึนามิ 2 จุดในอันดามัน ผนึก 9 หน่วยงานดูแลระบบเฝ้าระวัง",
    "summary": "",
@@ -591,20 +605,6 @@
    "id": "e6652e66e5f0a2b9"
   },
   {
-   "title": "แม่สะเรียงรับปูน 2,778 ถุง มูลค่า 5 แสนบาท เร่งฟื้นฟูถนนหลังน้ำท่วม-ดินโคลนถล่ม 18 หมู่บ้าน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "landslide",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "สยามรัฐ",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqQ2IwTUZzVWFnam4xalgwV1ZvUEh2WFlJVVFHNXIzZWM5WHNrZ3BtaUdjTkoycHRIZWRIZTNYVHV2aVdzVXBTX2VKSGlmZUE?oc=5",
-   "time": "2026-11-18T03:47:00Z",
-   "location": null,
-   "id": "c0bd6343c3ab3eff"
-  },
-  {
    "title": "เงินเยียวยาน้ำท่วม กทม. ล่าสุด อนุมัติแล้ว 7.5 แสนครัวเรือน เช็กสถานะได้เลย",
    "summary": "",
    "category": "flooding",
@@ -657,20 +657,6 @@
    "time": "2026-11-18T02:30:00Z",
    "location": null,
    "id": "8603763abd6077e3"
-  },
-  {
-   "title": "อุตุฯ เตือน 18-22 พ.ย. ภาคใต้ฝนตกหนัก เช็กพื้นที่ไหนเสี่ยงบ้าง?",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "TNN Thailand",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WMXhzV01YRzQwd3N3bFo2VXF1dWRCNzF1UnZNQnJqVUVpQW1NNVg2R3Vadk1CVkMzZHNRbkpuTEtUb1dJWE5kV2F2djgtMDBiLUNF?oc=5",
-   "time": "2026-11-18T02:20:21Z",
-   "location": null,
-   "id": "5ab352baf3e4100c"
   },
   {
    "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
@@ -817,20 +803,6 @@
    "time": "2026-11-17T12:08:25Z",
    "location": null,
    "id": "c6b60b005b62823d"
-  },
-  {
-   "title": "กรมอุตุนิยมวิทยา ฉบับ 6 เช็กพื้นที่ฝนตกหนักภาคใต้ ระวังน้ำท่วมฉับพลัน 18-22 พ.ย.69",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "thairath.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQ1U5WGN3ZWpVM3dYRUhyUElaekZUWUpjQk8wUkgtZnZLejcwdzVweWhQcTdtQThDQXV0RVYzWFJHUWZTOUU3b1RXekE5RFBpNjROZmNuZnU?oc=5",
-   "time": "2026-11-17T12:00:13Z",
-   "location": null,
-   "id": "9a6efdc71ae25bd9"
   },
   {
    "title": "ระทึก ล้อรถพ่วงหลุด กลิ้งพุ่งชนกระบะจอดติดไฟแดงพัง คนขับไม่รู้ตัวขับไปต่ออีก 12 กม.",
@@ -1994,6 +1966,20 @@
    },
    "incident_id": "fr_news_6805fb6aeaf3416619c2",
    "id": "6805fb6aeaf34166"
+  },
+  {
+   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
+   "time": "2026-11-16T11:02:02Z",
+   "location": null,
+   "id": "c95f91b02abd9393"
   },
   {
    "title": "เช็กด่วน 15 จังหวัด ภาคกลาง-ภาคใต้ เตือนระวังน้ำท่วมฉับพลัน-ดินถล่ม 18 - 22 พ.ย.",
