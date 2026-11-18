@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T07:50:57Z",
+ "updated_at": "2026-11-18T08:06:34Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,13 +16,13 @@
   "other"
  ],
  "counts": {
-  "flood": 37,
+  "flood": 36,
   "flash_flood": 12,
   "storm": 22,
   "landslide": 4,
   "earthquake": 7,
   "wildfire": 1,
-  "drought": 6,
+  "drought": 7,
   "pm25": 7,
   "heat": 2,
   "tsunami": 3,
@@ -218,6 +218,20 @@
    "time": "2026-11-16T08:55:21Z",
    "location": null,
    "id": "258ec293ad5705ed"
+  },
+  {
+   "title": "เมืองดานังเปิดใช้งานโรงไฟฟ้าพลังน้ำซงตรันห์ 2 และดักมี 4A เพื่อรับมือกับความเสี่ยงจากภัยแล้ง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "drought",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRGNvaldhd1BuV1ZRU081VUl1c3FoRkhOSS01ODZhQVZqRXRPTGlKQlMwQ2xmU0M3T0NMalRFU2t4Q2xxUXBYT0gzRUd2a0FPa015d1BvQkdZcGF5Vjl0WkdkOGtqTktrUnVrSzdlcC04cm1TTUZvX0w1ODhkUkR6T0cxSkxVdHg3TFNRVS0zX0g5OTVySV9lRWlOQ21WT1Et?oc=5",
+   "time": "2026-11-18T07:56:03Z",
+   "location": null,
+   "id": "2211685f217c46a0"
   },
   {
    "title": "ซ้อมวิ่ง 28 กม. เกือบเอาชีวิตไม่รอด! รู้จักฮีทสโตรก ภัยร้ายที่อาจทำไตวายเฉียบพลัน",
@@ -931,20 +945,6 @@
    "location": null,
    "incident_id": "fr_news_9e80485aa84906cbe68b",
    "id": "9e80485aa84906cb"
-  },
-  {
-   "title": "น้ำท่วมในมาเลเซียทำให้ประชาชนกว่า 2,500 คนต้องอพยพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "flood",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1hNUS1VVmM5M2F6Sk9oUFE4OEpmX01jYkJ5aDlDMU4zVDJndXV1aE1oVWx3Yzg4TUd4SVlyVk9mdmhRTWVVTFFZM0EtbklhNk1xTzhjRnNQZWNraF9WOENjU2picHQ2QTBKcnUyWHRkMU1qbTVtSVRCbG9TMm54cGtuWWM3QQ?oc=5",
-   "time": "2026-11-17T05:40:54Z",
-   "location": null,
-   "id": "98fab031c31079a6"
   },
   {
    "title": "ปภ. - ออมสิน โอนเยียวยาน้ำท่วมต่อเนื่อง สะสมกว่า 1.32 หมื่นล้านบาท ครอบคลุม 56 จังหวัด วันนี้โอนเพิ่มอีก 26,813 ครัวเรือน รวม 168.67 ล้านบาท ใน 17 จังหวัด และ กทม. | สวพ.FM91",
@@ -1766,6 +1766,20 @@
    "id": "6805fb6aeaf34166"
   },
   {
+   "title": "สภาพอากาศวันพรุ่งนี้ 17 พ.ย. เตือนภาคใต้ตอนล่างระวังฝนตกหนัก-น้ำป่าไหลหลาก",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "The Bangkok Insight",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQndtUEVzajB2SkItTDJjclFIaGs4dFlsMExMN3NJblZuRldLSUJORG1WT09EQ3lENXF3OHdYUUYyT3pfWmlqcHhERVowVnJDM1ZxdVBDS2pDVGUyR25LV2pVUlcydTA1WHMtWDJ6R0txUXNVT1FMbjY4Z1c?oc=5",
+   "time": "2026-11-16T11:02:02Z",
+   "location": null,
+   "id": "c95f91b02abd9393"
+  },
+  {
    "title": "ฉะเชิงเทราน้ำท่วมคลี่คลาย บ้านเรือนแห้งเกือบทั้งหมด หลังชาวบ้านเผชิญน้ำนานเกือบ 2 เดือน",
    "summary": "",
    "category": "flooding",
@@ -1991,32 +2005,6 @@
     "precision": "epicentre"
    },
    "id": "297b5270633c3611"
-  },
-  {
-   "title": "ตรังอ่วม! ฝนตกหนัก น้ำป่าหลาก ท่วม 2 อำเภอ \"ทหาร\" ระดมกำลังเข้าช่วยเหลือ \"ชาวบ้าน\" ขนย้ายสิ่งของ",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "www.topnews.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMzVTZV93RlNZaXlhQndUdGpiZS1TSVFLM0R5YWRIVUZlcG80TXBjTjJ2cTZWVnMtNTYySWNvZllmOEtTMTI2MGhPZS1kMnM?oc=5",
-   "time": "2026-11-16T07:59:04Z",
-   "location": null,
-   "area": {
-    "code": "TH92",
-    "level": "province",
-    "name": "จ.ตรัง",
-    "bbox": [
-     99.246,
-     7.082,
-     99.949,
-     8.009
-    ]
-   },
-   "incident_id": "fr_news_2e46894685c3db7cd941",
-   "id": "2e46894685c3db7c"
   }
  ]
 }
