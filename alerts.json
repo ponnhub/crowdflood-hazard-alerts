@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T07:38:01Z",
+ "updated_at": "2026-11-18T07:50:57Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -17,13 +17,13 @@
  ],
  "counts": {
   "flood": 37,
-  "flash_flood": 13,
+  "flash_flood": 12,
   "storm": 22,
   "landslide": 4,
   "earthquake": 7,
   "wildfire": 1,
   "drought": 6,
-  "pm25": 8,
+  "pm25": 7,
   "heat": 2,
   "tsunami": 3,
   "other": 0
@@ -1096,20 +1096,6 @@
    "id": "23abe908679a4555"
   },
   {
-   "title": "กรมอุตุนิยมวิทยา. . ⚠️ เน้นย้ำภาคใต้ 18 - 22 ฝนตกหนักถึงหนักมาก ⛈️ 18 - 22 ภาคใต้ฝนตกต่อเนื่อง ฝนหนักถึงหนักมาก ในหลายพื้นที่ 🌡️ ไทยตอนบน อุณหภูมิลดลง ภาคอีสาน ลดลง 2 - 4°C ภาคเหนือ กลาง ตะวันออก กรุงเทพฯและปริมณฑล ลดลง 1 - 3°C #กรมอุตุนิยมวิทยา #พยากรณ์อา",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "high",
-   "urgent": false,
-   "official": true,
-   "source": "Facebook",
-   "source_url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxOMWpIYmVTQ0pjLTJKQmkwS2tYVG9WQ3Q3dEFDSUFmSzIzZFg3VUZ6UzhYaldkYW11dmVQTmhwTlhtMzdWTEg2aElkMGJwcTZXQWNuOHVZbzNTcnp0VFhPMEVEWmQzdVdyZEdyUDBSTmdoX2RERUtPdUNaeVZEUHdiREhlRTBoYVV2YmQ0RDduQUNtdlZVX043WDhHY2oxRGs4THdSYVJNZjN3UWRtNU5UMkwtN2V6b19HeDRMb092MDdNVHBYN0RWcjlZQW4yWS1YV01FaF9mVmVxSFRLbW9xb1RkeFRTdFk2N25QTmVQRmpCX3JLRS1QSGtEdGF2ekxXQVpPcXk4anBuTDljekFUcFBoaWVfenpfbXVaVFNpQkswaExhSmJYY1RpNWdhSERHdlFLb3dHRTZqdzl3Q1pMYmFaNVhobUhkcThKV0JveEx4T2hBZTJnT0tLWTF6Sm5wemlTX0ctUW5rV21ETFl2T2NqUTJFMi1JcDh6Y3JpNzlXSHMyWVk1bEk2R1BIWVA5OThDalQ1Q29uRkt6QnBwZXJfblJydDctMDJNamFPMHJZMXYxRlREOWU3OUVIbVFVQ05YSHAyQm9raUNFdzcwcGRTU2N1OEdSU0t2aE5hUWwtSU9CRnJXTF82dEdpeDFqbzZpQ1prS3hYVEZOSWgwZE03c3IwZFNNcWU5REpEME9lVEluTFJBOFN6Ymw1NzBhX0hnVUZKUGd1R2FJOVJUS1VXSXoyWjlTZ0t3VHdETTdkd0ttQ3k2Y19mM294OGZ6MXNPYzJzRUhQczYybGFiVTFJM08wOHh4WkswbHZCMEl5d1VVZlByeGlpZzhxTnBZb2VKemxxb1BabTZDLXNBbE1NN0JycXltcmI5TDQ0VGMwUWJuWTgwd1cwNWYwZ08xVzVHdWxBWmx5WWZPU0hyT1hMQVg0MXJxMEk0MnFsLTV2MkVSZEY0c0d6LU1VWDBNVXlmUzNoN3FKWi1IRnNwZVgyZEE5VE9OV2I5Ujh1M1JvUE4zU20wT1BHenhPZmIyY0ZmaHlVcGh2Y0FlNWZERVJUYThnYmxGem0xRHNINVJLbzZ3LUtpX016VnNkN0YzamtTc091MUVQbS11dktNdjRmUjUwSDdvaUcwTXMwUHB5T1dJSzc5dUdnMHdMSjB5T09JV3ItY19CSExVYTJEMHd3?oc=5",
-   "time": "2026-11-17T04:10:14Z",
-   "location": null,
-   "id": "d2612c28170a89ef"
-  },
-  {
    "title": "“สุริยะ” มั่นใจ “เจ้าพระยา 2” แก้น้ำท่วมระยะยาว ย้ำเร่งสร้างความเข้าใจประชาชน หลังชาวนครนายกค้านโครงการ",
    "summary": "",
    "category": "flooding",
@@ -1526,6 +1512,20 @@
     "precision": "epicentre"
    },
    "id": "1ed4a3e4a95ca709"
+  },
+  {
+   "title": "รัฐบาลจังหวัดเกียไลระดมทรัพยากรทั้งหมดเพื่อรับมือกับน้ำท่วมและฝนตกหนัก โดยเพิ่มมาตรการรักษาความปลอดภัยที่จุดตรวจตลอด 24 ชั่วโมง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dIN2k1NVFGS1FsZUhqMUxDRFRaVG9RaExXVVA4N0FpbDk0eUZoZ0UtVzdxNU5uemtuZTRadFlDbkpIRFBST1VxUGRFZEdmb3YtUXRmQVVUM2ktS2IxRlhiSnR6WFBnd1pDeGNxVHF5MWxsbzVEdUppMW5UT2lUNS1BeFp1UGtzRFFXblMzejBwUQ?oc=5",
+   "time": "2026-11-16T19:48:47Z",
+   "location": null,
+   "id": "046ff36fd856265c"
   },
   {
    "title": "ปรากฏการณ์เอลนีโญที่รุนแรงมากกำลังก่อให้เกิดความเสี่ยงต่อภัยแล้งในหลายพื้นที่",
@@ -2017,40 +2017,6 @@
    },
    "incident_id": "fr_news_2e46894685c3db7cd941",
    "id": "2e46894685c3db7c"
-  },
-  {
-   "title": "ฤดูฝุ่นมาแล้ว! ส่องแผนรัฐรับมือ ‘ฝุ่น PM2.5’ ตั้งเป้าปี’70 ลด 5-10% จะทำได้หรือไม่",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "springnews",
-   "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHZmF4c0gyeVU0UlU1NHBpWmpVcHFWaVQ0Qmc4TE96cEFyNDM1UHl4SEZ3RTZkdlB5dU9GNW5ya0p3aF80Y1NmYUpCNi1TbkJuZ2dfZ01qV3BTY0lzTTZkRlZ4ZWpHaW5uS045cWJEZw?oc=5",
-   "time": "2026-11-16T07:42:00Z",
-   "location": null,
-   "id": "e14d82b07d605440"
-  },
-  {
-   "title": "ตรังวิกฤตหนัก! ฝนถล่มน้ำป่าทะลักท่วม 2 อำเภอ รัษฎา-ห้วยยอด | The Bangkok Insight",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "LINE TODAY",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XV2w2X3kyYW54RnYtN2w4UWVncm5sV2loRmVmbXV2R0ZlWmwxeS1RT2l4ZmoyUEl5Rk8zR1FqQW9EcFczSnZOdXB5X3FOTEhXZUdNVTUyRHZwdU9fMlA1clVUWlJXMmd1SHRweE0ySGhkbjhBOW9Md3cwSjZ1UQ?oc=5",
-   "time": "2026-11-16T07:41:55Z",
-   "location": {
-    "name": "อ.รัษฎา-ห้วยยอด",
-    "lat": 7.9100576,
-    "lng": 99.5427071,
-    "precision": "district"
-   },
-   "incident_id": "fr_news_1ee8f454f829c40b0889",
-   "id": "1ee8f454f829c40b"
   }
  ]
 }
