@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T09:28:52Z",
+ "updated_at": "2026-11-18T09:35:23Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,9 +16,9 @@
   "other"
  ],
  "counts": {
-  "flood": 38,
+  "flood": 37,
   "flash_flood": 9,
-  "storm": 25,
+  "storm": 24,
   "landslide": 4,
   "earthquake": 6,
   "wildfire": 1,
@@ -677,20 +677,6 @@
    "time": "2026-11-17T20:39:17Z",
    "location": null,
    "id": "b08b090f80291dee"
-  },
-  {
-   "title": "ตำรวจในตำบลดักปลอได้ตอบสนองต่อสถานการณ์น้ำท่วมและฝนตกหนักอย่างรวดเร็ว โดยให้การสนับสนุนอย่างเข้มแข็งแก่ประชาชนในพื้นที่ชายแดน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmFxc3dSWUNWOUdQdDAyVDRHTndhend3LWhRSnF2UXJfSDNoU0M3RVlNQVVka0pGRVh0MUtEd2t6ODBsTzhmUml2N0FiS05aVGhRVkFwdzI5SWJWT2QzX2FPc2FiVVV5T3kxWTRhWXZfcjhWTUVKRXFfcVp4STFGM2tRZGh5cGhQN2hJMS1mR0NfZHZMOGtQRkhFMnl1YWViRy1SalctN1FmQUxZU0Z2UTdQYUloX29RZzBJ?oc=5",
-   "time": "2026-11-17T18:17:32Z",
-   "location": null,
-   "id": "fabe327c73926629"
   },
   {
    "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
@@ -1453,6 +1439,20 @@
    "id": "b4d509c0f262d8b1"
   },
   {
+   "title": "ใต้ฝนถล่มหนัก 19–22 พ.ย. นี้ เตือน 5 จังหวัดเสี่ยงน้ำท่วม",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "TrueID",
+   "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UEFNQlJiQjU1NTlyaWM0UnlHVnEyeWtrYk5iTFVXMkh2Q0pEOG53M0xBeUZra2JQYzJmWURGSE0ybkxZVFFVaEs5cEozTGxYc1VTMjh3?oc=5",
+   "time": "2026-11-17T02:30:00Z",
+   "location": null,
+   "id": "ce6b54bfce4519b8"
+  },
+  {
    "title": "เกิดแผ่นดินไหวรุนแรงอีกครั้งในอินโดนีเซีย และมีแรงสั่นสะเทือนตามมาไกลถึงออสเตรเลีย",
    "summary": "",
    "category": "news",
@@ -1995,58 +1995,6 @@
    "time": "2026-11-16T09:37:04Z",
    "location": null,
    "id": "73234ce3f0456c07"
-  },
-  {
-   "title": "สิ้นสุดสถานการณ์น้ำท่วมแปดริ้ว ทุกตำบลแห้งหมดแล้ว หลังแช่ขังมายาวนานเกือบ 2 เดือน",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "banmuang.co.th",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTTHZucU9GeU5BQllMQTYtTXM2UW5fRUVFb1NXd1hhT2Nqc0RCSHlHcmNSMjNKNE9mLWdBWnNNcGNPX09fWE5WWEtKUHdlcGNSLWtGXzJHT0k?oc=5",
-   "time": "2026-11-16T09:35:00Z",
-   "location": null,
-   "area": {
-    "code": "TH24",
-    "level": "province",
-    "name": "จ.ฉะเชิงเทรา",
-    "bbox": [
-     100.848,
-     13.182,
-     101.99,
-     13.977
-    ]
-   },
-   "incident_id": "fr_news_cf46e46a06a6ff5c993d",
-   "id": "cf46e46a06a6ff5c"
-  },
-  {
-   "title": "ฝนตกไม่ถึงชั่วโมง ตรังอ่วม 2 อำเภอน้ำท่วมกระทบหนัก",
-   "summary": "",
-   "category": "flooding",
-   "hazard_type": "flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "อมรินทร์ทีวี ช่อง 34",
-   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObVRVT29VLUE0QTR4RnlfTEhGTXN6MzA5b3JxZlpEZTltN01nNmxBMWZYaDQwZjVTTkszR0JLMG1TbWZaQ0JzTVB3RUdSeHM0ZnpndFdFdG5yTG1pclFBVE9iSjJXc3N5TENuWk1RMExHQi0wMlpNN3MwaF9UMUxaWmNuLUg1dHBab2NfOUhsZU4wSjFuTXNHR2hvQzJKTXVXWGVMdFBPaWdCZFJiSnN2LW5Qb0ZtMUdWbGU2UUtic1RfbGdnaXZDNEVmZWMyeFh3VVJYdGw5OHJwTEUxLXFxWXhmQk5VVjZFMkVFZ0E0WjRhMmFSc2x6TGpzWnF6R3pIaUxJX3h3YXNVQVpHWXlKTFNfRjF1UQ?oc=5",
-   "time": "2026-11-16T09:29:00Z",
-   "location": null,
-   "area": {
-    "code": "TH92",
-    "level": "province",
-    "name": "จ.ตรัง",
-    "bbox": [
-     99.246,
-     7.082,
-     99.949,
-     8.009
-    ]
-   },
-   "incident_id": "fr_news_816dfbd80fe37de69b8a",
-   "id": "816dfbd80fe37de6"
   }
  ]
 }
