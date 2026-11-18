@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T06:36:11Z",
+ "updated_at": "2026-11-18T06:54:39Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -348,7 +348,7 @@
    "severity": "high",
    "urgent": false,
    "official": true,
-   "source": "Thansettakij",
+   "source": "thansettakij",
    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jS2dKSlpuVHdKTUlqOGZjeXQwTlptR1hvUHFad1lFQ2F2aWVGNE8xV2tjSEFGajN3UVdDUEN3U0RLa3pTc0R5a1FYX3d5Yy1nUmhrREQ1ejNLYzE0?oc=5",
    "time": "2026-11-18T02:30:00Z",
    "location": null,
@@ -457,20 +457,6 @@
    },
    "incident_id": "fr_news_a89857ee9f5055b688e8",
    "id": "a89857ee9f5055b6"
-  },
-  {
-   "title": "ตำรวจในตำบลดักปลอได้ตอบสนองต่อสถานการณ์น้ำท่วมและฝนตกหนักอย่างรวดเร็ว โดยให้การสนับสนุนอย่างเข้มแข็งแก่ประชาชนในพื้นที่ชายแดน",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "storm",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "Vietnam.vn",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmFxc3dSWUNWOUdQdDAyVDRHTndhend3LWhRSnF2UXJfSDNoU0M3RVlNQVVka0pGRVh0MUtEd2t6ODBsTzhmUml2N0FiS05aVGhRVkFwdzI5SWJWT2QzX2FPc2FiVVV5T3kxWTRhWXZfcjhWTUVKRXFfcVp4STFGM2tRZGh5cGhQN2hJMS1mR0NfZHZMOGtQRkhFMnl1YWViRy1SalctN1FmQUxZU0Z2UTdQYUloX29RZzBJ?oc=5",
-   "time": "2026-11-17T18:17:32Z",
-   "location": null,
-   "id": "fabe327c73926629"
   },
   {
    "title": "สั่งด่วน! นายอำเภอภาคใต้ เตรียมพร้อมรับมือฝนตกหนัก 18-22 พ.ย. นี้",
@@ -1414,6 +1400,20 @@
    "id": "1ed4a3e4a95ca709"
   },
   {
+   "title": "รัฐบาลจังหวัดเกียไลระดมทรัพยากรทั้งหมดเพื่อรับมือกับน้ำท่วมและฝนตกหนัก โดยเพิ่มมาตรการรักษาความปลอดภัยที่จุดตรวจตลอด 24 ชั่วโมง",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "storm",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "Vietnam.vn",
+   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dIN2k1NVFGS1FsZUhqMUxDRFRaVG9RaExXVVA4N0FpbDk0eUZoZ0UtVzdxNU5uemtuZTRadFlDbkpIRFBST1VxUGRFZEdmb3YtUXRmQVVUM2ktS2IxRlhiSnR6WFBnd1pDeGNxVHF5MWxsbzVEdUppMW5UT2lUNS1BeFp1UGtzRFFXblMzejBwUQ?oc=5",
+   "time": "2026-11-16T19:48:47Z",
+   "location": null,
+   "id": "046ff36fd856265c"
+  },
+  {
    "title": "ปรากฏการณ์เอลนีโญที่รุนแรงมากกำลังก่อให้เกิดความเสี่ยงต่อภัยแล้งในหลายพื้นที่",
    "summary": "",
    "category": "news",
@@ -1792,6 +1792,20 @@
    "id": "816dfbd80fe37de6"
   },
   {
+   "title": "เตือน 15 จว. กลาง-ใต้ ระวังน้ำท่วมฉับพลัน น้ำป่าหลาก ดินโคลนถล่ม 18-22 พ.ย.นี้",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "flash_flood",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "ข่าวสด",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SNmR6NWZfelNvX0ptTGlsY1hQbU82NXUxT21OUXkyRHZjY1IybGVXRzFtS1FoWVJ6a2dCcVpQQi1ENjlMSWJjLXcwd1MteXlhVFdyUTh4enBWMUdTZkMwQ3pVMG9QQQ?oc=5",
+   "time": "2026-11-16T09:09:00Z",
+   "location": null,
+   "id": "344622549e4e7cc2"
+  },
+  {
    "title": "ตรังวิกฤต! น้ำป่าหลากทะลักท่วม 2 อำเภอ 11 หมู่บ้าน-ทหารลุยฝ่ามืดช่วยอพยพชาวบ้าน",
    "summary": "",
    "category": "flooding",
@@ -2000,32 +2014,6 @@
    "location": null,
    "incident_id": "fr_news_3ed4d00720472d7db643",
    "id": "3ed4d00720472d7d"
-  },
-  {
-   "title": "ตรังอ่วม น้ำป่าหลากท่วมกลางดึก กระทบ 2 อำเภอ 11 หมู่บ้าน หลายโรงเรียนปิดเรียน",
-   "summary": "ตรังอ่วม! ฝนกระหน่ำมวลน้ำหลากท่วมกลางดึก 2 อำเภอ 3 ตำบล […]",
-   "category": "flooding",
-   "hazard_type": "flash_flood",
-   "severity": "low",
-   "urgent": false,
-   "official": false,
-   "source": "มติชน",
-   "source_url": "https://www.matichon.co.th/region/news_5977415",
-   "time": "2026-11-16T06:43:46Z",
-   "location": null,
-   "area": {
-    "code": "TH92",
-    "level": "province",
-    "name": "จ.ตรัง",
-    "bbox": [
-     99.246,
-     7.082,
-     99.949,
-     8.009
-    ]
-   },
-   "incident_id": "fr_rss_0a228869fa2d53fa1719",
-   "id": "0a228869fa2d53fa"
   }
  ]
 }
