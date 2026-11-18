@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "areas_source": "Royal Thai Survey Department via OCHA HDX COD-AB (CC BY-IGO 3.0)",
- "updated_at": "2026-11-18T04:59:48Z",
+ "updated_at": "2026-11-18T05:06:45Z",
  "hazard_types": [
   "flood",
   "flash_flood",
@@ -16,7 +16,7 @@
   "other"
  ],
  "counts": {
-  "flood": 36,
+  "flood": 38,
   "flash_flood": 16,
   "storm": 22,
   "landslide": 4,
@@ -209,6 +209,58 @@
    "id": "258ec293ad5705ed"
   },
   {
+   "title": "ถ้าน้ำท่วม พัทลุงพร้อมไหม ?",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PeXV3VDZHeHJkUW0wSEpZVjFyQTI1ajhnZTRjVG9HTnMyVGo0dkJ2X3pMY2gwa0lxZ0lvUTJxUzFldGQwbDNEaVVzU3pCeXI0cTgwZVVlNmFZOTFaSE1LMWpLcmdjUExNQWt0SzdXN1dOZHA0?oc=5",
+   "time": "2026-11-18T04:55:29Z",
+   "location": null,
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   },
+   "incident_id": "fr_news_e63c17a2ca2374d46687",
+   "id": "e63c17a2ca2374d4"
+  },
+  {
+   "title": "สถานีประชาชน - ถ้าน้ำท่วม พัทลุงพร้อมไหม",
+   "summary": "",
+   "category": "flooding",
+   "hazard_type": "flood",
+   "severity": "low",
+   "urgent": false,
+   "official": false,
+   "source": "Thai PBS",
+   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlRzNThIUkhQNkFEcUFKT05STnZMdmltd0IxQzFkODFnNmxpamphRWpySU5INmk5SEx2UVVFbXVVYV9zclN0UWdYUmZXOGxBZ1dtX0ljbTBBTXV5ak8xalg1b3FvYjg?oc=5",
+   "time": "2026-11-18T04:55:27Z",
+   "location": null,
+   "area": {
+    "code": "TH93",
+    "level": "province",
+    "name": "จ.พัทลุง",
+    "bbox": [
+     99.738,
+     7.102,
+     100.428,
+     7.902
+    ]
+   },
+   "incident_id": "fr_news_4f03f7df4eccb6f2e048",
+   "id": "4f03f7df4eccb6f2"
+  },
+  {
    "title": "หาดใหญ่เตรียมพร้อมที่จอดรถ อพยพกลุ่มเปราะบาง รับมือฝนตกหนัก 19-22 พ.ย. หวั่นเกิดน้ำท่วม",
    "summary": "",
    "category": "flooding",
@@ -287,6 +339,31 @@
    "time": "2026-11-18T02:30:00Z",
    "location": null,
    "id": "8603763abd6077e3"
+  },
+  {
+   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
+   "summary": "",
+   "category": "news",
+   "hazard_type": "pm25",
+   "severity": "medium",
+   "urgent": false,
+   "official": false,
+   "source": "thestandard.co",
+   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
+   "time": "2026-11-18T02:12:02Z",
+   "location": null,
+   "id": "2f86748662fb0155",
+   "area": {
+    "code": "TH10",
+    "level": "province",
+    "name": "กรุงเทพมหานคร",
+    "bbox": [
+     100.328,
+     13.493,
+     100.939,
+     13.955
+    ]
+   }
   },
   {
    "title": "เตือนใต้ฝนหนักระวังน้ำท่วมฉับพลัน ไทยตอนบนรอรับลมหนาว",
@@ -423,31 +500,6 @@
    "time": "2026-11-17T12:00:13Z",
    "location": null,
    "id": "9a6efdc71ae25bd9"
-  },
-  {
-   "title": "กทม. เฝ้าระวัง ค่าฝุ่น PM2.5 เช้านี้มีแนวโน้มเพิ่มขึ้น ‘ลาดกระบัง’ แตะระดับสีส้ม เริ่มกระทบสุขภาพ",
-   "summary": "",
-   "category": "news",
-   "hazard_type": "pm25",
-   "severity": "medium",
-   "urgent": false,
-   "official": false,
-   "source": "thestandard.co",
-   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNURDTV8yOHF3NFJaVnRWMElYS0V5NUhnampsQm5XeHFVeEJRSHBENmdjZUJzZ1RYSlE3LU0zVnhkUUo4YUdRNDZnQVJDX0tUSmNHRE5QVHBET3E5dmFnZlJqbWw1aHV2Ym9OT0pn?oc=5",
-   "time": "2026-11-17T11:34:58Z",
-   "location": null,
-   "id": "2f86748662fb0155",
-   "area": {
-    "code": "TH10",
-    "level": "province",
-    "name": "กรุงเทพมหานคร",
-    "bbox": [
-     100.328,
-     13.493,
-     100.939,
-     13.955
-    ]
-   }
   },
   {
    "title": "ระทึก ล้อรถพ่วงหลุด กลิ้งพุ่งชนกระบะจอดติดไฟแดงพัง คนขับไม่รู้ตัวขับไปต่ออีก 12 กม.",
