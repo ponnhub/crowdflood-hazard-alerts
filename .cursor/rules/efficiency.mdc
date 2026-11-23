@@ -1,0 +1,11 @@
+---
+description: Token/quota efficiency rules (shared from Projects/_cursor-shared)
+alwaysApply: true
+---
+
+# Efficiency rules
+
+- **Context discipline:** Read only files directly relevant to the task. Do not scan the whole project unless truly necessary; prefer targeted search (grep/semantic search) over opening many files.
+- **Plan before edit:** For changes touching multiple files, first state a short plan (max 5 lines), then edit.
+- **Minimal diff:** Change only what needs changing. Never rewrite whole files repeatedly; use small targeted edits.
+- **Concise output:** Answer briefly and to the point. Prefer working code over long explanations; skip recaps and filler.
